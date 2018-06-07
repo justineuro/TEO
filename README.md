@@ -1,5 +1,5 @@
 # Lernu!
-Jes, lernu Esperanton pri Amo, Pa&#x109;o, kay Unueco! (_Yes, learn Esperanto for Love, Peace, and Unity!_)
+Jes, lernu Esperanton pri Amo, Paco, kay Unueco! (_Yes, learn Esperanto for Love, Peace, and Unity!_)
 
 ## TEO (The Esperanto Teacher)
 
