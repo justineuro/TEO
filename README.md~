@@ -1,11 +1,11 @@
 # Lernu!
-Jes, lernu Esperanton pri Amo, Pa&#x109;o, kay Unueco! (_Yes, learn Esperanto for Love, Peace, and Unity!_)
+Jes, lernu Esperanton pri Amo, Pa&#x109;o, kay Unueco! (_Yes, learn Esperanto for Love, Peache, and Unity!_)
 
 ## TEO (The Esperanto Teacher)
 
 This project is an enhancement of the HTML version of the book _The Esperanto Tacher, A Simple Course for Non-Grammarians (10th ed.)_ (TEO) by Helen Fryer and is an example of how to enhance a [Project Gutenberg](http://www.gutenberg.net/) material.  
 
-The enhanced material can be accessed at [https://justineuro.github.io/TEO/docs](https://justineuro.github.io/TEO/docs) (includes TEO and additional execises) and was generated using [Rmarkdown](http://rmarkdown.rstudio.com).  An Android app will soon be made available.
+The enhanced material can be accessed at [https://justineuro.github.io/TEO](https://justineuro.github.io/TEO) (includes TEO and additional execises) and was generated using [Rmarkdown](http://rmarkdown.rstudio.com).  An Android app will soon be made available.
 
 ## Acknowledgements
 Many thanks to [Project Gutenberg](http://www.gutenberg.net/) for TEO; the [W3C Consortium](http://www.w3.org/html/) for [HTML](https://en.wikipedia.org/wiki/HTML); Brendan Eich for [Javascript](https://en.wikipedia.org/wiki/JavaScript); Brian Fox for [Bash](https://www.gnu.org/software/bash/); Ross Ihaka, Robert Gentleman, the rest of the R Core Team, and [CRAN](https://cran.r-project.org/) for the [R software](https://www.R-project.org/); [Rstudio, Inc.](https://www.rstudio.com/) for   [Rstudio](https://en.wikipedia.org/wiki/RStudio); J.J. Allaire, Yihui Xie, et al. for [Rmarkdown](http://rmarkdown.rstudio.com) and its site-rendering capabilities; [Bootstrap, Inc.](http://getbootstrap.com) and [Bootstrap Live Customizer](https://www.bootstrap-live-customizer.com) for the green cerulean-derived style sheet themes; [Google](https://www.google.com) for the [Android OS](https://en.wikipedia.org/wiki/Android_(operating_system)) and [Android Studio](https://developer.android.com/studio/index.html).  Ditto to Machtelt Garrels for the book [Bash Guide for Beginners](http://tldp.org/LDP/Bash-Beginners-Guide/html/Bash-Beginners-Guide.html/), Vivek Gite for the book [Linux Script Shell Tutorial](http://www.freeos.com/guides/lsst/), and Steve Parker for the [Unix/Linux Shell Cheatsheet](http://steve-parker.org/sh/cheatsheet.pdf).  Much thanks, too, to the [Linux Mint](https://www.linuxmint.com/) Project for the Linux Mint Cinnamon 18.2 (Sonya) GNU/Linux OS, and [GitHub](https://github.com/) for its generosity in providing space for [this project](https://github.com/justineuro/mtap/).   
