@@ -158,7 +158,6 @@ $(document).ready(function () {
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
-      <a class="navbar-brand" href="https://uea.org"><img alt="eo flag" style="margin-top: -3px" src="42px-Fla.png"></img></a>
       <a class="navbar-brand" href="index.html">The Esperanto Teacher</a>
     </div>
     <div id="navbar" class="navbar-collapse collapse">
