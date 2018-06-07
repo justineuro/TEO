@@ -1,0 +1,85 @@
+---
+title: "" #"Lesson 33 - Antaŭ. Post."
+author: "" #"JLAUro"
+date: "" #"May 21, 2017"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+<br/><br/>
+
+<!-- =============================071.png============================ -->
+<center><b>LESSON 33.</b></center>
+
+<center><b>Anta&#365;. Post.</b></center>
+
+<p><b>Anta&#365;</b> means <i>before</i> (time), <i>Ni revenos
+anta&#365; Mardo</i>, We shall return before Tuesday, <i>in front
+of</i> (place), <i>Anta&#365; la domo</i>, Before the house.
+Before verbs "<i>anta&#365; ol</i>" is used, as <i>Lavu vin,
+anta&#365; ol man&#285;i</i>, Wash (yourself) before eating.</p>
+
+<p><b>Post</b> means <i>after</i> (time), <i>behind</i>
+(place).</p>
+
+<p>Care must be taken in using <i>anta&#365;</i> and <i>post</i>
+to arrange the sentence so that there can be no doubt as to
+whether time or place is referred to. "He came before his
+father," in place or position, <i>i.e.</i>, in front of his
+father, is <i>Li venis anta&#365; sia patro</i>, but if <i>before
+in time</i> is meant, it must be <i>Li venis anta&#365; ol lia
+patro</i> (<i>venis</i>). <i>Li venis post sia patro</i> means He
+came behind his father; if we mean "after his father came" we may
+use <i>kiam</i>, and say <i>Li venis post, kiam lia patro
+venis</i>.</p>
+
+<p>To express "time past," "ago," <i>anta&#365;</i> is used, as
+<i>Anta&#365; tri tagoj</i>, Three days ago. <i>Anta&#365;
+longe</i>, A long time ago. <i>Anta&#365; nelonge</i>, Not long
+ago.</p>
+
+<p>To express "in" a time to come <i>post</i> is used, as I will
+come in three days, <i>Mi venos post tri tagoj</i>. <i>Post
+nelonge</i>, In a short time.</p>
+
+<center>
+<table cellspacing="8">
+<caption><b>Vocabulary.</b></caption>
+
+<tr>
+<td nowrap valign="top"><i>pre&#285;ejo</i>, church (place of
+prayer).<br>
+ <i>ordo</i>, order.<br>
+ <i>ri&#265;eco</i>, wealth.<br>
+ <i>pa&#349;o</i>, step.<br>
+ <i>pa&#285;o</i>, page.</td>
+<td nowrap valign="top"><i>vek-</i>, waken (someone).<br>
+ <i>bala-</i>, sweep.<br>
+ <i>ra&#365;ka</i>, hoarse.<br>
+ <i>avida</i>, eager, greedy.<br>
+ <i>ofte</i>, often.<br>
+ <i>publike</i>, publicly.</td>
+</tr>
+</table>
+</center>
+
+<!-- =============================072.png============================ -->
+<p>Anta&#365; ili staris pre&#285;ejo. Anta&#365; tiuj homoj
+estas inde paroli. Ofte en la nokto &#349;i staris anta&#365; la
+fenestro. Mi estas peka anta&#365; vi. Anta&#365; unu horo.
+Anta&#365; mallonge li veki&#285;is tre ra&#365;ka. Anta&#365;
+nelonge oni vendis la domon publike. Ne iru, anta&#365; ol vi
+scias, ke &#265;io estas en ordo. Mi devos lasi ilin elbalai la
+&#265;ambron, anta&#365; ol ni komencos danci. Mi estis tie en la
+anta&#365;a jaro. Anta&#365;e mi neniam pensis pri ri&#265;eco.
+Estis al &#349;i, kiel la sor&#265;istino anta&#365;diris.</p>
+
+<p>Li restis post la pordo. Iom post iom. &#348;i komencis avide
+legi pa&#285;on post pa&#285;o. &#348;i rigardis post lin kun
+rideto. Post kelkaj minutoj levi&#285;is la suno. &#348;i
+&#309;etis siajn brakojn posten kaj anta&#365;en. Ni restos
+kelkajn semajnojn en Parizo; poste ni voja&#285;os en
+Germanujon.</p>

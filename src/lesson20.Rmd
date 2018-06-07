@@ -1,0 +1,512 @@
+---
+title: "" #"Lesson 20 - Words"
+author: "" #"JLAUro"
+date: "" #"May 21, 2017"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+<br/><br/>
+
+<!-- =============================048.png============================ -->
+<center><b>LESSON 20.</b></center>
+
+<p>The words <i>ia, tia; kial, tial; kiam, &#265;iam, neniam;
+kie, kiel, tiel; io, kio, tio, &#265;io, nenio; kiu, &#265;iu,
+neniu</i>, have already been met with. They belong to a series
+whose use will best be seen from the following
+examples:&mdash;</p>
+
+<p><b>ia</b> denotes kind or quality. Kia <i>floro estas la plej
+bela?</i> Ia <i>kaj</i> &#265;ia <i>floro estas bela</i>, nenia
+<i>estas malbela. Mi admiras la rozon;</i> tia <i>floro la plej
+pla&#265;as al mi.</i> <i>What (kind of)</i> flower is the most
+beautiful? <i>Any kind</i> and <i>every kind</i> of flower is
+beautiful, <i>no kind</i> is ugly. I admire the rose, <i>that
+kind of</i> flower pleases me the most.</p>
+
+<p><b>ial</b>, motive, reason. Kial <i>li iros en Parizon? Mi ne
+scias;</i> ial <i>li foriros, sed</i> &#265;ial <i>estus pli bone
+resti en Londono. Li deziras foriri</i>, tial <i>li foriros</i>.
+<i>Why</i> is he going (will he go) to Paris? I know not; <i>for
+some reason</i> he is going, but <i>for every reason</i> (on
+every account) it would be better to remain in London. He wishes
+to go, <i>therefore</i> (for that reason) he will go.</p>
+
+<p><b>iam</b>, time. Kiam <i>vi venos min viziti?</i> Iam <i>mi
+venos</i>, kiam <i>mi havos libertempon; vi</i> &#265;iam
+<i>havas libertempon, mi</i> neniam. <i>Postmorga&#365; estos
+festo</i>, tiam <i>mi venos.</i> <i>When</i> will you come to
+visit me? <i>Sometime</i> I will come, <i>when</i> (at what time)
+I shall have a holiday; you <i>always</i> (at all times) have a
+holiday, I <i>never</i> (at no time). (The day) after to-morrow
+will be a festival (a general holiday); I will come <i>then</i>
+(at that time).</p>
+
+<p><b>ie</b>, place. Kie <i>estas mia &#265;apelo? &#284;i devas
+esti</i> ie, <i>sed mi ser&#265;is &#285;in</i> &#265;ie,
+<i>kaj</i> nenie<i>mi povas trovi &#285;in</i>. <i>Ha, nun mi
+ekvidas &#285;in</i> tie. <i>Where</i> is my hat? It must be
+<i>somewhere</i>, but I have looked for it <i>everywhere</i>, and
+<i>nowhere</i> can I find it. Ha, now I see it <i>there</i>.</p>
+
+<!-- =============================049.png============================ -->
+<p><b>iel</b>, manner. Kiel <i>vi faros tion &#265;i? Mi ne
+scias; mi</i> &#265;iel <i>provis &#285;in fari, sed mi</i>
+neniel <i>sukcesis. Johano sukcesis</i> iel; <i>eble li faris
+&#285;in</i> tiel. <i>How</i> will you do this? I do not know; I
+have tried in every way to do it, but I have <i>in no way</i>
+(not at all) succeeded. John succeeded <i>in some way</i>
+(somehow); perhaps he did it <i>so (in such a way</i>).</p>
+
+<p><b>ies</b>, possession. Kies <i>devo estas tio &#265;i? Eble
+&#285;i estas</i> ties; <i>sendube &#285;i estas</i> ies.
+&#264;ies <i>devo estas</i> nenies. <i>Whose</i> duty is this?
+Perhaps it is <i>that one's (person's)</i>; doubtless it is
+<i>somebody's. Everybody's</i> duty is <i>nobody's.</i></p>
+
+<p><b>io</b>, thing. Kio <i>malpla&#265;as al vi? Nun</i> nenio
+<i>malpla&#265;as al mi</i>, &#265;io <i>estas bona. Anta&#365;
+tri tagoj</i> io <i>tre malpla&#265;is al mi, sed mi ne parolas
+pri</i> tio <i>nun. What</i> displeases you? Now <i>nothing</i>
+displeases me, <i>all</i> is well. Three days ago
+<i>something</i> greatly displeased me, but I am not speaking
+about <i>that</i> now.</p>
+
+<p><b>iom</b>, quantity. Kiom <i>da mono vi bezonas? Mi havas</i>
+tiom, <i>mi povas prunti al vi</i> iom, <i>sed ne</i> &#265;iom.
+<i>Se mi pruntus al vi</i> &#265;iom, <i>mi mem havus</i> neniom.
+<i>How much</i> money do you need ? I have <i>so much (that
+quantity)</i>, I can lend you <i>some</i>, but not <i>all</i>. If
+I were to lend you <i>all</i>, I myself should have
+<i>none</i>.</p>
+
+<p><b>iu</b> denotes individuality, person, or thing specified.
+Kiu <i>estis &#265;e la balo?</i> &#264;iu, kiu <i>estis
+invitita, estis tie</i>, neniu <i>forestis</i>. Iu, kiun <i>mi
+mem ne konas, venis kun</i> tiu kiu <i>vizitis vin hierau</i>.
+<i>Who</i> was at the ball? <i>Everybody who</i> had been invited
+was there, <i>nobody</i> was absent. <i>Somebody, whom</i> I
+myself do not know, came with <i>that person who</i> visited you
+yesterday.</p>
+
+<p>It will be seen from these examples that the words beginning
+with <b>K</b> either <i>ask questions</i> or <i>refer</i> to some
+person or thing before mentioned. Those beginning with <b>T</b>
+point to a <i>definite</i> time, place, etc. Those with
+<b>&#264;</b> signify <i>each</i> or <i>every</i>, and in the
+plural <i>all</i>. Those without a letter prefixed are
+<i>indefinite</i>, meaning some or any; and those with
+<b>nen-</b> are <i>negative</i>, meaning <i>no, none</i>.</p>
+
+<!-- =============================050.png============================ -->
+<p>The words ending in "<i>ia</i>" and those in "<i>iu</i>" can
+take the plural <i>j</i> and accusative <i>n</i>.</p>
+
+<p>The words in <i>io</i> take <i>n</i>, but the sense does not
+permit of their taking <i>j</i>.</p>
+
+<p>The words in <i>ie</i> take the <i>n</i> denoting
+direction.</p>
+
+<p>The word <i>&#265;i</i>, signifying nearness, is used with the
+<i>T</i> series (words meaning <i>that</i>), to denote the one
+near <i>i.e., this</i>, as <i>Tio &#265;i</i>, this thing; <i>Tiu
+&#265;i</i>, this person; <i>Tie &#265;i</i>, or, <i>&#265;i
+tie</i>, here, etc.</p>
+
+<p>The word <i>ajn</i>, ever, is used with the <i>K</i> series to
+give a more inclusive and wider meaning, as <i>Kio ajn</i>,
+whatever; <i>Kiu ajn</i>, whoever; <i>Kiam ajn</i>, whenever;
+<i>Kiom ajn</i>, however much.</p>
+
+<p>Comparisons of equality are made with the words&mdash;</p>
+
+<p><b>tiel ... kiel</b>, as <i>Vi estas</i> tiel <i>forta</i>,
+kiel <i>mi</i>, You are <i>as</i> strong <i>as</i> I.</p>
+
+<p><b>tia ... kia</b>, as Tia <i>domo</i>, kia <i>tiu, estas
+malofta, Such</i> a house <i>as</i> that is rare.</p>
+
+<p><b>sama ... kia</b>, as <i>Mia bastono estas</i> tia sama, kia
+<i>la via</i>, My stick is <i>the same as</i> yours.</p>
+
+<p><b>sama ... kiel</b>, as <i>&#284;ia uzado estas</i> tia sama,
+kiel <i>en la aliaj lingvoj</i>, Its use is <i>the same as</i> in
+the other languages. <i>Vi &#265;iam laboradas al tiu</i> sama
+<i>celo</i>, kiel <i>mi</i>, You are always working towards that
+<i>same</i> end (aim) <i>as</i> I.</p>
+
+<p>Any of the above series of words whose sense admits of it can
+be used as adjectives, adverbs, etc., and in combination with
+prefixes, suffixes, or other words, as <i>&#265;iama</i>,
+continual, eternal; <i>tiea</i>, of that place. <i>Kioma</i> is
+used for asking the time, as <i>Kioma horo estas</i>? What time
+is it?</p>
+
+<!-- =============================051.png============================ -->
+<!-- =============================052.png============================ -->
+<center>
+<table border="1">
+<caption><b>CORRELATIVE WORDS.</b></caption>
+
+<tr>
+<td width="20%" align="center" valign="middle"> </td>
+<td width="16%" align="center" valign="top"><b>*</b><br>
+INDEFINITE<br>
+<i>Some, any.</i> </td>
+<td width="16%" align="center" valign="top"><b>K</b><br>
+QUESTIONING<br>
+RELATIVE.<br>
+<i>What, which.</i> </td>
+<td width="16%" align="center" valign="top"><b>T</b><br>
+DEFINITE.<br>
+<i>That.</i> </td>
+<td width="16%" align="center" valign="top"><b>&#264;</b><br>
+INCLUSIVE.<br>
+<i>Each, every, all.</i> </td>
+<td width="16%" align="center" valign="top"><b>Nen-</b><br>
+NEGATIVE.<br>
+<i>No, none.</i> </td>
+</tr>
+
+<tr>
+<td width="20%" align="center" valign="middle">QUALITY<br>
+Kind of</td>
+<td width="16%" align="center" valign="top"><b>Ia</b><br>
+Some kind<br>
+Any kind</td>
+<td width="16%" align="center" valign="top"><b>Kia</b><br>
+What kind</td>
+<td width="16%" align="center" valign="top"><b>Tia</b><br>
+That kind<br>
+Such</td>
+<td width="16%" align="center" valign="top"><b>&#264;ia</b><br>
+Each kind<br>
+Every kind</td>
+<td width="16%" align="center" valign="top"><b>Nenia</b><br>
+No kind</td>
+</tr>
+
+<tr>
+<td width="20%" align="center" valign="middle">MOTIVE<br>
+Reason<br>
+Purpose</td>
+<td width="16%" align="center" valign="top"><b>Ial</b><br>
+For some reason<br>
+For any reason</td>
+<td width="16%" align="center" valign="top"><b>Kial</b><br>
+For what reason<br>
+Why</td>
+<td width="16%" align="center" valign="top"><b>Tial</b><br>
+For that reason<br>
+Therefore</td>
+<td width="16%" align="center" valign="top"><b>&#264;ial</b><br>
+For each reason<br>
+For every reason</td>
+<td width="16%" align="center" valign="top"><b>Nenial</b><br>
+For no reason</td>
+</tr>
+
+<tr>
+<td width="20%" align="center" valign="middle">TIME</td>
+<td width="16%" align="center" valign="top"><b>Iam</b><br>
+Sometime<br>
+Any time</td>
+<td width="16%" align="center" valign="top"><b>Kiam</b><br>
+At what time<br>
+When</td>
+<td width="16%" align="center" valign="top"><b>Tiam</b><br>
+At that time<br>
+Then</td>
+<td width="16%" align="center" valign="top"><b>&#264;iam</b><br>
+Each time<br>
+Every time<br>
+Always</td>
+<td width="16%" align="center" valign="top"><b>Neniam</b><br>
+At no time<br>
+Never</td>
+</tr>
+
+<tr>
+<td width="20%" align="center" valign="middle">PLACE</td>
+<td width="16%" align="center" valign="top"><b>Ie</b><br>
+In some place<br>
+Somewhere<br>
+Anywhere</td>
+<td width="16%" align="center" valign="top"><b>Kie</b><br>
+At what place<br>
+Where</td>
+<td width="16%" align="center" valign="top"><b>Tie</b><br>
+At that place<br>
+There</td>
+<td width="16%" align="center" valign="top"><b>&#264;ie</b><br>
+At each place<br>
+At every place<br>
+Everywhere</td>
+<td width="16%" align="center" valign="top"><b>Nenie</b><br>
+At no place<br>
+Nowhere</td>
+</tr>
+
+<tr>
+<td width="20%" align="center" valign="middle">MANNER</td>
+<td width="16%" align="center" valign="top"><b>Iel</b><br>
+In some way<br>
+In any way<br>
+Somehow, anyhow</td>
+<td width="16%" align="center" valign="top"><b>Kiel</b><br>
+In what way<br>
+How<br>
+As, like</td>
+<td width="16%" align="center" valign="top"><b>Tiel</b><br>
+In that way<br>
+So</td>
+<td width="16%" align="center" valign="top"><b>&#264;iel</b><br>
+In each way<br>
+In every way</td>
+<td width="16%" align="center" valign="top"><b>Neniel</b><br>
+In no way<br>
+Nohow</td>
+</tr>
+
+<tr>
+<td width="20%" align="center" valign="middle">POSSESSION</td>
+<td width="16%" align="center" valign="top"><b>Ies</b><br>
+Someone's<br>
+Anyone's</td>
+<td width="16%" align="center" valign="top"><b>Kies</b><br>
+What person's<br>
+Whose</td>
+<td width="16%" align="center" valign="top"><b>Ties</b><br>
+That one's</td>
+<td width="16%" align="center" valign="top"><b>&#264;ies</b><br>
+Each one's<br>
+Everyone's</td>
+<td width="16%" align="center" valign="top"><b>Nenies</b><br>
+No one's</td>
+</tr>
+
+<tr>
+<td width="20%" align="center" valign="middle">THING</td>
+<td width="16%" align="center" valign="top"><b>Io</b><br>
+Something<br>
+Anything</td>
+<td width="16%" align="center" valign="top"><b>Kio</b><br>
+What thing<br>
+What</td>
+<td width="16%" align="center" valign="top"><b>Tio</b><br>
+That thing</td>
+<td width="16%" align="center" valign="top"><b>&#264;io</b><br>
+Everything</td>
+<td width="16%" align="center" valign="top"><b>Nenio</b><br>
+Nothing</td>
+</tr>
+
+<tr>
+<td width="20%" align="center" valign="middle">QUANTITY</td>
+<td width="16%" align="center" valign="top"><b>Iom</b><br>
+Some (of the quantity)</td>
+<td width="16%" align="center" valign="top"><b>Kiom</b><br>
+What quantity<br>
+How much</td>
+<td width="16%" align="center" valign="top"><b>Tiom</b><br>
+That quantity<br>
+So much</td>
+<td width="16%" align="center" valign="top"><b>&#264;iom</b><br>
+Every quantity<br>
+All of the quantity</td>
+<td width="16%" align="center" valign="top"><b>Neniom</b><br>
+None of the quantity</td>
+</tr>
+
+<tr>
+<td width="20%" align="center" valign="middle">INDIVIDUALITY</td>
+<td width="16%" align="center" valign="top"><b>Iu</b><br>
+Someone<br>
+Anyone</td>
+<td width="16%" align="center" valign="top"><b>Kiu</b><br>
+What person<br>
+Which thing<br>
+Who, Which</td>
+<td width="16%" align="center" valign="top"><b>Tiu</b><br>
+That person<br>
+That (specified)<br>
+thing</td>
+<td width="16%" align="center" valign="top"><b>&#264;iu</b><br>
+Each person<br>
+Everyone<br>
+<i>&#264;iuj</i> = all, all the...</td>
+<td width="16%" align="center" valign="top"><b>Neniu</b><br>
+No one<br>
+Nobody</td>
+</tr>
+</table>
+</center>
+
+<!-- =============================053.png============================ -->
+<center>
+<table cellspacing="8">
+<caption><b>Vocabulary.</b></caption>
+
+<tr>
+<td nowrap valign="top"><i>ankro</i>, anchor.<br>
+ <i>maniero</i>, manner, way.<br>
+ <i>ripro&#265;o</i>, reproach.<br>
+ <i>konscienco</i>, conscience.<br>
+ <i>propono</i>, proposal, offer.<br>
+ <i>rando</i>, edge.<br>
+ <i>&#349;ipo</i>, ship.<br>
+ <i>dubo</i>, doubt.<br>
+ <i>demando</i>, question.<br>
+ <i>admir-</i>, admire.<br>
+ <i>pla&#265;-</i>, be pleasing.<br>
+ <i>supoz-</i>, suppose.</td>
+<td nowrap valign="top"><i>prov-</i>, attempt, try.<br>
+ <i>sukces-</i>, succeed.<br>
+ <i>perd-</i>, lose.<br>
+ <i>merit-</i>, deserve.<br>
+ <i>kompren-</i>, understand.<br>
+ <i>libera</i>, free.<br>
+ <i>certa</i>, certain, sure.<br>
+ <i>utila</i>, useful.<br>
+ <i>fremda</i>, strange.<br>
+ <i>necesa</i>, necessary.<br>
+ <i>ekster</i>, beyond, outside.</td>
+</tr>
+</table>
+</center>
+
+<p><b>Ia.</b> La maro estas tie pli profunda, ol povas atingi ia
+ankro. En ia maniero. Sen ia ripro&#265;o de konscienco. Mi
+scias, en kia loko mi certe lin trovos. Kia estas la vetero? Kian
+malbonon mi al vi faris? Tiamaniere li faris &#265;ion. Li
+invitis lin veni en tian kaj tian lokon. Ne &#265;ia birdo
+kantas. Ekster &#265;ia dubo. Nenia homo meritas tian punon. Tiaj
+libroj estas malutilaj. Iafoje li vizitas nin.</p>
+
+<p><b>Ial.</b> Ial li ne povis dormi. Kial vi ne respondas al mi?
+Mi ne komprenis vian demandon, tial mi ne respondis. La homoj ne
+komprenas unu la alian, kaj tial ili tenas sin fremde. &#264;ial
+tio estas la plej bona.</p>
+
+<p><b>Iam.</b> Mi iam vin amis. Kio vivas, necese devas iam
+morti. Kiam vi foriros? En la luna nokto, kiam &#265;iuj dormis,
+tiam &#349;i sidis sur la rando de la &#349;ipo. Estu por
+&#265;iam benata! &#348;i anta&#365;e neniam vidis hundon.</p>
+
+<!-- =============================054.png============================ -->
+<center>
+<table cellspacing="8">
+<caption><b>Vocabulary 20a.</b></caption>
+
+<tr>
+<td nowrap valign="top"><i>mono</i>, money.<br>
+ <i>monujo</i>, purse.<br>
+ <i>juneco</i>, youth.<br>
+ <i>reto</i>, net.<br>
+ <i>ideo</i>, idea.<br>
+ <i>gajno</i>, gain.<br>
+ <i>ta&#365;g-</i>, be fit, suitable.<br>
+ <i>fart-</i>, be, fare (as to health).</td>
+<td nowrap valign="top"><i>monto</i>, mountain.<br>
+ <i>ganto</i>, glove.<br>
+ <i>opinio</i>, opinion.<br>
+ <i>vo&#265;o</i>, voice.<br>
+ <i>prezid-</i>, preside.<br>
+ <i>alpren-</i>, adopt.<br>
+ <i>stranga</i>, strange, curious.<br>
+ <i>komprenebla</i>, understandable.<br>
+ <i>subita</i>, sudden.</td>
+</tr>
+</table>
+</center>
+
+<p><b>Ie.</b> Kie estas la knaboj? Kien vi iris? Mi restas tie
+&#265;i. Li perdis sian monujon ie en la urbo, sed kie li perdis
+&#285;in, li ne scias. Mi volonte el tie venis tien &#265;i. Li
+petis &#349;in, ke &#349;i diru al li, de kie si venas.
+[Footnote: See note in Lesson 17.] Por la juneco &#265;ie staras
+retoj. &#264;ie estas floroj, kaj nenie oni povas trovi pli
+belajn.</p>
+
+<p><b>Iel.</b> Kiel bela! &#264;u mi ta&#365;gas kiel re&#285;o?
+Tiel fini&#285;is la feli&#265;a tago. Ili brilis kiel diamantoj.
+Kiel vi fartas? Iel li malkomprenis min. Mia edzino pensis tiel
+same, kiel mi. Mi neniel povas kompreni, kion vi diras. Tre
+stranga kaj neniel komprenebla! Mi elektis lin kiel prezidanto.
+Mi elektis lin kiel prezidanto<i>n</i>.</p>
+
+<p><b>Ies.</b> Kies ganto tiu &#265;i estas? Mi neniam alprenas
+ties opinion. Subite &#349;i eka&#365;dis ies fortan malagrablan
+vo&#265;on. &#264;ies ideo estas diversa. Bona amiko, sen kies
+helpo li neniam ekvidus tiun &#265;i landon. Ies perdo ne estas
+&#265;iam ies gajno. Ies perdo estas ofte nenies gajno.</p>
+
+<center>
+<table cellspacing="8">
+<caption><b>Vocabulary 20b.</b></caption>
+
+<tr>
+<td nowrap valign="top"><i>ornamo</i>, ornament.<br>
+ <i>pupilo</i>, pupil (of eye).<br>
+ <i>centimo</i>, centime.<br>
+ <i>forto</i>, strength, power.<br>
+ <i>nesto</i>, nest.<br>
+ <i>Fortuno</i>, fortune.<br>
+ <i>funto</i>, pound (weight or money).<br>
+ <i>lango</i>, tongue.<br>
+ <i>gusto</i>, taste.<br>
+ <i>okulo</i>, eye.</td>
+<td nowrap valign="top"><i>&#293;ino</i>, Chinese.<br>
+ <i>decido</i>, decision.<br>
+ <i>ced-</i>, give up, yield, cede.<br>
+ <i>forlas-</i>, forsake, leave.<br>
+ <i>prudenta</i>, reasonable, prudent.<br>
+ <i>firma</i>, firm, stable.<br>
+ <i>sterlinga</i>, sterling.<br>
+ <i>kontra&#365;</i>, against, opposite.<br>
+ <i>pro</i>, for, owing to.</td>
+</tr>
+</table>
+</center>
+
+<!-- =============================055.png============================ -->
+<p><b>Io.</b> Mi sentas, ke io okazas. Neniam mi ion al vi donis.
+Mi volas fari al vi ion bonan. Kio tio &#265;i estas? Kia ornamo
+tiu &#265;i estas? Kion mi vidas? Tio &#265;i estas &#265;io, pri
+kio mi parolis. Mi nenion cedos al vi. Nenion faru kontra&#365;
+la patrino. Anta&#365; &#265;io estu fidela al vi mem. &#348;i
+eksentis ion tian, kion &#349;i mem komence ne povas
+kompreni.</p>
+
+<p><b>Iom.</b> &#348;i parolis iom kolere. La pupiloj de la
+okuloj iom post iom malgrandi&#285;is. Kiu estas tiom
+senprudenta, ke li povas &#285;in kredi? Kiom da mono vi havas?
+Mi havas neniom. Donu al mi tiom da akvo, kiom da vino.</p>
+
+<p><b>Iu.</b> Iu venas; kiu &#285;i estas? &#264;u iu
+kura&#285;us tion fari? &#264;iu penis sin savi, kiel li povis.
+Lingvo, en kiu neniu nin komprenos. Neniu el ili povis savi la
+dronanton. Li al neniu helpis iam e&#265; per unu centimo. Ni
+iros &#265;iuj kune. Mi konas neniun en tiu urbo. Tio &#265;i
+estas super &#265;iuj homaj fortoj.</p>
+
+<center><b>20c.</b></center>
+
+<!--
+That sure does look like 20o in the scan,
+but 20c makes sense (a... b... o?),
+and matches the Key to this Exercise.
+-->
+<p>De kie mi veturas, kien kaj pro kio, mi nur povas respondi: mi
+ne scias. Oni petis lin atendi iom kun lia forveturo. Tiuj
+&#265;i nestoj ofte estas pli grandaj, ol la dometoj de la tieaj
+homoj. Li forveturis kun firma decido forlasi por &#265;iam tiun
+&#265;i sendankan landon. Se iu tion vidus, li malbenus la
+Fortunon. Mi donus cent funtojn sterlingajn, se bova lango povus
+havi por mi tian bonan guston kiel por vi. Kioma horo (estas)?
+Balda&#365; la dekdua (horo).</p>

@@ -1,0 +1,83 @@
+---
+title: "" #"Lesson 30 - Inkster. Ekster. El."
+author: "" #"JLAUro"
+date: "" #"May 21, 2017"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+<br/><br/>
+
+<center><b>LESSON 30.</b></center>
+
+<center><b>Inter. Ekster. El.</b></center>
+
+<p><b>Inter</b> means <i>between, among</i>, or <i>amongst.</i>
+It is largely used as a prefix, as <i>interparoli</i>, to
+converse; <i>internacia</i>, international; <i>interkonsento</i>,
+agreement; <i>sin intermeti</i>, to interfere.</p>
+
+<!-- =============================067.png============================ -->
+<p><b>Ekster</b> means <i>out of, outside</i>, as <i>ekster
+dan&#285;ero</i>, out of danger. It is used as a prefix, as
+<i>eksterordinara</i>, extraordinary.</p>
+
+<p><b>El</b> means <i>out of</i>. It applies (i.) to
+<i>place</i>, signifying motion from, as, <i>Mi eliris el la
+domo</i>, I went out of the house. (ii.). <i>Chosen from
+among</i>, as, <i>Unu el miaj infanoj</i>, One of (from among) my
+children. (iii.). <i>Made out of</i>, as, <i>Tiu &#265;i
+&#349;tofo estas farita el lano</i>, This cloth is made (out) of
+wool. <i>El</i> is used as a prefix, and means <i>out,
+outright</i>, or <i>thoroughly</i>, as, <i>Elfosi</i>, to dig
+out; <i>Ellerni</i>, to learn thoroughly.</p>
+
+<center>
+<table cellspacing="8">
+<caption><b>Vocabulary.</b></caption>
+
+<tr>
+<td nowrap valign="top"><i>kolono</i>, column, pillar.<br>
+ <i>marmoro</i>, marble.<br>
+ <i>figuro</i>, figure.<br>
+ <i>muro</i>, wall.<br>
+ <i>kanapo</i>, sofa.<br>
+ <i>arto</i>, art.<br>
+ <i>viveco</i>, liveliness.</td>
+<td nowrap valign="top"><i>krono</i>, crown.<br>
+ <i>uzo</i>, use.<br>
+ <i>okazo</i>, occasion.<br>
+ <i>alfabeto</i>, alphabet.<br>
+ <i>divid-</i>, divide (something).<br>
+ <i>produkt-</i>, produce.<br>
+ <i>interne</i>, inside.</td>
+</tr>
+</table>
+</center>
+
+<p>Inter Rusujo kaj Francujo estas Germanujo. Ili dividis inter
+si dekdu pomojn. Inter la deka kaj dekunua horo matene. Inter la
+kolonoj staris marmoraj figuroj. Apud la muro inter la fenestroj
+staris kanapo. Longe ili parolis inter si. &#264;e tiu &#265;i
+malsano unu horo povas decidi inter vivo kaj morto. En la
+intertempo inter la paroloj oni produktas artajn fajrojn.</p>
+
+<p>Mi staras ekster la domo, kaj li estas interne. Li estas
+ekster la pordo. Nun ni estas ekster dan&#285;ero. Li lo&#285;as
+ekster la urbo. Starante ekstere, li povis vidi nur la eksteran
+flankon de nia domo. Li montris eksteren en la mallumon. Mi lasis
+lin ekstere. La ekstero de tiu &#265;i homo estas pli bona, ol
+lia interno.</p>
+
+<!-- =============================068.png============================ -->
+<p>Li eliris el la urbo. Li estas &#309;us reveninta el la
+eksterlando. Kun eksterordinara viveco &#349;i elsaltis el la
+vagono. &#348;i metis al &#349;i kronon el blankaj lilioj sur la
+harojn. Li faris uzon el la okazo. Tiuj &#265;i nestoj estas
+farataj tute el tero. &#348;i estis la plej kura&#285;a el
+&#265;iuj. Jen vi elkreskis! Li eliris el la dormo&#265;ambro,
+kaj eniris en la man&#285;o&#265;ambron. La esperanta alfabeto
+konsistas el dudek ok literoj.</p>

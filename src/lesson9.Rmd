@@ -1,0 +1,115 @@
+---
+title: "" #"Lesson 9 - Words"
+author: "" #"JLAUro"
+date: "" #"May 18, 2017"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+<br/><br/>
+
+<center><b>LESSON 9.</b></center>
+
+<p>The names of certain quantities are formed from the cardinal
+numbers by adding "o," as <i>dekduo</i>, a dozen; <i>dudeko</i>,
+a score; <i>cento</i>, a hundred; <i>milo</i>, a thousand. These
+names, as well as names of quantities generally, require to be
+followed by "da," of, as <i>dekduo da birdoj</i>, a dozen (of)
+birds, but <i>dekdu birdoj</i>, twelve birds; <i>dudeko da
+pomoj</i>, a score of apples; <i>cento da &#349;afoj</i>, or
+<i>cent &#349;afoj</i>, a hundred sheep; <i>milo da homoj</i>, a
+thousand people; <i>miloj da homoj</i>, thousands of people.</p>
+
+<p>When these expressions form the object of the verb, it is the
+name of the number which takes <i>-n</i>, not the noun which
+follows <i>da</i>, as <i>Li a&#265;etis dudekon da
+&#349;afoj</i>, He bought a score of sheep.</p>
+
+<p>For <i>firstly, secondly</i>, etc., <i>-e</i> is added to the
+number, as <i>unue</i>, firstly; <i>kvine</i>, fifthly;
+<i>deke</i>, tenthly. (See Lesson 12).</p>
+
+<center>
+<table cellspacing="8">
+<caption><b>Vocabulary.</b></caption>
+
+<tr>
+<td nowrap valign="top"><i>urbo</i>, town.<br>
+ <i>lo&#285;anto</i>, inhabitant.<br>
+ <i>kulero</i>, spoon.<br>
+ <i>forko</i>, fork.<br>
+ <i>mono</i>, money.<br>
+ <i>prunto</i>, loan.<br>
+ <i>metro</i>, metre.<br>
+ <i>&#349;tofo</i>, stuff.<br>
+ <i>franko</i>, franc (about 10d.).<br>
+ <i>atakanto</i>, assailant.<br>
+ <i>pago</i>, payment.<br>
+ <i>miliono</i>, a million.<br>
+ <i>prunt-</i>, lend.</td>
+<td nowrap valign="top"><i>a&#265;et-</i>, buy.<br>
+ <i>dank-</i>, thank.<br>
+ <i>pet-</i>, beg, request.<br>
+ <i>bezon-</i>, want, need.<br>
+ <i>kost-</i>, cost.<br>
+ <i>poste</i>, afterwards.<br>
+ <i>tiu &#265;i</i>, this.<br>
+ <i>por</i>, for.<br>
+ <i>re-</i>, <i>prefix, meaning</i> again <i>or</i> back.<br>
+ <i>tial</i>, therefore.<br>
+ <i>a&#365;</i>, or.<br>
+ <i>da</i>, of (after a quantity).</td>
+</tr>
+</table>
+</center>
+
+<!-- =============================027.png============================ -->
+<p>Mi havas cent pomojn. Mi havas centon da pomoj. Tiu &#265;i
+urbo havas milionon da lo&#285;antoj. Mi a&#265;etis dekduon da
+kuleroj, kaj du dekduojn da forkoj. Mil jaroj (a&#365;, milo da
+jaroj) faras miljaron.</p>
+
+<p>Unue mi redonas al vi la monon, kiun vi pruntis al mi; due mi
+dankas vin por la prunto; trie mi petas vin anka&#365; poste
+prunti al mi, kiam mi bezonos monon.</p>
+
+<center><b>9a</b>.</center>
+
+<p>To express a certain part or fraction, "<b>-on-</b>" is added
+to the number specifying what part, as 1/2, unu <i>duono</i>;
+1/3, unu <i>triono</i>; 1/4, unu <i>kvarono</i>; 1/10, unu
+<i>dekono</i>; 1/1000 unu <i>milono</i>; 1/1000000, unu
+<i>milionono</i>. These words, being nouns, take "<i>j</i>" and
+"<i>n</i>" when required&mdash;3/10, <i>tri dekonoj</i>; 27/200,
+<i>dudek-sep ducentonoj</i>; 19/1000, <i>dekna&#365; milonoj. Mi
+man&#285;is tri kvaronojn de la kuko</i>, I ate three-quarters of
+the cake (see Lesson 35).</p>
+
+<p>To express so many times a number <b>-obl-</b> is added to the
+number, as <i>duobla</i>, double; <i>dekoble</i>, ten times;
+<i>trioble kvar estas (</i>or <i>faras) dekdu</i>, three times
+four are twelve; <i>sepoble ok faras kvindek ses</i>, seven times
+eight make fifty-six.</p>
+
+<p>To express <i>by twos, by tens</i>, etc., <b>-op-</b> is added
+to the number, as <i>duope</i>, by twos, or two together;
+<i>dekope</i>, by tens; <i>kvindekope</i>, by fifties, fifty
+together, or fifty at a time.</p>
+
+<p>Tri estas duono de ses, ok estas kvar kvinonoj de dek. Kvar
+metroj da tiu &#265;i &#349;tofo kostas na&#365; frankojn, tial
+du metroj kostas kvar kaj duonon frankojn (a&#365; da frankoj).
+Unu tago estas tricent-sesdek-kvinono, a&#365;
+tricent-sesdek-sesono de jaro.</p>
+
+<p>Kvinoble sep estas tridek kvin. Por &#265;iu tago mi ricevas
+kvin frankojn, sed por la hodia&#365;a tago mi ricevis duoblan
+pagon, t.e. (= tio estas) dek frankojn.</p>
+
+<!-- =============================028.png============================ -->
+<p>Tiuj &#265;i du amikoj promenas &#265;iam duope. Kvinope ili
+sin &#309;etis sur min, sed mi venkis &#265;iujn kvin
+atakantojn.</p>

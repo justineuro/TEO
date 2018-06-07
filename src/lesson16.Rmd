@@ -1,0 +1,303 @@
+---
+title: "" #"Lesson 16 - Words"
+author: "" #"JLAUro"
+date: "" #"May 18, 2017"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+<br/><br/>
+
+<center><b>LESSON 16.</b></center>
+
+<p>Another set of participles is used to describe or show the
+condition or state of the <i>doer</i> of the action, namely
+<b>-anta</b>, denoting <i>incompleteness</i> or present time,
+<b>-inta</b>, denoting <i>completeness</i> or past time, and
+<b>-onta</b>, denoting <i>action not yet begun</i>, or future
+time, as <i>Sur la arbo staras kantanta birdo (a&#365; birdo
+kantanta</i>), On the tree is a singing bird (or a bird singing);
+<i>En la venonta somero mi vizitos vin</i>, In the coming summer
+I shall visit you; <i>La pasinta nokto estis tre pluva</i>, The
+past night was very wet (rainy).</p>
+
+<!-- =============================041.png============================ -->
+<center>
+<table border="1" cellpadding="8">
+<tr>
+<td nowrap><i>Mi estas man&#285;anta</i></td>
+<td>I am (in the act of) eating.</td>
+</tr>
+
+<tr>
+<td nowrap><i>Li estis man&#285;anta</i></td>
+<td>He was eating.</td>
+</tr>
+
+<tr>
+<td nowrap><i>Ni estos man&#285;antaj</i></td>
+<td>We shall be eating.</td>
+</tr>
+
+<tr>
+<td nowrap><i>Vi estus man&#285;antaj</i></td>
+<td>You would be eating.</td>
+</tr>
+
+<tr>
+<td nowrap><i>(Ke) ili estu man&#285;antaj</i></td>
+<td>(That) they may be eating.</td>
+</tr>
+
+<tr>
+<td nowrap><i>Esti man&#285;anta</i></td>
+<td>To be eating.</td>
+</tr>
+
+<tr>
+<td nowrap><i>Estu man&#285;anta</i></td>
+<td>Be (in the act of) eating.</td>
+</tr>
+
+<tr>
+<td colspan="2"> </td>
+</tr>
+
+<tr>
+<td nowrap><i>Mi estas teninta</i></td>
+<td>I am (in the state of) having held, or, I have held.</td>
+</tr>
+
+<tr>
+<td nowrap><i>Li estis teninta</i></td>
+<td>He was (in the state of) having held, or, he had held.</td>
+</tr>
+
+<tr>
+<td nowrap><i>Ni estos tenintaj</i></td>
+<td>We shall be (in the state of) having held, or, we shall have
+held.</td>
+</tr>
+
+<tr>
+<td nowrap><i>Vi estus tenintaj</i></td>
+<td>You would be (in the state of) having held, or, you would
+have held.</td>
+</tr>
+
+<tr>
+<td nowrap><i>(Ke) ili estu tenintaj</i></td>
+<td>(That) they may be (in the state of) having held, or, (that)
+they may have held.</td>
+</tr>
+
+<tr>
+<td nowrap><i>Esti teninta</i></td>
+<td>To be (in the state of) having held, or, to have held.</td>
+</tr>
+
+<tr>
+<td colspan="2"> </td>
+</tr>
+
+<tr>
+<td nowrap><i>Mi estas dironta</i></td>
+<td>I am about (going) to say.</td>
+</tr>
+
+<tr>
+<td nowrap><i>Li estis dironta</i></td>
+<td>He was about (going) to say.</td>
+</tr>
+
+<tr>
+<td nowrap><i>Ni estos dirontaj</i></td>
+<td>We shall be about (going) to say.</td>
+</tr>
+
+<tr>
+<td nowrap><i>Vi estus dirontaj</i></td>
+<td>You would be about (going) to say.</td>
+</tr>
+
+<tr>
+<td nowrap><i>(Ke) ili estu dirontaj</i></td>
+<td>(That) they may be about (going) to say.</td>
+</tr>
+
+<tr>
+<td nowrap><i>Esti dironta</i></td>
+<td>To be about (going) to say.</td>
+</tr>
+</table>
+</center>
+
+<!--
+<i>Mi estas man&#285;anta</i>       I am (in the act of) eating.
+<i>Li estis man&#285;anta</i>       He was eating.
+<i>Ni estos man&#285;antaj</i>      We shall be eating.
+<i>Vi estus man&#285;antaj</i>      You would be eating.
+<i>(Ke) ili estu man&#285;antaj</i> (That) they may be eating.
+<i>Esti man&#285;anta</i>           To be eating.
+<i>Estu man&#285;anta</i>           Be (in the act of) eating.
+<i>Mi estas teninta</i>         I am (in the state of) having
+                                  held, or, I have held.
+<i>Li estis teninta</i>         He was (in the state of) having
+                                  held, or, he had held.
+<i>Ni estos tenintaj</i>        We shall be (in the state of)
+                                  having held, or, we shall
+                                  have held.
+<i>Vi estus tenintaj</i>        You would be (in the state of)
+                                  having held, or, you would
+                                  have held.
+<i>(Ke) ili estu tenintaj</i>   (That)  they may be (in the
+                                  state of) having held, or,
+                                  (that) they may have held.
+<i>Esti teninta</i>             To be (in the state of) having
+                                  held, or, to have held.
+<i>Mi estas dironta</i>         I am about (going) to say.
+<i>Li estis dironta</i>         He was about (going) to say.
+<i>Ni estos dirontaj</i>        We shall be about (going) to
+                                  say.
+<i>Vi estus dirontaj</i>        You would be about (going)
+                                  to say.
+<i>(Ke) ili estu dirontaj</i>   (That)  they  may   be about
+                                  (going) to say.
+<i>Esti dironta</i>             To be about (going) to say.
+-->
+<!-- =============================042.png============================ -->
+<p>The participles are made into nouns by ending them with
+<i>o</i> instead of <i>a</i>, as <i>Kiam Nikodemo batas Jozefon,
+tiam Nikodemo estas la batanto, kaj Jozefo estas la batato</i>,
+When Nicodemus beats Joseph, then Nicodemus is the beater, and
+Joseph is the one being beaten.</p>
+
+<center>
+<table border="1" cellpadding="8">
+<tr>
+<td nowrap><i>La batanto</i></td>
+<td>The one who is beating.</td>
+</tr>
+
+<tr>
+<td nowrap><i>La batinto</i></td>
+<td>The one who was beating.</td>
+</tr>
+
+<tr>
+<td nowrap><i>La batonto</i></td>
+<td>The one who is about (going) to beat.</td>
+</tr>
+
+<tr>
+<td nowrap><i>La batato</i></td>
+<td>The one who is being beaten.</td>
+</tr>
+
+<tr>
+<td nowrap><i>La batito</i></td>
+<td>The one who has been beaten.</td>
+</tr>
+
+<tr>
+<td nowrap><i>La batoto</i></td>
+<td>The one who is about to be beaten.</td>
+</tr>
+</table>
+</center>
+
+<!--
+<i>La batanto</i>     The one who is beating.
+
+<i>La batinto</i>     The one who was beating.
+
+<i>La batonto</i>     The one who is about (going) to beat.
+
+<i>La batato</i>      The one who is being beaten.
+
+<i>La batito</i>      The one who has been beaten.
+
+<i>La batoto</i>      The one who is about to be beaten.
+-->
+<p>Note that the participles which have <i>n</i> in the
+termination refer to the <i>doer</i>; they are called
+<i>active</i> participles. Those without <i>n</i> refer to the
+one to whom the action is done; they are <i>passive</i>
+participles.</p>
+
+<center>
+<table cellspacing="8">
+<caption><b>Vocabulary.</b></caption>
+
+<tr>
+<td nowrap valign="top"><i>tempo</i>, time.<br>
+ <i>mondo</i>, world.<br>
+ <i>lingvo</i>, language.<br>
+ <i>nombro</i>, number.<br>
+ <i>legendo</i>, legend.<br>
+ <i>loko</i>, place.<br>
+ <i>salono</i>, drawing-room.<br>
+ <i>eraro</i>, mistake.<br>
+ <i>soldato</i>, soldier.<br>
+ <i>strato</i>, street.<br>
+ <i>pek-</i>, sin.<br>
+ <i>fal-</i>, fall.<br>
+ <i>mensog-</i>, tell a lie.<br>
+ <i>pas-</i>, pass (as time passes).<br>
+ <i>atend-</i>, wait, expect.<br>
+ <i>sav-</i>, save, rescue.<br>
+ <i>danc-</i>, dance.<br>
+ <i>kred-</i>, believe.</td>
+<td nowrap valign="top"><i>ripet-</i>, repeat.<br>
+ <i>arest-</i>, arrest.<br>
+ <i>ju&#285;-</i>, judge.<br>
+ <i>konduk-</i>, lead, conduct.<br>
+ <i>voja&#285;-</i>, travel, journey.<br>
+ <i>&#349;tel-</i>, steal.<br>
+ <i>ripoz-</i>, rest, repose.<br>
+ <i>diradis</i>, used to say (tell).<br>
+ <i>estonta</i>, future (about to be).<br>
+ <i>vera</i>, true.<br>
+ <i>intence</i>, intentionally.<br>
+ <i>facile</i>, easily.<br>
+ <i>anta&#365;e</i>, formerly, previously.<br>
+ <i>dum</i>, while, whilst, during.<br>
+ <i>neniam</i>, never.<br>
+ <i>neniu</i>, nobody.<br>
+ <i>sen</i>, without.<br>
+ <i>senmove</i>, motionless.</td>
+</tr>
+</table>
+</center>
+
+<!-- =============================043.png============================ -->
+<p>Fluanta akvo estas pli pura, ol akvo staranta senmove. La
+falinta homo ne povas sin levi. La tempo pasinta jam neniam
+revenos; la tempon venontan neniu ankora&#365; konas. Venu, ni
+atendas vin, Savonto de la mondo. En la lingvo Esperanto ni vidas
+la estontan lingvon de la tuta mondo. La nombro de la dancantoj
+estis granda. &#284;i estas la legendo, kiun la veraj kredantoj
+&#265;iam ripetas. Li kondukis la voja&#285;anton al la loko, kie
+la &#349;telintoj ripozis. Al homo, pekinta senintence, Dio
+facile pardonas. La soldatoj kondukis la arestitojn tra la
+stratoj. Homo, kiun oni devas ju&#285;i, estas ju&#285;oto.</p>
+
+<center><b>16a.</b></center>
+
+<p>Nun li diras al mi la veron. Hiera&#365; li diris al mi la
+veron. Li &#265;iam diradis al mi la veron. Kiam vi vidis nin en
+la salono, li jam anta&#365;e diris al mi la veron
+(<i>a&#365;</i>, li estis dirinta al mi la veron). Li diros al mi
+la veron. Kiam vi venos al mi, li jam anta&#365;e diros al mi la
+veron (<i>a&#365;</i>, li estos dirinta al mi la veron;
+<i>a&#365;</i>, anta&#365; ol vi venos al mi, li diros al mi la
+veron). Se mi petus lin, li dirus al mi la veron. Mi ne farus la
+eraron, se li anta&#365;e dirus al mi la veron (<i>a&#365;</i>,
+se li estus dirinta al mi la veron). Kiam mi venos, diru al mi la
+veron. Kiam mia patro venos, diru al mi anta&#365;e la veron
+(<i>a&#365;</i>, estu dirinta al mi la veron). Mi volas diri al
+vi la veron. Mi volas, ke tio, kion mi diris, estu vera
+(<i>a&#365;</i>, mi volas esti dirinta la veron).</p>

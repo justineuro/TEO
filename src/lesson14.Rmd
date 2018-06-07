@@ -1,0 +1,102 @@
+---
+title: "" #"Lesson 14 - Words"
+author: "" #"JLAUro"
+date: "" #"May 18, 2017"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+<br/><br/>
+
+<!-- =============================036.png============================ -->
+<center><b>LESSON 14.</b></center>
+
+<center><b>Re-, -ad-, ek-.</b></center>
+
+<p>The prefixes <b>re-</b> and <b>ek-</b> and the suffix
+<b>-ad-</b> are attached to verbs.</p>
+
+<p><b>Re-</b> has nearly the same meaning as in English,
+<i>back</i> or <i>again</i>, as <i>re-pagi</i>, to pay back;
+<i>re-porti</i>, to carry back; <i>re-&#309;eti</i>, to throw
+back; <i>re-salti</i>, to rebound; <i>re-kanti</i> to sing again;
+<i>re-legi</i>, to read over again.</p>
+
+<p><b>-ad-</b> denotes the continuance or continued repetition of
+an action; it means <i>goes on doing</i>, or <i>keeps on
+doing</i>, or <i>is in the habit of</i>, or in the past <i>used
+to</i>, as <i>spiri</i>, to breathe, <i>spirado</i>, respiration;
+<i>movi</i>, to move, <i>movado</i>, continued movement;
+<i>fumi</i>, to smoke, <i>fumado</i>, the habit of smoking;
+<i>a&#365;di</i>, to hear, <i>a&#365;dado</i>, the sense of
+hearing.</p>
+
+<p><b>Ek-</b> has the opposite meaning to <i>-ad-</i>; it
+signifies the beginning of an action, or a short or sudden
+action, as <i>kanti</i>, to sing, <i>ekkanti</i>, to begin to
+sing; <i>ridi</i>, to laugh, <i>ekridi</i>, to burst out
+laughing; <i>krii</i>, to cry or call, <i>ekkrii</i>, to cry out;
+<i>iri</i>, to go, <i>ekiri</i>, to set out; <i>dormi</i>, to
+sleep, <i>ekdormi</i>, to fall asleep.</p>
+
+<center>
+<table cellspacing="8">
+<caption><b>Vocabulary.</b></caption>
+
+<tr>
+<td nowrap valign="top"><i>rivero</i>, river.<br>
+ <i>lando</i>, land.<br>
+ <i>se&#285;o</i>, seat.<br>
+ <i>da&#365;ro</i>, duration.<br>
+ <i>okupo</i>, occupation.<br>
+ <i>pluvo</i>, rain.<br>
+ <i>vagonaro</i>, train.<br>
+ <i>surprizo</i>, surprise.<br>
+ <i>diamanto</i>, diamond.<br>
+ <i>fulmo</i>, lightning.<br>
+ <i>lumo</i>, a light.<br>
+ <i>paf-</i>, shoot.<br>
+ <i>&#309;et-</i>, throw.<br>
+ <i>a&#365;d-</i>, hear.</td>
+<td nowrap valign="top"><i>fal-</i>, fall.<br>
+ <i>atend-</i>, wait for, expect.<br>
+ <i>lacig-</i>, make tired.<br>
+ <i>frot-</i>, rub.<br>
+ <i>rigard-</i>, look.<br>
+ <i>elrigard-</i>, look out of.<br>
+ <i>salt-</i>, jump.<br>
+ <i>rapida</i>, quick.<br>
+ <i>klara</i>, clear.<br>
+ <i>lerte</i>, cleverly.<br>
+ <i>energie</i>, energetically.<br>
+ <i>kelke</i>, some.<br>
+ <i>&#265;iuminute</i>, every minute. [See page 84.]<br>
+ <i>tra</i>, through.</td>
+</tr>
+</table>
+</center>
+
+<!-- =============================037.png============================ -->
+<p>Li donis al mi monon, sed mi &#285;in tuj redonis al li. Mi
+foriras, sed atendu min, &#265;ar mi balda&#365; revenos. La suno
+rebrilas en la klara akvo de la rivero. Li reiris al sia lando.
+&#348;i re&#309;etis sin sur la se&#285;on.</p>
+
+<p>En la da&#365;ro de kelke da minutoj mi a&#365;dis du pafojn.
+La pafado da&#365;ris tre longe. Lia hiera&#365;a parolo estis
+tre bela, sed la tro multa parolado lacigas lin. Li kantas tre
+belan kanton. La kantado estas agrabla okupo. Per mia mano mi
+energie lin frotadis. La pluvo faladis per riveroj.
+&#264;iuminute &#349;i elrigardadis tra la fenestro, kaj
+malbenadis la malrapidan iradon de la vagonaro.</p>
+
+<p>Mi saltas tre lerte. Mi eksaltis de surprizo. Mi saltadis la
+tutan tagon [Footnote: See Lesson 26 (iii.)] de loko al loko.
+Kiam vi ekparolis, mi atendis a&#365;di ion novan. La diamanto
+havas belan brilon. &#348;i lasis la diamanton ekbrili. Du
+ekbriloj do fulmo trakuris tra la malluma &#265;ielo.</p>
+
+

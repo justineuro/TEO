@@ -1,0 +1,92 @@
+---
+title: "" #"Lesson 23 - Suffixes"
+author: "" #"JLAUro"
+date: "" #"May 21, 2017"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+<br/><br/>
+
+<!-- =============================058.png============================ -->
+<center><b>LESSON 23.</b></center>
+
+<center><i>Suffixes</i> <b>-an-, -estr-.</b></center>
+
+<p>The suffix <b>-an-</b> signifies a <i>member</i>, an
+<i>inhabitant</i> of a country, town, etc., or a member of a
+party, society, religion, etc. <i>E&#365;ropano</i>, a European;
+<i>Londonano</i>, a Londoner; <i>urbo</i>, a town or city,
+<i>urbano</i>, a citizen; <i>klubo</i>, a club, <i>klubano</i>, a
+member of a club. <i>Ano</i>, a member.</p>
+
+<p><b>-estr-</b> denotes the <i>head</i> of a State, town,
+society, etc. <i>Regno</i>, a State, <i>regnestro</i>, a ruler of
+a State; <i>urbestro</i>, the head of a town, a mayor;
+<i>lernejo</i>, a school, <i>lernejestro</i>, the principal or
+head master of a school; <i>imperio</i>, an empire,
+<i>imperiestro</i>, an emperor.</p>
+
+<center>
+<table cellspacing="8">
+<caption><b>Vocabulary.</b></caption>
+
+<tr>
+<td nowrap valign="top"><i>Parizo</i>, Paris.<br>
+ <i>regno</i>, State.<br>
+ <i>imperio</i>, empire.<br>
+ <i>polico</i>, police.<br>
+ <i>Kristo</i>, Christ.<br>
+ <i>Lutero</i>, Luther.<br>
+ <i>Kalvino</i>, Calvin.<br>
+ <i>germano</i>, German.<br>
+ <i>franco</i>, Frenchman.<br>
+ <i>Rusujo</i>, Russia.<br>
+ <i>provinco</i>, province.<br>
+ <i>religio</i>, religion.<br>
+ <i>regimento</i>, regiment.<br>
+ <i>lokomotivo</i>, engine.<br>
+ <i>lo&#285;io</i>, box (opera),<br>
+   lodge (freemason, etc.).</td>
+<td nowrap valign="top"><i>vila&#285;o</i>, village.<br>
+ <i>obe-</i>, obey.<br>
+ <i>konfes-</i>, confess, avow,<br>
+   acknowledge, profess<br>
+   (a religion, etc.).<br>
+ <i>enir-</i>, enter.<br>
+ <i>ruza</i>, sharp (cunning).<br>
+ <i>sufi&#265;a</i>, sufficient.<br>
+ <i>ordinara</i>, ordinary.<br>
+ <i>naiva</i>, simple.<br>
+ <i>sa&#285;a</i>, wise.<br>
+ <i>severa</i>, strict, severe.<br>
+ <i>justa</i>, just, righteous.<br>
+ <i>egala</i>, equal.<br>
+ <i>fiera</i>, proud.<br>
+ <i>energia</i>, energetic.</td>
+</tr>
+</table>
+</center>
+
+<!-- =============================059.png============================ -->
+<p>La &#349;ipanoj devas obei la &#349;ipestron. &#264;iuj
+lo&#285;antoj de regno estas regnanoj. Urbanoj estas ordinare pli
+ruzaj, ol vila&#285;anoj. La Parizanoj estas gajaj homoj. Nia
+urbo havas bonajn policanojn, sed ne sufi&#265;e energian
+policestron. Luteranoj kaj Kalvinanoj estas Kristanoj. Germanoj
+kaj francoj, kiuj lo&#285;as en Rusujo, estas Rusujanoj, kvankam
+ili ne estas rusoj. Li estas nelerta kaj naiva provincano. La
+lo&#285;antoj de unu regno estas samregnanoj, la lo&#285;antoj de
+unu urbo estas samurbanoj, la konfesantoj de unu religio estas
+samreligianoj. Tiuj, kiuj havas la samajn ideojn, estas
+samideanoj.</p>
+
+<p>La regnestro de nia lando estas bona kaj sa&#285;a re&#285;o.
+Nia provincestro estas severa, sed justa. Nia regimentestro estas
+por siaj soldatoj kiel bona patro. Ili estas egale fieraj, kiel
+domestrino pri sia domo. Sur la lokomotivo la lokomotivestro
+sidis sola. La imperiestro, akompanata de la imperiestrino,
+&#309;us eniris en sian lo&#285;ion.</p>

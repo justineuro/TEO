@@ -1,0 +1,66 @@
+---
+title: "" #"Lesson 11 - Verbs"
+author: "" #"JLAUro"
+date: "" #"May 18, 2017"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+<br/><br/>
+
+<!-- =============================030.png============================ -->
+<center><b>LESSON 11.</b></center>
+
+<center><b>Verbs</b> (<i>continued</i>), <b>-us.</b></center>
+
+<p>Sometimes we want to express a <i>supposition</i>, to say that
+something <i>would</i> take place, supposing that something else,
+which is not likely to occur, were to do so, or that something
+<i>would have</i> taken place if something else which did not
+occur had done so. In this case the verb must end with
+<b>-us</b>, as, If I were well (which I am not) I should be happy
+(which also I am not), <i>Se mi estus sana, mi estus
+feli&#265;a</i>. If he knew (supposition) that I am here (a fact)
+he would immediately come to me (supposition), <i>Se li scius, ke
+mi estas tie &#265;i, li tuj venus al mi</i>. Compare the two
+following sentences:&mdash; (i.). <i>Kvankam vi estas ri&#265;a,
+mi dubas, &#265;u vi estas feli&#265;a</i>, Though you are (in
+fact) rich, I doubt whether you are (in fact) happy, (ii.).
+<i>Kvankam vi estus ri&#265;a, mi dubas, &#265;u, vi estus
+feli&#265;a</i>, Though (supposing that) you were rich, I doubt
+whether you would be happy.</p>
+
+<center>
+<table cellspacing="8">
+<caption><b>Vocabulary.</b></caption>
+
+<tr>
+<td nowrap valign="top"><i>lernanto</i>, pupil.<br>
+ <i>leciono</i>, lesson.<br>
+ <i>instruanto</i>, teacher,<br>
+ <i>sci-</i>, know.<br>
+ <i>pun-</i>, punish.<br>
+ <i>estim-</i>, esteem.<br>
+ <i>lev-</i>, lift, raise.<br>
+ <i>ten-</i>, hold, keep.</td>
+<td nowrap valign="top"><i>pen-</i>, endeavour.<br>
+ <i>imit-</i>, imitate,<br>
+ <i>kvaza&#365;</i>, as if.<br>
+ <i>io</i>, something.<br>
+ <i>efektive</i>, really.<br>
+ <i>supren</i>, upwards.<br>
+ <i>kvankam</i>, though.<br>
+ <i>se</i>, if.</td>
+</tr>
+</table>
+</center>
+
+<p>Se la lernanto scius bone sian lecionon, la instruanto lin ne
+punus. Se vi scius, kiu li estas, vi lin pli estimus. Ili levis
+unu manon supren, kvaza&#365; ili ion tenus. Se mi efektive estus
+bela, aliaj penus min imiti. Ho! se mi jam havus la a&#285;on de
+dekkvin jaroj!</p>
+

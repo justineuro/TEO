@@ -1,0 +1,233 @@
+---
+title: "" #"The Esperanto Teacher <br/> by Helen Fryer (10th ed.)"
+output:
+  html_document:
+    #css: bootstrap-green.min.css
+    #theme: cerulean
+    highlight: tango
+    #toc: true
+    #toc_float: 
+    #  collapsed: false
+    #mathjax: "https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML"
+    #mathjax: "file:///sdcard//MathJax/MathJax.js?config=TeX-AMS-MML_HTMLorMML"
+---
+
+
+<br/>
+<p>Hello!  Welcome! <i>Lernu!</i></p>
+<br/>
+
+
+<!--style type="text/css"-->
+<!--
+body {margin:10%; text-align:justify}
+blockquote {font-size:14pt}
+P {font-size:14pt}
+-->
+<!--/style-->
+
+
+<pre>
+
+The Project Gutenberg EBook of The Esperanto Teacher, by Helen Fryer
+
+This eBook is for the use of anyone anywhere in the United States and most
+other parts of the world at no cost and with almost no restrictions
+whatsoever.  You may copy it, give it away or re-use it under the terms of
+the Project Gutenberg License included with this eBook or online at
+www.gutenberg.org.  If you are not located in the United States, you'll have
+to check the laws of the country where you are located before using this ebook.
+
+Title: The Esperanto Teacher
+       A Simple Course for Non-Grammarians
+
+Author: Helen Fryer
+
+Posting Date: September 19, 2014 [EBook #8177]
+Release Date: May, 2005
+First Posted: June 26, 2003
+
+Language: English
+
+Character set encoding: ISO-8859-1
+
+*** START OF THIS PROJECT GUTENBERG EBOOK THE ESPERANTO TEACHER ***
+
+
+
+Produced by David Starner, Tiffany Vergon, William Patterson
+and the Online Distributed Proofreading Team
+
+
+</pre>
+
+<br/><br/>
+
+<!-- =============================001.png============================ -->
+<center><b>THE</b><br>
+ <big><b>ESPERANTO TEACHER,</b></big></center>
+
+<center><b>A SIMPLE COURSE FOR</b><br>
+ <b>NON-GRAMMARIANS.</b></center>
+
+<center><small><b>BY</b></small><br>
+ <b>HELEN FRYER.</b></center>
+
+<center><i>TENTH EDITION.</i><br>
+ <small>(B.E.A. PUBLICATIONS FUND&mdash;N<span style=
+"font-variant: small-caps">o</span>. 3).</small></center>
+
+<center><small><i>All profits from the sale of this book are
+devoted to the</i></small><br>
+ <small><i>propaganda of Esperanto.</i></small></center>
+
+<center><b>LONDON:</b><br>
+ <b>BRITISH ESPERANTO ASSOCIATION (<span style=
+"font-variant: small-caps">Incorporated</span>),</b><br>
+ <b><span style="font-variant: small-caps">17, Hart Street,
+W.C.i.</span></b></center>
+
+<!-- =============================002.png============================ -->
+<hr align="center" width="38%" style=
+"margin-top: 4em; margin-bottom: 4em">
+<center><b>PRESENTATION.</b></center>
+
+<p><span style="font-variant: small-caps">Perhaps</span> to no
+one is Esperanto of more service than to the non-grammarian. It
+gives him for a minimum expenditure of time and money a valuable
+insight into the principles of grammar and the meaning of words,
+while enabling him, after only a few months of study, to get into
+communication with his fellow men in all parts of the world.</p>
+
+<p>To place these advantages within easy reach of all is the aim
+of this little book. Written by an experienced teacher, revised
+by Mr. E. A. Millidge, and based on the exercises of Dr. Zamenhof
+himself, it merits the fullest confidence of the student, and may
+be heartily commended to all into whose hands it may come.</p>
+
+<p align="right"><span style="font-variant: small-caps">W. W.
+Padfield.</span></p>
+
+<!-- =============================003.png============================ -->
+<center><b>PREFACE.</b></center>
+
+<p>This little book has been prepared in the hope of helping
+those who, having forgotten the lessons in grammar which they
+received at school, find some difficulty in learning Esperanto
+from the existing textbooks. It is hoped it will be found useful
+not only for solitary students, but also for class work.</p>
+
+<p>The exercises are taken chiefly from the "Ekzercaro" of Dr.
+Zamenhof. The compiler also acknowledges her indebtedness
+especially to the "Standard Course of Esperanto," by Mr. G. W.
+Bullen, and to the "Esperanto Grammar and Commentary," by
+Major-General Geo. Cox, and while accepting the whole
+responsibility for all inaccuracies and crudenesses, she desires
+to thank all who have helped in the preparation, and foremost
+among them Mr. W. W. Padfield, of Ipswich, for advice and
+encouragement throughout the work, and to Mr. E. A. Millidge, for
+his unfailing kindness and invaluable counsel and help in its
+preparation and revision.</p>
+
+<!-- =============================004.png============================ -->
+<center><b>MANNER OF USING THE BOOK.</b></center>
+
+<p>The student is strongly advised to cultivate the habit of
+<i>thinking</i> in Esperanto from the very beginning of the
+study. To do this he should try to realise the idea mentally
+without putting it into English words, <i>e.g.</i>, when learning
+the word "rozo" or "kolombo," let him bring the object itself
+before his mind's eye, instead of repeating "<i>rozo</i>, rose;
+<i>kolombo</i>, pigeon"; or with the sentence "<i>la suno
+brilas</i>, the sun shines," let him picture the sun shining.
+Having studied the lesson and learned the vocabulary, he should
+read the exercise, repeating each sentence <i>aloud</i> until he
+has become familiar with it and can pronounce it freely. Then
+turning to the English translation at the end of the book, he
+should write the exercise into Esperanto, compare it with the
+original, and re-learn and re-write if necessary. Although this
+method may require a little more time and trouble at first, the
+greater facility gained in speaking the language will well repay
+the outlay.</p>
+
+<p>After mastering this book the student should take some reader,
+such as "Unua Legolibro," by Dr. Kabe, and then proceed to the
+"Fundamenta Krestomatio," the standard work on Esperanto, by Dr.
+Zamenhof.</p>
+
+<p>A very good Esperanto-English vocabulary is to be found in the
+"Esperanto Key," &frac12;d., or in "The Whole of Esperanto for a
+Penny."</p>
+
+<!-- =============================005.png============================ -->
+<center><b>THE ORIGIN AND AIM OF ESPERANTO.</b></center>
+
+<p>A few words as to the origin of Esperanto will perhaps not be
+out of place here. The author of the language, Dr. Ludovic
+Zamenhof, a Polish Jew, was born on December 3rd, 1859, at
+Bielovstok, in Poland, a town whose inhabitants are of four
+distinct races, Poles, Russians, Germans, and Jews, each with
+their own language and customs, and often at open enmity with
+each other. Taught at home that all men are brethren, Zamenhof
+found everywhere around him outside the denial of this teaching,
+and even as a child came to the conclusion that the races hated,
+because they could not understand, each other. Feeling keenly,
+too, the disabilities under which his people specially laboured,
+being cut off by their language from the people among whom they
+lived, while too proud to learn the language of their
+persecutors, he set himself to invent a language which should be
+neutral and therefore not require any sacrifice of pride on the
+part of any race.</p>
+
+<!-- =============================006.png============================ -->
+<p>Interesting as is the story of Zamenhof's attempts and
+difficulties, it must suffice here to say that at the end of 1878
+the new language was sufficiently advanced for him to impart it
+to schoolfellows like-minded with himself, and on December 17th
+of that year they f&ecirc;ted its birth, and sang a hymn in the
+new language, celebrating the reign of unity and peace which
+should be brought about by its means, "All mankind must be united
+in one family." But the enthusiasm of its first followers died
+down under the derision they encountered, and for nine years more
+Zamenhof worked in secret at his language, translating,
+composing, writing original articles, improving, polishing, till
+in 1887 he published his first book under the title of "An
+International Language by Dr. Esperanto." (<i>Esperanto</i> means
+<i>one who hopes</i>).</p>
+
+<!-- =============================007.png============================ -->
+<p>That the idea which impelled the young Zamenhof to undertake
+such a work is still the mainspring of his devotion to the cause
+is shown by the following extract from his opening speech at the
+second International Esperanto Congress in 1906:&mdash;"We are
+all conscious that it is not the thought of its practical utility
+which inspires us to work for Esperanto, but only the thought of
+the important and holy idea which underlies an international
+language. This idea, you all know, is that of <i>brotherhood and
+justice among all peoples</i>." And, again, in his presidential
+address at the third Esperanto Congress, held this year (1907) at
+Cambridge, he said, "We are constantly repeating that we do not
+wish to interfere in the internal life of the nations, but only
+to build a bridge between the peoples. The ideal aim of
+Esperantists, never until now exactly formulated, but always
+clearly felt, is: <i>To establish a neutral foundation, on which
+the various races of mankind may hold peaceful, brotherly
+intercourse, without intruding on each other their racial
+differences</i>."</p>
+
+<div style="margin-left: 1em">
+<p>Sur ne&#365;trala lingva fundamento,<br>
+ Komprenante unu la alian,<br>
+ La popoloj faros en konsento<br>
+ Unu grandan rondon familian.</p>
+
+<p>(On the foundation of a neutral language,<br>
+ Understanding one another,<br>
+ The peoples will form in agreement<br>
+ One great family circle).</p>
+</div>
+
+<p align="right"><span style="font-variant: small-caps">Helen
+Fryer.</span></p>
+
+<p><i>December</i>, 1907.</p>

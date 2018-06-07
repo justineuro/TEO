@@ -1,0 +1,80 @@
+---
+title: "" #"Lesson 32 - Tra. Trans. Preter."
+author: "" #"JLAUro"
+date: "" #"May 21, 2017"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+<br/><br/>
+
+<center><b>LESSON 32.</b></center>
+
+<center><b>Tra. Trans. Preter.</b></center>
+
+<p><b>Tra</b> means <i>through</i>, as <i>Tra la truo</i>,
+Through the hole. <i>Tra la mondo</i>, Through the world.</p>
+
+<p><b>Trans</b> means <i>at the other side, across</i>, as <i>Li
+lo&#285;as trans la rivero</i>, He lives on the other side of the
+river. With the accusative it means <i>to the other side</i>, as
+<i>Li na&#285;is trans la riveron</i>, He swam to the other side
+of (across) the river.</p>
+
+<!-- =============================070.png============================ -->
+<p><b>Preter</b> means <i>past, by</i>, or <i>beyond;</i> it
+conveys the idea of coming up from behind and passing on in
+front, as <i>Mi pasis preter via frato</i>, or <i>Mi preterpasis
+vian fraton</i>, I passed your brother. The difference between
+<i>tra</i>, <i>trans</i>, and <i>preter</i> is clearly shown by
+the sentence <i>Trapasinte la arbaron, li preterpasis la
+pre&#285;ejon kaj tiam transpasis la riveron per la ponto</i>,
+Having passed through the wood, he passed by the church, and then
+passed over the river by the bridge.</p>
+
+<center>
+<table cellspacing="8">
+<caption><b>Vocabulary.</b></caption>
+
+<tr>
+<td nowrap valign="top"><i>kameno</i>, hearth, fireside.<br>
+ <i>poto</i>, pot.<br>
+ <i>kaldrono</i>, cauldron, kettle.<br>
+ <i>vaporo</i>, steam, vapour.<br>
+ <i>hirundo</i>, swallow.<br>
+ <i>tunelo</i>, tunnel.<br>
+ <i>oceano</i>, ocean.</td>
+<td nowrap valign="top"><i>momento</i>, moment.<br>
+ <i>abato</i>, abbot.<br>
+ <i>penetr-</i>, penetrate.<br>
+ <i>bol-</i>, boil (as water boils).<br>
+ <i>turn-</i>, turn (a thing or oneself).<br>
+ <i>lar&#285;a</i>, wide, broad.</td>
+</tr>
+</table>
+</center>
+
+<p>Li estas tiel dika, ke li ne povas trairi tra nia
+mallar&#285;a pordo. &#348;i rigardis supren tra la mallume-blua
+akvo. Tra la palru&#285;a aero lumis la stelo de la vespero. La
+sonado de la sonoriloj trapenetras malsupren al &#349;i. Ili
+traglitas inter la bran&#265;oj. Sur la kameno inter du potoj
+staras fera kaldrono; el la kaldrono, en kiu sin trovas
+(<i>or</i> trovi&#285;as) bolanta akvo, eliras vaporo; tra la
+fenestro, kiu sin trovas (<i>or</i> trovi&#285;as) apud la pordo,
+la vaporo iras sur la korton.</p>
+
+<p>La hirundo flugis trans la riveron, &#265;ar trans la rivero
+sin trovis (<i>or</i> trovi&#285;is) aliaj hirundoj. Ili povas
+flugi sur &#349;ipoj trans la maron. "Kial Hanibalo iris trans la
+Alpojn? &#264;ar tiam la tunelo ne estis ankora&#365; preter."
+Estas neeble, ke ili estu transirintaj trans la oceanon. &#264;io
+transturni&#285;is la fundo supren.</p>
+
+<p>Ni pasis preter la stacio. En tiu &#265;i momento preteriras
+la abato. Preterirante, mi demandis lin, &#265;u jam estas la
+dekdua horo. La muelilo ne povas mueli per akvo
+preterfluinta.</p>

@@ -1,0 +1,93 @@
+---
+title: "" #"Lesson 24 - Suffixes"
+author: "" #"JLAUro"
+date: "" #"May 21, 2017"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+<br/><br/>
+
+<center><b>LESSON 24.</b></center>
+
+<center><i>Suffixes</i> <b>-ar-, -er-.</b></center>
+
+<p>The suffix <b>-ar-</b> signifies a collection of the persons
+or things named, as <i>arbo</i>, a tree, <i>arbaro</i>, a wood;
+<i>homo</i>, a human being, <i>homaro</i>, mankind;
+<i>militisto</i>, a soldier (from <i>milito</i>, war),
+<i>militistaro</i>, an army; <i>vorto</i>, a word,
+<i>vortaro</i>, a dictionary (<i>vortareto</i>, a vocabulary);
+<i>aro</i>, a flock, <i>anaro</i>, a company, troop.</p>
+
+<p><b>-er-</b> signifies a particle, or one of things of which
+the name denotes a mass, as <i>greno</i>, corn, <i>grenero</i>, a
+grain of corn ; <i>polvo</i>, dust, <i>polvero</i>, a speck of
+dust; <i>pulvo</i>, gunpowder, <i>pulvero</i>, a grain of
+gunpowder; <i>hajlo</i>, hail, <i>hajlero</i>, a hailstone;
+<i>ne&#285;o</i>, snow, <i>ne&#285;ero</i>, a snowflake;
+<i>koto</i>, mud, <i>kotero</i>, a speck of mud or dirt.</p>
+
+<!-- =============================060.png============================ -->
+<center>
+<table cellspacing="8">
+<caption><b>Vocabulary.</b></caption>
+
+<tr>
+<td nowrap valign="top"><i>pulvo</i>, gunpowder.<br>
+ <i>&#349;tupo</i>, step, stair.<br>
+ <i>tegmento</i>, roof.<br>
+ <i>herbo</i>, grass.<br>
+ <i>bruto</i>, brute, beast, head of cattle.<br>
+ <i>lano</i>, wool.<br>
+ <i>persono</i>, person.<br>
+ <i>floreno</i>, florin.<br>
+ <i>&#349;ilingo</i>, shilling.<br>
+ <i>penco</i>, penny.<br>
+ <i>glaso</i>, a glass (tumbler).<br>
+ <i>brando</i>, brandy.<br>
+ <i>tuko</i>, a cloth.<br>
+ <i>telertuketo</i>, serviette.<br>
+   [Footnote: See Lesson 45.]<br>
+ <i>&#349;nuro</i>, cord.<br>
+ <i>sablo</i>, sand.</td>
+<td nowrap valign="top"><i>&#349;afo</i>, a sheep.<br>
+ <i>fajro</i>, fire.<br>
+ <i>met-</i>, put, set.<br>
+ <i>pa&#349;t-</i>, feed (cause to feed),<br>
+   pasture.<br>
+ <i>sekv-</i>, follow.<br>
+ <i>bar-</i>, bar (obstruct).<br>
+ <i>batal-</i>, battle, fight.<br>
+ <i>eksplod-</i>, explode.<br>
+ <i>brava</i>, brave.<br>
+ <i>kruta</i>, steep.<br>
+ <i>hispana</i>, Spanish.<br>
+ <i>vasta</i>, vast, spacious.<br>
+ <i>precipe</i>, chiefly, particularly.<br>
+ <i>preska&#365;</i>, almost.<br>
+ <i>inter</i>, between, among.</td>
+</tr>
+</table>
+</center>
+
+<p>Nia lando venkos, &#265;ar nia militistaro estas granda kaj
+brava. Sur kruta &#349;tuparo li levis sin al la tegmento de la
+domo. Mi ne scias la lingvon hispanan, sed per helpo de vortaro
+hispana-germana mi tamen komprenis iom vian leteron. Sur tiuj
+&#265;i vastaj kaj herbori&#265;aj kampoj pa&#349;tas sin grandaj
+brutaroj, precipe aroj da bellanaj &#349;afoj. La vagonaro
+konsistis preska&#365; nur el personvagonoj. Oni metis anta&#365;
+mi man&#285;ilaron, kiu konsistis el telero, kulero,
+tran&#265;ilo, forko, glaseto por brando, glaso por vino kaj
+telertuketo. Sur la maro staris granda &#349;ipo, kaj inter la
+&#349;nuregaro sidis &#265;ie &#349;ipanoj. Lia sekvantaro staris
+en la posto de la lo&#285;io. Mallumaj montegaroj baras la
+vojon.</p>
+
+<p>Floreno, &#349;ilingo kaj penco estas moneroj. Sablero enfalis
+en mian okulon. Unu fajrero estas sufi&#265;a por eksplodigi
+pulvon.</p>

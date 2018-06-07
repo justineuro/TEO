@@ -1,0 +1,57 @@
+---
+title: "" #"Lesson 25 - Suffixes"
+author: "" #"JLAUro"
+date: "" #"May 21, 2017"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+<br/><br/>
+
+<!-- =============================061.png============================ -->
+<center><b>LESSON 25.</b></center>
+
+<center>Suffix <b>-ul-.</b></center>
+
+<p>The suffix <b>-ul-</b> denotes a person characterised by the
+quality, etc., which the word expresses, as <i>justa</i>, just,
+righteous, <i>justulo</i>, one who is just; <i>babili</i>, to
+chatter, <i>babilulo</i>, one who chatters, a babbler;
+<i>avara</i>, avaricious, <i>avarulo</i>, a miser; <i>kun</i>,
+with, <i>kunulo</i>, a companion.</p>
+
+<center>
+<table cellspacing="8">
+<caption><b>Vocabulary.</b></caption>
+
+<tr>
+<td nowrap valign="top"><i>legendo</i>, legend.<br>
+ <i>ombro</i>, shadow.<br>
+ <i>rajto</i>, right, authority.<br>
+ <i>profeto</i>, prophet.<br>
+ <i>mensogo</i>, a lie.<br>
+ <i>tagman&#285;-</i>, dine.</td>
+<td nowrap valign="top"><i>entrepren-</i>, undertake.<br>
+ <i>propra</i>, own.<br>
+ <i>avara</i>, avaricious.<br>
+ <i>potenca</i>, powerful.<br>
+ <i>infekta</i>, infectious.<br>
+ <i>&#265;e</i>, at, with.</td>
+</tr>
+</table>
+</center>
+
+<p>Malri&#265;a sa&#285;ulo tagman&#285;is &#265;e avara
+ri&#265;ulo. Malsa&#285;ulon &#265;iu batas. Li estas mensogisto
+kaj malnoblulo. Timulo timas e&#265; sian propran ombron. Tiu
+&#265;i maljunulo tute malsa&#285;i&#285;is kaj infani&#285;is.
+Unu instruitulo entreprenis gravan sciencan laboron. Nur
+sanktuloj havas la rajton enveni tien &#265;i. Li sola estas la
+grandulo, la potenculo. &#284;i ne estas la legendo pri la
+belulino Zobeido. Post infekta malsano oni ofte bruligas la
+vestojn de la malsanulo. La malbeno de la profeto staras super la
+kapo de maldankulo. Post kelkaj minutoj la kura&#285;ulo eliris.
+&#264;iuj sanktuloj, helpu!</p>

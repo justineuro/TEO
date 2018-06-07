@@ -1,0 +1,79 @@
+---
+title: "" #"Lesson 2 - Words"
+author: "" #"JLAUro"
+date: "" #"May 18, 2017"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+<br/><br/>
+
+
+<center><b>LESSON 2.</b></center>
+
+<p>Every "describing" word, that is, every word which tells the
+kind or quality of a person or thing, ends in "<b>a</b>," as
+<i>granda</i>, large; <i>ru&#285;a</i>, red.</p>
+
+<p>(<i>A describing word is called</i> an ADJECTIVE).</p>
+
+<!-- =============================014.png============================ -->
+<center>
+<table cellspacing="8">
+<caption><b>Vocabulary.</b></caption>
+
+<tr>
+<td nowrap valign="top"><i>b<b>e</b>la</i>, beautiful.<br>
+ <i>bl<b>a</b>nka</i>, white.<br>
+ <i>bl<b>u</b>a</i>, blue.<br>
+ <i>b<b>o</b>na</i>, good.<br>
+ <i>fid<b>e</b>la</i>, faithful.<br>
+ <i>f<b>o</b>rta</i>, strong.<br>
+ <i>fr<b>e</b>&#349;a</i>, fresh.</td>
+<td nowrap valign="top"><i>j<b>u</b>na</i>, young.<br>
+ <i>mat<b>u</b>ra</i>, mature, ripe.<br>
+ <i>n<b>o</b>va</i>, new.<br>
+ <i>n<b>u</b>tra</i>, nutritious.<br>
+ <i>p<b>u</b>ra</i>, pure, clean.<br>
+ <i>r<b>i</b>&#265;a</i>, rich.<br>
+ <i>s<b>a</b>na</i>, well (healthy).</td>
+</tr>
+
+<tr>
+<td nowrap valign="top"><i>&#265;i<b>e</b>lo</i>, sky,
+heaven.<br>
+ <i>f<b>e</b>sto</i>, holiday.<br>
+ <i>fra&#365;l<b>i</b>no</i>, maiden lady, Miss<br>
+ <i>h<b>o</b>mo</i>, man (human being).<br>
+ <i>h<b>u</b>ndo</i>, dog.<br>
+ <i>inf<b>a</b>no</i>, child.<br>
+ <i>Joh<b>a</b>no</i>, John.<br>
+ <i>kaj<b>e</b>ro</i>, exercise book.<br>
+ <i>l<b>a</b>kto</i>, milk.<br>
+ <i>m<b>a</b>no</i>, hand.</td>
+<td nowrap valign="top"><i>n<b>e</b>&#285;o</i>, snow.<br>
+ <i>p<b>a</b>no</i>, bread.<br>
+ <i>pap<b>e</b>ro</i>, paper.<br>
+ <i>t<b>a</b>blo</i>, table.<br>
+ <i>v<b>i</b>no</i>, wine.<br>
+ <i><b>o</b>nklo</i>, uncle.<br>
+ <i>pli</i>, more.<br>
+ <i>ol</i>, than.<br>
+ <i>sed</i>, but.<br>
+ <i>tre</i>, very.</td>
+</tr>
+</table>
+</center>
+
+<p>La patro estas sana. Infano ne estas matura homo. La
+&#265;ielo estas blua. Leono estas forta. La patro estas bona. La
+mano de Johano estas pura. Papero estas blanka. Blanka papero
+ku&#349;as sur la tablo. Jen estas la kajero de la juna
+fra&#365;lino. Sur la &#265;ielo staras la bela suno. La papero
+estas tre blanka, sed la ne&#285;o estas pli blanka. Lakto estas
+pli nutra, ol vino. La pano estas fre&#349;a. La onklo estas pli
+ri&#265;a, ol la frato. Jen ku&#349;as ru&#285;a rozo. La hundo
+estas tre fidela. La libro estas nova.</p>

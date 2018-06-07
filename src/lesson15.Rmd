@@ -1,0 +1,265 @@
+---
+title: "" #"Lesson 15 - Verbs"
+author: "" #"JLAUro"
+date: "" #"May 18, 2017"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+<br/><br/>
+
+<center><b>LESSON 15.</b></center>
+
+<center><b>Verbs</b> (<i>continued</i>).</center>
+
+<p>In all the examples already given the Subject of the Sentence
+is the <i>doer</i> of the action, but often it is <i>the one to
+whom the action is done</i> who occupies our thoughts, and of
+whom we wish to speak. This one then becomes the subject, and the
+form of the Verb is changed. Instead of saying "The police are
+searching for the thief," "Someone has broken the window,"
+"Someone is going to finish the work to-morrow," we say "The
+thief is being sought for by the police," "The window has been
+broken," "The work is going to be finished to-morrow."</p>
+
+<p>(Note the convenience of this form when we do not know or do
+not wish to mention the doer).</p>
+
+<!-- =============================038.png============================ -->
+<p>In Esperanto the terminations <b>-ata</b>, <i>being</i>,
+denoting <i>incompleteness</i> or <i>present</i> time,
+<b>-ita</b>, <i>having been</i>, denoting <i>completeness</i> or
+<i>past</i> time, and <b>-ota</b>, <i>about to be</i> (going to
+be), denoting <i>action not yet begun</i>, or <i>future</i> time,
+are added to the root of the verb, as <i>ami</i>, to love,
+<i>amata</i>, being loved, <i>amita</i>, having been loved,
+<i>amota</i>, going to be loved. <i>La &#349;telisto estas
+ser&#265;ata de la policanoj</i> [Footnote: <i>De</i> is used
+after these participles to denote the <i>doer</i> of the
+action.], The thief is being searched for by the police. <i>La
+fenestro estas rompita</i>, The window has been broken. <i>La
+laboro estas finota morga&#365;</i>, The work is going to be
+finished to-morrow.</p>
+
+<p>It will be seen that these words ending in <i>-ata</i>,
+<i>-ita</i>, <i>-ota</i> describe the subject or show the
+<i>condition</i> or <i>state</i> in which the subject is,
+therefore they are adjectival; the thief is a <i>searched-for</i>
+thief, the window was a <i>broken</i> window, the work is a
+<i>going-to-be-finished</i> work (compare The work will be
+<i>ready</i> to-morrow). They are called <span style=
+"font-variant: small-caps">Participles</span>, and being
+adjectival, take <i>j</i> when the noun to which they belong is
+plural.
+<!-- formatted even more unlike other earlier similar statements -->
+</p>
+
+<!-- =============================039.png============================ -->
+<center>
+<table border="1" cellpadding="8">
+<tr>
+<td nowrap><i>Mi estas tenata</i></td>
+<td>I am (being) held.</td>
+</tr>
+
+<tr>
+<td nowrap><i>Li estis tenata</i></td>
+<td>He was (being) held.</td>
+</tr>
+
+<tr>
+<td nowrap><i>Ni estos tenataj</i></td>
+<td>We shall be (being) held.</td>
+</tr>
+
+<tr>
+<td nowrap><i>Vi estus tenataj</i></td>
+<td>You would be (being) held.</td>
+</tr>
+
+<tr>
+<td nowrap><i>Ke ili estu tenataj</i></td>
+<td>That they may be (being) held.</td>
+</tr>
+
+<tr>
+<td nowrap><i>Estu tenata</i></td>
+<td>Be (being) held.</td>
+</tr>
+
+<tr>
+<td nowrap><i>Esti tenata</i></td>
+<td>To be (being) held.</td>
+</tr>
+
+<tr>
+<td colspan="2"> </td>
+</tr>
+
+<tr>
+<td nowrap><i>Mi estas vidita</i></td>
+<td>I am (in the state of) having been seen, or, I have been
+seen.</td>
+</tr>
+
+<tr>
+<td nowrap><i>Li estis vidita</i></td>
+<td>He was (in the state of) having been seen, or, he had been
+seen.</td>
+</tr>
+
+<tr>
+<td nowrap><i>Ni estos viditaj</i></td>
+<td>We shall be (in the state of) having been seen, or, we shall
+have been seen.</td>
+</tr>
+
+<tr>
+<td nowrap><i>Vi estus viditaj</i></td>
+<td>You would be (in the state of) having been seen, or, you
+would have been seen.</td>
+</tr>
+
+<tr>
+<td nowrap><i>(Ke) ili estu viditaj</i></td>
+<td>(That) they may be (in the state of) having been seen, or,
+that they may have been seen.</td>
+</tr>
+
+<tr>
+<td nowrap><i>Esti vidita</i></td>
+<td>To be (in the state of) having been seen, or, to have been
+seen.</td>
+</tr>
+
+<tr>
+<td colspan="2"> </td>
+</tr>
+
+<tr>
+<td nowrap><i>Mi estas la&#365;dota</i></td>
+<td>I am about (going) to be praised.</td>
+</tr>
+
+<tr>
+<td nowrap><i>&#348;i estis la&#365;dota</i></td>
+<td>She was about (going) to be praised.</td>
+</tr>
+
+<tr>
+<td nowrap><i>Ni estos la&#365;dotaj</i></td>
+<td>We shall be about (going) to be praised.</td>
+</tr>
+
+<tr>
+<td nowrap><i>Vi estus la&#365;dotaj</i></td>
+<td>You would be about (going) to be praised.</td>
+</tr>
+
+<tr>
+<td nowrap><i>(Ke) ili estu la&#365;dotaj</i></td>
+<td>(That) they should be about (going) to be praised.</td>
+</tr>
+
+<tr>
+<td nowrap><i>Esti la&#365;dota</i></td>
+<td>To be about (going) to be praised.</td>
+</tr>
+</table>
+</center>
+
+<!--
+<i>Mi estas tenata</i> ...... I am (being) held.
+<i>Li estis tenata</i> ...... He was (being) held.
+<i>Ni estos tenataj</i> ..... We shall be (being) held.
+<i>Vi estus tenataj</i> ..... You would be (being) held.
+<i>Ke ili estu tenataj</i> .. That they may be (being) held.
+<i>Estu tenata</i> .......... Be (being) held.
+<i>Esti tenata</i> .......... To be (being) held.
+<i>Mi estas vidita</i> ...... I am (in the state of) having
+                              been seen, or, I have been
+                              seen.
+<i>Li estis vidita</i> ...... He was (in the state of) having
+                              been seen, or, he had been
+                              seen.
+<i>Ni estos viditaj</i> ..... We shall be (in the state of)
+                              having been seen, or, we
+                              shall have been seen.
+<i>Vi estus viditaj</i>.  You would be (in the state of)
+                               having been seen, or, you
+                               would have been seen.
+<i>(Ke) ili estu viditaj</i>. (That) they may be (in the
+                               state of) having been seen,
+                               or, that they may have been
+                               seen.
+<i>Esti vidita</i>.  To be (in the state of) having
+                               been seen, or, to have been
+                               seen.
+<i>Mi estas la&#365;dota</i>. I am about (going) to be praised.
+<i>&#348;i estis la&#365;dota</i>. She was about (going) to be
+                               praised.
+<i>Ni estos la&#365;dotaj</i> .... We shall be about (going) to
+                               be praised.
+<i>Vi estus la&#365;dotaj</i> .... You would be about (going)
+                               to be praised.
+<i>(Ke) ili estu la&#365;dotaj</i> (That) they should be about
+                               (going) to be praised.
+<i>Esti la&#365;dota</i> ......... To be about (going) to be
+                               praised.
+-->
+<center>
+<table cellspacing="8">
+<caption><b>Vocabulary.</b></caption>
+
+<tr>
+<td nowrap valign="top"><i>komerca&#309;o</i>, commodity.<br>
+ <i>surtuto</i>, overcoat.<br>
+ <i>&#349;uldo</i>, debt.<br>
+ <i>ringo</i>, ring.<br>
+ <i>projekto</i>, project.<br>
+ <i>in&#285;eniero</i>, civil engineer.<br>
+ <i>fervojo</i>, railroad.<br>
+ <i>pre&#285;o</i>, prayer.<br>
+ <i>pasero</i>, sparrow.<br>
+ <i>aglo</i>, eagle.<br>
+ <i>invit-</i>, invite.<br>
+ <i>konstru-</i>, construct.</td>
+<td nowrap valign="top"><i>sciig-</i>, inform.<br>
+ <i>ka&#349;-</i>, hide.<br>
+ <i>pens-</i>, think.<br>
+ <i>kapt-</i>, capture.<br>
+ <i>trankvila</i>, quiet.<br>
+ <i>tuta</i>, all, whole.<br>
+ <i>grava</i>, important.<br>
+ <i>ora</i>, golden.<br>
+ <i>volonte</i>, willingly.<br>
+ <i>sekve</i>, consequently.<br>
+ <i>la&#365;</i>, according to.</td>
+</tr>
+</table>
+</center>
+
+<!-- =============================040.png============================ -->
+<p>Mi estas amata. Mi estis amata. Mi estos amata. Mi estus
+amata. Estu amata. Esti amata. Vi estas lavita. Vi estis lavita.
+Vi estos lavita. Vi estus lavita. Estu lavita. Esti lavita. Li
+estas invitota. Li estis invitota. Li estos invitota. Li estus
+invitota. Estu invitota. Esti invitota. Tiu &#265;i
+komerca&#309;o estas &#265;iam volonte a&#265;etata de mi. La
+surtuto estas a&#265;etita de mi; sekve &#285;i apartenas al mi.
+Kiam via domo estis konstruata, mia domo estis jam longe
+konstruita. Mi sciigas, ke de nun la &#349;uldoj de mia filo ne
+estos pagataj de mi. Estu trankvila, mia tuta &#349;uldo estos
+pagita al vi balda&#365;. Mia ora ringo ne estus tiel longe
+ser&#265;ata, se &#285;i ne estus tiel lerte ka&#349;ita de vi.
+La&#365; la projekto de la in&#285;enieroj tiu &#265;i fervojo
+estas konstruota en la da&#365;ro de du jaroj; sed mi pensas, ke
+&#285;i estos konstruata pli ol tri jarojn. Kiam la pre&#285;o
+estis finita, li sin levis.</p>
+
+<p>A&#365;gusto estas mia plej amata filo. Mono havata estas pli
+grava ol havita. Pasero kaptita estas pli bona, ol aglo
+kaptota.</p>

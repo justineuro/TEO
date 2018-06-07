@@ -1,0 +1,274 @@
+---
+title: "" #"46 - Arrangement of Words in a Sentence"
+author: "" #"JLAUro"
+date: "" #"May 21, 2017"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+<br/><br/>
+
+<center><b>ARRANGEMENT OF WORDS IN THE SENTENCE.</b></center>
+
+<p>In English the sense often depends entirely on the order of
+the words, <i>e.g.</i>, the sentence "John saw George" would mean
+something quite different if reversed&mdash;"George saw John."
+But in Esperanto, thanks to the accusative <b>n</b>, the endings
+<b>a</b> and <b>e</b> for participles, and the pronoun <b>si</b>,
+the order of words may be varied without altering the sense.
+"Georgon vidis Johano" means exactly the same as "Johano vidis
+Georgon."</p>
+
+<p>But though the meaning can in most cases be understood
+whatever the order of the words, it is best to adopt the simplest
+arrangement, and to follow the natural course of thought, which
+is, first, that about which we think, then that which we think
+about it. English students may frame their sentences exactly as
+they would in their own language. In Esperanto, as in English,
+the arrangement is sometimes altered, either for emphasis, as
+<i>La&#365;data estu Dio!</i> Praised be God!; or to please the
+ear, as <i>Oni min admiras</i>, instead of <i>Oni admiras
+min</i>, People admire me.</p>
+
+<!-- =============================092.png============================ -->
+<p><i>Note</i>.&mdash;Care must be taken in placing the word
+"ne." Its usual place is before the verb, when it negatives the
+whole sentence. Study the effect of placing <i>ne</i> in
+different positions in the sentence <i>Mi deziras vidi Johanon
+kaj lian fraton</i>, I wish to see John and his
+brother:&mdash;</p>
+
+<p>(i.). <i>Mi ne deziras vidi Johanon kaj lian fraton</i>, I do
+not wish to see John and his brother.</p>
+
+<p>(ii.). <i>Mi deziras ne vidi Johanon kaj lian fraton</i>, I
+wish not to see John and his brother, <i>i.e.</i>, I wish to
+avoid seeing them.</p>
+
+<p>(iii.). <i>Mi deziras vidi ne Johanon, sed lian fraton</i>, I
+wish to see not John, but his brother.</p>
+
+<p>(iv.). <i>Mi deziras vidi Johanon kaj ne lian fraton</i>, I
+wish to see John and not his brother.</p>
+
+<p><i>Ne tute</i> means "not quite," while <i>tute ne</i> means
+"not at all."</p>
+
+<p><i>Jam ne</i> means "no longer." "Not yet" is <i>ankora&#365;
+ne</i>.</p>
+
+<p>Words which are already international, such as <i>microscope,
+telephone, automobile</i>, etc., are adopted unchanged, except as
+to the spelling and termination, as <i>mikroskopo, telefono,
+a&#365;tomobilo.</i></p>
+
+<center><b>WORDS USED WITH THE OBJECT.</b></center>
+
+<p>As already said, when an adjective or participle (or a noun)
+is added to the object simply as a describing word, it takes
+<i>n</i> like the object, as <i>Li perdis sian novan libron</i>
+(<i>a&#365;</i>, sian libron novan), He lost his new book.
+<i>&#348;i trankviligis la kriegantan infanon</i> (a&#365;, <i>la
+infanon kriegantan</i>), She pacified the screaming child. <i>Li
+vizitis sian fraton Johanon</i>, He visited his brother John.
+("John" shows <i>which</i> brother).</p>
+
+<!-- =============================093.png============================ -->
+<p>But if the adjective, participle, or noun is used not merely
+to describe, but indirectly to tell something about the object,
+it does not take <i>n</i>. A comparison of the following
+sentences will make this clear:&mdash;</p>
+
+<center>
+<table>
+<tr>
+<td rowspan="2" valign="top">1. </td>
+<td><i>Li trovis la pomojn maturajn</i>. He found the ripe
+apples.</td>
+</tr>
+
+<tr>
+<td><i>Li trovis la pomojn maturaj</i>. He found (that) the
+apples (were) ripe.</td>
+</tr>
+
+<tr>
+<td rowspan="2" valign="top">2. </td>
+<td><i>Li trovis la kru&#265;on rompitan</i>. He found the broken
+jug.</td>
+</tr>
+
+<tr>
+<td><i>Li trovis la kru&#265;on rompita</i>. He found (that) the
+jug (was) broken.</td>
+</tr>
+
+<tr>
+<td rowspan="2" valign="top">3. </td>
+<td><i>Li kolorigis la drapon ru&#285;an</i>. He dyed the red
+cloth.</td>
+</tr>
+
+<tr>
+<td><i>Li kolorigis la drapon ru&#285;a</i>. He dyed the cloth
+red.</td>
+</tr>
+
+<tr>
+<td rowspan="2" valign="top">4. </td>
+<td><i>Li tran&#265;is (a&#365; faris) la veston tro
+mallongan</i>. He cut (or made) the too-short coat (the coat that
+was too short).</td>
+</tr>
+
+<tr>
+<td><i>Li tran&#265;is la veston tro mallonga</i>. He cut the
+coat (so that it was) too short.</td>
+</tr>
+
+<tr>
+<td valign="top">5. </td>
+<td><i>Li nomis la knabon mensogisto</i>. He called the boy a
+liar.</td>
+</tr>
+</table>
+</center>
+
+<p>Compare this use of words with the following:&mdash;</p>
+
+<p>He made his father angry (or, be angered). <i>Li kolerigis
+sian patron</i>, or, <i>li igis sian patron kolera</i>.</p>
+
+<p>The loss drove him mad. <i>La perdo frenezigis lin</i>, or,
+<i>igis lin freneza</i>.</p>
+
+<p>It rendered the gun useless. <i>&#284;i senutiligis la
+pafilon</i>, or, <i>igis la pafilon senutila</i>.</p>
+
+<!-- =============================094.png============================ -->
+<center><b>COMPLETE GRAMMAR OF ESPERANTO.</b><br>
+ <span style="font-variant: small-caps">By Dr.
+Zamenhof.</span></center>
+
+<center>A.&mdash;<i>Alphabet</i>.</center>
+
+<p>Aa, Bb, Cc, &#264;&#265;, Dd, Ee, Ff, Gg, &#284;&#285;, Hh,
+&#292;&#293;, Ii, Jj, &#308;&#309;, Kk, Ll, Mm, Nn, Oo, Pp, Rr,
+Ss, &#348;&#349;, Tt, Uu, &#364;&#365;, Vv, Zz [Footnote: Names
+of the letters: a, bo, co, &#265;o, do, e, fo, go, &#285;o, ho,
+&#293;o, i, jo, &#309;o, ko, lo, mo, no, o, po, ro, so, &#349;o,
+to, u, &#365;o, vo, zo.]</p>
+
+<p><i>Remark</i>.&mdash;Presses which do not possess the accented
+letters can use instead of them ch, gh, hh, jh, sh, u.</p>
+
+<center>B.&mdash;<i>Rules</i>.</center>
+
+<p>(1) There is no indefinite <span style=
+"font-variant: small-caps">Article</span>; there is only a
+definite article (<i>la</i>), alike for all sexes, cases, and
+numbers.</p>
+
+<p><i>Remark</i>.&mdash;The use of the article is the same as in
+the other languages. People who find a difficulty in the use of
+the article need not at first use it at all.</p>
+
+<p>(2) <span style="font-variant: small-caps">Substantives</span>
+have the termination <i>o</i>. To form the plural the termination
+<i>j</i> is added. There are only two cases: nominative and
+accusative; the latter is obtained from the nominative by the
+addition of the termination <i>n</i>. Other cases are expressed
+by the aid of prepositions (the genitive by <i>de</i>, the dative
+by <i>al</i>, the ablative by <i>per</i>, or other prepositions
+according to sense).</p>
+
+<p>(3) The <span style=
+"font-variant: small-caps">Adjective</span> ends in <i>a</i>.
+Case and number as with the substantive. The Comparative is made
+by means of the word <i>pli</i>, the Superlative by <i>plej</i>;
+with the Comparative the conjunction <i>ol</i> is used.</p>
+
+<p>(4) The fundamental <span style=
+"font-variant: small-caps">Numerals</span> (they are not
+declined) are: <i>unu, du, tri, kvar, kvin, ses, sep, ok,
+na&#365;, dek, cent, mil.</i> The tens and hundreds are formed by
+simple junction of the numerals. To mark the ordinal numerals the
+termination of the adjective is added; for the multiple&mdash;the
+suffix <i>obl</i>, for the fractional&mdash;<i>on</i>, for the
+collective&mdash;<i>op</i>, for the distributive&mdash;the word
+<i>po</i>. Substantival and adverbial numerals can also be
+used.</p>
+
+<!-- =============================095.png============================ -->
+<p>(5) Personal <span style=
+"font-variant: small-caps">Pronouns</span>: <i>mi, vi, li,
+&#349;i, &#285;i</i> (referring to thing or animal), <i>si, ni,
+vi, ili, oni</i>; the possessive pronouns are formed by the
+addition of the adjectival termination. Declension is as with the
+substantives.</p>
+
+<p>(6) The <span style="font-variant: small-caps">Verb</span>
+undergoes no change with regard to person or number. Forms of the
+verb; time <i>being</i> (Present) takes the termination
+<i>-as;</i> time <i>been</i> (Past) <i>-is</i>; time <i>about to
+be</i> (Future) <i>-os</i>; the Conditional mood <i>-us;</i> the
+Ordering mood <i>-u;</i> the Indefinite <i>-i.</i> Participles
+(with an adjectival or adverbial sense): active present
+<i>-ant;</i> active past <i>-int;</i> active future <i>-ont;</i>
+passive present <i>-at;</i> passive past <i>-it;</i> passive
+future <i>-ot.</i> All forms of the passive are formed by the aid
+of a corresponding form of the verb <i>esti</i> and a passive
+participle of the required verb; the preposition with the passive
+is <i>de.</i></p>
+
+<p>(7) <span style="font-variant: small-caps">Adverbs</span> end
+in <i>e;</i> degrees of comparison as with the adjectives.</p>
+
+<p>(8) <i>All</i> the <span style=
+"font-variant: small-caps">Prepositions</span> require the
+nominative.</p>
+
+<p>(9) <i>Every</i> word is read as it is written.</p>
+
+<p>(10) The <span style="font-variant: small-caps">Accent</span>
+is <i>always</i> on the penultimate syllable.</p>
+
+<p>(11) <span style="font-variant: small-caps">Compound
+Words</span> are formed by simple junction of the words (the
+chief word stands at the end); the grammatical terminations are
+also regarded as independent words.</p>
+
+<p>(12) When another <span style=
+"font-variant: small-caps">Negative</span> word is present the
+word <i>ne</i> is left out.</p>
+
+<p>(13) In order to show <span style=
+"font-variant: small-caps">Direction</span> words take the
+termination of the accusative.</p>
+
+<p>(14) Each <span style=
+"font-variant: small-caps">Preposition</span> has a definite and
+constant meaning; but if we have to use some preposition and the
+direct sense does not indicate to us what special preposition we
+are to take, then we use the preposition <i>je</i> which has no
+meaning of its own. Instead of the preposition <i>je</i> we can
+also use the accusative without a preposition.</p>
+
+<!-- =============================096.png============================ -->
+<p>(15) The so-called <span style=
+"font-variant: small-caps">Foreign Words</span>, that is, those
+which the majority of languages have taken from one source, are
+used in the Esperanto language without change, merely obtaining
+the spelling of the latter; but with different words from one
+root it is better to use unchanged only the fundamental word and
+to form the rest from this latter in accordance with the rules of
+the Esperanto language.</p>
+
+<p>(16) The <span style="font-variant: small-caps">Final
+Vowel</span> of the substantive and of the article can be dropped
+and replaced by an apostrophe.</p>
+
+<hr align="center" width="38%">

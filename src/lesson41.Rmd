@@ -1,0 +1,98 @@
+---
+title: "" #"Lesson 41 - Suffixes: -aĵ-, -ec-"
+author: "" #"JLAUro"
+date: "" #"May 21, 2017"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+<br/><br/>
+
+<center><b>LESSON 41.</b></center>
+
+<center><i>Suffixes</i> <b>-a&#309;-, -ec-.</b></center>
+
+<p><b>-a&#309;-</b> denotes a <i>thing</i> (i.) <i>made from</i>
+or <i>of</i> the substance named, or (ii.) having the
+<i>quality</i> or <i>character</i> named, or (iii.) <i>resulting
+from</i> the action expressed by the word to which it is added,
+as <i>Ovo</i>, an egg, <i>ova&#309;o</i>, something made of eggs,
+an omelette; <i>Mirinda</i>, wonderful, <i>mirinda&#309;o</i>, a
+wonderful thing, a wonder; <i>Trovi</i>, to find,
+<i>trova&#309;o</i> (or, <i>trovita&#309;o</i>), a thing
+found.</p>
+
+<!-- =============================082.png============================ -->
+<p><b>-ec-</b> denotes <i>quality</i>; it forms the name of a
+quality; as, <i>Bona</i>, good; <i>boneco</i>, goodness.
+<i>Ri&#265;a</i>, rich; <i>ri&#265;eco</i>, richness.
+<i>Akurata</i>, accurate, prompt; <i>akurateco</i>, accuracy.
+<i>Mola</i>, soft; <i>mola&#309;o</i>, a soft thing;
+<i>moleco</i>, softness. <i>Amiko</i>, a friend;
+<i>amika&#309;o</i>, a friendly act; <i>amikeco</i>,
+friendliness, friendship. <i>Eco</i>, quality.</p>
+
+<center>
+<table cellspacing="8">
+<caption><b>Vocabulary.</b></caption>
+
+<tr>
+<td nowrap valign="top"><i>kuko</i>, cake.<br>
+ <i>ligno</i>, wood (substance).<br>
+ <i>alkoholo</i>, alcohol.<br>
+ <i>araneo</i>, spider.<br>
+ <i>ceremonio</i>, ceremony.<br>
+ <i>heroo</i>, hero.<br>
+ <i>franda&#309;o</i>, a dainty.<br>
+ <i>acido</i>, acid.<br>
+ <i>vinagro</i>, vinegar.<br>
+ <i>sulfuro</i>, sulphur.<br>
+ <i>azotacido</i>, nitric acid.</td>
+<td nowrap valign="top"><i>lago</i>, lake.<br>
+ <i>objekto</i>, object, thing.<br>
+ <i>tren-</i>, drag.<br>
+ <i>fotograf-</i>, photograph.<br>
+ <i>konfit-</i>, preserve with sugar.<br>
+ <i>pak-</i>, pack.<br>
+ <i>la ceteraj</i>, the rest, remainder.<br>
+ <i>mirinda</i>, wonderful.<br>
+ <i>peza</i>, heavy.<br>
+ <i>oportuna</i>, convenient.</td>
+</tr>
+</table>
+</center>
+
+<p>La fotografisto fotografis min, kaj mi sendis mian
+fotografa&#309;on al mia patro. Vi parolas sensenca&#309;on, mia
+amiko. Mi trinkis teon kun kuko kaj konfita&#309;o. Akvo estas
+fluida&#309;o. Mi ne volis trinki la vinon, &#265;ar &#285;i
+enhavis en si ian malklara&#309;on. Sur la tablo staris diversaj
+sukera&#309;oj. Mi man&#285;is bongustan ova&#309;on. Kiam mi ien
+veturas, mi neniam prenas kun mi multon da paka&#309;o.
+Glacia&#309;o estas dol&#265;a glaciigita franda&#309;o. La tuta
+supra&#309;o de la lago estis kovrita per na&#285;antaj folioj
+kaj diversaj aliaj kreska&#309;oj. La lignisto vendas lignon, kaj
+la ligna&#309;isto faras tablojn, se&#285;ojn kaj aliajn lignajn
+objektojn. Mi uzas nenian alkohola&#309;on. Lia maljuna patrino
+kondukis la mastra&#309;on de la domo. "Malbonan ekstera&#309;on
+li havis," respondis la hebreo. &#348;i pripensis la
+farita&#309;ojn de la tago pasinta. &#284;i estas tiel malpeza,
+kiel aranea&#309;o. La trena&#309;o de la vesto estis longa. Ili
+sin movas, kiel vivaj esta&#309;oj.</p>
+
+<!-- =============================083.png============================ -->
+<p>Li amas tiun &#265;i knabinon pro &#349;ia beleco kaj boneco.
+Lia heroeco tre pla&#265;is al mi. Mi vivas kun ili en granda
+amikeco. Ni estas ja en la proksimeco de la rivero. Tio &#265;i
+estas la plej grava eco. Kortega ceremonio postulas
+maloportunecon. La ri&#265;eco de tiu &#265;i homo estas granda,
+sed lia malsa&#285;eco estas ankora&#365; pli granda.</p>
+
+<p>En tiuj &#265;i boteletoj sin trovas (trovi&#285;as) diversaj
+acidoj, vinagro, sulfuracido, azotacido kaj aliaj. La acideco de
+tiu &#265;i vinagro estas tre malforta. Via vino estas nur ia
+abomena acida&#309;o. Tiu &#265;i granda alta&#309;o ne estas
+natura monto. La alteco de tiu monto ne, estas tre granda.</p>

@@ -1,0 +1,61 @@
+---
+title: "" #"Lesson 27 - Al"
+author: "" #"JLAUro"
+date: "" #"May 21, 2017"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+<br/><br/>
+
+<center><b>LESSON 27.</b></center>
+
+<center><b>Al.</b></center>
+
+<p><b>Al</b> signifies <i>to</i> or <i>towards</i> a person or
+place. It is also used before the noun or pronoun which signifies
+<i>person</i> after such verbs as <i>give, tell</i>, etc., which
+take two objects in different relations to the verb, as&mdash;
+Give (to) him the book, <i>Donu al li la libron.</i> Tell (to)
+him the truth, <i>Diru al li la veron.</i> Write (to) him a
+letter, <i>Skribu al li leteron.</i> In such cases we can say
+<i>Pardonu lin</i>, Pardon him, if the "thing" object is not
+mentioned, but we cannot say <i>Pardonu lin la kulpon</i>,
+Forgive him his fault; it must be <i>Pardonu al li la kulpon.</i>
+The pronoun with "al" is sometimes used instead of the possessive
+(pronoun) adjective <i>mia</i>, etc., as <i>Mi tran&#265;is al mi
+la fingron</i>, for <i>Mi tran&#265;is mian fingron</i>, I cut my
+finger. <i>"&#348;i kombis al si la harojn,"</i> instead of
+<i>"&#348;i kombis siajn harojn,"</i> She combed her hair.</p>
+
+<p><i>Al</i> is frequently used as a prefix as well as after the
+verb, as <i>aldoni</i>, to add; <i>alpreni</i>, to adopt;
+<i>ali&#285;i</i>, to adhere; <i>alju&#285;i</i>, to award.</p>
+
+<center>
+<table cellspacing="8">
+<caption><b>Vocabulary.</b></caption>
+
+<tr>
+<td nowrap valign="top"><i>sor&#265;isto</i>, sorcerer.<br>
+ <i>detran&#265;-</i>, cut off.</td>
+<td nowrap valign="top"><i>promes-</i>, promise.<br>
+ <i>amba&#365;</i>, both.</td>
+</tr>
+</table>
+</center>
+
+<!-- =============================065.png============================ -->
+<p>&#348;i revenis al la palaco de sia patro. Ili amba&#365; iris
+al la urbestro. &#264;u mi ne faris al vi bonon? &#348;i nenion
+al ili rakontis. &#348;i skribis al li leteron. &#264;iutage li
+instruas al la homoj ion, kion ili ne scias. Ili flugis al la
+suno. Unu fratino promesis al la alia rakonti al &#349;i, kion
+&#349;i vidis kaj kio la plej multe pla&#265;is al &#349;i en la
+unua tago. Eble li al vi pardonos. &#348;i ne kredis al siaj
+propraj oreloj. Li ne sciis, ke al &#349;i li devas danki la
+vivon. Si savis al li la vivon. La sor&#265;istino detran&#265;is
+al la virineto de maro la langon.</p>

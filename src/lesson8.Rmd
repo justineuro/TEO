@@ -1,0 +1,136 @@
+---
+title: "" #"Lesson 8 - Words"
+author: "" #"JLAUro"
+date: "" #"May 18, 2017"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+<br/><br/>
+
+<center><b>LESSON 8.</b></center>
+
+The Cardinal Numbers are:&mdash;
+
+<center>
+<table cellspacing="16">
+<tr>
+<td nowrap valign="top">unu, 1<br>
+ du, 2<br>
+ tri, 3</td>
+<td nowrap valign="top">kvar, 4<br>
+ kvin, 5<br>
+ ses, 6</td>
+<td nowrap valign="top">sep, 7<br>
+ ok, 8<br>
+ na&#365;, 9</td>
+<td nowrap valign="top">dek, 10<br>
+ cent, 100<br>
+ mil, 1,000</td>
+</tr>
+</table>
+</center>
+
+<p>The numbers above 10 are written and read exactly as they are
+set down in figures:&mdash;11, dek unu; 12, dek du; 13, dek tri;
+19, dek na&#365;. The "tens" are written as one word, 20, dudek;
+30, tridek; 90, na&#365;dek; 23, dudek tri; 47, kvardek sep; 85,
+okdek kvin; 136, cent tridek ses; 208, ducent (as one word) ok;
+359, tricent kvindek na&#365;; 1,001, mil unu; 2,877, dumil
+okcent sepdek sep; 1907, mil na&#365;cent sep.</p>
+
+<p>Notice that there is a separate word for each figure except 0,
+nulo.</p>
+
+<center>
+<table cellspacing="8">
+<caption><b>Vocabulary.</b></caption>
+
+<tr>
+<td nowrap valign="top"><i>bu&#349;o</i>, mouth.<br>
+ <i>orelo</i>, ear.<br>
+ <i>fingro</i>, finger.<br>
+ <i>horo</i>, hour.<br>
+ <i>minuto</i>, minute.<br>
+ <i>sekundo</i>, second.<br>
+ <i>monato</i>, month.<br>
+ <i>semajno</i>, week.<br>
+ <i>dato</i>, date (of month, etc.).<br>
+ <i>pov-</i>, can, be able.<br>
+ <i>promen-</i>, take a walk.<br>
+ <i>konsist-</i>, consist.<br>
+ <i>elekt-</i>, choose, elect.<br>
+ <i>forges-</i>, forget.</td>
+<td nowrap valign="top"><i>kre-</i>, create.<br>
+ <i>estu</i>, should be.<br>
+ <i>facile</i>, easily.<br>
+ <i>sankta</i>, holy.<br>
+ <i>unuj</i>, some.<br>
+ <i>alia</i>, other.<br>
+ <i>&#265;io</i>, everything, all.<br>
+ <i>multe</i>, much, many.<br>
+ <i>per</i>, by means of, through, with.<br>
+ <i>nur</i>, only.<br>
+ <i>malbona</i>, bad.<br>
+ <i>Kristnaska Tago</i>, Christmas Day.</td>
+</tr>
+
+<tr>
+<td nowrap valign="top"><i>Januaro</i>, January.<br>
+ <i>Februaro</i>, February.<br>
+ <i>Marto</i>, March.<br>
+ <i>Aprilo</i>, April.<br>
+ <i>Majo</i>, May.<br>
+ <i>Junio</i>, June.</td>
+<td nowrap valign="top"><i>Julio</i>, July.<br>
+ <i>A&#365;gusto</i>, August.<br>
+ <i>Septembro</i>, September.<br>
+ <i>Oktobro</i>, October.<br>
+ <i>Novembro</i>, November.<br>
+ <i>Decembro</i>, December.</td>
+</tr>
+</table>
+</center>
+
+<!-- =============================025.png============================ -->
+<p>Du homoj povas pli multe fari, ol unu. Mi havas nur unu
+bu&#349;on, sed mi havas du orelojn. Li promenas kun tri hundoj.
+Li faris &#265;ion per la dek fingroj de siaj manoj. El &#349;iaj
+multaj infanoj unuj estas bonaj kaj aliaj malbonaj. Kvin kaj sep
+faras dek du. Dek kaj dek faras dudek. Kvar kaj dek ok faras
+dudek du. Tridek kaj kvardek kvin faras sepdek kvin. Mil okcent
+na&#365;dek tri. Li havas dek unu infanojn. Sesdek minutoj faras
+unu horon, kaj unu minuto konsistas el sesdek sekundoj.</p>
+
+<center><b>8a.</b></center>
+
+<p>The Ordinal Numbers, first, second, etc., are formed by adding
+<i>a</i> to the Cardinal Numbers, as <i>unua</i>, first;
+<i>dua</i>, second; <i>tria</i>, third; <i>kvara</i>, fourth;
+<i>deka</i>, tenth; <i>centa</i>, hundredth; <i>mila</i>,
+thousandth. The compound numbers are joined together by hyphens,
+and <i>a</i> is added to the last, as <i>dek-unua</i>, eleventh;
+<i>la tridek-na&#365;a pa&#285;o</i>, the thirty-ninth page; la
+<i>cent-kvardek-kvina psalmo</i>, the 145th psalm. Being
+adjectives, the Ordinal Numbers take the plural <i>j</i> and
+accusative <i>n</i> when necessary.</p>
+
+<p>The Ordinals are used to tell the hour, as <i>Estas la trio,
+horo</i>, It is 3 o'clock. The Cardinal Numbers are used for the
+minutes, as "A quarter past three" is "<i>La tria horo kaj
+dek-kvin</i>"; "Ten minutes to five," "<i>La kvara horo kaj
+kvindek</i>."</p>
+
+<!-- =============================026.png============================ -->
+<p>Januaro estas la unua monato de la jaro, Aprilo estas la
+kvara, Novembro estas la dek-unua, kaj Decembro estas la dek-dua.
+La dudeka (tago) de Februaro estas la kvindek-unua tago de la
+jaro. La sepan tagon de la semajno Dio elektis, ke &#285;i estu
+pli sankta, ol la ses unuaj tagoj. Kion Dio kreis en la sesa
+tago? Kiun daton ni havas hodia&#365;? Hodia&#365; estas la
+dudek-sepa (tago) de Marto. Kristnaska Tago estas la dudek-kvina
+(tago) de Decembro, Novjara Tago estas la unua de Januaro. Oni ne
+forgesas facile sian unuan amon.</p>

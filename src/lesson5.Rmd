@@ -1,0 +1,285 @@
+---
+title: "" #"Lesson 5 - Words"
+author: "" #"JLAUro"
+date: "" #"May 18, 2017"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+<br/><br/>
+
+<center><b>LESSON 5.</b></center>
+
+<center><i>The use of final</i> <b>n</b>.</center>
+
+<!-- =============================018.png============================ -->
+<p>In order to understand the meaning of a sentence it is
+necessary to be able to recognise clearly and unmistakably what
+it is that is spoken about, that is, what the <i>subject of the
+sentence</i> is. In English this is often to be recognised only
+by its position in the sentence. For instance, the three
+words&mdash;visited, John, George, can be arranged to mean two
+entirely, different things, either "John visited George," or
+"George visited John." [Footnote: In teaching Esperanto to
+children it is well to make sure before going further that they
+thoroughly understand, what the subject is. <i>The subject is
+that which we think or speak about. The word which stands for it
+is the subject of the sentence</i>. The children may be required
+to underline the subject of each sentence in a suitable piece of
+prose or verse.] In Esperanto the sense does not depend on the
+arrangement&mdash;" <i>Johano vizitis Georgon</i>" and
+"<i>Georgon vizitis Johano</i>" mean exactly the same thing, that
+John visited George, the <b>n</b> at the end of "Georgon" showing
+that "Georgon" is <b>not</b> the subject. There is no want of
+clearness about the following (Esperanto) sentences, absurd as
+they are in English:&mdash;</p>
+
+<center>
+<table>
+<tr>
+<td align="center"><i>La</i></td>
+<td align="center"><i>patron</i></td>
+<td align="center"><i>mordis</i></td>
+<td align="center"><i>la</i></td>
+<td align="center"><i>hundo.</i></td>
+</tr>
+
+<tr>
+<td align="center">The</td>
+<td align="center">father</td>
+<td align="center">bit</td>
+<td align="center">the</td>
+<td align="center">dog.</td>
+</tr>
+
+<tr>
+<td colspan="5"> </td>
+</tr>
+
+<tr>
+<td align="center"><i>La</i></td>
+<td align="center"><i>infanon</i></td>
+<td align="center"><i>gratis</i></td>
+<td align="center"><i>la</i></td>
+<td align="center"><i>kato.</i></td>
+</tr>
+
+<tr>
+<td align="center">The</td>
+<td align="center">child</td>
+<td align="center">scratched</td>
+<td align="center">the</td>
+<td align="center">cat.</td>
+</tr>
+
+<tr>
+<td colspan="5"> </td>
+</tr>
+
+<tr>
+<td align="center"><i>La</i></td>
+<td align="center"><i>birdojn</i></td>
+<td align="center"><i>pafis</i></td>
+<td align="center"><i>Johano.</i></td>
+<td align="center"> </td>
+</tr>
+
+<tr>
+<td align="center">The</td>
+<td align="center">birds</td>
+<td align="center">shot</td>
+<td align="center">John.</td>
+<td align="center"> </td>
+</tr>
+
+<tr>
+<td colspan="5"> </td>
+</tr>
+
+<tr>
+<td align="center"><i>La</i></td>
+<td align="center"><i>musojn</i></td>
+<td align="center"><i>kaptis</i></td>
+<td align="center"><i>la</i></td>
+<td align="center"><i>knabo.</i></td>
+</tr>
+
+<tr>
+<td align="center">The</td>
+<td align="center">mice</td>
+<td align="center">caught</td>
+<td align="center">the</td>
+<td align="center">boy.</td>
+</tr>
+
+<tr>
+<td colspan="5"> </td>
+</tr>
+
+<tr>
+<td align="center"><i>La</i></td>
+<td align="center"><i>kokidon</i></td>
+<td align="center"><i>man&#285;is</i></td>
+<td align="center"><i>la</i></td>
+<td align="center"><i>onklo.</i></td>
+</tr>
+
+<tr>
+<td align="center">The</td>
+<td align="center">chicken</td>
+<td align="center">ate</td>
+<td align="center">the</td>
+<td align="center">uncle.</td>
+</tr>
+
+<tr>
+<td colspan="5"> </td>
+</tr>
+
+<tr>
+<td align="center"><i>La</i></td>
+<td align="center"><i>bildon</i></td>
+<td align="center"><i>pentris</i></td>
+<td align="center"><i>la</i></td>
+<td align="center"><i>pentristo.</i></td>
+</tr>
+
+<tr>
+<td align="center">The</td>
+<td align="center">picture</td>
+<td align="center">painted</td>
+<td align="center">the</td>
+<td align="center">painter.</td>
+</tr>
+
+<tr>
+<td colspan="5"> </td>
+</tr>
+
+<tr>
+<td align="center"><i>La</i></td>
+<td align="center"><i>fi&#349;ojn</i></td>
+<td align="center"><i>vendis</i></td>
+<td align="center"><i>la</i></td>
+<td align="center"><i>fi&#349;isto.</i></td>
+</tr>
+
+<tr>
+<td align="center">The</td>
+<td align="center">fish</td>
+<td align="center">sold</td>
+<td align="center">the</td>
+<td align="center">fisherman.</td>
+</tr>
+</table>
+</center>
+
+<p>In these sentences the subjects are at once seen to be
+<i>hundo, kato, Johano, knabo, onklo, pentristo,
+fi&#349;isto</i>, for the final <b>n</b> in <i>patron, infanon,
+birdojn, musojn, kokidon, bildon, fi&#349;ojn</i>, distinguishes
+these words from the subject.</p>
+
+<!-- =============================019.png============================ -->
+<p>This use of <b>n</b> renders clear sentences that are not
+clear in English. "John loves Mary more than George" may mean
+"more than John loves George" or "more than George loves Mary."
+In Esperanto it is quite clear. "<i>Johano amas Marion, pli ol
+Georgo</i>" means "more than George loves Mary," because "Georgo"
+is the subject of the second (elliptical) sentence, but
+"<i>Johano amas Marion, pli ol Georgon</i>" means "more than John
+loves George," because the final <b>n</b> in Georgon shows this
+to be <b>not</b> the subject.</p>
+
+<p>There are cases, however, in which it is not necessary to add
+<b>n</b>, the noun or pronoun being distinguished from the
+subject in another way. Examples are found in the first
+exercise:&mdash;<i>Sur la tero</i> ku&#349;as &#349;tono, <i>On
+the ground</i> lies a stone. <i>Anta&#365; la pordo</i> staras
+arbo, <i>Before the door</i> stands a tree. Notwithstanding their
+position, "ground" and "door" are seen to be <i>not</i> the
+subject, because before them are the words "on," "before," which
+connect them with the rest of the sentence&mdash;it is "on the
+ground," "before the door." So with other sentences.</p>
+
+<p>The words <i>on</i>, <i>before</i>, and others given [in
+Lesson 26] are called <span style=
+"font-variant: small-caps">prepositions</span> <!-- [sic] -->
+(<i>pre</i> = before). The noun or pronoun which follows them can
+never be the subject of the sentence.</p>
+
+<p>Remember, then, that <!-- [sic] -->
+</p>
+
+<p><b>N</b> is added to every noun and pronoun, <i>other than the
+subject</i>, unless it has a preposition before it. [Footnote:
+(i.). The explanation usually given for the use of final <b>n</b>
+is, that <b>n</b> is added to nouns and pronouns (a) in the
+Accusative Case (the direct object), (b) when the preposition is
+omitted. The explanation given above seems to me, however, to be
+much simpler. (ii.). Another use of final <b>n</b> is given later
+[Lesson 12, Lesson 26] ]</p>
+
+<p>When the noun takes <b>n</b>, any adjective which belongs to
+it must also take <b>n</b>, as, <i>Li donas al mi belan
+ru&#285;an floron</i>, He gives me a beautiful red flower. <i>Li
+donas al mi belajn ru&#285;ajn florojn</i>, He gives me beautiful
+red flowers.</p>
+
+<!-- =============================020.png============================ -->
+<center>
+<table cellspacing="8">
+<caption><b>Vocabulary.</b></caption>
+
+<tr>
+<td nowrap valign="top"><i>letero</i>, letter.<br>
+ <i>litero</i>, letter of alphabet.<br>
+ <i>festo</i>, festival, holiday.<br>
+ <i>tago</i>, day.<br>
+ <i>nokto</i>, night.</td>
+<td nowrap valign="top"><i>mateno</i>, morning.<br>
+ <i>multaj</i>, many.<br>
+ <i>obstina</i>, obstinate.<br>
+ <i>&#285;oja</i>, joyful, joyous.<br>
+ <i>hela</i>, bright, clear.</td>
+</tr>
+
+<tr>
+<td nowrap valign="top"><i>amas</i>, loves.<br>
+ <i>vidas</i>, sees.<br>
+ <i>konas</i>, knows.<br>
+ <i>havas</i>, has, possesses.<br>
+ <i>luno</i>, moon.<br>
+ <i>stelo</i>, star.<br>
+ <i>vintro</i>, winter.<br>
+ <i>forno</i>, stove.<br>
+ <i>edzino</i>, wife.</td>
+<td nowrap valign="top"><i>pala</i>, pale.<br>
+ <i>deziras</i>, desires, wishes.<br>
+ <i>eraras</i>, errs, is wrong.<br>
+ <i>vokas</i>, calls.<br>
+ <i>hejtas</i>, heats.<br>
+ <i>hodia&#365;</i>, to-day.<br>
+ <i>malpli</i>, less.<br>
+ <i>kiam</i>, when.<br>
+ <i>kia</i>, what (kind).</td>
+</tr>
+</table>
+</center>
+
+<p>Mi vidas leonon (leonojn). Mi legas libron (librojn). Mi amas
+la patron. Mi konas Johanon. La patro ne legas libron, sed li
+skribas leteron. Mi ne amas obstinajn homojn. Mi deziras al vi
+bonan tagon, sinjoro. Bonan matenon! &#284;ojan feston (mi
+deziras al vi). Kia &#285;oja festo (estas hodia&#365;)! En la
+tago ni vidas la helan sunon, kaj en la nokto ni vidas la palan
+lunon kaj la belajn stelojn. Ni havas pli fre&#349;an panon, ol
+vi. Ne, vi eraras, sinjoro, via pano estas malpli fre&#349;a, ol
+mia. Ni vokas la knabon, kaj li venos. En la vintro oni hejtas la
+fornojn. Kiam oni estas ri&#265;a, oni havas multajn amikojn. Li
+amas min, sed mi lin ne amas. Sinjoro P. kaj lia edzino tre amas
+miajn infanojn; mi anka&#365; tre amas iliajn (infanojn). Mi ne
+konas la sinjoron, kiu legas.</p>

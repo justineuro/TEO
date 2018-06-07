@@ -1,0 +1,86 @@
+---
+title: "" #"Lesson 39 - Kontraŭ. Anstrataŭ. Krom."
+author: "" #"JLAUro"
+date: "" #"May 21, 2017"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+<br/><br/>
+
+<center><b>LESSON 39.</b></center>
+
+<center><b>Kontra&#365;. Anstata&#365;. Krom.</b></center>
+
+<p><b>Kontra&#365;</b> means <i>against, opposite</i>, or <i>in
+opposition to</i> as <i>Li kura&#285;e batalis kune kun ni
+kontra&#365; niaj malamikoj</i>, He courageously fought with us
+against our enemies. It is also used in the sense of
+<i>overlooking</i>, as <i>La fenestro kontra&#365; la strato</i>,
+The window overlooking the street; and of <i>facing</i>, as
+<i>Viza&#285;o kontra&#365; viza&#285;o</i>, Face to face.
+<i>Kontra&#365;diri</i>, to contradict.</p>
+
+<p><b>Anstata&#365;</b> means <i>instead of, in the place</i> of,
+as <i>Mi iris Londonon anstata&#365; Parizon</i>, I went to
+London instead of to Paris. <i>Mi iris hiera&#365; anstata&#365;
+morga&#365;</i>, I went yesterday instead of to-morrow.
+<i>Anstata&#365; piediri, li veturis</i>, Instead of going on
+foot, he drove. <i>Anstata&#365;i</i>, to take (or, be in) the
+place of; <i>anstata&#365;igi</i>, to put in the place of, to
+replace (by).</p>
+
+<p><b>Krom</b> means <i>not including, in addition to,
+besides</i>, as <i>En la &#265;ambro estis neniu krom li</i>, In
+the room there was nobody except him. <i>La knabo estas granda,
+kaj krom tio, li estas bona</i>. The boy is tall, and besides
+that, he is good.</p>
+
+<!-- =============================079.png============================ -->
+<center>
+<table cellspacing="8">
+<caption><b>Vocabulary.</b></caption>
+
+<tr>
+<td nowrap valign="top"><i>rimedo</i>, a means, remedy.<br>
+ <i>kutimo</i>, custom.<br>
+ <i>profesoro</i>, professor,<br>
+ <i>reflektoro</i>, reflector.<br>
+ <i>fian&#265;o</i>, betrothed.<br>
+ <i>flanko</i>, side.<br>
+ <i>teo</i>, tea.</td>
+<td nowrap valign="top"><i>sukero</i>, sugar.<br>
+ <i>kremo</i>, cream.<br>
+ <i>prepozicio</i>, preposition.<br>
+ <i>vokalo</i>, vowel.<br>
+ <i>abomeno</i>, disgust.<br>
+ <i>ordinara</i>, ordinary.</td>
+</tr>
+</table>
+</center>
+
+<p>Vi havas rimedojn kontra&#365; &#265;iuj malsanoj. Kion povas
+fari li sola kontra&#365; cent homoj? Kontra&#365; sia kutimo, la
+profesoro nenion diris. &#284;i flugis kontra&#365; la
+reflektoron. Kontra&#365; sia propra volo &#349;i tion &#265;i
+konfesis. Li eksentis ian abomenon kontra&#365; si. La
+kontra&#365;a flanko. Ili sidi&#285;is unu kontra&#365; la alia.
+&#348;i estis maljusta kontra&#365; li. Kontra&#365; la ordinaro,
+la nombro de la dancantoj estis granda.</p>
+
+<p>Anstata&#365; li, oni sendis lian fraton. Anstata&#365; eliri,
+li restis en la domo. Okulo anstata&#365; okulo, kaj dento
+anstata&#365; dento. Anstata&#365; kafo li donis al mi teon kun
+sukero sed sen kremo. Anstata&#365; "la" oni povas anka&#365;
+diri "l'" (sed nur post prepozicio, kiu fini&#285;as per
+vokalo).</p>
+
+<p>En la salono staris neniu krom li kaj lia fian&#265;ino. Krom
+la malplena teksilo nenio estis. Krom ni mem, ni havis tre
+malmulte por enporti. &#348;i volis havi, krom la ru&#285;aj
+floroj, nur unu belan statuon. &#264;iuj dormis, krom la
+direktilisto apud sia direktilo. Krom la membroj alveturas multe
+da gastoj.</p>

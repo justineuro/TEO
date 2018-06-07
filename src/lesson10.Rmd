@@ -1,0 +1,118 @@
+---
+title: "" #"Lesson 10 - Words"
+author: "" #"JLAUro"
+date: "" #"May 18, 2017"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+<br/><br/>
+
+<center><b>LESSON 10.</b></center>
+
+<center><b>Verbs</b> (<i>continued</i>), <b>-i, -u.</b></center>
+
+<p>In the examples already given the verbs ending in <i>-as</i>,
+<i>-is</i>, <i>-os</i> express <i>action</i> or <i>being</i>
+(<i>state</i>) going on in present, past, or future time, as
+<i>Mi skribas</i>, I am writing; <i>Li legis</i>, He read; <i>Ni
+iros</i>, We shall go.</p>
+
+<p>If we wish merely to express the idea of action or state
+indefinitely, without reference to any time or any subject, the
+verb must end in <b>-i,</b> as <i>Vivi</i>, To live; <i>Mi
+deziras lerni</i>, I wish to learn; <i>Ni devas labori</i>, We
+must work.</p>
+
+<p>(This is called the <span style=
+"font-variant: small-caps">Indefinite</span> or <span style=
+"font-variant: small-caps">Infinitive</span> Mood (manner of
+expression), because not limited by reference to time or
+subject).</p>
+
+<p>To give an <i>order</i> or <i>command</i>, or to express
+<i>will, desire, purpose</i>, etc., the verb must end in
+<b>u,</b> as <i>Donu al mi panon</i>, Give (to) me bread; <i>Iru
+for</i>, Go away; <i>Estu feli&#265;a</i>, May you be happy!
+<i>Vivu la re&#285;o!</i> (Long) live the king!</p>
+
+<p>In such cases as Tell <i>him to come</i>, I want <i>you to
+sing</i>, Allow <i>her to speak</i>, we have to use a second
+sentence with the verb ending in "<i>u</i>," and beginning with
+"<i>ke</i>," that, as <i>Diru al li, ke li venu</i>, Tell (say
+to) him, that he come; <i>Mi deziras, ke vi kantu</i>, I wish,
+that you sing; <i>Permesu al &#349;i, ke &#349;i parolu</i>,
+Allow her, that she speak. Sentences like the last are often
+contracted, only the last subject and verb being used, as
+<i>&#348;i parolu</i>, Let her speak; <i>&#284;i ku&#349;u</i>,
+Let it lie; <i>Ni iru</i>, Let us go; <i>Ili dormu</i>, Let them
+sleep. <i>&#264;u vi volas ke mi tion faru?</i> Do you wish me to
+do that? <i>&#264;u mi tion faru?</i> Shall I do that?</p>
+
+<!-- =============================029.png============================ -->
+<center>
+<table cellspacing="8">
+<caption><b>Vocabulary.</b></caption>
+
+<tr>
+<td nowrap valign="top"><i>nomo</i>, name.<br>
+ <i>vesto</i>, coat, clothing.<br>
+ <i>kandelo</i>, candle.<br>
+ <i>dometo</i>, cottage.<br>
+ <i>akvo</i>, water.<br>
+ <i>spegulo</i>, looking-glass.<br>
+ <i>est-</i>, be.<br>
+ <i>tu&#349;-</i>, touch.<br>
+ <i>a&#365;skult-</i>, listen.<br>
+ <i>pardon-</i>, pardon.<br>
+ <i>uz-</i>, use.<br>
+ <i>ordon-</i>, order.<br>
+ <i>babil-</i>, chatter.<br>
+ <i>send-</i>, send.<br>
+ <i>trink-</i>, drink.<br>
+ <i>vol-</i>, will, wish.<br>
+ <i>bat-</i>, beat.<br>
+ <i>kura&#285;-</i>, have courage</td>
+<td nowrap valign="top"><i>rajd-</i>, ride.<br>
+ <i>las-</i>, let, leave.<br>
+ <i>kur-</i>, run.<br>
+ <i>parol-</i>, speak.<br>
+ <i>viv-</i>, live, have life.<br>
+ <i>rest-</i>, rest, remain.<br>
+ <i>honesta</i>, honest.<br>
+ <i>inda</i>, worthy.<br>
+ <i>atenta</i>, attentive.<br>
+ <i>kara</i>, dear.<br>
+ <i>gaja</i>, gay, cheerful.<br>
+ <i>tia</i>, such.<br>
+ <i>longa</i>, long.<br>
+ <i>sincera</i>, sincere.<br>
+ <i>for</i>, away, forth.<br>
+ <i>forte</i>, strongly.<br>
+ <i>sole</i>, alone.</td>
+</tr>
+</table>
+</center>
+
+<p>Donu al la birdoj akvon, &#265;ar ili volas trinki. Aleksandro
+ne volas lerni, kaj tial mi batas Aleksandron. Kiu kura&#285;as
+rajdi sur leono? Mi volis lin bati, sed li forkuris de mi.</p>
+
+<p>Al leono ne donu la manon. Rakontu al mia juna amiko belan
+historion. Diru al la patro, ke mi estas diligenta. Diru al mi
+vian nomon. Ne skribu al mi tiajn longajn leterojn. Montru al mi
+vian novan veston. Infano, ne tu&#349;u la spegulon. Karaj
+infanoj, estu &#265;iam honestaj. Ne a&#365;skultu lin.</p>
+
+<p>Li diras, ke mi estas atenta. Li petas, ke mi estu atenta.
+Ordonu al li, ke li ne babilu. Petu lin, ke li sendu al mi
+kandelon. La dometo estas inda, ke vi &#285;in a&#265;etu.
+&#348;i forte deziris, ke li restu viva.</p>
+
+<p>Li venu, kaj mi pardonos al li. Ni estu gajaj, ni uzu bone la
+vivon, &#265;ar la vivo ne estas longa. Li ne venu sole, sed
+alvenu kun sia plej bona amiko. Mi jam havas mian &#265;apelon;
+nun ser&#265;u vi vian.</p>

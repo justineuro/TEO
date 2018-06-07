@@ -1,0 +1,76 @@
+---
+title: "" #"Lesson 21 - Suffixes"
+author: "" #"JLAUro"
+date: "" #"May 21, 2017"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+<br/><br/>
+
+<center><b>LESSON 21.</b></center>
+
+<center><i>Suffixes</i> <b>-eg-, -et-.</b></center>
+
+<!-- =============================056.png============================ -->
+<p>The suffixes <b>-eg-</b> and <b>-et-</b> are opposites;
+<b>-eg-</b> denotes a great size or degree, and <b>-et-</b> a
+small size or degree, of that which the word signifies, as
+<i>domo</i>, a house, <i>domego</i>, a mansion, <i>dometo</i>, a
+cottage; <i>&#349;nuro</i>, a cord, <i>&#349;nurego</i>, a rope,
+<i>&#349;nureto</i>, a string; <i>monto</i>, a mountain,
+<i>montego</i>, a huge mountain, <i>monteto</i>, a hill;
+<i>ami</i>, to love, <i>amegi</i>, to idolise, <i>ameti</i>, to
+have a liking for; <i>ridi</i>, to laugh, <i>ridegi</i>, to shout
+with laughter, to guffaw, <i>rideti</i>, to smile.</p>
+
+<p><i>-eg-</i> and <i>-et-</i> denote a greater or smaller size
+or degree than is expressed by <i>very large</i> or <i>very
+small</i>. The adjective <i>ega</i> means <i>enormous, huge</i>,
+and <i>eta</i> means <i>tiny</i>.</p>
+
+<center>
+<table cellspacing="8">
+<caption><b>Vocabulary.</b></caption>
+
+<tr>
+<td nowrap valign="top"><i>arbaro</i>, a wood.<br>
+ <i>bruo</i>, noise.<br>
+ <i>kale&#349;o</i>, carriage.<br>
+ <i>korto</i>, courtyard.<br>
+ <i>piedo</i>, foot.<br>
+ <i>teruro</i>, terror.<br>
+ <i>militistaro</i>, army.<br>
+ <i>serio</i>, series.</td>
+<td nowrap valign="top"><i>somero</i>, summer.<br>
+ <i>kampo</i>, field.<br>
+ <i>piedego</i>, paw.<br>
+ <i>forir-</i>, go away.<br>
+ <i>murmur-</i>, murmur.<br>
+ <i>varma</i>, warm.<br>
+ <i>densa</i>, dense.</td>
+</tr>
+</table>
+</center>
+
+<p>En varmega tago mi amas promeni en arbaro. Kun bruo oni
+malfermis la pordegon, kaj la kale&#349;o enveturis en la korton.
+Tio &#265;i estas jam ne simpla pluvo, sed pluvego. Grandega
+hundo metis sur min sian anta&#365;an piedegon, kaj mi de teruro
+ne sciis, kion fari. Anta&#365; nia militistaro staris granda
+serio da pafilegoj. En tiu nokto blovis terura ventego. Kun
+plezurego. Li deziregis denove foriri.</p>
+
+<p>Tuj post la hejto la forno estis varmega, post unu horo
+&#285;i estis nur varma, post du horoj &#285;i estis nur iom
+varmeta, kaj post tri horoj &#285;i estis jam tute malvarma. Mi
+a&#265;etis por la infanoj tableton kaj kelke da se&#285;etoj. En
+nia lando sin ne trovas montoj, sed nur montetoj. En somero ni
+trovas malvarmeton en densaj arbaroj. Li sidas apud la tablo kaj
+dormetas. Mallar&#285;a vojeto kondukas tra tiu &#265;i kampo al
+nia domo. Sur lia viza&#285;o mi vidis &#285;ojan rideton.
+Anta&#365; la virino aperis malgranda, beleta hundo. Pardonu, li
+murmuretis.</p>

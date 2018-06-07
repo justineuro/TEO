@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html>
+<!--
+URLs:	https://css-tricks.com/snippets/javascript/showhide-element/ (User:Nanobyte)
+		http://stackoverflow.com/questions/19163327/how-do-i-make-a-div-hidden-by-default-using-javascript (User: Luke, david-lee)
+		https://www.w3schools.com/css/css_text.asp
+Date: 17-V-2017
+-->
+
+<head>
+<title>l3-phr-tab</title>
+<meta http-equiv='Content-Type' content='text/html; charset=utf-8'>
+<style>
+a, body { 
+	color: #007700; 
+	font-size: 12px; 
+}	
+
+a:visited { color: #00aa00; }
+
+[id^='tr'] {
+    display: none;
+}
+
+mark {
+    padding: 3px 3px;
+    text-align: left;
+    font-style: italic;
+    font-size: 10px;
+    background-color: #009900;
+    color: white;
+    margin-top: 0px;
+    margin-left: 5px;
+}
+
+</style>
+
+<script type='text/javascript'>
+	function toggle_visibility(id) {
+	var e = document.getElementById(id);
+	e.style.display = ((e.style.display!='block') ? 'block' : 'none');
+	}
+</script>
+</head>
+
+<body>
+<p>
+<h4>Lesson 3 Phrase - The Esperanto Teacher (by Helen Fryer) http://www.gutenberg.org <br/></h4>
+<a id='r0' href='#' onclick="toggle_visibility('tr0');">
+Click for Instructions.</a>
+<div id='tr0'>
+	&nbsp;
+	<mark>Click on each link to toggle the English translation.  
+	Reload page to turn off all translations.</mark>
+</div>
+</p>
+
+<table width='100%' border='5px' cellspacing='5px' cellpadding='5px'>
+	<tr id='r1'>
+			<td align='center' valign='middle'><a id='item1' href='#r0' onclick="toggle_visibility('tr1');">La birdoj flugas.</a>
+						<div id='tr1'><mark>The birds fly.</mark></div></td>
+
+			<td align='center' valign='middle'><a id='item2' href='#r0' onclick="toggle_visibility('tr2');">La kanto de la birdoj estas agrabla.</a>
+						<div id='tr2'><mark>The song of the birds is pleasant.</mark></div></td>
+
+			<td align='center' valign='middle'><a id='item3' href='#r0' onclick="toggle_visibility('tr3');">Kie estas la knaboj?</a>
+						<div id='tr3'><mark>Where are the boys?</mark></div></td>
+
+			<td align='center' valign='middle'><a id='item4' href='#r0' onclick="toggle_visibility('tr4');">La patroj estas sanaj.</a>
+						<div id='tr4'><mark>The fathers are healthy.</mark></div></td>
+	</tr>
+	<tr id='r1'>
+
+			<td align='center' valign='middle'><a id='item5' href='#r1' onclick="toggle_visibility('tr5');">Infanoj ne estas maturaj homoj.</a>
+						<div id='tr5'><mark>Infants are not mature human beings.</mark></div></td>
+
+			<td align='center' valign='middle'><a id='item6' href='#r1' onclick="toggle_visibility('tr6');">Leonoj estas fortaj.</a>
+						<div id='tr6'><mark>Lions are strong.</mark></div></td>
+
+			<td align='center' valign='middle'><a id='item7' href='#r1' onclick="toggle_visibility('tr7');">La manoj de Johano estas puraj.</a>
+						<div id='tr7'><mark>The hands of John are clean.</mark></div></td>
+
+			<td align='center' valign='middle'><a id='item8' href='#r1' onclick="toggle_visibility('tr8');">Jen estas la kajeroj de la junaj fraŭlinoj.</a>
+						<div id='tr8'><mark>Here are the exercise books of the young maidens.</mark></div></td>
+	</tr>
+	<tr id='r2'>
+
+			<td align='center' valign='middle'><a id='item9' href='#r2' onclick="toggle_visibility('tr9');">La onkloj estas pli riĉaj, ol la fratoj.</a>
+						<div id='tr9'><mark>The uncles are richer than the brothers.</mark></div></td>
+
+			<td align='center' valign='middle'><a id='item10' href='#r2' onclick="toggle_visibility('tr10');">La hundoj estas tre fidelaj.</a>
+						<div id='tr10'><mark>The dogs are very faithful.</mark></div></td>
+
+			<td align='center' valign='middle'><a id='item11' href='#r2' onclick="toggle_visibility('tr11');">Blankaj paperoj  kuŝas sur la tablo.</a>
+						<div id='tr11'><mark>White papers are lying on the table.</mark></div></td>
+
+			<td align='center' valign='middle'><a id='item12' href='#r2' onclick="toggle_visibility('tr12');">En la ĉambro estas novaj  ĉapeloj.</a>
+						<div id='tr12'><mark>In the room are new hats.</mark></div></td>
+	</tr>
+	<tr id='r3'>
+
+			<td align='center' valign='middle'><a id='item13' href='#r3' onclick="toggle_visibility('tr13');">Kie estas la akraj tranĉiloj?</a>
+						<div id='tr13'><mark>Where are the sharp knives?</mark></div></td>
+
+			<td align='center' valign='middle'><a id='item14' href='#r3' onclick="toggle_visibility('tr14');">Bonaj infanoj estas diligentaj.</a>
+						<div id='tr14'><mark>Good infants are diligent.</mark></div></td>
+
+			<td align='center' valign='middle'><a id='item15' href='#r3' onclick="toggle_visibility('tr15');">Jen  kuŝas puraj, blankaj, delikataj lilioj.</a>
+						<div id='tr15'><mark>Here lie the pure, white, delicate lilies.</mark></div></td>
+
+			<td align='center' valign='middle'><a id='item16' href='#r3' onclick="toggle_visibility('tr16');">La dentoj de leonoj estas akraj.</a>
+						<div id='tr16'><mark>The teeth of lions are sharp.</mark></div></td>
+	</tr>
+	<tr id='r4'>
+
+	</tr>
+</table>
+</body>
+</html>
+

@@ -1,0 +1,924 @@
+---
+title: "" #"50 - Translations from Various Languages"
+author: "" #"JLAUro"
+date: "" #"May 21, 2017"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+<br/><br/>
+
+<!-- =============================119.png============================ -->
+<hr align="center" width="38%">
+<center><b>TRANSLATIONS FROM VARIOUS LANGUAGES.</b></center>
+
+<hr align="center" width="38%">
+<center><b>PARDONATA FORESTO.</b></center>
+
+<div class="indented">Oni invitis junulon al festeno. Respondante
+al la invito, li diris: "Mi venos plezure, se mi estos
+viva."</div>
+
+<div class="indented">"Ho," diris la invitanta sinjorino, "se vi
+estos senviva, ni vin ne atendos."</div>
+
+<p align="right">El <i>Tutmonda Anekdotaro</i>.</p>
+
+<p align="center"><i>Festeno</i>, banquet, (dinner) party.</p>
+
+<hr align="center" width="38%">
+<center><b>KOREKTO.</b></center>
+
+<div class="indented">Juna fra&#365;lino: "Ho, S-ro profesoro!
+Kion povus rakonti tiu &#265;i maljuna kverko, se &#285;i povus
+paroli?!"</div>
+
+<div class="indented">Profesoro: "&#284;i dirus: pardonu min, mia
+fra&#365;lino, mi ne estas kverko, sed tilio."</div>
+
+<p align="right"><i>Ibid</i>.</p>
+
+<p align="center"><i>Tilio</i>, lime tree.</p>
+
+<hr align="center" width="38%">
+<center><b>NAIVECO.</b></center>
+
+<p class="indented">Knabino sesjara havis katon kaj pupon. Iu
+demandis &#349;in, kiun el la du &#349;i preferas. &#348;i ne
+volis respondi, fine &#349;i diris al li en la orelon: "Mi
+preferas mian katon, sed ne diru, mi petas vin, tion al mia
+pupo."</p>
+
+<p align="right">El <i>Unua Legolibro</i> de Kabe.</p>
+
+<hr align="center" width="38%">
+<!-- =============================120.png============================ -->
+<center><b>HAWKE.</b></center>
+
+<p class="indented">Kiam la fama angla admiralo Hawke estis
+ankora&#365; knabo kaj la patro unuafoje prenis lin sur
+&#349;ipon, li admonis lin bone konduti kaj aldonis: "Tiam mi
+esperas vidi vin kapitano." " Kapitano!" ekkriis la knabo. "Kara
+patro, se mi ne esperus fari&#285;i admiralo, mi ne konsentus
+esti maristo."</p>
+
+<p align="right"><i>Ibid</i>.</p>
+
+<p align="center"><i>Admoni</i>, to admonish; <i>konduti</i>, to
+behave (oneself).</p>
+
+<hr align="center" width="38%">
+<center><b>EFIKA RUZO.</b></center>
+
+<div class="indented">Iu vila&#285;ano petis sian tre avaran
+najbaron, ke li metu sur la limon inter la du &#285;ardenoj
+palisan barilon, &#265;ar la najbara kokinaro vagadis dum la tuta
+tago en lia &#285;ardeno.</div>
+
+<div class="indented">Tamen la avarulo rifuzis, kaj jam la
+najbaro intencis alvoki la helpon de la ju&#285;istoj, kiam li
+&#349;ajne kontenta kvieti&#285;is.</div>
+
+<div class="indented">Subite, je &#265;ies miro, oni ekvidis la
+malamatan avarulon starigi tre fortan lignan barilon.</div>
+
+<div class="indented">"Sed, amiko," demandis la vila&#285;anoj,
+"rakontu kiamaniere vi atingis tion."</div>
+
+<div class="indented">"Nu, tre simple," li diris. "Iun matenon mi
+sendis al la najbaro tri a&#365; kvar ovojn, dirante, ke liaj
+kokinoj demetis ilin en mia &#285;ardeno. Jam la sekvintan tagon
+li komencis konstrui la barilon. Tio estas &#265;iam pli malkara,
+ol doni okupadon al la advokatoj."</div>
+
+<p align="right">El <i>Tutmonda Anekdotaro</i>.</p>
+
+<p align="center"><i>Peti</i>, to beg; <i>limo</i>, boundary;
+<i>paliso</i>, palings; <i>vagi</i>, to wander; <i>alvoki</i>, to
+invoke; <i>&#349;ajne</i>, apparently; <i>subite</i>, suddenly;
+<i>kvieta</i>, quiet; <i>advokato</i>, lawyer.</p>
+
+<hr align="center" width="38%">
+<!-- =============================121.png============================ -->
+<center><b>JUPITERO KAJ &#264;EVALO</b>.</center>
+
+<div class="indented">&mdash; Patro de l' bestoj kaj de l'
+homoj!&mdash;diris &#265;evalo, proksimi&#285;ante al la trono de
+Jupitero&mdash;oni diras, ke mi estas unu el la plej belaj
+bestoj; mi mem kredas tion, tamen &#349;ajnas al mi, ke multon en
+mi oni devus plibonigi.</div>
+
+<div class="indented">&mdash; Kion la&#365; via opinio oni povus
+plibonigi en vi? Parolu, mi estas preta lerni de vi&mdash;diris
+Jupitero ridetante.</div>
+
+<div class="indented">&mdash; Eble mi kurus ankora&#365; pli
+rapide, se miaj piedoj estus pli longaj kaj pli maldikaj; longa
+cigna kolo ornamus miri; pli lar&#285;a brusto pligrandigus miajn
+fortojn; kaj &#265;ar vi destinis min por porti vian favoratan,
+homon, vi povus sur mian dorson meti pretan selon.</div>
+
+<div class="indented">&mdash; Bone&mdash;diris
+Jupitero&mdash;atendu momenton!&mdash;kaj li kreis kamelon.</div>
+
+<div class="indented">Ekvidinte la novan beston, la &#265;evalo
+ektremis de l' timo kaj abomeno.</div>
+
+<div class="indented">&mdash; Jen la altaj piedoj, kiajn vi
+deziris&mdash;diris Jupitero&mdash;jen la longa cigna kolo,
+lar&#285;a brusto kaj preta selo. &#264;u vi deziras, ke mi tiel
+aliformigu vin?</div>
+
+<p align="right">El <i>Unua Legolibro</i> de Kabe.</p>
+
+<p align="center"><i>Trono</i>, throne; <i>&#349;ajni</i>, to
+seem; <i>preta</i>, ready; <i>cigno</i>, swan; <i>ornami</i>, to
+ornament; <i>brusto</i>, chest; <i>destini</i>, to destine,
+appoint; <i>selo</i>, saddle; <i>tremi</i>, to tremble;
+<i>abomeno</i>, disgust.</p>
+
+<hr align="center" width="38%">
+<center><b>LA HOMA KORPO KAJ LA SENTOJ.</b></center>
+
+<p align="right">El <i>Serba Esperantisto.</i></p>
+
+<div class="indented">Petu Johanon, ke li alproksimi&#285;u, ke
+li pa&#349;u al vi, por ke vi observu la trajtojn de lia
+viza&#285;o.</div>
+
+<div class="indented">Lia frunto estas alta kun brune blondaj
+haroj, liaj vangoj estas rondaj, lian mentonon kovras dika barbo,
+kiu ka&#349;as la gor&#285;on.</div>
+
+<hr align="center" width="38%">
+<!-- =============================122.png============================ -->
+<div class="indented">Johanino jam faris longan mar&#349;on,
+&#349;i &#309;us haltis: &#349;i spiras forte, &#349;ia kolo sin
+stre&#265;as, &#349;ia brusto sin etendas, kaj skui&#285;as
+&#349;iaj flankoj; &#349;ia koro forte batas, &#349;ia sango
+rapide kuras en la arterioj kaj vejnoj; &#349;ia ha&#365;to
+fari&#285;is brula.</div>
+
+<div class="indented">&#348;i &#349;ajnas laca ne nur muskole,
+sed nerve kaj cerbe. Diru al &#349;i, ke &#349;i ripozu kaj ne
+restu stare, ke &#349;i sidigu sin.</div>
+
+<div class="indented">Nun &#349;i sidas: &#349;i pene klinas
+siajn krurojn; &#349;i povas movi nek la genuojn nek la piedojn;
+e&#265; la brakoj rigide pendas de la &#349;ultroj; &#349;i ne
+plu turnas la kapon: &#349;i tuj ekdormos.</div>
+
+<hr align="center" width="38%">
+<div class="indented">Mi ku&#349;is sur la tero mem: tiam la
+dorso, la ventro, la membroj, e&#265; la ostoj iom suferis.</div>
+
+<hr align="center" width="38%">
+<div class="indented">Okulo blinda ne vidas lumon, orelo surda ne
+a&#365;das sonojn, bu&#349;o muta ne diras vortojn, koro fermita
+ne &#285;uas amon.</div>
+
+<hr align="center" width="38%">
+<div class="indented">Tiu &#265;i frukto, anta&#365;e acida,
+estas nun matura: la nazo flaras &#285;ian odoron agrablan, la
+mano esploras &#285;ian glatan &#349;elon, balda&#365; la dentoj
+mordos &#285;ian molan karnon kaj la lango gustumos &#285;ian
+dol&#265;an sukon.</div>
+
+<hr align="center" width="38%">
+<div class="indented">Momenta silentu, vi faros plezuron al mi,
+kaj mia kapdoloro malaperos.</div>
+
+<hr align="center" width="38%">
+<p align="center"><i>Trajto</i>, feature; <i>frunto</i>,
+forehead; <i>bruna</i>, brown; <i>vango</i>, cheek;
+<i>mentono</i>, chin; <i>barbo</i>, beard; <i>gor&#285;o</i>,
+throat; <i>etendi</i>, to extend, to stretch out; <i>skui</i>, to
+shake; <i>sango</i>, blood; <i>arterio</i>, artery; <i>vejno</i>,
+vein; <i>ha&#365;to</i>, skin; <i>muskolo</i>, muscle;
+<i>nervo</i>, nerve; <i>cerbo</i>, brain; <i>kruro</i>, leg;
+<i>ventro</i>, belly; <i>membra</i>, limb, member; <i>osto</i>,
+bone; <i>&#285;ui</i>, to enjoy; <i>esplori</i>, to examine;
+<i>glata</i>, smooth; <i>&#349;elo</i>, rind, bark; <i>karno</i>,
+flesh; <i>suko</i>, juice.</p>
+
+<hr align="center" width="38%">
+<center><b>ANTA&#364;FABELO</b><br>
+ El <i>Fabeloj al Helenjo</i>.</center>
+
+<p align="right">El <i>Rusaj Rakontoj</i>.</p>
+
+<div class="indented">Baju, baju, baju!...</div>
+
+<div class="indented">Unu okuleto de Helenjo dormas, alia
+rigardas; unu oreleto de Helenjo dormas, alia
+a&#365;skultas.</div>
+
+<div class="indented">Dormu, Helenjo, dormu, belulino; kaj
+pa&#265;jo rakontos fabelojn. Kredeble, &#265;iuj estas tie
+&#265;i: kato, kaj vila&#285;a hundo, griza museto, kaj grileto
+sub la forno, makulkolora sturno en ka&#285;o, kaj malpacema
+koko.</div>
+
+<!-- =============================123.png============================ -->
+<div class="indented">Dormu, Helenjo,&mdash;tuj la fabelo
+komenci&#285;os. Jen la alta luno jam rigardas en la fenestron;
+jen straba leporo, kiu lame forkuras; jen lupaj okuloj, kiuj
+eklumi&#285;as per flavaj fajretoj. Alflugas maljuna pasero al la
+fenestro, frapas per la beko sur vitron kaj demandas: "&#264;u
+balda&#365;?" &#264;iuj estas &#265;i tie, &#265;iuj
+kolekti&#285;is; kaj &#265;iuj atendas la fabelon al
+Helenjo.</div>
+
+<div class="indented">Unu okuleto de Helenjo dormas, alia
+rigardas, unu oreleto de Helenjo dormas, alia
+a&#365;skultas.</div>
+
+<div class="indented">Baju, baju, baju!...</div>
+
+<p align="right"><span style="font-variant: small-caps">Mamin
+Sibirjak.</span></p>
+
+<p align="center">[Footnote: <i>Baju</i>: Rusa interjekcio;
+rekanta&#309;o por dormigi infanojn.]</p>
+
+<p align="center"><i>A&#365;skulti</i>, to listen; <i>fabelo</i>,
+story; <i>griza</i>, grey; <i>muso</i>, mouse; <i>grilo</i>,
+cricket; <i>forno</i>, stove; <i>makulo</i>, spot; <i>sturno</i>,
+starling; <i>straba</i>, squinting; <i>leporo</i>, hare;
+<i>lupo</i>, wolf; <i>flava</i>, yellow; <i>beko</i>, beak;
+<i>pa&#265;jo</i>, daddy.</p>
+
+<hr align="center" width="38%">
+<center><b>EDZINl&#284;O DE RATINO.</b></center>
+
+<p align="right">El <i>Japanaj Rakontoj.</i></p>
+
+<div class="indented">Maljuna rato havis filinon. &#284;i volis
+edzinigi tiun &#265;i kun iu plej forta en la mondo. &#284;i unue
+iris al la luno, pensante, ke la luno estas la plej forta en la
+mondo. Sed la luno diris: "Min tre ofte malhelpas la nubo, kaj mi
+neniel povas forpeli &#285;in."</div>
+
+<div class="indented">Tiam &#285;i sin turnis al la nubo,
+pensante, ke la nubo estas pli forta, ol la luno. Sed la nubo
+diris: "Min &#265;iam dispelas la vento, kaj mi neniam povas al
+&#285;i kontra&#365;stari."</div>
+
+<div class="indented">Trie &#285;i iris al la vento, pensante, ke
+la vento estas pli forta, ol la nubo. Sed la vento diris: "La
+muro staras kontra&#365; mi, kaj mi tute ne povas trapasi
+&#285;in."</div>
+
+<div class="indented">Fine &#285;i iris al la muro, pensante, ke
+la muro estas pli forta, ol la vento. Sed la muro anka&#365;
+diris: "Via familio &#265;iam min mordadas, kaj mi ne povas tion
+haltigi."</div>
+
+<div class="indented">Jen &#285;i komprenis, ke ratino nur devas
+edzini&#285;i kun rato, kaj reveninte hejmen, &#285;i edzinigis
+sian filinon kun juna rato de sia najbareco.</div>
+
+<p align="right"><span style="font-variant: small-caps">K.
+Kajiwara.</span></p>
+
+<p align="center"><i>Nubo</i>, cloud.</p>
+
+<hr align="center" width="38%">
+<!-- =============================124.png============================ -->
+<center><b>INFANA VERSA&#308;O.</b></center>
+
+<center>
+<table>
+<tr>
+<td width="12%"> </td>
+<td nowrap>Eta Manjo Flindre</td>
+</tr>
+
+<tr>
+<td width="12%"> </td>
+<td nowrap>Sidis intercindre,</td>
+</tr>
+
+<tr>
+<td colspan="2" nowrap>Etajn piedfingrojn &#349;i varmigis.</td>
+</tr>
+
+<tr>
+<td width="12%"> </td>
+<td nowrap>&#348;in vidis patrineto,</td>
+</tr>
+
+<tr>
+<td width="12%"> </td>
+<td nowrap>Puni&#285;is filineto,</td>
+</tr>
+
+<tr>
+<td colspan="2" nowrap>&#264;ar &#349;i la novajn vestojn
+malpurigis.</td>
+</tr>
+</table>
+</center>
+
+<p align="right"><span style="font-variant: small-caps">John
+Ellis</span>, <i>el "The British Esperantist."</i></p>
+
+<p align="center"><i>Cindro</i>, cinder, ash; <i>fingro</i>,
+finger.</p>
+
+<hr align="center" width="38%">
+<center><b>LA DOMO DE &#308;AK'.</b></center>
+
+<p>Jen estas la domo konstruita de &#308;ak'.<br>
+Jen estas la greno, kiu restis en la domo konstruita de
+&#308;ak'.<br>
+Jen estas la rato, kiu man&#285;is la grenon, kiu restis,
+k.t.p.<br>
+Jen estas la kato, kiu mortigis la raton, kiu man&#285;is,
+k.t.p.<br>
+Jen estas la hundo, kiu turmentis la katon, kiu mortigis,
+k.t.p.<br>
+Jen estas la bovino kun kurba korno, kiu &#309;etis la hundon,
+kiu turmentis, k.t.p.<br>
+Jen estas tutsola la virgulino, kiu melkis la bovinon, kiu
+&#309;etis, k.t.p.<br>
+Jen estas la viro, &#265;ifone vestita, kiu kisis la virgulinon
+tutsolan, kiu melkis, k.t.p.<br>
+Jen estas la pre&#285;isto, tute razita, kiu edzigis la viron,
+&#265;ifone vestitan, kiu kisis, k.t.p.<br>
+Jen estas la koko, matene kriinta, kiu vekis la pre&#285;iston,
+tute razitan, kiu edzigis, k.t.p.<br>
+Jen estas la farmomastro, grensemanta, kiu posedis la kokon,
+matene kriintan, kiu, k.t.p., k.t.p.<br>
+</p>
+
+<p align="right"><i>El "The Esperantist"</i></p>
+
+<p align="center"><i>Rato</i>, rat; <i>kato</i>, cat;
+<i>kurba</i>, curved; <i>korno</i>, horn; <i>sola</i>, alone,
+solitary; <i>melki</i>, to milk (milk is <i>lakto</i>);
+<i>&#265;ifono</i>, rag; <i>farmi</i>, to farm, take on lease;
+<i>semi</i>, to sow seed; <i>posedi</i>, to possess.</p>
+
+<hr align="center" width="38%">
+<!-- =============================125.png============================ -->
+<center><b>EZOPA FABELO.</b></center>
+
+<div class="indented">Unu azeno trovis leonan felon. &#284;i
+ricevis la ideon vesti sur sin la felon, kaj &#349;ajnigante sin
+leono, terurigi la homojn kaj bestojn. Pensite, farite. La azeno
+&#349;ajnis esti potenca leono.</div>
+
+<div class="indented">La unua viva esta&#309;o, kiun &#285;i
+renkontis, estis malri&#265;a sed talenta komercisto, portanta
+kelkajn komerca&#309;ojn sur sia dorso. Li teruri&#285;is vidante
+la leonon, kio tre amuzis la azenon. Nun la azeno, intencante
+pligrandigi la efikon, ekblekis:&mdash;ia,&mdash;ia,&mdash;ia,...
+Sed jen nia komercisto rekonis la azenon per &#285;ia vo&#265;o,
+kaptis &#285;in kaj devigis &#285;in&mdash;vendi malkarege la
+leonan felon.</div>
+
+<p align="right"><i>El "Lingvo Internacia."</i></p>
+
+<p align="center"><i>Azeno</i>, ass; <i>felo</i>, hide;
+<i>&#349;ajni</i>, to seem to be; <i>komerci</i>, to trade;
+<i>dorso</i>, back; <i>intenci</i>, to intend; <i>bleki</i>, to
+cry (like an animal); <i>kara</i>, dear; <i>potenca</i>,
+powerful.</p>
+
+<hr align="center" width="38%">
+<center><b>PROVERBOJ.</b></center>
+
+Eco homara estas eraro. Nur tiu ne eraras, kiu neniam ion
+faras.<br>
+Por ri&#265;ulo fasto, por malri&#265;ulo festo.<br>
+Mezuri la&#365; sia metro.<br>
+Kia la semo, tia la rikolto.<br>
+Ri&#265;igas ne enspezo, sed prudenta elspezo.<br>
+Kun kiu vi festas, tia vi estas.<br>
+Ju pli da &#309;uroj, des pli da suspekto.<br>
+Korvo al korvo okulon ne pikas.<br>
+En infano vidi&#285;as, kia homo fari&#285;os.<br>
+Unufoje &#349;telinta restas &#265;iam &#349;telisto.<br>
+Kapo estas por tio, ke &#285;i zorgu pri &#265;io.<br>
+Belaj rakontoj el trans la montoj.<br>
+
+
+<p align="right"><span style="font-variant: small-caps">M. F.
+Zamenhof.</span></p>
+
+<p align="center"><i>Fasto</i>, fast; <i>mezuri</i>, to measure;
+<i>rikolto</i>, harvest; <i>enspezo</i>, income; <i>elspezo</i>,
+outlay; <i>&#309;uro</i>, oath; <i>suspekto</i>, suspicion;
+<i>korvo</i>, raven; <i>piki</i>, to stab.</p>
+
+<hr align="center" width="38%">
+<!-- =============================126.png============================ -->
+<center><b>LIZI, ELZE, ELIZABET.</b></center>
+
+<p align="right">El <i>Hungaraj Rakontoj.</i></p>
+
+<div class="indented">Mi amis nur mian patrinon kaj Lizi, krome
+neniun en la tuta mondo.</div>
+
+<div class="indented">Kun &#349;i, kun Lizi, mi jam ligis
+amikecon, kiam mia malgranda fratino mortis je angino.</div>
+
+<div class="indented">Tiam fari&#285;is tre silente en nia domo.
+Malanta&#365;e &#265;irka&#365; la &#265;evalstalo bruis ja la
+knaboj poste kiel anta&#365;e, sed al la lo&#285;ejo ili
+proksimi&#285;is nur sur la piedpintoj. Ili ne volis &#285;eni la
+nigre vestitan virinon, kiu sen&#265;ese, kvaza&#365; senspirite,
+la funebrajn &#265;ambrojn trapa&#349;is; de frua mateno &#285;is
+malfrua vespero, en pensojn profundi&#285;inta, &#349;i travagis
+la lo&#285;ejon, senripoze kiel la pendolo de l'horlo&#285;o,
+kvaza&#365; &#349;i eterne iun a&#365; ion ser&#265;us. Iafoje
+&#349;i malfermis la &#349;rankojn kaj tirkestojn la&#365; vico.
+Tiam mi &#265;iam vidis en &#349;ia mano malgrandajn
+infanorobojn, &#349;uojn kaj anta&#365;tukojn, kiujn &#349;i
+longe rigardis kaj karesis, por ilin denove remeti kun la pupoj,
+la skribkajeroj kaj &#265;iuj aliaj objektoj, kiuj iam apartenis
+al mia malgranda fratino.</div>
+
+<div class="indented">Pri mi &#349;i tute ne
+okupi&#285;is&mdash;&#349;i nun pli amis la mortinton, ol
+&#265;iujn vivantojn&mdash;kaj tamen en mi &#265;iam
+&#349;teliris post &#349;i. Se mi iafoje &#349;ian robon
+ekprenis, a&#365; &#349;ian brakon karesis, por ke &#349;i min
+nur rimarku, &#349;i ekrigardis min indiferente per siaj karaj,
+de nokta plorado lacaj okuloj, a&#365; diris: "Kion vi volas,
+Janko? &#264;u mi devas doni al vi oran&#285;ojn?"</div>
+
+<div class="indented">&#348;i tiam eltiris la tirkeston, kie la
+oran&#285;oj ku&#349;is, kaj lasis min elekti, kiom mi volis. Kaj
+mi tute ne volis oran&#285;ojn, mi nur estis &#309;aluza je mia
+malgranda, mortinta fratino.</div>
+
+<p align="right"><span style="font-variant: small-caps">Ferenc
+Herczeg.</span></p>
+
+<p align="center"><i>Ligi</i>, to bind; <i>angino</i>, quinsy;
+<i>stalo</i>, stable, stall; <i>pinto</i>, point;
+<i>&#285;eni</i>, to trouble, disturb; <i>funebro</i>, mourning;
+<i>pendolo</i>, pendulum; <i>&#349;ranko</i>, cupboard;
+<i>tirkesto</i>, drawer; <i>vico</i>, turn;
+<i>anta&#365;tuko</i>, apron; <i>laca</i>, weary;
+<i>&#309;aluza</i>, jealous.</p>
+
+<hr align="center" width="38%">
+<!-- =============================127.png============================ -->
+<center><b>VENTEGA NOKTO.</b></center>
+
+<p align="right">El <i>Nord-germanaj Rakontoj.</i></p>
+
+<p class="indented">La ventego kriegis kaj bruegis dum la malluma
+nokto kaj blovege pelis la foliojn anta&#365; si. Kia sonado
+estis en la aero! De malproksime venas la ventego, el la regiono,
+kie estas la altaj montoj kaj la granda akvo, el la malvarma
+nordo. &#264;io, kion &#285;i ekkaptas dumvoje, devas kunflugi.
+&#284;i pelas la foliojn alten, tiel ke ili kirle flugas kaj en
+sia timo saltas unu super la alia. Jen &#285;i permesas al ili
+dum memento rekonscii&#285;i, ili opinias, ke nun &#265;esis la
+sova&#285;a pelado, ke ili povas trankvile mallevi&#285;i
+teren&mdash;jen la sova&#285;ulo ree ekkaptas ilin kaj la ludo
+denove komenci&#285;as. Nun &#285;i estas en la torfejo; tie
+&#285;i trovas nenion kun kio &#285;i povus petoli; tiam &#285;i
+atakas pluvnubon kiu &#309;us volis ekpluvi&mdash;pu&#349;egas en
+&#285;ian flankon, &#285;is &#285;i tuj disflugas. Jen la blovulo
+venas en la arbaron kaj furiozas inter la arboj, kiuj &#285;emas
+kaj krakas. Ankora&#365; salton, kaj nun &#285;i estas &#265;e la
+lerneja domo, kiu staras ka&#349;ite en arbeta&#309;oj inter la
+du vila&#285;oj. Ho, kiel &#285;i &#285;ojkriegas ekvidante la
+malnovan kadukan domon! Tie &#265;i mi devas eni&#285;i! Per
+&#265;iuj pordoj &#285;i bruegas kaj skuas ilin, provante
+malfermegi ilin. Sed vane. E&#265; ne la lignan kovrilon de la
+truo en la frontono &#285;i povas de&#349;iri, kvankam la
+rusti&#285;intaj hokoj preska&#365; ne plu povas teni &#285;in.
+Sed almena&#365; &#285;i klakas kaj frapegas per &#285;i tiom, ke
+la edzino de la instruisto veki&#285;as.</p>
+
+<p align="right"><span style="font-variant: small-caps">Heinrich
+Bandlow.</span></p>
+
+<p align="center"><i>Nordo</i>, north; <i>kirli</i>, to whisk, to
+twirl; <i>konscii</i>, to be conscious; <i>opinii</i>, to be of
+opinion; <i>torfo</i>, peat; <i>petoli</i>, to play, tease;
+<i>furiozi</i>, to rage; <i>&#285;emi</i>, to groan;
+<i>kraki</i>, to crack, crackle; <i>kaduka</i>, decayed, infirm;
+<i>skui</i>, to shake; <i>vane</i>, in vain; <i>frontono</i>,
+gable, fronton; <i>rusti</i>, to rust; <i>hoko</i>, hook;
+<i>klaki</i>, to clack, clap.</p>
+
+<hr align="center" width="38%">
+<!-- =============================128.png============================ -->
+<center><b>EN PIRIN.</b></center>
+
+<p align="right">El <i>Bulgaraj Rakontoj</i>.</p>
+
+<div class="indented">Klime perdis la vojon, la blovegoj estis
+kovrintaj &#265;ion: valojn, montetojn, vojojn, kampojn. Li
+eliris hiera&#365; &#265;e bona vetero el la vila&#285;o, kaj nun
+?... Dum tutaj horoj li vagadis en Pirin-monto kaj li ne scias,
+kie li trovi&#285;as, kien li iras, kion li renkontos. Li
+komprenis nur unu: ke malproksime, malproksime li estas de sia
+vila&#285;o, en nekonataj montaj dezertoj, en la regno de
+l'sova&#285;aj bestoj kaj de la pereo...</div>
+
+<!-- =============================129.png============================ -->
+<div class="indented">Subite li ekvidis tra la krepusko multajn
+nigrajn ombrojn, kiuj iris senbrue sur la ne&#285;o. Kio estas
+tio &#265;i? &#264;u lupoj? Ili estas tuta aro kaj venas de la
+dekstra flanko; ili bojas... Li ekkuregas. La malsata aro rapide
+lin sekvas kun sova&#285;aj bojoj... Kiom da tempo li kuris, li
+ne memoras... Anta&#365; li &#265;iam nuda&#309;o, &#265;iam
+dezerto, &#265;iam ne&#285;a kampo. Subite Klime vidas, ke
+anta&#365;e ekmovi&#285;as io, lumaj punktoj brilas kaj lin
+renkontas: la bestaro elsendis kelkajn lupojn por fermi lian
+iradon... Klime vidis teruran, neeviteblan morton... Tiam li ree
+ekkuregis kiel frenezulo maldekstren, al nova direkto, sur ia
+kruta&#309;o malsupren, kaj post li la lupoj... Li dufoje
+impliki&#285;is je sia skarpo, kiu trenis, kaj li ekfalis.
+Trovi&#285;inte en la valo, Klime &#285;oje vidis, ke li eniras
+en ian vila&#285;on... Kia &#285;i estas, &#265;u pomaka, &#265;u
+kristana,&mdash;li ne pensas, &#265;ar la luparo lin persekutas
+e&#265; tien &#265;i. &#284;i iras post liaj kalkanoj... Li
+en&#349;ovi&#285;is en ian pordegon, kiun, ver&#349;ajne, la
+ventego malfermis, kaj li alkuris al la fenestro, kiu lumis. Kaj
+la lupoj anka&#365; kuras post li. Klime &#349;ovis
+mal&#285;entile la pordon kaj eniris en nekonatan domon. Li
+ek&#285;emis: li vidis bulgaran, kristanan domon, kaj la
+sanktfigurujon, kaj anta&#365; &#285;i la sanktlampeton...la
+flamo malklare briletis kaj estingi&#285;is ankora&#365;. El la
+krepusko eliris iaj homoj. Li &#265;irka&#365;rigardis mirege.
+Kie li trovi&#285;as?</div>
+
+<div class="indented">Subite Klime ekscias, ke li estas en sia
+hejmo.</div>
+
+<div class="indented">La &#264;iopovanto estis direktinta liajn
+vagadojn al lia vila&#285;o, al lia domo, kiam li pensis, ke li
+iras en tute malsaman direkton.</div>
+
+<p align="right"><span style="font-variant: small-caps">Ivan
+Min&#265;ev.</span></p>
+
+<p align="center">[Footnote: "Pomako" estas bulgaro
+fari&#285;inta mahometano.]</p>
+
+<p align="center"><i>Klime</i>, man's name; <i>blovego</i>,
+storm; <i>valo</i>, valley; <i>sova&#285;a</i>, wild;
+<i>krepusko</i>, twilight; <i>boji</i>, to bark; <i>nuda</i>,
+bare; <i>punkto</i>, point; <i>eviti</i>, to avoid;
+<i>freneza</i>, crazy; <i>impliki</i>, to entangle;
+<i>skarpo</i>, scarf; <i>persekuti</i>, to follow in order to
+harm; <i>&#349;ovi</i>, to shove, push; <i>ver&#349;ajne</i>,
+apparently; <i>estingi</i>, to extinguish.</p>
+
+<hr align="center" width="38%">
+<center><b>SOMERA PLUVADO.</b></center>
+
+<p align="right">El <i>Prozo el Danaj-Norvegaj
+A&#365;toroj</i>.</p>
+
+<div class="indented">Estis premante varmege, la aero vibris pro
+varmo, kaj krom tio estis tiel kvieta, nenio alia sin movis, ol
+la kokcineloj tie sur la urtikoj, kaj kelke da velkitaj folioj,
+kiuj ku&#349;is sur la herbo kaj kurbigis sin kun etaj ekmovoj,
+kvaza&#365; kuntiritaj de la sunaj radioj.</div>
+
+<div class="indented">Kaj tiu homo sub la kverko, li ku&#349;is
+spiregante kaj melankolie, senespere li rigardis supren al la
+&#265;ielo. Li kantetis iom, kaj cedis, fajfis per la bu&#349;o
+kaj cedis anka&#365; je tio, turnis kaj returnis sin, rigardis
+malnovan talpan teralta&#309;eton, kiu tute helgrizi&#285;is pro
+sekeco. Subite eta, ronda, nigra makulo vidi&#285;is sur la griza
+tero, ankora&#365; unu, du, tri, kvar, multaj, ankora&#365;
+pliaj, la tuta alta&#309;eto fari&#285;is malhelgriza. La aero
+estas nur longaj, malhelaj strekoj, la folioj klini&#285;is kaj
+balanci&#285;is, sibleto, plila&#365;ti&#285;ante &#285;is
+siblego, sonis,&mdash;akvo fluegis teren.</div>
+
+<!-- =============================130.png============================ -->
+<div class="indented">&#264;io briletis, fajretis, kraketis.
+Folioj, bran&#265;oj, trunkoj, &#265;io brilis de akva&#309;o,
+&#265;iu guteto falanta teren, herben, &#349;tonen, &#265;ien,
+disrompi&#285;is kaj dis&#349;prucis en milojn da etaj perloj.
+Malgrandaj gutoj pendis tie iom da tempo kaj fari&#285;is grandaj
+gutoj, malsuprenfalis tien &#265;i, unui&#285;is kun aliaj gutoj,
+formis fluetojn, malaperis en sulketojn, enfluis grandajn truojn
+kaj elfluis malgrandajn, forkondukis polvon, ligna&#309;etojn kaj
+foliopecojn, fiksi&#285;is sur rifojn kaj denove liberi&#285;is,
+turni&#285;is kaj ree surrifi&#285;is. Foliojn, ne estintajn kune
+de la tempo, kiam ili estis bur&#285;onoj, kolektis la
+akva&#309;o; musko, neniigita de sekeco, ek&#349;velis kaj
+fari&#285;is mola, &#265;ifa, verda kaj sukplena; kaj &#349;imo
+kiu preska&#365; fari&#285;is polvo, disvasti&#285;is en graciaj
+makuloj, kun brilo kiel silko. La konvolvoloj lasis plenigi siajn
+blankajn kalikojn &#285;is la rando, interpu&#349;is ilin kaj
+ver&#349;is la akvon sur la kapojn de l' urtikoj. La dikaj,
+nigraj arbarlimakoj afablege rampis anta&#365;en kaj rigardis
+danke la &#265;ielon.</div>
+
+<div class="indented">Kaj la homo? La nudkapa homo staris meze en
+la pluvo, lasante la gutojn sibli en harojn, brovojn okulojn,
+nazon, bu&#349;on, kraketis per la fingroj je la pluvo, iom levis
+iafoje la piedojn, kvaza&#365; li intencis danci, ekskuis iam kaj
+iam sian kapon, kiam tro multe da akvo estis en la haroj,
+plengor&#285;e kantis senpripensante tion, kion li kantis, tiel
+plene la pluvado lin okupis.</div>
+
+<p align="right"><span style="font-variant: small-caps">J. P.
+Jakobsen.</span></p>
+
+<p align="center"><i>Vibri</i>, to vibrate; <i>kokcinelo</i>,
+ladybird; <i>urtiko</i>, nettle; <i>velki</i>, to wither;
+<i>fajfi</i>, to whistle; <i>talpo</i>, mole; <i>streko</i>,
+streak; <i>klini</i>, bend; <i>sibli</i>, to hiss;
+<i>&#349;pruci</i>, to spurt, to gush; <i>sulko</i>, furrow;
+<i>truo</i>, hole; <i>rifo</i>, reef; <i>bur&#285;ono</i>, bud;
+<i>musko</i>, moss; <i>&#349;veli</i>, to swell;
+<i>&#265;ifi</i>, to crinkle, crumple; <i>&#349;imo</i>, mildew,
+mould; <i>gracia</i>, graceful; <i>konvolvolo</i>, convolvulus;
+<i>kaliko</i>, chalice, calyx; <i>limako</i>, slug; <i>brovo</i>,
+brow; <i>nuda</i>, bare.</p>
+
+<hr align="center" width="38%">
+<center><b>KION NE KOMPRENAS LA HIRUNDOJ KAJ
+PAPILIOJ.</b></center>
+
+<p align="right">El <i>Pola Antologio.</i></p>
+
+<div class="indented">... Iom pli malproksime ku&#349;is flava
+grenkampo. Malalta barilo apartigis &#285;in de l'
+konstrua&#309;oj kaj de l' malgranda placeto anta&#365;
+ili.</div>
+
+<!-- =============================131.png============================ -->
+<div class="indented">La barilo formis angulon kaj en la loko,
+kie kuni&#285;is du &#285;iaj oblikvaj duonoj, &#285;i havis
+pordegon, altan, lar&#285;an kaj en tiu momento tute
+malfermitan.</div>
+
+<div class="indented">Ni proksimi&#285;is al la malalta barilo.
+Anjo ne havis ankora&#365; sufi&#265;e da tempo por apogi al
+&#285;i sian ombrelon kaj jam en la flava domo oni malfermis la
+pordon kaj viro stari&#285;is &#265;e la sojlo kaj la&#365;te
+demandis:</div>
+
+<div class="indented">&mdash;&#264;u vi iras eksterlandon?</div>
+
+<div class="indented">Ni komprenis. La barilo, malzorge
+konstruita el kurbaj bastonoj, estis io pli grava, ol limo de
+kampara propra&#309;o...</div>
+
+<div class="indented">&#264;i tiu barilo apartigis du naciojn, du
+landojn, du civilizaciojn.</div>
+
+<div class="indented">La sekalo, kreskanta post &#285;i, estis
+jam germana sekalo; la cejanoj, kiuj, kiel bluaj lumetoj,
+bruletis inter la spikoj, estis jam germanaj cejanoj.</div>
+
+<div class="indented">Germana estis e&#265; la vento, fluganta de
+tie kune kun la miela odoro de l'konvolvoloj...</div>
+
+<div class="indented">Kompreneble, Anjo devis rifuzi al si la
+ri&#265;igon de sia bukedo per germanaj floroj kaj &#349;i tuj
+sciigis pri &#285;i la la&#365;te demandantan viron.</div>
+
+<div class="indented">Li rei&#285;is domon trankvili&#285;inta,
+sed sendube dek kelkaj paroj da viglaj, kvankam nevideblaj okuloj
+observis &#265;iujn niajn movojn.</div>
+
+<div class="indented">Kun stranga sento ni komencis rigardi
+&#265;irka&#365;e.</div>
+
+<div class="indented">&mdash;Kial?&mdash;demandis Anjo,
+lar&#285;e malfermante la okulojn&mdash;sekve la spiko, kiu
+elkreskis tie &#265;i el grajno alportita de tie de la vento,
+estas nia, sed milionoj da aliaj spikoj, &#285;iaj fratoj, estas
+fremdaj nur tial, ke ili kreskas unu pa&#349;on pli
+malproksime?</div>
+
+<div class="indented">Mi penis klarigi al &#349;i, ke tio &#265;i
+estas tute natura, e&#265; necesega.</div>
+
+<div class="indented">&mdash;Por kiu?</div>
+
+<div class="indented">Anstata&#365; respondo mi levis la
+&#349;ultrojn.</div>
+
+<div class="indented">Okupataj de la penso pri la divido, ni
+turnis la okulojn al la &#265;ielo, ser&#265;ante anka&#365; sur
+&#285;i liman linion.</div>
+
+<div class="indented">Sed la &#265;ielo estis nur unu,
+nedividita.</div>
+
+<!-- =============================132.png============================ -->
+<div class="indented">Ni rigardis la sunon.</div>
+
+<div class="indented">Anka&#365; la suno estis nur unu,
+nedividita.</div>
+
+<div class="indented">En la sama momento papilio, kiu sidis
+proksime de ni sur la barilo kaj jen etendis, jen altiris siajn
+ru&#285;ajn flugiletojn kun ar&#285;enta suba&#309;o, rapide
+levi&#285;is kaj transflugis al la germana flanko.</div>
+
+<div class="indented">&#284;i longe flirtis tie super la
+balanci&#285;antaj spikoj kaj trovinte amikon a&#365; amikinon
+ankora&#365; pli trankvile revenis.</div>
+
+<div class="indented">Samtempe kelke da hirundoj,
+anta&#365;sentante proksimi&#285;on de fulmotondro, komencis kun
+la&#365;ta pepado rondflugi malproksimen kaj senpune trans la
+limon...</div>
+
+<div class="indented">&mdash; Vi vidas!&mdash;ekkriis Anjo kun
+infana triumfo.&mdash; La hirundoj kaj papilioj no konsentas la
+"necesecon," pri kiu vi tiel sage parolis.</div>
+
+<div class="indented">&#264;i tiuj senkonsideraj vortoj
+mal&#285;ojigis min.</div>
+
+<div class="indented">&mdash; Ah, Anjo, Anjo!&mdash;diris mi
+ripro&#265;e,&mdash;&#265;u vi forgesis, ke la homo estas pli
+sa&#285;a kreita&#309;o, ol la flirtemaj birdoj kaj papilioj
+senpripensaj?...</div>
+
+<p align="right"><span style="font-variant: small-caps">Wiktor
+Gomulicki.</span></p>
+
+<p align="center"><i>Greno</i>, corn; <i>placo</i>, place,
+square; <i>apogi</i>, to lean on; <i>ombrelo</i>, umbrella,
+parasol; <i>sojlo</i>, threshold; <i>la&#365;ta</i>, loud;
+<i>sekalo</i>, rye; <i>cejano</i>, corn bluebottle; <i>mielo</i>,
+honey; <i>bukedo</i>, bouquet; <i>paro</i>, pair; <i>spiko</i>,
+ear of corn; <i>linio</i>, line; <i>papilio</i>, butterfly;
+<i>flirti</i>, flutter, wave; <i>fulmo</i>, lightning;
+<i>tondro</i>, thunder; <i>pepi</i>, to chirp.</p>
+
+<hr align="center" width="38%">
+<center><b>PRINTEMPO VENOS</b>.</center>
+
+<center>
+<table>
+<tr>
+<td nowrap>Se la naturo rigidi&#285;as<br>
+ De prem' de l' vintro frostiganta,<br>
+ Se tute per la ne&#285;' kovri&#285;as<br>
+ Je longe tero ekdormanta,<br>
+ Amiko kara! vi ne ploru:<br>
+ Printempo venos kaj somero,<br>
+ Ke la naturo ree floru,<br>
+ Ke verdu, revivi&#285;u tero.</td>
+</tr>
+</table>
+</center>
+
+<p align="right"><span style="font-variant: small-caps">A.
+Naumann.</span></p>
+
+<hr align="center" width="38%">
+<!-- =============================133.png============================ -->
+<center><b>LA VOJO</b>.</center>
+
+<center>
+<table>
+<tr>
+<td nowrap>
+<p>Tra densa mallumo briletas la celo,<br>
+ Al kiu kura&#285;e ni iras.<br>
+ Simile al stelo en nokta &#265;ielo,<br>
+ Al ni la direkton &#285;i diras.<br>
+ Kaj nin ne timigas la noktaj fantomoj<br>
+ Nek batoj de l' sorto, nek mokoj de l' homoj<br>
+ &#264;ar klara kaj rekta kaj tre difinita<br>
+ &#284;i estas, la voj' elektita.</p>
+
+<p>Nur rekte, kura&#285;e, kaj ne flanki&#285;ante<br>
+ Ni iru la vojon celitan!<br>
+ E&#265; guto malgranda, konstante frapante,<br>
+ Traboras la monton granitan.<br>
+ <i>L' espero, l' obstino</i>, kaj <i>la pacienco</i>&mdash;<br>
+ Jen estas la signoj, per kies potenco<br>
+ Ni pa&#349;o post pa&#349;o, post longa laboro,<br>
+ Atingos la celon en gloro.</p>
+
+<p>Ni semas kaj semas, neniam laci&#285;as,<br>
+ Pri l' tempoj estontaj pensante.<br>
+ Cent semoj perdi&#285;as, mil semoj perdi&#285;as,&mdash;<br>
+ Ni semas kaj semas konstante.<br>
+ "Ho, &#265;esu!" mokante la homoj admonas,&mdash;<br>
+ "Ne &#265;esu, ne &#265;esu!" en kor' al ni sonas:<br>
+ "Obstine anta&#365;en! La nepoj vin benos,<br>
+ Se vi pacience eltenos."</p>
+
+<p>Se longa sekeco a&#365; ventoj subitaj<br>
+ Velkantajn foliojn de&#349;iras,<br>
+ Ni dankas la venton, kaj, repurigitaj,<br>
+ Ni forton pli fre&#349;an akiras.<br>
+ Ne mortos jam nia bravega anaro,<br>
+ &#284;in jam ne timigas la vento, nek staro,<br>
+ Obstine &#285;i pa&#349;as, provita, hardita,<br>
+ Al cel' unu fojon signita!</p>
+
+<!-- =============================134.png============================ -->
+<p>Nur rekte, kura&#285;e kaj ne flanki&#285;ante<br>
+ Ni iru la vojon celitan!<br>
+ E&#265; guto malgranda, konstante frapante,<br>
+ Traboras la monton granitan.<br>
+ L' espero, l' obstino, kaj la pacienco&mdash;<br>
+ Jen estas la signoj, per kies potenco<br>
+ Ni pa&#349;o post pa&#349;o, post longa laboro,<br>
+ Atingos la celon en gloro.</p>
+</td>
+</tr>
+</table>
+</center>
+
+<p align="right"><span style="font-variant: small-caps">L.
+Zamenhof</span>, <i>el "Fundamenta Krestomatio."</i></p>
+
+<p align="center"><i>Celo</i>, aim; <i>simile</i>, like;
+<i>fantomo</i>, phantom, apparition; <i>sorto</i>, fate;
+<i>moko</i>, mockery; <i>elekti</i>, to choose; <i>flanko</i>,
+side; <i>guto</i>, drop; <i>frapi</i>, to strike; <i>bori</i>, to
+bore; <i>signo</i>, sign; <i>atingi</i>, to attain; <i>laca</i>,
+weary; <i>semo</i>, seed; <i>&#265;esi</i>, to cease;
+<i>admoni</i>, to exhort; <i>koro</i>, heart; <i>vento</i>, wind;
+<i>subita</i>, sudden; <i>velki</i>, to wither;
+<i>de&#349;iri</i>, to tear from, pluck off; <i>akiri</i>, to
+acquire; <i>provi</i>, to make trial of; <i>hardi</i>, to
+harden.</p>
+
+<hr align="center" width="38%">
+<center><b><big>EL LA PAROLO DE D-RO. L. L.
+ZAMENHOF.</big></b><br>
+ <b>EN LA GUILDHALL, URBO LONDONO,</b><br>
+ <b>La 2lan de A&#365;gusto, 1907.</b></center>
+
+<div class="indented">. . . La dua kulpigo, kiun ni ofte devas
+a&#365;di, estas tio, ke ni esperantistoj estas malbonaj
+patriotoj. &#264;ar tiuj esperantistoj, kiuj traktas la
+esperantismon kiel ideon, predikas reciprokan justecon kaj
+fratecon inter la popoloj kaj &#265;ar la&#365; la opinio de la
+gentaj &#349;ovinistoj patriotismo konsistas en malamo
+kontra&#365; &#265;io, kio ne estas nia, tial ni la&#365; ilia
+opinio estas malbonaj patriotoj, kaj ili diras, ke la
+esperantistoj ne amas sian patrujon. Kontra&#365; tiu &#265;i
+mensoga, malnobla kaj kalumnia kulpigo ni protestas plej energie,
+ni protestas per &#265;iuj fibroj de nia koro! . . .</div>
+
+<!-- =============================135.png============================ -->
+<div class="indented">Vi staras nun anta&#365; miaj okuloj, mia
+kara Litovujo, mia malfeli&#265;a patrujo, kiun mi neniam povas
+forgesi, kvankam mi forlasis vin kiel juna knabo. Vi, kiun mi
+ofte vidas en miaj son&#285;oj, vi, kiun nenia alia parto de la
+tero iam povos anstata&#365;i en mia koro, vi atestu, kiu vin pli
+multe, pli kore kaj pli sincere amas: &#265;u mi, idea
+esperantisto, kiu revis pri frateco inter &#265;iuj viaj
+lo&#285;antoj, kvankam mi devis beda&#365;rinde forlasi vin,
+simile al multaj centoj da miloj da aliaj viaj
+filoj&mdash;a&#365; &#265;u tiuj personoj, kiuj deziras, ke vi
+apartenu nur al ili, kaj &#265;iuj aliaj viaj filoj estu
+rigardataj kiel fremduloj a&#365; sklavoj! Ho patriotismo,
+patriotismo, kiam fine la homoj lernos kompreni &#285;uste vian
+sencon! Kiam via sankta nomo &#265;esos esti armilo en la manoj
+de diversaj malhonestuloj! Kiam fine &#265;iu homo ricevos la
+rajton kaj la eblon alglui&#285;i per sia tuta koro al tiu peco
+da tero, kiu lin naskis!</div>
+
+<div class="indented">Longe da&#365;ros ankora&#365; malluma
+nokto sur la tero, sed ne eterne &#285;i da&#365;ros. Venos iam
+la tempo, kiam la homoj &#265;esos esti lupoj unuj kontra&#365;
+aliaj. Anstata&#365; konstante batali inter si, el&#349;iri la
+patrujon unuj al la aliaj, perforte altrudi al si reciproke siajn
+lingvojn kaj morojn, ili vivos inter si pace kaj frate, en plena
+interkonsento ili laboros sur la tero, sur kiu ili vivas, kaj
+kontra&#365; tiuj krudaj fortoj de la naturo, kiuj ilin
+&#265;iujn egale atakas. Kaj kune kaj interkonsente ili celados
+&#265;iuj al unu vero, al unu feli&#265;o. Kaj se iam venos tiu
+feli&#265;a tempo, &#285;i estos la frukto de konstanta kaj
+senlaca laborado de tiuj homoj, kiujn vi vidas nun en &#265;i tiu
+&#265;ambrego kaj kies nomo, ankora&#365; tre malmulte konata kaj
+tre malmulte &#349;atata, estas "esperantistoj."</div>
+
+<p align="right"><i>El "The British Esperantist."</i></p>
+
+<p align="center"><i>Kulpo</i>, fault; <i>trakti</i>, to treat;
+<i>prediki</i>, to preach; <i>gento</i>, tribe, race;
+<i>&#349;ovinisto</i>, Chauvinist; <i>Litovujo</i>, Lithuania;
+<i>sen&#285;o</i>, dream; <i>atesti</i>, to bear witness;
+<i>revi</i>, to imagine, dream; <i>beda&#365;ri</i>, to regret;
+<i>sklavo</i>, slave; <i>senco</i>, meaning; <i>rajto</i>, right;
+<i>alglui</i>, to glue to, stick to, attach; <i>lupo</i>, wolf;
+<i>trudi</i>, to obtrude; <i>moro</i>, manners, custom;
+<i>paco</i>, peace; <i>konsenti</i>, to agree; <i>kruda</i>,
+crude, rough, raw; <i>frukto</i>, fruit; <i>&#349;ati</i>, to
+prize, appreciate, like.</p>
+
+<hr align="center" width="38%">

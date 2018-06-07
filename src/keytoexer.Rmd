@@ -1,0 +1,982 @@
+---
+title: "" #"49 - Key to Exercises"
+author: "" #"JLAUro"
+date: "" #"May 21, 2017"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+<br/><br/>
+
+<!-- =============================099.png============================ -->
+<center><b>KEY TO EXERCISES.</b></center>
+
+<center><b>1.</b></center>
+
+<p>A father and a brother. A lion is an animal. A rose is a
+flower and a pigeon is a bird. The rose belongs to Theodore. The
+sun shines. The father is a tailor. Where are the book and the
+pencil? Here is an apple. On the ground lies a stone. On the
+window lie a pencil and a pen. The son stands by the father. Here
+lies the hat of the father (the father's hat). The father is in
+the room. Before the house is (stands) a tree.</p>
+
+<p>What is a lion? What is a rose? What shines? What is the
+father? Where is the father? What is on the window? Where is the
+pen?</p>
+
+<p>Is a lion an animal? Yes, a lion is an animal. Is a rose a
+bird? No, a rose is not a bird, a rose is a flower.</p>
+
+<center><b>2.</b></center>
+
+<p>The father is well. A child is not a mature man. The sky is
+blue. A lion is strong. The father is good. The hand of John
+(John's hand) is clean. (Some, <i>or</i>, a) paper is white.
+White paper lies on the table. Here is the young lady's exercise
+book. In the sky stands (is) the beautiful sun. The paper is very
+white, but the snow is more white (whiter). Milk is more
+nutritious than wine. The bread is fresh. The uncle is richer
+than the brother. Here lies (is) a red rose. The dog is very
+faithful. The book is new.</p>
+
+<center><b>3.</b></center>
+
+<p>(The) birds fly. The song of (the) birds is pleasant. Where
+are the boys? The fathers are well. Children are not mature men.
+Lions are strong. John's hands are clean. Here are the young
+ladies' exercise books. The uncles are richer than the brothers.
+The dogs are very faithful. White papers lie on the table. In the
+room are new hats. Where are the sharp knives? Good children are
+diligent. Here lie (are) pure white delicate lilies. The teeth of
+lions (lions' teeth) are sharp.</p>
+
+<!-- =============================100.png============================ -->
+<center><b>4.</b></center>
+
+<p>I read. You write. He is a boy, and she is a girl. We are men.
+You are children. They are Russians. Where are the boys? They are
+in the garden. Where are the girls? They also are in the garden.
+Where are the knives ? They are (lie) on the table. The child
+cries, because it wants to eat. Sir, you are impolite. Gentlemen,
+you are impolite. Tkey say that (the) truth always conquers. The
+house belongs to him. I come from (the) grandfather, and I go now
+to (the) uncle. I am as strong as you. Now I read, you read, and
+he reads, we all read. You write and the children write, they
+(you) all sit silent and write.</p>
+
+<p>My dog, you are very faithful. He is my uncle, for my father
+is his brother. Of all my children, Ernest is the youngest. His
+father and his brothers are in the garden. Her uncle is in the
+house. Where are your books ? Our books are (lie) on the table;
+their pencils and their paper also are (lie) on the table.</p>
+
+<p>Who is in the room ? Who are in the room ? The gentle- man who
+is reading is my friend. The gentleman to whom you are writing is
+a tailor. What is lying on the table ?</p>
+
+<center><b>5.</b></center>
+
+<p>I see a lion (lions). I read (am reading) a book (books). I
+love (the) father. I know John. (The) father is not reading a
+book, but he is writing a letter. I do not like obstinate people.
+I wish you good-day, sir. Good morning! A joyous festival (a
+pleasant holiday) (I wish you). What a joyful festival (it is
+to-day) ! In the day we see the bright sun, and at night we see
+the pale moon and the beautiful stars. We have newer bread than
+you. No, you are wrong, sir, your bread is less new (staler) than
+mine. We call the boy, and he comes. In (the) winter they heat
+the stoves. When one is rich one has many friends. He loves me,
+but I do not love him. Mr. P. and his wife love my children very
+much; I also love theirs very much. I do not know the gentleman
+who is reading.</p>
+
+<center><b>6.</b></center>
+
+<p>Why do you not answer me? Are you deaf or dumb? What are you
+doing?</p>
+
+<p>The boy drove away the birds. From (the) father I received a
+book, and from (the) brother I received a pen. (The) father gave
+me a sweet apple. Here is the apple which I found. Yesterday I
+met your son, and he politely greeted me. Three days ago (before
+three days) I visited your cousin, and my visit gave (made) to
+him pleasure. When I came to him he was sleeping, but I woke
+him.</p>
+
+<!-- =============================101.png============================ -->
+<p>I will relate to you a story. Will you tell me the truth? To
+day is Saturday, and to-morrow will be Sunday. Yesterday was
+Friday, and the day after to-morrow will be Monday. [Footnote:
+Notice that in these two sentences <i>ankora&#365;</i> and
+<i>iam</i> express different meanings of the English word "yet."]
+Have you yet found your watch? I have not yet looked for it; when
+I have finished (shall finish) my work I will look for my watch,
+but I fear that I shall not find it again. If you (shall) conquer
+us, the people will say that only women you conquered. When you
+(shall) attain the age of fifteen years you will receive the
+permission.</p>
+
+<center><b>7.</b></center>
+
+<p>I love myself, you love yourself, he loves himself, and every
+man loves himself. I take care of her (so) as I take care of
+myself, but she takes no care at all of herself, and does not
+look after herself at all. My brothers had guests to-day; after
+supper our brothers went with the guests out of their (our
+brothers') house and accompanied them as far as their (the
+guests') house. I washed myself in my room, and she washed
+herself in her room. The child was looking for its doll; I showed
+the child where its doll lay. She related to him her adventure.
+She returned to her father's palace. Her flowers she tended not.
+My brother said to Stephen, that he loved him more than
+himself.</p>
+
+<center><b>8.</b></center>
+
+<p>Two men can do more than one. I have only one mouth, but I
+have two ears. He walks out with three dogs. He did everything
+with the ten fingers of his hands. Of her many children some are
+good and others bad. Five and seven make twelve. Ten and ten make
+twenty. Four and eighteen make twenty-two. Thirty and forty-five
+make seventy-five. One thousand eight hundred and ninety-three.
+He has eleven children. Sixty minutes make one hour, and one
+minute consists of sixty seconds.</p>
+
+<center><b>8a.</b></center>
+
+<p>January is the first month of the year, April is the fourth,
+November is the eleventh, and December is the twelfth. The
+twentieth day of February is the fifty-first day of the year. The
+seventh day of the week God chose to be (that it should be) more
+holy than the six first days. What did God create on the sixth
+day? What (which) date is it (have we) to-day? To-day is the
+twenty-seventh (day) of March. Christmas Day is the 25th of
+December, New Year's Day is the 1st of January, One does not
+easily forget one's first love.</p>
+
+<!-- =============================102.png============================ -->
+<center><b>9.</b></center>
+
+<p>I have a hundred apples. I have a hundred (of) apples. This
+town has a million of inhabitants. I bought a dozen (of) spoons,
+and two dozen (of) forks. One thousand years (or, a thousand of
+years) make a millennium.</p>
+
+<p>Firstly, I return to you the money which you lent to me;
+secondly, I thank you for the loan; thirdly, I beg you also
+afterwards (on a future occasion) to lend to me when I (shall)
+require money.</p>
+
+<center><b>9a.</b></center>
+
+<p>Three is half of six, eight is four-fifths of ten. Four metres
+of this stuff cost nine francs, therefore two metres cost four
+and a-half francs. One day is a three hundred and sixty-fifth or
+a three hundred and sixty-sixth of a year.</p>
+
+<p>Five times seven are thirty-five. For each day I receive five
+francs, but for to-day I have received double pay, that is, ten
+francs.</p>
+
+<p>These two friends walk out always (two) together. Five
+together they threw themselves upon me, but I overcame all five
+assailants.</p>
+
+<center><b>10.</b></center>
+
+<p>Give (to) the birds water, for they want to drink. Alexander
+will not learn, and therefore I beat Alexander. Who has courage
+(dares) to ride on a lion? I was going to beat him, but he ran
+away from me.</p>
+
+<p>Do not give your hand to a lion. Relate (tell) to my young
+friend a beautiful story. Tell father that I am diligent. Tell me
+your name. Do not write to me such long letters. Show me your new
+coat. Child, do not touch the looking-glass. Dear children,
+always be honest. Do not listen to him.</p>
+
+<p>He says that I am attentive. He begs me to be attentive. Tell
+him not to chatter. Ask him to send me a candle. The cottage is
+worth your buying (worthy that you should buy it). She strongly
+desired that he (should) remain alive.</p>
+
+<p>Let him come, and I will forgive him. Let us be gay, let us
+use life well, for life is not long. Let him not come alone, but
+come with his best friend. I already have my hat; now look for
+yours.</p>
+
+<!-- =============================103.png============================ -->
+<center><b>11.</b></center>
+
+<p>If the pupil knew his lesson well, the teacher would not
+punish him. If you knew who he is, you would esteem him more.
+They raised one hand upwards as if they were holding something.
+If I really were beautiful, others would try to imitate me. Oh!
+if I were (had) already the age of fifteen years!</p>
+
+<center><b>12.</b></center>
+
+<p>To remain with a lion is dangerous. The knife cuts well, for
+it is sharp. Go more quickly. He shut the door angrily. His
+speech flows softly and pleasantly. We made the contract not in
+writing, but by word of mouth. An honest man acts honestly. The
+pastor who died a short time ago lived long in our city. Did you
+not get it back? He is sick unto death. The iron rod which was in
+the stove (fire) is burning; hot. Paris is very gay. Early in the
+morning she drove to the station.</p>
+
+<p>Forgive me that I stayed so long. His anger lasted long. He is
+to-day in an angry temper. The king soon sent again another
+good-hearted official. This evening we shall have a ball. Where
+are you? Away from here! (Get away!).</p>
+
+<p>Where did he drive away to? She ran home. We went forward like
+furies. Everything was right (good), and we went on further. The
+lady glanced back. The sailors demanded to go back (required that
+one should go back). I hung it here, for it saved my life. I
+never sent here.</p>
+
+<center><b>13.</b></center>
+
+<p>My brother is not big, but he is not little, he is of medium
+growth. A hair is very thin. The night is so dark that we can see
+nothing even before our nose. This stale bread is hard as stone.
+Naughty children love to torment animals. He felt (himself) so
+miserable that he cursed the day on which he was born. We greatly
+despise this base man. The window was long unclosed; I closed it,
+but my brother immediately opened it again. A straight road is
+shorter than a curved. Do not be ungrateful.</p>
+
+<p>The wife of my father is my mother, and the grandmother of my
+children. My sister is a very beautiful girl. My aunt is a very
+good woman. I saw your grandmother with her four granddaughters,
+and with my niece. I have an ox and a cow. The young widow became
+again a fianc&eacute;e.</p>
+
+<center><b>14.</b></center>
+
+<p>He gave me money, but I immediately returned it to him. I am
+going away, but wait for me, for I shall soon return. The sun is
+reflected in the clear water of the river. He returned to his
+country. She threw herself again upon the seat.</p>
+
+<!-- =============================104.png============================ -->
+<p>In the course of a few minutes I heard two shots. The firing
+continued for a very long time. His speech of yesterday was very
+fine, but too much speaking tires him. He is singing a very
+beautiful song. Singing is an agreeable occupation. With my hand
+I kept on briskly rubbing him. The rain kept on falling in
+rivers. Every minute she kept looking out through the window and
+cursing the slow motion of the train.</p>
+
+<p>I leap very cleverly. I started with surprise. I used to jump
+all day long from place to place. When you began to speak I
+expected to hear something new. The diamond has a beautiful
+sparkle. She let the diamond flash. Two flashes of lightning
+passed across the dark sky.</p>
+
+<center><b>15.</b></center>
+
+<p>I am (being) loved. I was (being) loved. I shall be (being)
+loved. I should be (being) loved, Be (being) loved. To be (being)
+loved. You have been washed. You had been washed. You will have
+been washed. You would have been washed. Be (having been) washed.
+To have been washed. He is to be invited. He was (going) to be
+invited. He will be (about to be) invited. He would be (about to
+be) invited. Be about to be invited. To be about to be invited.
+This commodity is always willingly bought by me. The overcoat was
+(has been) bought by me; consequently it belongs to me. When your
+house was being built, my house had already been built a long
+time. I give notice that from now my son's debts will not be paid
+by me. Be easy; my whole debt will soon have been paid to you. My
+gold ring would not be so long (being) sought for if it had not
+been so cleverly hidden by you. According to the plan of the
+engineers this railway is going to be constructed in the space of
+two years; but I think that it will be being constructed (in
+construction) more than three years. When the prayer was (had
+been) finished he rose.</p>
+
+<p>Augustus is my best loved son. Money in hand is more important
+than (money) had. A sparrow (which has been) caught is better
+than an eagle (which is) going to be caught.</p>
+
+<!-- =============================105.png============================ -->
+<center><b>16.</b></center>
+
+<p>Flowing water is purer than water standing still. The fallen
+man cannot raise himself. (The) time past will never more return;
+(the) time to come no one yet knows. Come, we await you, Saviour
+of the world. In the language Esperanto we see the future
+language of the whole world. The number of the dancers was great.
+It is the legend which true believers always repeat. He led the
+traveller to the place where the thieves were resting. (To) a man
+who has sinned unintentionally God easily pardons. The soldiers
+led the prisoners (arrested) through the streets. A man whom one
+has to judge is one to be judged (prisoner at the bar).</p>
+
+<center><b>16a.</b></center>
+
+<p>Now he teils me the truth. Yesterday he told me the truth. He
+always told me the truth. When you saw us in the drawing-room he
+had already (previously) told me the truth. He will tell me the
+truth. When you (shall) come to me, he will previously tell me
+the truth (or, he will have told me the truth; or, before you
+(will) come to me, he will tell me the truth). If I were to ask
+him, he would tell me the truth. I should not have made the
+mistake if he had previously told me the truth. When I (shall)
+come, tell me the truth. When my father (shall) come, tell me
+beforehand the truth. I wish to tell you the truth. I wish that
+that which I said should be true (or, I wish to have told the
+truth).</p>
+
+<center><b>17.</b></center>
+
+<p>Walking in the street, I fell. Having found an apple, I ate
+it. He came to me quite unexpected. He went meditating (deeply)
+and very slowly. We were ashamed, having received instruction
+from the boy. The imperial servant went out, taking with him the
+bracelet. Profoundly saluting, he related that the thief had been
+caught. Without saying a word, the duchess opened her jewel-case.
+Having worked a year, and having saved a few dollars, I married
+(with) my Mary. Having crossed the river, he found the thief.
+Looking (having looked) by chance on the floor, she saw some
+book, forgotten probably by a departed traveller.</p>
+
+<!-- =============================106.png============================ -->
+<center><b>18.</b></center>
+
+<p>The bootmaker makes boots and shoes. Nobody lets thieves into
+his house. The brave sailor was drowned in the sea. An author
+writes books, and a writer simply copies papers. We have various
+servants - a cook, a housemaid, a nurse, and a coachman. (He) who
+occupies himself with mechanics is a mechanic, and (he) who
+occupies himself with chemistry is a chemist. A diplomatist we
+can also call a diplomat, but a physicist we cannot call a
+"physic," for "physics" is the name of the science itself. One
+day there came two cheats, who said that they were (are)
+weavers.</p>
+
+<center><b>19.</b></center>
+
+<p>They so hindered me that I spoiled the whole of my work. Send
+away your brother, for he hinders us. Fetch the doctor, for I am
+ill. He procured for himself many books from Berlin.</p>
+
+<p>He grew pale with fear, and afterwards he blushed from shame.
+In the spring the ice and the snow melt. In the muddy weather my
+coat became very dirty; therefore I took a brush and cleaned the
+coat. My uncle did not die (by) a natural death, but nevertheless
+he did not kill himself, and also was killed by nobody; one day,
+walking near the railway lines, he fell under the wheels of a
+moving train, and was killed. I did not hang my cap on this
+little tree; but the wind blew away the cap from my head, and it,
+flying, became hung (got caught) on the branches of the little
+tree. Seat yourself (or, sit down), sir.</p>
+
+<p>His gloomy face made his friend laugh. The whole night they
+passed awake, and lighted more than sixteen candles. I divested
+the child of his night clothes, and stood him in the tub;
+afterwards I dried him. He made friends with evil companions. A
+poor Hebrew wished to become a Christian. The bottle fell and
+broke. She became his wife. Little by little she became quite
+calm.</p>
+
+<center><b>20.</b></center>
+
+<p>The sea is deeper there than any anchor can reach. In some
+(any) way. Without any reproach of conscience. I know in what
+sort of place I shall certainly find him. What kind of weather is
+it? What harm have I done to you? In that way he did everything.
+He invited him to come into such and such a place. Not every sort
+of bird sings. Beyond all doubt. No (kind of) man deserves such a
+punishment. Such books are harmful. At times he visits us.</p>
+
+<p>For some reason he could not sleep. Why do you not answer me?
+I did not understand your question, therefore I did not answer.
+People do not understand one another, and therefore they hold
+themselves aloof. For every reason that is the best.</p>
+
+<!-- =============================107.png============================ -->
+<p>I once loved you. What lives must of necessity some time die.
+When shall you go away? In the moonlight night, when all were
+asleep, then she sat on the edge or the ship. Be for ever
+blessed! She had never seen a dog before.</p>
+
+<center><b>20a.</b></center>
+
+<p>Where are the boys? Where did you go? I am staying here. He
+lost his purse somewhere in the town, but where he lost it he
+does not know. I willingly came from there here. He begged her to
+tell him whence she came (whence she comes). For youth there are
+snares everywhere. Everywhere are flowers, and nowhere can one
+find more beautiful (ones).</p>
+
+<p>How beautiful! Am I fit for a king? So finished the happy day.
+They shone like diamonds. How are you? Somehow he misunderstood
+me. My wife thought the same as I. I cannot understand at all
+what you say. Very strange and quite incomprehensible! I, as
+president, elected him. I chose him as president.</p>
+
+<p>Whose glove is this? I never take that one's opinion. Suddenly
+she heard somebody's loud disagreeable voice. Everybody's idea is
+different. A good friend, without whose help he would never have
+seen this land. Somebody's loss is not always somebody's gain.
+Someone's loss is often no one's gain.</p>
+
+<center><b>20b.</b></center>
+
+<p>I feel that something is happening. Never did I give you
+anything. I wish to do something good for (to) you. What is this?
+What kind of ornament is this? What do I see? This is all I spoke
+of. I will give up nothing to you. Do nothing against your
+mother. Before all, be faithful to yourself. She began to feel
+something such as (which) she herself in the beginning could
+(can) not understand.</p>
+
+<p>She spoke a little angrily. The pupils of the eyes little by
+little contracted. Who is so unreasonable (senseless) that he can
+believe it? How much money have you? I have none. Give me as much
+water as wine.</p>
+
+<p>Somebody comes; who is it? Would anybody have the courage to
+do that? Everybody tried to save himself as he could. A language
+in which nobody will understand us. None of them could save the
+drowning person. He helped nobody ever (never helped anybody)
+even with one centime. We shall go all together. I know nobody in
+that town. This is beyond all human strength.</p>
+
+<!-- =============================108.png============================ -->
+<center><b>20c.</b></center>
+
+<p>Where I am travelling from, whither and why, I can only
+answer: I know not. They begged him to delay a little (with) his
+departure. These nests are often larger than the huts of the
+people of that place. He departed with the firm resolve to leave
+for ever this ungrateful land. If anyone were to see that, he
+would curse Fortune. I would give a hundred pounds sterling if ox
+tongue could have for me such a good taste as for you. What time
+is it? Nearly (soon) twelve o'clock.</p>
+
+<center><b>21.</b></center>
+
+<p>On a hot day I like to walk in a wood. They opened the gate
+noisily, and the carriage drove into the courtyard. This is no
+longer simple rain, but a downpour. A huge dog put its forepaw on
+me, and from terror I did not know what to do. Before our army
+stood a great series of cannon. (In) that night a terrible gale
+blew. With delight. He longed to go away again.</p>
+
+<p>Immediately after heating the stove was hot, in an hour it was
+only warm, in two hours it was only just warm, and after three
+hours it was already quite cold. I bought for the children a
+little table and some little seats. In our country there are no
+mountains, but only hills. In summer we find coolness in thick
+woods. He sits near the table and dozes. A narrow path leads
+through this field to our house. On his face I saw a joyful
+smile. Before the woman appeared a pretty little dog. Pardon, he
+whispered.</p>
+
+<center><b>22.</b></center>
+
+<p>With (by means of) an axe we chop, with a saw we saw, with a
+spade we dig, with a needle we sew, with scissors we clip. The
+knife was so blunt that I could not cut the meat with it, and I
+had to use my pocket knife. Have you a corkscrew to uncork the
+bottle? I wished to lock the door, but I had lost the key. She
+combs her hair with a silver comb. In summer we travel by various
+vehicles, and in winter by a sledge. To-day it is beautiful
+frosty weather; therefore I shall take my skates and go skating.
+The steersman of the "Pinta" injured the rudder. The magnetic
+needle. The first indicator in most illnesses is the tongue. He
+put it on the plate of a pair of scales.</p>
+
+<!-- =============================109.png============================ -->
+<center><b>23.</b></center>
+
+<p>The sailors must obey the captain. All the inhabitants of a
+state are citizens (subjects) of the state. Townsfolk are usually
+sharper than villagers. The Parisians are gay folk. Our town has
+good policemen, but not a sufficiently energetic chief constable.
+Lutherans and Calvinists are Christians. Germans and Frenchmen
+who live in Russia are Russian subjects, although they are not
+Russians. He is an awkward and simple provincial. The inhabitants
+of one state are fellow-countrymen, the inhabitants of one town
+are fellow-citizens, the professors of one religion are
+co-religionists. Those who have the same ideas are
+fellow-thinkers.</p>
+
+<p>The ruler of our country is a good and wise king. The governor
+of our province is strict but just. Our regimental chief
+(colonel) is like a good father to (for) his soldiers. They are
+as (equally) proud as a housewife of her house. On the engine the
+engine-driver sat alone. The emperor, accompanied by the empress,
+had just entered (into) his box.</p>
+
+<center><b>24.</b></center>
+
+<p>Our country will conquer, for our army is large and brave. On
+a steep ladder he raised himself to the roof of the house. I do
+not know the Spanish language, but by help of a Spanish-German
+dictionary, I nevertheless understood your letter a little. On
+these vast and grassy fields feed great herds of beasts,
+especially flocks of fine-woolled sheep. The train consisted
+almost entirely (only) of passenger coaches. They put before me a
+cover (table requisites), which consisted of a plate, spoon,
+knife, fork, a small glass for brandy, a glass for wine, and a
+serviette. On the sea was a great ship, and among the rigging
+everywhere sat sailors. His escort stood at the back of the box.
+Dark ranges of mountains bar the way.</p>
+
+<p>A florin, a shilling, and a penny are coins. A grain of sand
+fell into my eye. One spark is enough to explode gunpowder.</p>
+
+<!-- =============================110.png============================ -->
+<center><b>25.</b></center>
+
+<p>A poor wise man dined with a miserly rich man. A fool everyone
+beats. He is a liar and a despicable man. A coward fears even his
+own shadow. This old man has become quite silly and childish. A
+learned man undertook an important scientific work. Only saints
+have the right to enter here. He only is the great, the powerful
+(One). It is not the legend about the beauty Zobeida. After an
+infectious disease the clothes of the patient are often burned.
+The curse of the prophet is over the head of an ungrateful one.
+After some minutes the brave man went out. All the saints,
+help!</p>
+
+<center><b>(Lesson 26 no Exercise).</b></center>
+
+<center><b>27.</b></center>
+
+<p>She returned to her father's palace. They both went to the
+mayor. Did I not do good to you? She told him nothing. She wrote
+him a letter. He every day teaches people something which they do
+not know. They flew towards the sun. One sister promised the
+other to tell her what she saw, and what most pleased her the
+first day. Perhaps he will forgive you. She did not believe her
+own ears. He did not know that he had (has) to thank her [for]
+his life. She saved his life. The witch cut off the tongue of the
+mermaid.</p>
+
+<center><b>28.</b></center>
+
+<p>I lived with her father. It fell to (on) the bottom of the sea
+on the breaking up of the ship. By [the] light of torches. Arm in
+arm. There seized him some fear at the thought. Nothing helps;
+one must only bravely remain of his [own] opinion. She laughed at
+his recital. At every word which you (will) speak, out of your
+mouth will come either a flower or a precious stone.</p>
+
+<p>He stopped near the door. The serpent crawled about her feet.
+When he was with me, he stood a whole hour by the window. I lived
+in a tree near your house. She planted near the statue a rose-red
+willow. The wayside trees.</p>
+
+<!-- =============================111.png============================ -->
+<center><b>29.</b></center>
+
+<p>The bird flies in the room (= it is in the room and flies
+[about] in it). The bird flies into the room (= it is outside the
+room, and now flies into it). I am travelling in Spain. I am
+travelling to (into) Spain. What to do then (is to be done) in
+such a case? I am in a good temper. He whispered to the queen in
+the ear. In consequence of this occurrence. I should prefer to
+stay here in peace. Her birthday was exactly in the middle of
+winter. He glanced into the child's eyes. He was a tall handsome
+man of the age of forty years. In the whole of my life. At the
+end of the year. Hand in hand. Entering (having entered) the
+carriage, she sat as if on pins. Corn is ground into flour.
+Alexander turned into dust. He divided the apple into two
+parts.</p>
+
+<center><b>30.</b></center>
+
+<p>Between Russia and France is Germany. They divided among them
+twelve apples. Between ten and eleven o'clock in the morning.
+Between the pillars stood marble figures. Near the wall between
+the windows stood a sofa. They talked long among themselves. In
+this disease an hour may decide between life and death. In the
+interval between the speeches they set off fireworks.</p>
+
+<p>I am standing outside the house, and he is inside. He is
+outside the door. Now we are out of danger. He lives outside the
+town. Standing outside, he could only see the outer side of our
+house. He pointed outside into the darkness. I left him outside.
+This man is better outwardly than within.</p>
+
+<p>He went out of the town. He has just returned from foreign
+parts. With extraordinary vivacity she jumped out of the carriage
+(of the train). She put a crown of white lilies on her
+(another's) head (hair). He made use of the opportunity. These
+nests are made wholly of earth. She was the bravest of all. Now
+you have grown up! He went out of the bedroom, and entered into
+the dining-room. The Esperanto alphabet consists of twenty-eight
+letters.</p>
+
+<center><b>31.</b></center>
+
+<p>I am sitting on a seat and have my feet on a little bench. He
+came back with a cat on his arm. I put my hand on the table. He
+fell on his knees. Do not go on the bridge. He threw himself in
+despair on a seat. He slapped him on the shoulder and pressed him
+down on to the sofa. I seated myself in the place of the absent
+stoker. Fruit-culture must influence for good those who are
+occupied with it.</p>
+
+<p>Over the earth is air. His thoughts rose high above the
+clouds. She received permission to rise above the surface of the
+sea. They could rise on the high mountains high above the clouds.
+He stands above on the mountain, and looks down on to the field.
+She sat on the water and swung up and down.</p>
+
+<!-- =============================112.png============================ -->
+<p>From under the sofa the mouse ran under the bed, and now it
+runs [about] under the bed. She often had to dive under the
+water. To (under) the sound of music they danced on the deck.
+Under her gaze blossomed the white lilies. She sank under the
+water. She swam up at sunset.</p>
+
+<center><b>32.</b></center>
+
+<p>He is so stout that he cannot go through our narrow door. She
+looked up through the dark-blue water. Through the roseate air
+shone the evening star. The sound of the bells penetrates down to
+her. They glide among the branches. On the fireplace between two
+pots stands an iron kettle; out of the kettle, in which is
+boiling water, goes steam; through the window, which is near the
+door, the vapour goes into the court.</p>
+
+<p>The swallow flew across the river, for across (on the other
+side of) the river were other swallows. They can fly on ships
+across the sea. "Why did Hannibal go across the Alps? Because
+then the tunnel was not yet ready." It is impossible that they
+should have gone across the ocean. Everything was turned upside
+down.</p>
+
+<p>We passed by the station. At this moment the abbot passes by.
+In passing, I asked him if it were (is) yet twelve o'clock. The
+mill cannot grind with the water that is past.</p>
+
+<center><b>33.</b></center>
+
+<p>Before them stood a church. Before such men it is worth while
+to speak. Often in the night she stood before the window. I am
+guilty towards (before) you. An hour ago. A short time ago he
+woke up very hoarse. Not long ago the house was sold publicly. Do
+not go before you know that everything is in order. I must let
+them sweep out the room before we (shall) begin to dance. I was
+there the previous year. Formerly I never thought about wealth.
+It was with (to) her as the witch prophesied.</p>
+
+<p>He remained behind the door. Little by little. She began
+eagerly to read page after page. She looked after him with a
+smile. After some minutes the sun rose. She threw her arms
+backwards and forwards. We shall stay some weeks in Paris;
+afterwards we shall travel into Germany.</p>
+
+<!-- =============================113.png============================ -->
+<center><b>34.</b></center>
+
+<p>During the whole day (or, the whole day) he remained alone.
+During (for) some months she did not leave her room. He slept
+during the whole concert (or, the whole concert). While the
+preparations lasted, he was a guest of the king. While he is
+journeying on the road to Granada, in Santa F&eacute; his fate is
+being decided.</p>
+
+<p>They used to work until late at night. The plate of the scales
+sank to the ground. Its rays crept up to the dome. Lend me ten
+roubles until to-morrow. He worked on from early morning till
+late at night. He will fight to the very end. We kept going up
+always higher and higher to the fourth story. It will exist until
+the world shall perish.</p>
+
+<p>The king came about midday into the village of Reading. About
+morning the gale ended. About ten metres will be sufficient. All
+gathered round the glass globe. One can look very far round
+about. Great mountains of ice floated around. He looked around on
+all sides.</p>
+
+<center><b>35.</b></center>
+
+<p>The light of the moon. In the middle of the square stood a
+house. He might be of the age (have the age) of sixteen years.
+Their lifetime is still shorter than ours. They rose from beside
+the table. I thought that you would (will) never return from
+thence. The sailors took down the sails. He dismounted from the
+horse.</p>
+
+<p>A wine glass is a glass in which there was wine previously, or
+which is used for wine; a glass of wine is a glass full of wine.
+Bring me a metre of black cloth. (<i>Metro de drapo</i> would
+mean a yard-measure which was lying on cloth, or which is used
+for cloth). I bought a half-score of eggs. This river has a
+length of two hundred kilometres (has two hundred kilometres of
+length). On the seashore stood a crowd of people. Many birds fly
+in the autumn into warmer lands. On the tree were many birds.
+Some people feel happiest when they see the sufferings of their
+neighbours. In the room were (sat) only a few people. "Da" after
+any word shows that this word signifies measure.</p>
+
+<p>It is a beautiful piece of stuff. On the plate he put
+thousands of pieces of silver. The lights glitter like hundreds
+of stars. A boy bought a little bottle of ink. They construct
+little towers containing many little chambers. He gave them a
+great sum of money.</p>
+
+<!-- =============================114.png============================ -->
+<center><b>36.</b></center>
+
+<p>I eat with my mouth, and smell with my nose. She trod with her
+foot on the serpent. It covered the lovely lily with white foam.
+The body ended in a fish's tail. All the walls are decorated with
+great paintings. By here, and by no other way, the thief escaped.
+In what way can one come into the land of gold? In such a way. In
+one word. The star Venus began to burn with envy.</p>
+
+<p>She wished to play with them, but they ran away in terror.
+With what attention she listened to these tales. The most
+beautiful of them was the young prince with the great black eyes.
+Hither swam the sea-maiden with the beautiful prince. With
+pleasure. With every year the number of members rapidly
+increased.</p>
+
+<p>The Tartar remained without a good horse and without food.
+Almost without life he was driven about by the waves. They wove
+with all their might, but without thread (threads). Without a
+word he obeyed. The leaves moved ceaselessly. He created
+numberless birds.</p>
+
+<center><b>37.</b></center>
+
+<p>He treated himself in order to regain his health. She had a
+great deal to tell. He went into the church to make his
+confession. In order to pass the time somehow. Nobody is more fit
+for his post than he. He used all his might to please his master.
+For me it is all one wherever I live. Take (the pay) for the
+coffee.</p>
+
+<p>He died of hunger. I had a very good estate, which was sold on
+account of debts. For heaven's sake, do not do this. He was
+convinced that on his own account he need not fear. On this
+account Venus gives more light than many other stars. Whether for
+that, or for some other reason, I know not.</p>
+
+<center><b>38.</b></center>
+
+<p>She wished to believe that the Hebrew spoke of someone else.
+Now the woman has everything, she can ask for nothing. Do not
+think about this. One cannot truly say that about you. There were
+still many things about which they wished to know. He could not
+even dream about her. She used to ask the old grandmother about
+that.</p>
+
+<p>I remain here by order of my chief. He began to go along this
+river. They had permission to go up always according to their
+(own) will. She could dig and plant as she pleased (according to
+her liking). The shells closed and opened according to the flow
+of the water. From his outward appearance he seemed a respectable
+man. At the command "three" you will shoot at the tree. The
+younger daughter was the very picture of her father in her
+goodness and honesty.</p>
+
+<!-- =============================115.png============================ -->
+<center><b>39.</b></center>
+
+<p>You have remedies against all diseases. What can he alone do
+against a hundred men? Contrary to his custom, the professor said
+nothing. It flew against the reflector. Against her own will she
+confessed this. He began to feel a certain disgust against
+himself. The opposite side. They sat down one opposite the other.
+She was unjust towards him. Contrary to usual, the number of
+dancers was great.</p>
+
+<p>Instead of him his brother was sent. Instead of going out he
+remained in the house. An eye for an eye, and a tooth for a
+tooth. Instead of coffee he gave me tea with sugar, but without
+cream. Instead of "la" one can also say "l'" (but only after a
+preposition which ends with a vowel).</p>
+
+<p>In the drawing-room there was nobody except him and his
+fianc&eacute;e. Besides the empty loom there was nothing. Besides
+ourselves we had very little to bring in. She wished to have,
+besides the red flowers, only one beautiful statue. All slept,
+save the steersman beside his tiller. In addition to the members,
+many guests journey there.</p>
+
+<center><b>40.</b></center>
+
+<p>He worked hard, but in spite of everything he did not succeed.
+It was still fairly warm, notwithstanding that the sun was low.
+They will be severely punished if, notwithstanding the
+prohibition, they (shall) offend against the freedom of the road.
+Despite all my endeavours to prevent him, he went away.</p>
+
+<p>For my four children I bought twelve apples, and to each of
+the children I gave at the rate of three apples. They may cost
+three to five shillings each. This book has sixty pages;
+therefore if I (shall) read every day (at the rate of) fifteen
+pages, I shall finish the whole book in four days. I bought four
+books at sixpence each.</p>
+
+<p>We were only engaged about some household affairs. The
+structure is similar to a mushroom. They ran away when the woman
+cried out at them. In the evening the sky became covered with
+clouds. From fear of Karagara I ran away. She was very proud of
+her high rank. The dog sincerely mourned for him. None of them
+was so full of desires as the youngest girl. On word of
+honour.</p>
+
+<!-- =============================116.png============================ -->
+<center><b>40a.</b></center>
+
+<p>If we need to use a preposition, and the sense does not show
+us what preposition to use, then we can use the general
+preposition "je." But it is well to use the word "je" as seldom
+as possible. Instead of the word "je" we can also use the
+accusative without a preposition. I laugh at his simplicity (or,
+I laugh on account of his simplicity; or, I ridicule his
+simplicity). The last time I saw him with you I travelled two
+days and one night. I sigh for my lost happiness. From the said
+rule it follows that if we do not know as to any verb whether it
+requires the accusative case after it (that is, whether it is
+active) or not, we can always use the accusative. For example, we
+can say "obei al la patro" and "obei la patron" (instead of "obei
+je la patro"). But we do not use the accusative when the
+clearness of the sense forbids it; for example, we can say
+"pardoni al la malamiko" and "pardoni la malamikon," but we must
+always say "pardoni al la malamiko lian kulpon."</p>
+
+<center><b>41.</b></center>
+
+<p>The photographer photographed me, and I sent my photograph to
+my father. You talk nonsense, my friend. I drank tea, with cake
+and jam. Water is a fluid. I did not wish to drink the wine, for
+it had in it a certain muddiness. On the table were various
+sweetmeats. I ate a tasty omelette. When I travel anywhere I
+never take with me much luggage. An ice is a sweet frozen dainty.
+The whole surface of the lake was covered with floating leaves
+and various other plants (growths). The timber merchant sells
+wood, and the joiner makes tables, chairs, and other wooden
+objects. I use no sort of alcoholics. His old mother carried on
+the management of the house. "An evil appearance he had,"
+answered the Jew. She thought over the doings of the past day. It
+is as light as a cobweb. The train of the dress was long. They
+move like living beings.</p>
+
+<p>He loves this girl on account of her beauty and goodness. His
+heroism greatly pleased me. I live with them in great friendship.
+We are, in fact, close to the river. This is the most important
+quality. Court ceremony necessitates inconvenience. The wealth of
+this man is great, but his foolishness is still greater.</p>
+
+<p>In these little bottles are various acids&mdash;vinegar,
+sulphuric acid, nitric acid, and others. The acidity of this
+vinegar is very weak. Your wine is only some abominable acid
+thing. This great eminence is not a natural mountain. The height
+of that mountain is not very great.</p>
+
+<!-- =============================117.png============================ -->
+<center><b>42.</b></center>
+
+<p>The house in which one learns is a school, and the house in
+which one prays is a church. The cook sits in the kitchen. The
+doctor advises me to go into a vapour-bath. The horse put one
+hoof on a serpent's nest. The woman used to walk through lovely
+woods and meadows. He came into his lodging. He stopped by the
+gate of the monastery.</p>
+
+<p>Russians live in Russia, and Germans in Germany. My writing
+materials consist of an inkstand, a sand-box, a few pens, a
+pencil, and a blotter. In my trousers pocket I carry a purse, and
+in my overcoat pocket I carry a pocket book; a larger portfolio I
+carry under my arm. Put on the table the sugar-basin, the
+tea-caddy, and the teapot.</p>
+
+<p>A shop in which one sells cigars, or a room in which one keeps
+cigars, is a cigar-store; a box or other object in which one
+keeps cigars is a cigar-case; a little tube in which one puts a
+cigar when one smokes it is a cigar-holder. A little box in which
+one keeps pens is a pen-box, and a little stick, on which one
+holds a pen to write, is a penholder. In the candlestick was a
+burning candle.</p>
+
+<center><b>43.</b></center>
+
+<p>A father and a mother together are named parents. Peter, Anne,
+and Elizabeth are my brother and sisters. Mr. and Mrs. N. will
+come to us this evening. The engaged couple stood by the altar. I
+congratulated the young married pair by telegraph. The king and
+queen left Cordova. She married (with) her cousin, although her
+parents wished to marry her to another person.</p>
+
+<p>My wife's father is my father-in-law, I am his son-in-law, and
+my father is the father-in-law of my wife. All my wife's
+relations are my relations by marriage, consequently her brother
+is my brother-in-law, her sister is my sister-in-law; my brother
+and sister are the brother-in-law and sister-in-law of my wife.
+The wife of my nephew and the niece of my wife are my nieces by
+marriage. A woman who treats the sick is a lady doctor; the wife
+of a doctor is a doctor's wife. Mrs. Dr. A. visited Dr. and Mrs.
+P. to-day. He is not a laundryman, he is a washerwoman's
+husband.</p>
+
+<p>The sons, grandsons, and great-grandsons of a king are
+princes. The Hebrews are Israelites, for they are descended from
+Israel. A foal is an immature horse, a chicken an immature fowl,
+a calf an immature ox, a fledgeling an immature bird. That
+beautiful land was in a very primeval state.</p>
+
+<!-- =============================118.png============================ -->
+<p>John, Nicholas, Ernest, William, Mary, Clara, and Sophia are
+called by their parents Johnny (or Jack), Nick, Ernie, Will (or
+Willie or Bill or Billy), Polly (or Molly), Clarry, and
+Sophy.</p>
+
+<center><b>44.</b></center>
+
+<p>Steel is flexible, but iron is not flexible. Not every plant
+is edible. Glass is breakable and transparent. Your speech is
+quite incomprehensible, and your letters are always written quite
+illegibly. The darkness is impenetrable. He related to me a story
+altogether incredible. Perhaps I can (shall be able to) help you.
+Do you love your father? What a question! of course (that) I love
+him. Probably I shall not be able to come to you to-day, for I
+think that I myself shall have guests to-day. The table stands
+askew, and will probably soon fall over. He did his best (his
+possible).</p>
+
+<p>He is a man unworthy of belief. Your action is very
+praiseworthy. This important day will remain for me for ever
+memorable. It is a coat of great worth. It is not worthy of
+thanks. The crew show [themselves] unworthy of their leader.</p>
+
+<p>His wife is very hardworking and economical, but she is also
+very fond of talking and noisy. He is very irascible, and often
+becomes excited at the merest trifle; nevertheless he is very
+forgiving, he does not bear anger long, and he is not at all
+revengeful. He is very credulous; even the most incredible
+things, which the most untrustworthy people relate to him, he
+immediately believes. He is very cleanly, and you will not find
+even one speck of dust on his coat. He is an excellent boy, but
+very apt to believe [in] spirits.</p>
+
+<center><b>45.</b></center>
+
+<p>We all came together to talk over very important business, but
+we could not reach any result, and we parted. Misery often unites
+people, and happiness often separates them. I tore up the letter,
+and threw its bits into every corner (all corners) of the room.
+After this they separated for home. The road branched in several
+directions.</p>
+
+<p>I willingly fulfilled his desire. In bad weather one may
+easily take cold. He unbuttoned his overcoat. She played with her
+fan. Shirts, collars, cuffs, and other similar things we call
+linen, although they are not always made of linen.</p>
+
+<hr align="center" width="38%">

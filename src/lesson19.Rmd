@@ -1,0 +1,121 @@
+---
+title: "" #"Lesson 19 - Words"
+author: "" #"JLAUro"
+date: "" #"May 21, 2017"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+<br/><br/>
+
+<!-- =============================046.png============================ -->
+<center><b>LESSON 19.</b></center>
+
+<center><i>Suffixes</i> <b>-ig-, -i&#285;-.</b></center>
+
+<p><b>-ig-</b> means <i>to make</i> or <i>cause</i> someone or
+something to be or to do that which the word denotes, while
+<b>-i&#285;-</b> means <i>to become</i> so or such oneself. Thus
+from <i>ru&#285;a</i>, red, we get <i>ru&#285;igi</i>, to make
+(something or someone) red, <i>ru&#285;i&#285;i</i>, to become
+red oneself, to blush; <i>klara</i>, clear, <i>klarigi</i>, to
+make clear, to explain, <i>klari&#285;i</i>, to become clear;
+<i>sidi</i>, to sit, to be sitting, <i>sidigi</i>, to cause
+someone to sit, <i>sidi&#285;i</i>, to become seated, to sit
+down; <i>kun</i>, with, <i>kunigi</i>, to connect,
+<i>kuni&#285;i</i>, to become connected with; <i>devi</i>, to
+have to (must), <i>devigi</i>, to compel; <i>fari</i>, to do or
+make, <i>fari&#285;i</i>, to become; <i>for</i>, away,
+<i>forigi</i>, make (go) away.</p>
+
+<center>
+<table cellspacing="8">
+<caption><b>Vocabulary.</b></caption>
+
+<tr>
+<td nowrap valign="top"><i>printempo</i>, spring.<br>
+ <i>glacio</i>, ice.<br>
+ <i>vetero</i>, weather.<br>
+ <i>broso</i>, brush.<br>
+ <i>relo</i>, rail.<br>
+ <i>rado</i>, wheel.<br>
+ <i>&#265;apo</i>, bonnet, cap.<br>
+ <i>arbeto</i>, little tree.<br>
+ <i>vento</i>, wind.<br>
+ <i>bran&#265;o</i>, branch.<br>
+ <i>viza&#285;o</i>, face.<br>
+ <i>kuvo</i>, tub.<br>
+ <i>kolego</i>, companion, colleague<br>
+ <i>Hebreo</i>, Hebrew.<br>
+ <i>Kristano</i>, Christian.</td>
+<td nowrap valign="top"><i>kapo</i>, head.<br>
+ <i>botelo</i>, bottle.<br>
+ <i>dev-</i>, have to, must.<br>
+ <i>kurac-</i>, treat as a doctor.<br>
+ <i>pren-</i>, take.<br>
+ <i>pend-</i>, hang.<br>
+ <i>blov-</i>, blow.<br>
+ <i>ekbrul-</i>, begin to burn.<br>
+ <i>rid-</i>, laugh.<br>
+ <i>romp-</i>, break.<br>
+ <i>fluida</i>, fluid.<br>
+ <i>kota</i>, dirty, muddy.<br>
+ <i>natura</i>, natural.<br>
+ <i>seka</i>, dry.<br>
+ <i>tamen</i>, however, nevertheless, yet.</td>
+</tr>
+</table>
+</center>
+
+<p>Oni tiel malhelpis al mi, ke mi malbonigis mian tutan laboron.
+Forigu vian fraton, &#265;ar li malhelpas al ni. Venigu la
+kuraciston, &#265;ar mi estas malsana.</p>
+
+<!-- =============================047.png============================ -->
+<p>Li venigis al si el Berlino multajn librojn (multe da
+libroj).</p>
+
+<p>Li pali&#285;is de timo, kaj poste li ru&#285;i&#285;is de
+honto. En la printempo la glacio kaj la ne&#285;o fluidi&#285;as.
+En la kota vetero mia vesto forte malpuri&#285;is; tial mi prenis
+broson kaj purigis la veston. Mia onklo ne mortis per natura
+morto, sed li tamen ne mortigis sin mem, kaj anka&#365; estis
+mortigita de neniu; unu tagon, [Footnote: See Lesson 26, Note
+iii.] promenante apud la reloj de fervojo, li falis sub la radojn
+de veturanta vagonaro, kaj morti&#285;is. Mi ne pendigis mian
+&#265;apon sur tiu &#265;i arbeto; sed la vento forblovis de mia
+kapo la &#265;apon, kaj &#285;i, flugante, pendi&#285;is sur la
+bran&#265;oj de la arbeto. Sidigu vin (a&#365;, sidi&#285;u),
+sinjoro!</p>
+
+<p>Lia malgaja viza&#285;o ridigis lian amikon. La tutan nokton
+ili pasigis maldorme, kaj ekbruligis pli ol dekses kandelojn. Mi
+senvestigis la infanon de liaj noktaj vestoj, kaj starigis lin en
+la kuvon; poste mi sekigis lin. Li amiki&#285;is kun malbonaj
+kolegoj. Malri&#265;a hebreo volis kristani&#285;i. La botelo
+falis kaj rompi&#285;is. &#348;i fari&#285;is lia edzino. Iom
+post iom, &#349;i tute trankvili&#285;is.</p>
+
+<hr align="center" width="38%">
+<center>NOTES.</center>
+
+<p>1.&mdash;In <i>pluvas</i>, it rains; <i>tondras</i>, it
+thunders; <i>estas bela tago</i>, it is a fine day; <i>estas
+bele</i>, it is fine; <i>estas vere, ke...</i>, it is true
+that..., etc., "it" is left out, because it does not stand for
+any "thing." The adverbs <i>bele</i>, <i>vere</i>, are used
+because no "thing" is mentioned.</p>
+
+<p>2.&mdash;<i>Ni havas fre&#349;ajn lakton kaj panon</i> means
+<i>Ni havas fre&#349;an lakton kaj fre&#349;an panon</i>, We have
+new milk and new bread. <i>Ni havas fre&#349;an lakton kaj
+panon</i> means We have bread and new milk.</p>
+
+<p>3.&mdash;<i>La angla, franca kaj germana lingvoj estas
+malfacilaj</i>, The English, French and German languages are
+difficult. <i>Angla</i>, <i>franca</i>, <i>germana</i> do not
+take "j" because each refers to only one language, while
+<i>malfacilaj</i> refers to all those mentioned.</p>

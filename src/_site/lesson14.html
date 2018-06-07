@@ -1,0 +1,499 @@
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+
+<meta charset="utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="generator" content="pandoc" />
+
+
+
+
+<title></title>
+
+<script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link href="site_libs/bootstrap-3.3.5/css/bootstrap.min.css" rel="stylesheet" />
+<script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<script src="site_libs/navigation-1.1/tabsets.js"></script>
+<link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
+<script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
+<link href="site_libs/font-awesome-4.5.0/css/font-awesome.min.css" rel="stylesheet" />
+
+<style type="text/css">code{white-space: pre;}</style>
+<style type="text/css">
+  pre:not([class]) {
+    background-color: white;
+  }
+</style>
+<script type="text/javascript">
+if (window.hljs) {
+  hljs.configure({languages: []});
+  hljs.initHighlightingOnLoad();
+  if (document.readyState && document.readyState === "complete") {
+    window.setTimeout(function() { hljs.initHighlighting(); }, 0);
+  }
+}
+</script>
+
+
+
+<style type="text/css">
+h1 {
+  font-size: 34px;
+}
+h1.title {
+  font-size: 38px;
+}
+h2 {
+  font-size: 30px;
+}
+h3 {
+  font-size: 24px;
+}
+h4 {
+  font-size: 18px;
+}
+h5 {
+  font-size: 16px;
+}
+h6 {
+  font-size: 12px;
+}
+.table th:not([align]) {
+  text-align: left;
+}
+</style>
+
+<link rel="stylesheet" href="bootstrap/bootstrap-cerulean-grn99.min.css" type="text/css" />
+
+</head>
+
+<body>
+
+<style type = "text/css">
+.main-container {
+  max-width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+}
+code {
+  color: inherit;
+  background-color: rgba(0, 0, 0, 0.04);
+}
+img {
+  max-width:100%;
+  height: auto;
+}
+.tabbed-pane {
+  padding-top: 12px;
+}
+button.code-folding-btn:focus {
+  outline: none;
+}
+</style>
+
+
+<style type="text/css">
+/* padding for bootstrap navbar */
+body {
+  padding-top: 51px;
+  padding-bottom: 40px;
+}
+/* offset scroll position for anchor links (for fixed navbar)  */
+.section h1 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+
+.section h2 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.section h3 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.section h4 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.section h5 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.section h6 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+</style>
+
+<script>
+// manage active state of menu based on current page
+$(document).ready(function () {
+  // active menu anchor
+  href = window.location.pathname
+  href = href.substr(href.lastIndexOf('/') + 1)
+  if (href === "")
+    href = "index.html";
+  var menuAnchor = $('a[href="' + href + '"]');
+
+  // mark it active
+  menuAnchor.parent().addClass('active');
+
+  // if it's got a parent navbar menu mark it active as well
+  menuAnchor.closest('li.dropdown').addClass('active');
+});
+</script>
+
+
+<div class="container-fluid main-container">
+
+<!-- tabsets -->
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+</script>
+
+<!-- code folding -->
+
+
+
+
+
+
+<div class="navbar navbar-default  navbar-fixed-top" role="navigation">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="index.html">The Esperanto Teacher</a>
+    </div>
+    <div id="navbar" class="navbar-collapse collapse">
+      <ul class="nav navbar-nav">
+        <li>
+  <a href="index.html">
+    <span class="fa fa-star"></span>
+     
+    About
+  </a>
+</li>
+<li class="dropdown">
+  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">
+    Lessons: 0-10
+     
+    <span class="caret"></span>
+  </a>
+  <ul class="dropdown-menu" role="menu">
+    <li>
+      <a href="intro.html"> 0</a>
+    </li>
+    <li>
+      <a href="lesson1.html"> 1</a>
+    </li>
+    <li>
+      <a href="lesson2.html"> 2</a>
+    </li>
+    <li>
+      <a href="lesson3.html"> 3</a>
+    </li>
+    <li>
+      <a href="lesson4.html"> 4</a>
+    </li>
+    <li>
+      <a href="lesson5.html"> 5</a>
+    </li>
+    <li>
+      <a href="lesson6.html"> 6</a>
+    </li>
+    <li>
+      <a href="lesson7.html"> 7</a>
+    </li>
+    <li>
+      <a href="lesson8.html"> 8</a>
+    </li>
+    <li>
+      <a href="lesson9.html"> 9</a>
+    </li>
+    <li>
+      <a href="lesson10.html">10</a>
+    </li>
+  </ul>
+</li>
+<li class="dropdown">
+  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">
+    11-20
+     
+    <span class="caret"></span>
+  </a>
+  <ul class="dropdown-menu" role="menu">
+    <li>
+      <a href="lesson11.html">11</a>
+    </li>
+    <li>
+      <a href="lesson12.html">12</a>
+    </li>
+    <li>
+      <a href="lesson13.html">13</a>
+    </li>
+    <li>
+      <a href="lesson14.html">14</a>
+    </li>
+    <li>
+      <a href="lesson15.html">15</a>
+    </li>
+    <li>
+      <a href="lesson16.html">16</a>
+    </li>
+    <li>
+      <a href="lesson17.html">17</a>
+    </li>
+    <li>
+      <a href="lesson18.html">18</a>
+    </li>
+    <li>
+      <a href="lesson19.html">19</a>
+    </li>
+    <li>
+      <a href="lesson20.html">20</a>
+    </li>
+  </ul>
+</li>
+<li class="dropdown">
+  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">
+    21-30
+     
+    <span class="caret"></span>
+  </a>
+  <ul class="dropdown-menu" role="menu">
+    <li>
+      <a href="lesson21.html">21</a>
+    </li>
+    <li>
+      <a href="lesson22.html">22</a>
+    </li>
+    <li>
+      <a href="lesson23.html">23</a>
+    </li>
+    <li>
+      <a href="lesson24.html">24</a>
+    </li>
+    <li>
+      <a href="lesson25.html">25</a>
+    </li>
+    <li>
+      <a href="lesson26.html">26</a>
+    </li>
+    <li>
+      <a href="lesson27.html">27</a>
+    </li>
+    <li>
+      <a href="lesson28.html">28</a>
+    </li>
+    <li>
+      <a href="lesson29.html">29</a>
+    </li>
+    <li>
+      <a href="lesson30.html">30</a>
+    </li>
+  </ul>
+</li>
+<li class="dropdown">
+  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">
+    31-40
+     
+    <span class="caret"></span>
+  </a>
+  <ul class="dropdown-menu" role="menu">
+    <li>
+      <a href="lesson31.html">31</a>
+    </li>
+    <li>
+      <a href="lesson32.html">32</a>
+    </li>
+    <li>
+      <a href="lesson33.html">33</a>
+    </li>
+    <li>
+      <a href="lesson34.html">34</a>
+    </li>
+    <li>
+      <a href="lesson35.html">35</a>
+    </li>
+    <li>
+      <a href="lesson36.html">36</a>
+    </li>
+    <li>
+      <a href="lesson37.html">37</a>
+    </li>
+    <li>
+      <a href="lesson38.html">38</a>
+    </li>
+    <li>
+      <a href="lesson39.html">39</a>
+    </li>
+    <li>
+      <a href="lesson40.html">40</a>
+    </li>
+  </ul>
+</li>
+<li class="dropdown">
+  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">
+    41-45+
+     
+    <span class="caret"></span>
+  </a>
+  <ul class="dropdown-menu" role="menu">
+    <li>
+      <a href="lesson41.html">41</a>
+    </li>
+    <li>
+      <a href="lesson42.html">42</a>
+    </li>
+    <li>
+      <a href="lesson43.html">43</a>
+    </li>
+    <li>
+      <a href="lesson44.html">44</a>
+    </li>
+    <li>
+      <a href="lesson45.html">45</a>
+    </li>
+    <li>
+      <a href="lesson46.html">Words in Sentences</a>
+    </li>
+    <li>
+      <a href="lesson47.html">Common Useful Expressions</a>
+    </li>
+    <li>
+      <a href="lesson48.html">Letters</a>
+    </li>
+  </ul>
+</li>
+<li class="dropdown">
+  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">
+    More
+     
+    <span class="caret"></span>
+  </a>
+  <ul class="dropdown-menu" role="menu">
+    <li>
+      <a href="keytoexer.html">Key to Exercises</a>
+    </li>
+    <li>
+      <a href="selections.html">Selections</a>
+    </li>
+    <li>
+      <a href="vocabulary.html">Vocabulary</a>
+    </li>
+    <li>
+      <a href="indextet.html">Index</a>
+    </li>
+    <li>
+      <a href="license.html">Project Gutenberg License</a>
+    </li>
+    <li>
+      <a href="addExercises.html">Additional Exercises</a>
+    </li>
+  </ul>
+</li>
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        
+      </ul>
+    </div><!--/.nav-collapse -->
+  </div><!--/.container -->
+</div><!--/.navbar -->
+
+<div class="fluid-row" id="header">
+
+
+
+
+</div>
+
+
+<p><br/><br/></p>
+<!-- =============================036.png============================ -->
+<center>
+<b>LESSON 14.</b>
+</center>
+<center>
+<b>Re-, -ad-, ek-.</b>
+</center>
+<p>
+The prefixes <b>re-</b> and <b>ek-</b> and the suffix <b>-ad-</b> are attached to verbs.
+</p>
+<p>
+<b>Re-</b> has nearly the same meaning as in English, <i>back</i> or <i>again</i>, as <i>re-pagi</i>, to pay back; <i>re-porti</i>, to carry back; <i>re-ĵeti</i>, to throw back; <i>re-salti</i>, to rebound; <i>re-kanti</i> to sing again; <i>re-legi</i>, to read over again.
+</p>
+<p>
+<b>-ad-</b> denotes the continuance or continued repetition of an action; it means <i>goes on doing</i>, or <i>keeps on doing</i>, or <i>is in the habit of</i>, or in the past <i>used to</i>, as <i>spiri</i>, to breathe, <i>spirado</i>, respiration; <i>movi</i>, to move, <i>movado</i>, continued movement; <i>fumi</i>, to smoke, <i>fumado</i>, the habit of smoking; <i>aŭdi</i>, to hear, <i>aŭdado</i>, the sense of hearing.
+</p>
+<p>
+<b>Ek-</b> has the opposite meaning to <i>-ad-</i>; it signifies the beginning of an action, or a short or sudden action, as <i>kanti</i>, to sing, <i>ekkanti</i>, to begin to sing; <i>ridi</i>, to laugh, <i>ekridi</i>, to burst out laughing; <i>krii</i>, to cry or call, <i>ekkrii</i>, to cry out; <i>iri</i>, to go, <i>ekiri</i>, to set out; <i>dormi</i>, to sleep, <i>ekdormi</i>, to fall asleep.
+</p>
+<center>
+<table cellspacing="8">
+<caption>
+<b>Vocabulary.</b>
+</caption>
+<tr>
+<td nowrap valign="top">
+<i>rivero</i>, river.<br> <i>lando</i>, land.<br> <i>seĝo</i>, seat.<br> <i>daŭro</i>, duration.<br> <i>okupo</i>, occupation.<br> <i>pluvo</i>, rain.<br> <i>vagonaro</i>, train.<br> <i>surprizo</i>, surprise.<br> <i>diamanto</i>, diamond.<br> <i>fulmo</i>, lightning.<br> <i>lumo</i>, a light.<br> <i>paf-</i>, shoot.<br> <i>ĵet-</i>, throw.<br> <i>aŭd-</i>, hear.
+</td>
+<td nowrap valign="top">
+<i>fal-</i>, fall.<br> <i>atend-</i>, wait for, expect.<br> <i>lacig-</i>, make tired.<br> <i>frot-</i>, rub.<br> <i>rigard-</i>, look.<br> <i>elrigard-</i>, look out of.<br> <i>salt-</i>, jump.<br> <i>rapida</i>, quick.<br> <i>klara</i>, clear.<br> <i>lerte</i>, cleverly.<br> <i>energie</i>, energetically.<br> <i>kelke</i>, some.<br> <i>ĉiuminute</i>, every minute. [See page 84.]<br> <i>tra</i>, through.
+</td>
+</tr>
+</table>
+</center>
+<!-- =============================037.png============================ -->
+<p>
+Li donis al mi monon, sed mi ĝin tuj redonis al li. Mi foriras, sed atendu min, ĉar mi baldaŭ revenos. La suno rebrilas en la klara akvo de la rivero. Li reiris al sia lando. Ŝi reĵetis sin sur la seĝon.
+</p>
+<p>
+En la daŭro de kelke da minutoj mi aŭdis du pafojn. La pafado daŭris tre longe. Lia hieraŭa parolo estis tre bela, sed la tro multa parolado lacigas lin. Li kantas tre belan kanton. La kantado estas agrabla okupo. Per mia mano mi energie lin frotadis. La pluvo faladis per riveroj. Ĉiuminute ŝi elrigardadis tra la fenestro, kaj malbenadis la malrapidan iradon de la vagonaro.
+</p>
+<p>
+Mi saltas tre lerte. Mi eksaltis de surprizo. Mi saltadis la tutan tagon [Footnote: See Lesson 26 (iii.)] de loko al loko. Kiam vi ekparolis, mi atendis aŭdi ion novan. La diamanto havas belan brilon. Ŝi lasis la diamanton ekbrili. Du ekbriloj do fulmo trakuris tra la malluma ĉielo.
+</p>
+
+
+
+
+</div>
+
+<script>
+
+// add bootstrap table styles to pandoc tables
+function bootstrapStylePandocTables() {
+  $('tr.header').parent('thead').parent('table').addClass('table table-condensed');
+}
+$(document).ready(function () {
+  bootstrapStylePandocTables();
+});
+
+
+</script>
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src  = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+
+</body>
+</html>

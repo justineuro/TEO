@@ -1,0 +1,140 @@
+---
+title: "" #"Lesson 26 - "
+author: "" #"JLAUro"
+date: "" #"May 21, 2017"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+<br/><br/>
+
+<center><b>LESSON 26.</b></center>
+
+<p>The following words, which have already been used in the
+previous lessons, are always placed before <i>nouns</i> or
+<i>pronouns</i>, to show the relation (of position, etc.) between
+the thing for which the noun stands and another thing or an
+action.</p>
+
+<!-- =============================062.png============================ -->
+<center>
+<table cellspacing="8">
+<tr>
+<td nowrap valign="top"><i>al</i>, to, towards.<br>
+ <i>apud</i>, beside, near, by.<br>
+ <i>da</i>, of (indefinite quantity).<br>
+ <i>de</i>, of from, by.<br>
+ <i>el</i>, out of.<br>
+ <i>en</i>, in, into, within.<br>
+ <i>ekster</i>, outside.<br>
+ <i>&#285;is</i>, until, till, as far as.<br>
+ <i>inter</i>, between, among.<br>
+ <i>kontra&#365;</i>, against, opposite.<br>
+ <i>kun</i>, (in company) with.</td>
+<td nowrap valign="top"><i>la&#365;</i>, according to.<br>
+ <i>per</i>, by means of, with.<br>
+ <i>post</i>, after, behind.<br>
+ <i>pri</i>, concerning, about.<br>
+ <i>por</i>, for, for the sake of.<br>
+ <i>sen</i>, without.<br>
+ <i>super</i>, above, over.<br>
+ <i>sur</i>, on, upon.<br>
+ <i>tra</i>, through.<br>
+ <i>trans</i>, across, on the other side.<br>
+ <i>je</i>, (has no definite meaning).</td>
+</tr>
+</table>
+</center>
+
+<p>(<i>These words are called</i> <span style=
+"font-variant: small-caps">Prepositions</span>, <i>which
+means</i> placed before).</p>
+
+<p>The other simple prepositions are&mdash;</p>
+
+<center>
+<table cellspacing="8">
+<tr>
+<td nowrap valign="top"><i>anstata&#365;</i>, instead of.<br>
+ <i>anta&#365;</i>, before.<br>
+ <i>&#265;e</i>, at, with.<br>
+ <i>&#265;irka&#365;</i>, about, around.<br>
+ <i>krom</i>, besides, except.<br>
+ <i>malgra&#365;</i>, notwithstanding, in spite of.</td>
+<td nowrap valign="top"><i>po</i>, at the rate of.<br>
+ <i>pro</i>, for (cause), owing to.<br>
+ <i>preter</i>, past, beyond, by.<br>
+ <i>spite</i>, in despite of.<br>
+ <i>sub</i>, under.</td>
+</tr>
+</table>
+</center>
+
+<p>The prepositions <i>anstata&#365;</i>, <i>anta&#365;</i>
+(<i>ol</i>), and <i>por</i> are also used before Infinitive
+verbs, as <i>anstata&#365; diri</i>, instead of saying (to say);
+<i>anta&#365; ol paroli</i>, before speaking; <i>por lerni</i>,
+in order to learn.</p>
+
+<!-- =============================063.png============================ -->
+<p>In Esperanto all the prepositions except "je" have a definite
+meaning, and care must be taken to use the one which conveys the
+exact sense. The same word cannot be used for "with" in the two
+sentences "He went with his father" and "He cut it with a knife,"
+or for "about" in "He spoke about his child" and "They stood
+about the stove." In the first example "with" his father is
+"kun", in company with, <i>Li iris</i> kun <i>sia patro</i>, and
+"with" a knife is "per", by means of, <i>Li tran&#265;is
+&#285;in</i> per <i>tran&#265;ilo</i>. "About," in "about his
+child," is "pri," concerning, <i>Li parolis</i> pri <i>sia
+infano</i>, but "about," in "about the stove," is
+"&#265;irka&#365;," around, <i>Ili staris</i> &#265;irka&#365;
+<i>la forno</i>.</p>
+
+<p>When we cannot decide which is the correct preposition to use
+in any case, we may use "je," the only preposition which has no
+special meaning of its own, or the preposition may be left out
+altogether, and "n" added to the noun or pronoun, provided that
+no want of clearness ensue (see Lesson 27), as <i>Mi ridas</i>
+pro <i>lia naiveco</i>, or, <i>Mi ridas</i> je <i>lia
+naiveco</i>, or, <i>Mi ridas lian naiveco</i>n, I laugh at his
+simplicity.</p>
+
+<p>When we wish to express "motion towards" something, and the
+preposition does not of itself express it, <i>n</i> is added to
+the noun or pronoun, as in the case of adverbs (see Lesson 12),
+<i>Li estas en la domo</i>, He is in the house; but, <i>Li iras
+en la domon</i>, He is going into the house.</p>
+
+<p><span style=
+"font-variant: small-caps">Note</span>.&mdash;There are three
+cases in which the noun or pronoun takes <i>n</i>. (i.). When it
+is the <i>direct object</i> of the verb, as <i>Mi vidis lin</i>,
+I saw him. (ii.). To show <i>direction</i>, as <i>Li iris en la
+&#285;ardenon</i>, He went into the garden. (iii.). When the
+<i>preposition</i> is <i>left out</i>. This is usually done in
+the case of <i>dates</i> and expressions signifying
+<i>duration</i> of time, as <i>Georgo Va&#349;ington estis
+naskita la dudek-duan de Februaro de la jaro mil sepcent tridek
+du</i>, George Washington was born the 22nd of February, 1732.
+<i>Vi restos tie &#265;i la tutan vivon (dum la tuta vivo)</i>,
+You will remain here your (the) whole life.</p>
+
+<p>All the prepositions whose meaning allows of it can be used as
+adjectives, adverbs, etc., by adding the proper endings, as from
+<i>anta&#365;</i>, before, we get <i>anta&#365;a</i>, former,
+<i>anta&#365;e</i>, formerly or previously, <i>anta&#365;en</i>,
+forward.</p>
+
+<p>Prepositions are also joined to other words, and to prefixes
+or suffixes, as <i>anta&#365;diri</i>, to foretell; <i>apudmara
+urbo</i>, a seaside town; <i>senigi</i>, to deprive of.</p>
+
+<!-- =============================064.png============================ -->
+<p>Sometimes the preposition is both prefixed to the verb and
+used after it before the noun, as <i>Li eliris el la domo, kaj
+eniris en la &#285;ardenon</i>, He went out of the house, and
+entered into the garden.</p>

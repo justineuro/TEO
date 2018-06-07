@@ -1,0 +1,93 @@
+---
+title: "" #"Lesson 43 - Ge-, bo-, -id-, pra-, -ĉj-, -nj-"
+author: "" #"JLAUro"
+date: "" #"May 21, 2017"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+<br/><br/>
+
+<center><b>LESSON 43.</b></center>
+
+<center><b>Ge-, bo-, -id-, pra-, -&#265;j-, -nj-.</b></center>
+
+<p>The prefix <b>ge-</b> signifies <i>both sexes taken
+together</i>, as <i>gepatroj</i>, parents. <i>Gefratoj</i>,
+brothers and sisters. <i>Gere&#285;oj</i>, king and queen (the
+word formed is, of course, always plural).</p>
+
+<p>The prefix <b>bo-</b> denotes <i>relationship by marriage</i>,
+as <i>bopatro</i>, father-in-law; <i>bofilo</i>, son-in-law.</p>
+
+<!-- =============================085.png============================ -->
+<p>The suffix <b>-id-</b> signifies the <i>offspring</i> or
+<i>descendant</i>, as <i>Re&#285;o</i> a king;
+<i>re&#285;ido</i>, a king's son, a prince. <i>Kato</i>, a cat;
+<i>katido</i>, a kitten. <i>&#348;afo</i>, a sheep;
+<i>&#349;afido</i>, a lamb.</p>
+
+<p>The prefix <b>pra-</b> means <i>of generations ago, great-,
+grand-</i>, as, <i>avo</i>, grandfather; <i>pra-avo</i>,
+great-grand-father. It is also used for descendants, as
+<i>pra-nepo</i>, great-grandson. <i>Praa</i>, primitive or
+primeval.</p>
+
+<p>The suffix <b>-&#265;j-</b> is added to men's names and
+<b>-nj-</b> to women's names to form <i>pet names</i>, part of
+the name being left out, as <i>Petro</i>, Peter;
+<i>Pe&#265;jo</i>, Pete. <i>Klaro</i>, Clara; <i>Klanjo</i>,
+Clarrie. <i>Pa&#265;jo</i> (from <i>patro</i>), papa;
+<i>panjo</i>, mamma.</p>
+
+<center>
+<table cellspacing="8">
+<caption><b>Vocabulary.</b></caption>
+
+<tr>
+<td nowrap valign="top"><i>altaro</i>, altar.<br>
+ <i>parenco</i>, relation.<br>
+ <i>doktoro</i>, doctor (law, etc.).<br>
+ <i>stato</i>, state, condition.<br>
+ <i>koko</i>, cock.</td>
+<td nowrap valign="top"><i>gratul-</i>, congratulate.<br>
+ <i>deven-</i>, originate, descend from.<br>
+ <i>adres-</i>, address (a letter).<br>
+ <i>telegraf-</i>, telegraph.</td>
+</tr>
+</table>
+</center>
+
+<p>Patro kaj patrino kune estas nomataj gepatroj. Petro, Anno,
+kaj Elizabeto estas miaj gefratoj. Gesinjoroj N. hodia&#365;
+vespere venos al ni. La gefian&#265;oj staris apud la altaro. Mi
+gratulis telegrafe la junajn geedzojn. La gere&#285;oj forveturis
+Kordovon. &#348;i edzini&#285;is kun sia kuzo, kvankam &#349;iaj
+gepatroj volis &#349;in edzinigi kun alia persono.</p>
+
+<p>La patro de mia edzino estas mia bopatro, mi estas lia bofilo,
+kaj mia patro estas la bopatro de mia edzino. &#264;iuj parencoj
+de mia edzino estas miaj boparencoj, sekve &#349;ia frato estas
+mia bofrato, &#349;ia fratino estas mia bofratino; mia frato kaj
+fratino (gefratoj) estas la bogefratoj de mia edzino. La edzino
+de mia nevo, kaj la nevino de mia edzino estas miaj bonevinoj.
+Virino, kiu kuracas, estas kuracistino; edzino de kuracisto estas
+kuracistedzino. La doktoredzino A. vizitis hodia&#365; la
+gedoktorojn P. Li ne estas lavisto, li estas lavistinedzo.</p>
+
+<!-- =============================086.png============================ -->
+<p>La filoj, nepoj kaj pranepoj de re&#285;o estas re&#285;idoj.
+La hebreoj estas Izraelidoj, &#265;ar ili devenas de Izraelo.
+&#264;evalido estas nematura &#265;evalo, kokido nematura koko,
+bovido nematura bovo, birdido nematura birdo. Tiu bela tero
+trovis sin en tre praa stato.</p>
+
+<p>Johanon, Nikolaon, Erneston, Vilhelmon, Marion, Klaron kaj
+Sofion iliaj gepatroj nomas Johan&#265;jo (a&#365; Jo&#265;jo),
+Nikol&#265;jo (a&#365; Niko&#265;jo, a&#365; Ni&#265;jo),
+Erne&#265;jo (a&#365; Er&#265;jo), Vilhel&#265;jo (a&#365;
+Vilhe&#265;jo, a&#365; Vil&#265;jo, a&#365; Vi&#265;jo), Manjo
+(a&#365; Marinjo), Klanjo kaj Sonjo (a&#365; Sofinjo).</p>

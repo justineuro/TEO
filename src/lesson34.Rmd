@@ -1,0 +1,84 @@
+---
+title: "" #"Lesson 34 - Dum. Ĝis. Ĉirkaŭ"
+author: "" #"JLAUro"
+date: "" #"May 21, 2017"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+<br/><br/>
+
+<center><b>LESSON 34.</b></center>
+
+<center><b>Dum. &#284;is. &#264;irka&#365;.</b></center>
+
+<p><b>Dum</b> means <i>during</i>, as <i>Dum mia tuta vivo</i>,
+During my whole life. It is not much used as a preposition, that
+is, before a noun, <i>en la da&#365;ro de</i> being better, as
+<i>En la da&#365;ro de mia tuta vivo</i>, In (the duration of) my
+whole life; or the preposition is omitted altogether, as <i>La
+tutan tagon mi laboradis</i>, I used to work all day long.
+<i>Dum</i>, meaning <i>while, whilst</i>, is often used at the
+beginning of a sentence. <i>Dume</i> means meanwhile, or, in the
+meantime.</p>
+
+<p><b>&#284;is</b> means <i>till, until, up to, as far as</i>.
+<i>Atendu &#285;is Sabato</i>, Wait until Saturday. <i>Iru
+&#285;is la rivero</i>, Go as far as the river.</p>
+
+<p><b>&#264;irka&#365;</b> means <i>about</i> or <i>around,
+somewhere near</i> (more or less). <i>Ili ludis &#265;irka&#365;
+la arbo</i>, They played around the tree. <i>&#264;irka&#365;
+Majo ni foriros</i>, About May we shall go away.</p>
+
+<!-- =============================073.png============================ -->
+<center>
+<table cellspacing="8">
+<caption><b>Vocabulary.</b></caption>
+
+<tr>
+<td nowrap valign="top"><i>koncerto</i>, concert.<br>
+ <i>flanko</i>, side.<br>
+ <i>sorto</i>, fate.<br>
+ <i>radio</i>, ray.<br>
+ <i>kupolo</i>, cupola, dome.<br>
+ <i>rublo</i>, rouble.<br>
+ <i>eta&#285;o</i>, story (of building).<br>
+ <i>doloro</i>, pain, ache.</td>
+<td nowrap valign="top"><i>vitro</i>, glass (material).<br>
+ <i>globo</i>, globe.<br>
+ <i>kolekt-</i>, collect.<br>
+ <i>prepar-</i>, prepare.<br>
+ <i>pes-</i>, weigh (something).<br>
+ <i>ekzist-</i>, exist.<br>
+ <i>pere-</i>, perish.<br>
+ <i>proksime</i>, near to.</td>
+</tr>
+</table>
+</center>
+
+<p>Dum la tuta tago (a&#365;, la tutan tagon) li restis sola. Dum
+(a&#365;, en la da&#365;ro de) kelkaj monatoj, &#349;i ne
+eliradis el sia &#265;ambro. Li dormis dum la tuta koncerto
+(a&#365;, la tutan koncerton). Dum da&#365;ris la preparoj, li
+estis gasto &#265;e la re&#285;o. Dum li veturas sur la vojo al
+Grenada, en Santa F&eacute; estas decidata lia sorto.</p>
+
+<p>Ili laboradis &#285;is profunda nokto. La telero de la pesilo
+mallevi&#285;is &#285;is la tero. &#284;iaj radioj sin levadis
+&#285;is la kupolo. Pruntu al mi dek rublojn &#285;is
+morga&#365;. Li laboradis de frua mateno &#285;is malfrua nokto.
+Li batalos &#285;is la fino mem. Ni levadis nin &#265;iam pli kaj
+pli alte &#285;is la kvara eta&#285;o. &#284;i ekzistos &#285;is
+la mondo pereos.</p>
+
+<p>La re&#285;o venis &#265;irka&#365; tagmezo en la vila&#285;on
+Reading. &#264;irka&#365; la mateno la ventego fini&#285;is.
+Estos sufi&#265;e &#265;irka&#365; dek metroj. &#264;iuj
+kolekti&#285;is &#265;irka&#365; la vitra globo. Oni povas
+rigardi tre malproksime &#265;irka&#365;e. &#264;irka&#365;e
+na&#285;is grandaj montoj de glacio. Li rigardis
+&#265;irka&#365;en sur &#265;iuj flankoj.</p>

@@ -1,0 +1,71 @@
+---
+title: "" #"Lesson 22 - Suffixes"
+author: "" #"JLAUro"
+date: "" #"May 21, 2017"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+<br/><br/>
+
+<!-- =============================057.png============================ -->
+<center><b>LESSON 22.</b></center>
+
+<center><i>Suffix</i> <b>-il-.</b></center>
+
+<p>The suffix <b>-il-</b> denotes the <i>instrument</i> by means
+of which something is done, as <i>razi</i>, to shave,
+<i>razilo</i>, a razor; <i>rigli</i>, to bolt, <i>riglilo</i>, a
+bolt; <i>butero</i>, butter, <i>buterilo</i>, a churn;
+<i>kuraci</i>, to treat (as a doctor), <i>kuracilo</i>, a
+medicine.</p>
+
+<center>
+<table cellspacing="8">
+<caption><b>Vocabulary.</b></caption>
+
+<tr>
+<td nowrap valign="top"><i>viando</i>, meat, flesh.<br>
+ <i>po&#349;o</i>, pocket.<br>
+ <i>korko</i>, cork (substance).<br>
+ <i>ar&#285;ento</i>, silver.<br>
+ <i>telero</i>, plate.<br>
+ <i>sano</i>, health.<br>
+ <i>butero</i>, butter.<br>
+ <i>hak-</i>, chop, hew.<br>
+ <i>seg-</i>, saw.<br>
+ <i>fos-</i>, dig.<br>
+ <i>kudr-</i>, sew.<br>
+ <i>tond-</i>, clip, shear.</td>
+<td nowrap valign="top"><i>komb-</i>, comb.<br>
+ <i>&#349;top-</i>, stop up.<br>
+ <i>&#349;los-</i>, lock.<br>
+ <i>glit-</i>, glide, slide.<br>
+ <i>direkt-</i>, direct, steer.<br>
+ <i>difekt-</i>, damage.<br>
+ <i>montr-</i>, show.<br>
+ <i>pes-</i>, weigh something.<br>
+ <i>tir-</i>, draw, pull.<br>
+ <i>vetur-</i>, drive (in a vehicle).<br>
+ <i>frosta</i>, frosty.<br>
+ <i>magneta</i>, magnetic.</td>
+</tr>
+</table>
+</center>
+
+<p>Per hakilo ni hakas, per segilo ni segas, per fosilo ni fosas,
+per kudrilo ni kudras, per tondilo ni tondas. La tran&#265;ilo
+estis tiel malakra, ke mi ne povis tran&#265;i per &#285;i la
+viandon, kaj mi devis uzi mian po&#349;an tran&#265;ilon. &#264;u
+vi havas korktirilon, por mal&#349;topi la botelon? Mi volis
+&#349;losi la pordon, sed mi perdis la &#349;losilon. &#348;i
+kombas al si la harojn per ar&#285;enta kombilo. En somero ni
+veturas per diversaj veturiloj, kaj en vintro per glitveturilo.
+Hodia&#365; estas bela frosta vetero; tial mi prenos miajn
+glitilojn kaj iros gliti. La direktilisto de "Pinta" difektis la
+direktilon. La magneta montrilo. La unua montrilo en la plej
+multaj malsanoj estas la lango. Li metis &#285;in sur la teleron
+de pesilo.</p>

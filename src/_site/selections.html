@@ -1,0 +1,1039 @@
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+
+<meta charset="utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="generator" content="pandoc" />
+
+
+
+
+<title></title>
+
+<script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link href="site_libs/bootstrap-3.3.5/css/bootstrap.min.css" rel="stylesheet" />
+<script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<script src="site_libs/navigation-1.1/tabsets.js"></script>
+<link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
+<script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
+<link href="site_libs/font-awesome-4.5.0/css/font-awesome.min.css" rel="stylesheet" />
+
+<style type="text/css">code{white-space: pre;}</style>
+<style type="text/css">
+  pre:not([class]) {
+    background-color: white;
+  }
+</style>
+<script type="text/javascript">
+if (window.hljs) {
+  hljs.configure({languages: []});
+  hljs.initHighlightingOnLoad();
+  if (document.readyState && document.readyState === "complete") {
+    window.setTimeout(function() { hljs.initHighlighting(); }, 0);
+  }
+}
+</script>
+
+
+
+<style type="text/css">
+h1 {
+  font-size: 34px;
+}
+h1.title {
+  font-size: 38px;
+}
+h2 {
+  font-size: 30px;
+}
+h3 {
+  font-size: 24px;
+}
+h4 {
+  font-size: 18px;
+}
+h5 {
+  font-size: 16px;
+}
+h6 {
+  font-size: 12px;
+}
+.table th:not([align]) {
+  text-align: left;
+}
+</style>
+
+<link rel="stylesheet" href="bootstrap/bootstrap-cerulean-grn99.min.css" type="text/css" />
+
+</head>
+
+<body>
+
+<style type = "text/css">
+.main-container {
+  max-width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+}
+code {
+  color: inherit;
+  background-color: rgba(0, 0, 0, 0.04);
+}
+img {
+  max-width:100%;
+  height: auto;
+}
+.tabbed-pane {
+  padding-top: 12px;
+}
+button.code-folding-btn:focus {
+  outline: none;
+}
+</style>
+
+
+<style type="text/css">
+/* padding for bootstrap navbar */
+body {
+  padding-top: 51px;
+  padding-bottom: 40px;
+}
+/* offset scroll position for anchor links (for fixed navbar)  */
+.section h1 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+
+.section h2 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.section h3 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.section h4 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.section h5 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.section h6 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+</style>
+
+<script>
+// manage active state of menu based on current page
+$(document).ready(function () {
+  // active menu anchor
+  href = window.location.pathname
+  href = href.substr(href.lastIndexOf('/') + 1)
+  if (href === "")
+    href = "index.html";
+  var menuAnchor = $('a[href="' + href + '"]');
+
+  // mark it active
+  menuAnchor.parent().addClass('active');
+
+  // if it's got a parent navbar menu mark it active as well
+  menuAnchor.closest('li.dropdown').addClass('active');
+});
+</script>
+
+
+<div class="container-fluid main-container">
+
+<!-- tabsets -->
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+</script>
+
+<!-- code folding -->
+
+
+
+
+
+
+<div class="navbar navbar-default  navbar-fixed-top" role="navigation">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="index.html">The Esperanto Teacher</a>
+    </div>
+    <div id="navbar" class="navbar-collapse collapse">
+      <ul class="nav navbar-nav">
+        <li>
+  <a href="index.html">
+    <span class="fa fa-star"></span>
+     
+    About
+  </a>
+</li>
+<li class="dropdown">
+  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">
+    Lessons: 0-10
+     
+    <span class="caret"></span>
+  </a>
+  <ul class="dropdown-menu" role="menu">
+    <li>
+      <a href="intro.html"> 0</a>
+    </li>
+    <li>
+      <a href="lesson1.html"> 1</a>
+    </li>
+    <li>
+      <a href="lesson2.html"> 2</a>
+    </li>
+    <li>
+      <a href="lesson3.html"> 3</a>
+    </li>
+    <li>
+      <a href="lesson4.html"> 4</a>
+    </li>
+    <li>
+      <a href="lesson5.html"> 5</a>
+    </li>
+    <li>
+      <a href="lesson6.html"> 6</a>
+    </li>
+    <li>
+      <a href="lesson7.html"> 7</a>
+    </li>
+    <li>
+      <a href="lesson8.html"> 8</a>
+    </li>
+    <li>
+      <a href="lesson9.html"> 9</a>
+    </li>
+    <li>
+      <a href="lesson10.html">10</a>
+    </li>
+  </ul>
+</li>
+<li class="dropdown">
+  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">
+    11-20
+     
+    <span class="caret"></span>
+  </a>
+  <ul class="dropdown-menu" role="menu">
+    <li>
+      <a href="lesson11.html">11</a>
+    </li>
+    <li>
+      <a href="lesson12.html">12</a>
+    </li>
+    <li>
+      <a href="lesson13.html">13</a>
+    </li>
+    <li>
+      <a href="lesson14.html">14</a>
+    </li>
+    <li>
+      <a href="lesson15.html">15</a>
+    </li>
+    <li>
+      <a href="lesson16.html">16</a>
+    </li>
+    <li>
+      <a href="lesson17.html">17</a>
+    </li>
+    <li>
+      <a href="lesson18.html">18</a>
+    </li>
+    <li>
+      <a href="lesson19.html">19</a>
+    </li>
+    <li>
+      <a href="lesson20.html">20</a>
+    </li>
+  </ul>
+</li>
+<li class="dropdown">
+  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">
+    21-30
+     
+    <span class="caret"></span>
+  </a>
+  <ul class="dropdown-menu" role="menu">
+    <li>
+      <a href="lesson21.html">21</a>
+    </li>
+    <li>
+      <a href="lesson22.html">22</a>
+    </li>
+    <li>
+      <a href="lesson23.html">23</a>
+    </li>
+    <li>
+      <a href="lesson24.html">24</a>
+    </li>
+    <li>
+      <a href="lesson25.html">25</a>
+    </li>
+    <li>
+      <a href="lesson26.html">26</a>
+    </li>
+    <li>
+      <a href="lesson27.html">27</a>
+    </li>
+    <li>
+      <a href="lesson28.html">28</a>
+    </li>
+    <li>
+      <a href="lesson29.html">29</a>
+    </li>
+    <li>
+      <a href="lesson30.html">30</a>
+    </li>
+  </ul>
+</li>
+<li class="dropdown">
+  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">
+    31-40
+     
+    <span class="caret"></span>
+  </a>
+  <ul class="dropdown-menu" role="menu">
+    <li>
+      <a href="lesson31.html">31</a>
+    </li>
+    <li>
+      <a href="lesson32.html">32</a>
+    </li>
+    <li>
+      <a href="lesson33.html">33</a>
+    </li>
+    <li>
+      <a href="lesson34.html">34</a>
+    </li>
+    <li>
+      <a href="lesson35.html">35</a>
+    </li>
+    <li>
+      <a href="lesson36.html">36</a>
+    </li>
+    <li>
+      <a href="lesson37.html">37</a>
+    </li>
+    <li>
+      <a href="lesson38.html">38</a>
+    </li>
+    <li>
+      <a href="lesson39.html">39</a>
+    </li>
+    <li>
+      <a href="lesson40.html">40</a>
+    </li>
+  </ul>
+</li>
+<li class="dropdown">
+  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">
+    41-45+
+     
+    <span class="caret"></span>
+  </a>
+  <ul class="dropdown-menu" role="menu">
+    <li>
+      <a href="lesson41.html">41</a>
+    </li>
+    <li>
+      <a href="lesson42.html">42</a>
+    </li>
+    <li>
+      <a href="lesson43.html">43</a>
+    </li>
+    <li>
+      <a href="lesson44.html">44</a>
+    </li>
+    <li>
+      <a href="lesson45.html">45</a>
+    </li>
+    <li>
+      <a href="lesson46.html">Words in Sentences</a>
+    </li>
+    <li>
+      <a href="lesson47.html">Common Useful Expressions</a>
+    </li>
+    <li>
+      <a href="lesson48.html">Letters</a>
+    </li>
+  </ul>
+</li>
+<li class="dropdown">
+  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">
+    More
+     
+    <span class="caret"></span>
+  </a>
+  <ul class="dropdown-menu" role="menu">
+    <li>
+      <a href="keytoexer.html">Key to Exercises</a>
+    </li>
+    <li>
+      <a href="selections.html">Selections</a>
+    </li>
+    <li>
+      <a href="vocabulary.html">Vocabulary</a>
+    </li>
+    <li>
+      <a href="indextet.html">Index</a>
+    </li>
+    <li>
+      <a href="license.html">Project Gutenberg License</a>
+    </li>
+    <li>
+      <a href="addExercises.html">Additional Exercises</a>
+    </li>
+  </ul>
+</li>
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        
+      </ul>
+    </div><!--/.nav-collapse -->
+  </div><!--/.container -->
+</div><!--/.navbar -->
+
+<div class="fluid-row" id="header">
+
+
+
+
+</div>
+
+
+<p><br/><br/></p>
+<!-- =============================119.png============================ -->
+<hr align="center" width="38%">
+<center>
+<b>TRANSLATIONS FROM VARIOUS LANGUAGES.</b>
+</center>
+<hr align="center" width="38%">
+<center>
+<b>PARDONATA FORESTO.</b>
+</center>
+<div class="indented">
+Oni invitis junulon al festeno. Respondante al la invito, li diris: “Mi venos plezure, se mi estos viva.”
+</div>
+<div class="indented">
+“Ho,” diris la invitanta sinjorino, “se vi estos senviva, ni vin ne atendos.”
+</div>
+<p align="right">
+El <i>Tutmonda Anekdotaro</i>.
+</p>
+<p align="center">
+<i>Festeno</i>, banquet, (dinner) party.
+</p>
+<hr align="center" width="38%">
+<center>
+<b>KOREKTO.</b>
+</center>
+<div class="indented">
+Juna fraŭlino: “Ho, S-ro profesoro! Kion povus rakonti tiu ĉi maljuna kverko, se ĝi povus paroli?!”
+</div>
+<div class="indented">
+Profesoro: “Ĝi dirus: pardonu min, mia fraŭlino, mi ne estas kverko, sed tilio.”
+</div>
+<p align="right">
+<i>Ibid</i>.
+</p>
+<p align="center">
+<i>Tilio</i>, lime tree.
+</p>
+<hr align="center" width="38%">
+<center>
+<b>NAIVECO.</b>
+</center>
+<p class="indented">
+Knabino sesjara havis katon kaj pupon. Iu demandis ŝin, kiun el la du ŝi preferas. Ŝi ne volis respondi, fine ŝi diris al li en la orelon: “Mi preferas mian katon, sed ne diru, mi petas vin, tion al mia pupo.”
+</p>
+<p align="right">
+El <i>Unua Legolibro</i> de Kabe.
+</p>
+<hr align="center" width="38%">
+<!-- =============================120.png============================ -->
+<center>
+<b>HAWKE.</b>
+</center>
+<p class="indented">
+Kiam la fama angla admiralo Hawke estis ankoraŭ knabo kaj la patro unuafoje prenis lin sur ŝipon, li admonis lin bone konduti kaj aldonis: “Tiam mi esperas vidi vin kapitano.” &quot; Kapitano!&quot; ekkriis la knabo. “Kara patro, se mi ne esperus fariĝi admiralo, mi ne konsentus esti maristo.”
+</p>
+<p align="right">
+<i>Ibid</i>.
+</p>
+<p align="center">
+<i>Admoni</i>, to admonish; <i>konduti</i>, to behave (oneself).
+</p>
+<hr align="center" width="38%">
+<center>
+<b>EFIKA RUZO.</b>
+</center>
+<div class="indented">
+Iu vilaĝano petis sian tre avaran najbaron, ke li metu sur la limon inter la du ĝardenoj palisan barilon, ĉar la najbara kokinaro vagadis dum la tuta tago en lia ĝardeno.
+</div>
+<div class="indented">
+Tamen la avarulo rifuzis, kaj jam la najbaro intencis alvoki la helpon de la juĝistoj, kiam li ŝajne kontenta kvietiĝis.
+</div>
+<div class="indented">
+Subite, je ĉies miro, oni ekvidis la malamatan avarulon starigi tre fortan lignan barilon.
+</div>
+<div class="indented">
+“Sed, amiko,” demandis la vilaĝanoj, “rakontu kiamaniere vi atingis tion.”
+</div>
+<div class="indented">
+“Nu, tre simple,” li diris. “Iun matenon mi sendis al la najbaro tri aŭ kvar ovojn, dirante, ke liaj kokinoj demetis ilin en mia ĝardeno. Jam la sekvintan tagon li komencis konstrui la barilon. Tio estas ĉiam pli malkara, ol doni okupadon al la advokatoj.”
+</div>
+<p align="right">
+El <i>Tutmonda Anekdotaro</i>.
+</p>
+<p align="center">
+<i>Peti</i>, to beg; <i>limo</i>, boundary; <i>paliso</i>, palings; <i>vagi</i>, to wander; <i>alvoki</i>, to invoke; <i>ŝajne</i>, apparently; <i>subite</i>, suddenly; <i>kvieta</i>, quiet; <i>advokato</i>, lawyer.
+</p>
+<hr align="center" width="38%">
+<!-- =============================121.png============================ -->
+<center>
+<b>JUPITERO KAJ ĈEVALO</b>.
+</center>
+<div class="indented">
+— Patro de l’ bestoj kaj de l’ homoj!—diris ĉevalo, proksimiĝante al la trono de Jupitero—oni diras, ke mi estas unu el la plej belaj bestoj; mi mem kredas tion, tamen ŝajnas al mi, ke multon en mi oni devus plibonigi.
+</div>
+<div class="indented">
+— Kion laŭ via opinio oni povus plibonigi en vi? Parolu, mi estas preta lerni de vi—diris Jupitero ridetante.
+</div>
+<div class="indented">
+— Eble mi kurus ankoraŭ pli rapide, se miaj piedoj estus pli longaj kaj pli maldikaj; longa cigna kolo ornamus miri; pli larĝa brusto pligrandigus miajn fortojn; kaj ĉar vi destinis min por porti vian favoratan, homon, vi povus sur mian dorson meti pretan selon.
+</div>
+<div class="indented">
+— Bone—diris Jupitero—atendu momenton!—kaj li kreis kamelon.
+</div>
+<div class="indented">
+Ekvidinte la novan beston, la ĉevalo ektremis de l’ timo kaj abomeno.
+</div>
+<div class="indented">
+— Jen la altaj piedoj, kiajn vi deziris—diris Jupitero—jen la longa cigna kolo, larĝa brusto kaj preta selo. Ĉu vi deziras, ke mi tiel aliformigu vin?
+</div>
+<p align="right">
+El <i>Unua Legolibro</i> de Kabe.
+</p>
+<p align="center">
+<i>Trono</i>, throne; <i>ŝajni</i>, to seem; <i>preta</i>, ready; <i>cigno</i>, swan; <i>ornami</i>, to ornament; <i>brusto</i>, chest; <i>destini</i>, to destine, appoint; <i>selo</i>, saddle; <i>tremi</i>, to tremble; <i>abomeno</i>, disgust.
+</p>
+<hr align="center" width="38%">
+<center>
+<b>LA HOMA KORPO KAJ LA SENTOJ.</b>
+</center>
+<p align="right">
+El <i>Serba Esperantisto.</i>
+</p>
+<div class="indented">
+Petu Johanon, ke li alproksimiĝu, ke li paŝu al vi, por ke vi observu la trajtojn de lia vizaĝo.
+</div>
+<div class="indented">
+Lia frunto estas alta kun brune blondaj haroj, liaj vangoj estas rondaj, lian mentonon kovras dika barbo, kiu kaŝas la gorĝon.
+</div>
+<hr align="center" width="38%">
+<!-- =============================122.png============================ -->
+<div class="indented">
+Johanino jam faris longan marŝon, ŝi ĵus haltis: ŝi spiras forte, ŝia kolo sin streĉas, ŝia brusto sin etendas, kaj skuiĝas ŝiaj flankoj; ŝia koro forte batas, ŝia sango rapide kuras en la arterioj kaj vejnoj; ŝia haŭto fariĝis brula.
+</div>
+<div class="indented">
+Ŝi ŝajnas laca ne nur muskole, sed nerve kaj cerbe. Diru al ŝi, ke ŝi ripozu kaj ne restu stare, ke ŝi sidigu sin.
+</div>
+<div class="indented">
+Nun ŝi sidas: ŝi pene klinas siajn krurojn; ŝi povas movi nek la genuojn nek la piedojn; eĉ la brakoj rigide pendas de la ŝultroj; ŝi ne plu turnas la kapon: ŝi tuj ekdormos.
+</div>
+<hr align="center" width="38%">
+<div class="indented">
+Mi kuŝis sur la tero mem: tiam la dorso, la ventro, la membroj, eĉ la ostoj iom suferis.
+</div>
+<hr align="center" width="38%">
+<div class="indented">
+Okulo blinda ne vidas lumon, orelo surda ne aŭdas sonojn, buŝo muta ne diras vortojn, koro fermita ne ĝuas amon.
+</div>
+<hr align="center" width="38%">
+<div class="indented">
+Tiu ĉi frukto, antaŭe acida, estas nun matura: la nazo flaras ĝian odoron agrablan, la mano esploras ĝian glatan ŝelon, baldaŭ la dentoj mordos ĝian molan karnon kaj la lango gustumos ĝian dolĉan sukon.
+</div>
+<hr align="center" width="38%">
+<div class="indented">
+Momenta silentu, vi faros plezuron al mi, kaj mia kapdoloro malaperos.
+</div>
+<hr align="center" width="38%">
+<p align="center">
+<i>Trajto</i>, feature; <i>frunto</i>, forehead; <i>bruna</i>, brown; <i>vango</i>, cheek; <i>mentono</i>, chin; <i>barbo</i>, beard; <i>gorĝo</i>, throat; <i>etendi</i>, to extend, to stretch out; <i>skui</i>, to shake; <i>sango</i>, blood; <i>arterio</i>, artery; <i>vejno</i>, vein; <i>haŭto</i>, skin; <i>muskolo</i>, muscle; <i>nervo</i>, nerve; <i>cerbo</i>, brain; <i>kruro</i>, leg; <i>ventro</i>, belly; <i>membra</i>, limb, member; <i>osto</i>, bone; <i>ĝui</i>, to enjoy; <i>esplori</i>, to examine; <i>glata</i>, smooth; <i>ŝelo</i>, rind, bark; <i>karno</i>, flesh; <i>suko</i>, juice.
+</p>
+<hr align="center" width="38%">
+<center>
+<b>ANTAŬFABELO</b><br> El <i>Fabeloj al Helenjo</i>.
+</center>
+<p align="right">
+El <i>Rusaj Rakontoj</i>.
+</p>
+<div class="indented">
+Baju, baju, baju!…
+</div>
+<div class="indented">
+Unu okuleto de Helenjo dormas, alia rigardas; unu oreleto de Helenjo dormas, alia aŭskultas.
+</div>
+<div class="indented">
+Dormu, Helenjo, dormu, belulino; kaj paĉjo rakontos fabelojn. Kredeble, ĉiuj estas tie ĉi: kato, kaj vilaĝa hundo, griza museto, kaj grileto sub la forno, makulkolora sturno en kaĝo, kaj malpacema koko.
+</div>
+<!-- =============================123.png============================ -->
+<div class="indented">
+Dormu, Helenjo,—tuj la fabelo komenciĝos. Jen la alta luno jam rigardas en la fenestron; jen straba leporo, kiu lame forkuras; jen lupaj okuloj, kiuj eklumiĝas per flavaj fajretoj. Alflugas maljuna pasero al la fenestro, frapas per la beko sur vitron kaj demandas: “Ĉu baldaŭ?” Ĉiuj estas ĉi tie, ĉiuj kolektiĝis; kaj ĉiuj atendas la fabelon al Helenjo.
+</div>
+<div class="indented">
+Unu okuleto de Helenjo dormas, alia rigardas, unu oreleto de Helenjo dormas, alia aŭskultas.
+</div>
+<div class="indented">
+Baju, baju, baju!…
+</div>
+<p align="right">
+<span style="font-variant: small-caps;">Mamin Sibirjak.</span>
+</p>
+<p align="center">
+[Footnote: <i>Baju</i>: Rusa interjekcio; rekantaĵo por dormigi infanojn.]
+</p>
+<p align="center">
+<i>Aŭskulti</i>, to listen; <i>fabelo</i>, story; <i>griza</i>, grey; <i>muso</i>, mouse; <i>grilo</i>, cricket; <i>forno</i>, stove; <i>makulo</i>, spot; <i>sturno</i>, starling; <i>straba</i>, squinting; <i>leporo</i>, hare; <i>lupo</i>, wolf; <i>flava</i>, yellow; <i>beko</i>, beak; <i>paĉjo</i>, daddy.
+</p>
+<hr align="center" width="38%">
+<center>
+<b>EDZINlĜO DE RATINO.</b>
+</center>
+<p align="right">
+El <i>Japanaj Rakontoj.</i>
+</p>
+<div class="indented">
+Maljuna rato havis filinon. Ĝi volis edzinigi tiun ĉi kun iu plej forta en la mondo. Ĝi unue iris al la luno, pensante, ke la luno estas la plej forta en la mondo. Sed la luno diris: “Min tre ofte malhelpas la nubo, kaj mi neniel povas forpeli ĝin.”
+</div>
+<div class="indented">
+Tiam ĝi sin turnis al la nubo, pensante, ke la nubo estas pli forta, ol la luno. Sed la nubo diris: “Min ĉiam dispelas la vento, kaj mi neniam povas al ĝi kontraŭstari.”
+</div>
+<div class="indented">
+Trie ĝi iris al la vento, pensante, ke la vento estas pli forta, ol la nubo. Sed la vento diris: “La muro staras kontraŭ mi, kaj mi tute ne povas trapasi ĝin.”
+</div>
+<div class="indented">
+Fine ĝi iris al la muro, pensante, ke la muro estas pli forta, ol la vento. Sed la muro ankaŭ diris: “Via familio ĉiam min mordadas, kaj mi ne povas tion haltigi.”
+</div>
+<div class="indented">
+Jen ĝi komprenis, ke ratino nur devas edziniĝi kun rato, kaj reveninte hejmen, ĝi edzinigis sian filinon kun juna rato de sia najbareco.
+</div>
+<p align="right">
+<span style="font-variant: small-caps;">K. Kajiwara.</span>
+</p>
+<p align="center">
+<i>Nubo</i>, cloud.
+</p>
+<hr align="center" width="38%">
+<!-- =============================124.png============================ -->
+<center>
+<b>INFANA VERSAĴO.</b>
+</center>
+<center>
+<table>
+<tr>
+<td width="12%">
+ 
+</td>
+<td nowrap>
+Eta Manjo Flindre
+</td>
+</tr>
+<tr>
+<td width="12%">
+ 
+</td>
+<td nowrap>
+Sidis intercindre,
+</td>
+</tr>
+<tr>
+<td colspan="2" nowrap>
+Etajn piedfingrojn ŝi varmigis.
+</td>
+</tr>
+<tr>
+<td width="12%">
+ 
+</td>
+<td nowrap>
+Ŝin vidis patrineto,
+</td>
+</tr>
+<tr>
+<td width="12%">
+ 
+</td>
+<td nowrap>
+Puniĝis filineto,
+</td>
+</tr>
+<tr>
+<td colspan="2" nowrap>
+Ĉar ŝi la novajn vestojn malpurigis.
+</td>
+</tr>
+</table>
+</center>
+<p align="right">
+<span style="font-variant: small-caps;">John Ellis</span>, <i>el “The British Esperantist.”</i>
+</p>
+<p align="center">
+<i>Cindro</i>, cinder, ash; <i>fingro</i>, finger.
+</p>
+<hr align="center" width="38%">
+<center>
+<b>LA DOMO DE ĴAK’.</b>
+</center>
+<p>
+Jen estas la domo konstruita de Ĵak’.<br> Jen estas la greno, kiu restis en la domo konstruita de Ĵak’.<br> Jen estas la rato, kiu manĝis la grenon, kiu restis, k.t.p.<br> Jen estas la kato, kiu mortigis la raton, kiu manĝis, k.t.p.<br> Jen estas la hundo, kiu turmentis la katon, kiu mortigis, k.t.p.<br> Jen estas la bovino kun kurba korno, kiu ĵetis la hundon, kiu turmentis, k.t.p.<br> Jen estas tutsola la virgulino, kiu melkis la bovinon, kiu ĵetis, k.t.p.<br> Jen estas la viro, ĉifone vestita, kiu kisis la virgulinon tutsolan, kiu melkis, k.t.p.<br> Jen estas la preĝisto, tute razita, kiu edzigis la viron, ĉifone vestitan, kiu kisis, k.t.p.<br> Jen estas la koko, matene kriinta, kiu vekis la preĝiston, tute razitan, kiu edzigis, k.t.p.<br> Jen estas la farmomastro, grensemanta, kiu posedis la kokon, matene kriintan, kiu, k.t.p., k.t.p.<br>
+</p>
+<p align="right">
+<i>El “The Esperantist”</i>
+</p>
+<p align="center">
+<i>Rato</i>, rat; <i>kato</i>, cat; <i>kurba</i>, curved; <i>korno</i>, horn; <i>sola</i>, alone, solitary; <i>melki</i>, to milk (milk is <i>lakto</i>); <i>ĉifono</i>, rag; <i>farmi</i>, to farm, take on lease; <i>semi</i>, to sow seed; <i>posedi</i>, to possess.
+</p>
+<hr align="center" width="38%">
+<!-- =============================125.png============================ -->
+<center>
+<b>EZOPA FABELO.</b>
+</center>
+<div class="indented">
+Unu azeno trovis leonan felon. Ĝi ricevis la ideon vesti sur sin la felon, kaj ŝajnigante sin leono, terurigi la homojn kaj bestojn. Pensite, farite. La azeno ŝajnis esti potenca leono.
+</div>
+<div class="indented">
+La unua viva estaĵo, kiun ĝi renkontis, estis malriĉa sed talenta komercisto, portanta kelkajn komercaĵojn sur sia dorso. Li teruriĝis vidante la leonon, kio tre amuzis la azenon. Nun la azeno, intencante pligrandigi la efikon, ekblekis:—ia,—ia,—ia,… Sed jen nia komercisto rekonis la azenon per ĝia voĉo, kaptis ĝin kaj devigis ĝin—vendi malkarege la leonan felon.
+</div>
+<p align="right">
+<i>El “Lingvo Internacia.”</i>
+</p>
+<p align="center">
+<i>Azeno</i>, ass; <i>felo</i>, hide; <i>ŝajni</i>, to seem to be; <i>komerci</i>, to trade; <i>dorso</i>, back; <i>intenci</i>, to intend; <i>bleki</i>, to cry (like an animal); <i>kara</i>, dear; <i>potenca</i>, powerful.
+</p>
+<hr align="center" width="38%">
+<center>
+<b>PROVERBOJ.</b>
+</center>
+<p>Eco homara estas eraro. Nur tiu ne eraras, kiu neniam ion faras.<br> Por riĉulo fasto, por malriĉulo festo.<br> Mezuri laŭ sia metro.<br> Kia la semo, tia la rikolto.<br> Riĉigas ne enspezo, sed prudenta elspezo.<br> Kun kiu vi festas, tia vi estas.<br> Ju pli da ĵuroj, des pli da suspekto.<br> Korvo al korvo okulon ne pikas.<br> En infano vidiĝas, kia homo fariĝos.<br> Unufoje ŝtelinta restas ĉiam ŝtelisto.<br> Kapo estas por tio, ke ĝi zorgu pri ĉio.<br> Belaj rakontoj el trans la montoj.<br></p>
+<p align="right">
+<span style="font-variant: small-caps;">M. F. Zamenhof.</span>
+</p>
+<p align="center">
+<i>Fasto</i>, fast; <i>mezuri</i>, to measure; <i>rikolto</i>, harvest; <i>enspezo</i>, income; <i>elspezo</i>, outlay; <i>ĵuro</i>, oath; <i>suspekto</i>, suspicion; <i>korvo</i>, raven; <i>piki</i>, to stab.
+</p>
+<hr align="center" width="38%">
+<!-- =============================126.png============================ -->
+<center>
+<b>LIZI, ELZE, ELIZABET.</b>
+</center>
+<p align="right">
+El <i>Hungaraj Rakontoj.</i>
+</p>
+<div class="indented">
+Mi amis nur mian patrinon kaj Lizi, krome neniun en la tuta mondo.
+</div>
+<div class="indented">
+Kun ŝi, kun Lizi, mi jam ligis amikecon, kiam mia malgranda fratino mortis je angino.
+</div>
+<div class="indented">
+Tiam fariĝis tre silente en nia domo. Malantaŭe ĉirkaŭ la ĉevalstalo bruis ja la knaboj poste kiel antaŭe, sed al la loĝejo ili proksimiĝis nur sur la piedpintoj. Ili ne volis ĝeni la nigre vestitan virinon, kiu senĉese, kvazaŭ senspirite, la funebrajn ĉambrojn trapaŝis; de frua mateno ĝis malfrua vespero, en pensojn profundiĝinta, ŝi travagis la loĝejon, senripoze kiel la pendolo de l’horloĝo, kvazaŭ ŝi eterne iun aŭ ion serĉus. Iafoje ŝi malfermis la ŝrankojn kaj tirkestojn laŭ vico. Tiam mi ĉiam vidis en ŝia mano malgrandajn infanorobojn, ŝuojn kaj antaŭtukojn, kiujn ŝi longe rigardis kaj karesis, por ilin denove remeti kun la pupoj, la skribkajeroj kaj ĉiuj aliaj objektoj, kiuj iam apartenis al mia malgranda fratino.
+</div>
+<div class="indented">
+Pri mi ŝi tute ne okupiĝis—ŝi nun pli amis la mortinton, ol ĉiujn vivantojn—kaj tamen en mi ĉiam ŝteliris post ŝi. Se mi iafoje ŝian robon ekprenis, aŭ ŝian brakon karesis, por ke ŝi min nur rimarku, ŝi ekrigardis min indiferente per siaj karaj, de nokta plorado lacaj okuloj, aŭ diris: “Kion vi volas, Janko? Ĉu mi devas doni al vi oranĝojn?”
+</div>
+<div class="indented">
+Ŝi tiam eltiris la tirkeston, kie la oranĝoj kuŝis, kaj lasis min elekti, kiom mi volis. Kaj mi tute ne volis oranĝojn, mi nur estis ĵaluza je mia malgranda, mortinta fratino.
+</div>
+<p align="right">
+<span style="font-variant: small-caps;">Ferenc Herczeg.</span>
+</p>
+<p align="center">
+<i>Ligi</i>, to bind; <i>angino</i>, quinsy; <i>stalo</i>, stable, stall; <i>pinto</i>, point; <i>ĝeni</i>, to trouble, disturb; <i>funebro</i>, mourning; <i>pendolo</i>, pendulum; <i>ŝranko</i>, cupboard; <i>tirkesto</i>, drawer; <i>vico</i>, turn; <i>antaŭtuko</i>, apron; <i>laca</i>, weary; <i>ĵaluza</i>, jealous.
+</p>
+<hr align="center" width="38%">
+<!-- =============================127.png============================ -->
+<center>
+<b>VENTEGA NOKTO.</b>
+</center>
+<p align="right">
+El <i>Nord-germanaj Rakontoj.</i>
+</p>
+<p class="indented">
+La ventego kriegis kaj bruegis dum la malluma nokto kaj blovege pelis la foliojn antaŭ si. Kia sonado estis en la aero! De malproksime venas la ventego, el la regiono, kie estas la altaj montoj kaj la granda akvo, el la malvarma nordo. Ĉio, kion ĝi ekkaptas dumvoje, devas kunflugi. Ĝi pelas la foliojn alten, tiel ke ili kirle flugas kaj en sia timo saltas unu super la alia. Jen ĝi permesas al ili dum memento rekonsciiĝi, ili opinias, ke nun ĉesis la sovaĝa pelado, ke ili povas trankvile malleviĝi teren—jen la sovaĝulo ree ekkaptas ilin kaj la ludo denove komenciĝas. Nun ĝi estas en la torfejo; tie ĝi trovas nenion kun kio ĝi povus petoli; tiam ĝi atakas pluvnubon kiu ĵus volis ekpluvi—puŝegas en ĝian flankon, ĝis ĝi tuj disflugas. Jen la blovulo venas en la arbaron kaj furiozas inter la arboj, kiuj ĝemas kaj krakas. Ankoraŭ salton, kaj nun ĝi estas ĉe la lerneja domo, kiu staras kaŝite en arbetaĵoj inter la du vilaĝoj. Ho, kiel ĝi ĝojkriegas ekvidante la malnovan kadukan domon! Tie ĉi mi devas eniĝi! Per ĉiuj pordoj ĝi bruegas kaj skuas ilin, provante malfermegi ilin. Sed vane. Eĉ ne la lignan kovrilon de la truo en la frontono ĝi povas deŝiri, kvankam la rustiĝintaj hokoj preskaŭ ne plu povas teni ĝin. Sed almenaŭ ĝi klakas kaj frapegas per ĝi tiom, ke la edzino de la instruisto vekiĝas.
+</p>
+<p align="right">
+<span style="font-variant: small-caps;">Heinrich Bandlow.</span>
+</p>
+<p align="center">
+<i>Nordo</i>, north; <i>kirli</i>, to whisk, to twirl; <i>konscii</i>, to be conscious; <i>opinii</i>, to be of opinion; <i>torfo</i>, peat; <i>petoli</i>, to play, tease; <i>furiozi</i>, to rage; <i>ĝemi</i>, to groan; <i>kraki</i>, to crack, crackle; <i>kaduka</i>, decayed, infirm; <i>skui</i>, to shake; <i>vane</i>, in vain; <i>frontono</i>, gable, fronton; <i>rusti</i>, to rust; <i>hoko</i>, hook; <i>klaki</i>, to clack, clap.
+</p>
+<hr align="center" width="38%">
+<!-- =============================128.png============================ -->
+<center>
+<b>EN PIRIN.</b>
+</center>
+<p align="right">
+El <i>Bulgaraj Rakontoj</i>.
+</p>
+<div class="indented">
+Klime perdis la vojon, la blovegoj estis kovrintaj ĉion: valojn, montetojn, vojojn, kampojn. Li eliris hieraŭ ĉe bona vetero el la vilaĝo, kaj nun ?… Dum tutaj horoj li vagadis en Pirin-monto kaj li ne scias, kie li troviĝas, kien li iras, kion li renkontos. Li komprenis nur unu: ke malproksime, malproksime li estas de sia vilaĝo, en nekonataj montaj dezertoj, en la regno de l’sovaĝaj bestoj kaj de la pereo…
+</div>
+<!-- =============================129.png============================ -->
+<div class="indented">
+Subite li ekvidis tra la krepusko multajn nigrajn ombrojn, kiuj iris senbrue sur la neĝo. Kio estas tio ĉi? Ĉu lupoj? Ili estas tuta aro kaj venas de la dekstra flanko; ili bojas… Li ekkuregas. La malsata aro rapide lin sekvas kun sovaĝaj bojoj… Kiom da tempo li kuris, li ne memoras… Antaŭ li ĉiam nudaĵo, ĉiam dezerto, ĉiam neĝa kampo. Subite Klime vidas, ke antaŭe ekmoviĝas io, lumaj punktoj brilas kaj lin renkontas: la bestaro elsendis kelkajn lupojn por fermi lian iradon… Klime vidis teruran, neeviteblan morton… Tiam li ree ekkuregis kiel frenezulo maldekstren, al nova direkto, sur ia krutaĵo malsupren, kaj post li la lupoj… Li dufoje implikiĝis je sia skarpo, kiu trenis, kaj li ekfalis. Troviĝinte en la valo, Klime ĝoje vidis, ke li eniras en ian vilaĝon… Kia ĝi estas, ĉu pomaka, ĉu kristana,—li ne pensas, ĉar la luparo lin persekutas eĉ tien ĉi. Ĝi iras post liaj kalkanoj… Li enŝoviĝis en ian pordegon, kiun, verŝajne, la ventego malfermis, kaj li alkuris al la fenestro, kiu lumis. Kaj la lupoj ankaŭ kuras post li. Klime ŝovis malĝentile la pordon kaj eniris en nekonatan domon. Li ekĝemis: li vidis bulgaran, kristanan domon, kaj la sanktfigurujon, kaj antaŭ ĝi la sanktlampeton…la flamo malklare briletis kaj estingiĝis ankoraŭ. El la krepusko eliris iaj homoj. Li ĉirkaŭrigardis mirege. Kie li troviĝas?
+</div>
+<div class="indented">
+Subite Klime ekscias, ke li estas en sia hejmo.
+</div>
+<div class="indented">
+La Ĉiopovanto estis direktinta liajn vagadojn al lia vilaĝo, al lia domo, kiam li pensis, ke li iras en tute malsaman direkton.
+</div>
+<p align="right">
+<span style="font-variant: small-caps;">Ivan Minĉev.</span>
+</p>
+<p align="center">
+[Footnote: “Pomako” estas bulgaro fariĝinta mahometano.]
+</p>
+<p align="center">
+<i>Klime</i>, man’s name; <i>blovego</i>, storm; <i>valo</i>, valley; <i>sovaĝa</i>, wild; <i>krepusko</i>, twilight; <i>boji</i>, to bark; <i>nuda</i>, bare; <i>punkto</i>, point; <i>eviti</i>, to avoid; <i>freneza</i>, crazy; <i>impliki</i>, to entangle; <i>skarpo</i>, scarf; <i>persekuti</i>, to follow in order to harm; <i>ŝovi</i>, to shove, push; <i>verŝajne</i>, apparently; <i>estingi</i>, to extinguish.
+</p>
+<hr align="center" width="38%">
+<center>
+<b>SOMERA PLUVADO.</b>
+</center>
+<p align="right">
+El <i>Prozo el Danaj-Norvegaj Aŭtoroj</i>.
+</p>
+<div class="indented">
+Estis premante varmege, la aero vibris pro varmo, kaj krom tio estis tiel kvieta, nenio alia sin movis, ol la kokcineloj tie sur la urtikoj, kaj kelke da velkitaj folioj, kiuj kuŝis sur la herbo kaj kurbigis sin kun etaj ekmovoj, kvazaŭ kuntiritaj de la sunaj radioj.
+</div>
+<div class="indented">
+Kaj tiu homo sub la kverko, li kuŝis spiregante kaj melankolie, senespere li rigardis supren al la ĉielo. Li kantetis iom, kaj cedis, fajfis per la buŝo kaj cedis ankaŭ je tio, turnis kaj returnis sin, rigardis malnovan talpan teraltaĵeton, kiu tute helgriziĝis pro sekeco. Subite eta, ronda, nigra makulo vidiĝis sur la griza tero, ankoraŭ unu, du, tri, kvar, multaj, ankoraŭ pliaj, la tuta altaĵeto fariĝis malhelgriza. La aero estas nur longaj, malhelaj strekoj, la folioj kliniĝis kaj balanciĝis, sibleto, plilaŭtiĝante ĝis siblego, sonis,—akvo fluegis teren.
+</div>
+<!-- =============================130.png============================ -->
+<div class="indented">
+Ĉio briletis, fajretis, kraketis. Folioj, branĉoj, trunkoj, ĉio brilis de akvaĵo, ĉiu guteto falanta teren, herben, ŝtonen, ĉien, disrompiĝis kaj disŝprucis en milojn da etaj perloj. Malgrandaj gutoj pendis tie iom da tempo kaj fariĝis grandaj gutoj, malsuprenfalis tien ĉi, unuiĝis kun aliaj gutoj, formis fluetojn, malaperis en sulketojn, enfluis grandajn truojn kaj elfluis malgrandajn, forkondukis polvon, lignaĵetojn kaj foliopecojn, fiksiĝis sur rifojn kaj denove liberiĝis, turniĝis kaj ree surrifiĝis. Foliojn, ne estintajn kune de la tempo, kiam ili estis burĝonoj, kolektis la akvaĵo; musko, neniigita de sekeco, ekŝvelis kaj fariĝis mola, ĉifa, verda kaj sukplena; kaj ŝimo kiu preskaŭ fariĝis polvo, disvastiĝis en graciaj makuloj, kun brilo kiel silko. La konvolvoloj lasis plenigi siajn blankajn kalikojn ĝis la rando, interpuŝis ilin kaj verŝis la akvon sur la kapojn de l’ urtikoj. La dikaj, nigraj arbarlimakoj afablege rampis antaŭen kaj rigardis danke la ĉielon.
+</div>
+<div class="indented">
+Kaj la homo? La nudkapa homo staris meze en la pluvo, lasante la gutojn sibli en harojn, brovojn okulojn, nazon, buŝon, kraketis per la fingroj je la pluvo, iom levis iafoje la piedojn, kvazaŭ li intencis danci, ekskuis iam kaj iam sian kapon, kiam tro multe da akvo estis en la haroj, plengorĝe kantis senpripensante tion, kion li kantis, tiel plene la pluvado lin okupis.
+</div>
+<p align="right">
+<span style="font-variant: small-caps;">J. P. Jakobsen.</span>
+</p>
+<p align="center">
+<i>Vibri</i>, to vibrate; <i>kokcinelo</i>, ladybird; <i>urtiko</i>, nettle; <i>velki</i>, to wither; <i>fajfi</i>, to whistle; <i>talpo</i>, mole; <i>streko</i>, streak; <i>klini</i>, bend; <i>sibli</i>, to hiss; <i>ŝpruci</i>, to spurt, to gush; <i>sulko</i>, furrow; <i>truo</i>, hole; <i>rifo</i>, reef; <i>burĝono</i>, bud; <i>musko</i>, moss; <i>ŝveli</i>, to swell; <i>ĉifi</i>, to crinkle, crumple; <i>ŝimo</i>, mildew, mould; <i>gracia</i>, graceful; <i>konvolvolo</i>, convolvulus; <i>kaliko</i>, chalice, calyx; <i>limako</i>, slug; <i>brovo</i>, brow; <i>nuda</i>, bare.
+</p>
+<hr align="center" width="38%">
+<center>
+<b>KION NE KOMPRENAS LA HIRUNDOJ KAJ PAPILIOJ.</b>
+</center>
+<p align="right">
+El <i>Pola Antologio.</i>
+</p>
+<div class="indented">
+… Iom pli malproksime kuŝis flava grenkampo. Malalta barilo apartigis ĝin de l’ konstruaĵoj kaj de l’ malgranda placeto antaŭ ili.
+</div>
+<!-- =============================131.png============================ -->
+<div class="indented">
+La barilo formis angulon kaj en la loko, kie kuniĝis du ĝiaj oblikvaj duonoj, ĝi havis pordegon, altan, larĝan kaj en tiu momento tute malfermitan.
+</div>
+<div class="indented">
+Ni proksimiĝis al la malalta barilo. Anjo ne havis ankoraŭ sufiĉe da tempo por apogi al ĝi sian ombrelon kaj jam en la flava domo oni malfermis la pordon kaj viro stariĝis ĉe la sojlo kaj laŭte demandis:
+</div>
+<div class="indented">
+—Ĉu vi iras eksterlandon?
+</div>
+<div class="indented">
+Ni komprenis. La barilo, malzorge konstruita el kurbaj bastonoj, estis io pli grava, ol limo de kampara propraĵo…
+</div>
+<div class="indented">
+Ĉi tiu barilo apartigis du naciojn, du landojn, du civilizaciojn.
+</div>
+<div class="indented">
+La sekalo, kreskanta post ĝi, estis jam germana sekalo; la cejanoj, kiuj, kiel bluaj lumetoj, bruletis inter la spikoj, estis jam germanaj cejanoj.
+</div>
+<div class="indented">
+Germana estis eĉ la vento, fluganta de tie kune kun la miela odoro de l’konvolvoloj…
+</div>
+<div class="indented">
+Kompreneble, Anjo devis rifuzi al si la riĉigon de sia bukedo per germanaj floroj kaj ŝi tuj sciigis pri ĝi la laŭte demandantan viron.
+</div>
+<div class="indented">
+Li reiĝis domon trankviliĝinta, sed sendube dek kelkaj paroj da viglaj, kvankam nevideblaj okuloj observis ĉiujn niajn movojn.
+</div>
+<div class="indented">
+Kun stranga sento ni komencis rigardi ĉirkaŭe.
+</div>
+<div class="indented">
+—Kial?—demandis Anjo, larĝe malfermante la okulojn—sekve la spiko, kiu elkreskis tie ĉi el grajno alportita de tie de la vento, estas nia, sed milionoj da aliaj spikoj, ĝiaj fratoj, estas fremdaj nur tial, ke ili kreskas unu paŝon pli malproksime?
+</div>
+<div class="indented">
+Mi penis klarigi al ŝi, ke tio ĉi estas tute natura, eĉ necesega.
+</div>
+<div class="indented">
+—Por kiu?
+</div>
+<div class="indented">
+Anstataŭ respondo mi levis la ŝultrojn.
+</div>
+<div class="indented">
+Okupataj de la penso pri la divido, ni turnis la okulojn al la ĉielo, serĉante ankaŭ sur ĝi liman linion.
+</div>
+<div class="indented">
+Sed la ĉielo estis nur unu, nedividita.
+</div>
+<!-- =============================132.png============================ -->
+<div class="indented">
+Ni rigardis la sunon.
+</div>
+<div class="indented">
+Ankaŭ la suno estis nur unu, nedividita.
+</div>
+<div class="indented">
+En la sama momento papilio, kiu sidis proksime de ni sur la barilo kaj jen etendis, jen altiris siajn ruĝajn flugiletojn kun arĝenta subaĵo, rapide leviĝis kaj transflugis al la germana flanko.
+</div>
+<div class="indented">
+Ĝi longe flirtis tie super la balanciĝantaj spikoj kaj trovinte amikon aŭ amikinon ankoraŭ pli trankvile revenis.
+</div>
+<div class="indented">
+Samtempe kelke da hirundoj, antaŭsentante proksimiĝon de fulmotondro, komencis kun laŭta pepado rondflugi malproksimen kaj senpune trans la limon…
+</div>
+<div class="indented">
+— Vi vidas!—ekkriis Anjo kun infana triumfo.— La hirundoj kaj papilioj no konsentas la “necesecon,” pri kiu vi tiel sage parolis.
+</div>
+<div class="indented">
+Ĉi tiuj senkonsideraj vortoj malĝojigis min.
+</div>
+<div class="indented">
+— Ah, Anjo, Anjo!—diris mi riproĉe,—ĉu vi forgesis, ke la homo estas pli saĝa kreitaĵo, ol la flirtemaj birdoj kaj papilioj senpripensaj?…
+</div>
+<p align="right">
+<span style="font-variant: small-caps;">Wiktor Gomulicki.</span>
+</p>
+<p align="center">
+<i>Greno</i>, corn; <i>placo</i>, place, square; <i>apogi</i>, to lean on; <i>ombrelo</i>, umbrella, parasol; <i>sojlo</i>, threshold; <i>laŭta</i>, loud; <i>sekalo</i>, rye; <i>cejano</i>, corn bluebottle; <i>mielo</i>, honey; <i>bukedo</i>, bouquet; <i>paro</i>, pair; <i>spiko</i>, ear of corn; <i>linio</i>, line; <i>papilio</i>, butterfly; <i>flirti</i>, flutter, wave; <i>fulmo</i>, lightning; <i>tondro</i>, thunder; <i>pepi</i>, to chirp.
+</p>
+<hr align="center" width="38%">
+<center>
+<b>PRINTEMPO VENOS</b>.
+</center>
+<center>
+<table>
+<tr>
+<td nowrap>
+Se la naturo rigidiĝas<br> De prem’ de l’ vintro frostiganta,<br> Se tute per la neĝ’ kovriĝas<br> Je longe tero ekdormanta,<br> Amiko kara! vi ne ploru:<br> Printempo venos kaj somero,<br> Ke la naturo ree floru,<br> Ke verdu, reviviĝu tero.
+</td>
+</tr>
+</table>
+</center>
+<p align="right">
+<span style="font-variant: small-caps;">A. Naumann.</span>
+</p>
+<hr align="center" width="38%">
+<!-- =============================133.png============================ -->
+<center>
+<b>LA VOJO</b>.
+</center>
+<center>
+<table>
+<tr>
+<td nowrap>
+<p>
+Tra densa mallumo briletas la celo,<br> Al kiu kuraĝe ni iras.<br> Simile al stelo en nokta ĉielo,<br> Al ni la direkton ĝi diras.<br> Kaj nin ne timigas la noktaj fantomoj<br> Nek batoj de l’ sorto, nek mokoj de l’ homoj<br> Ĉar klara kaj rekta kaj tre difinita<br> Ĝi estas, la voj’ elektita.
+</p>
+<p>
+Nur rekte, kuraĝe, kaj ne flankiĝante<br> Ni iru la vojon celitan!<br> Eĉ guto malgranda, konstante frapante,<br> Traboras la monton granitan.<br> <i>L’ espero, l’ obstino</i>, kaj <i>la pacienco</i>—<br> Jen estas la signoj, per kies potenco<br> Ni paŝo post paŝo, post longa laboro,<br> Atingos la celon en gloro.
+</p>
+<p>
+Ni semas kaj semas, neniam laciĝas,<br> Pri l’ tempoj estontaj pensante.<br> Cent semoj perdiĝas, mil semoj perdiĝas,—<br> Ni semas kaj semas konstante.<br> “Ho, ĉesu!” mokante la homoj admonas,—<br> “Ne ĉesu, ne ĉesu!” en kor’ al ni sonas:<br> “Obstine antaŭen! La nepoj vin benos,<br> Se vi pacience eltenos.”
+</p>
+<p>
+Se longa sekeco aŭ ventoj subitaj<br> Velkantajn foliojn deŝiras,<br> Ni dankas la venton, kaj, repurigitaj,<br> Ni forton pli freŝan akiras.<br> Ne mortos jam nia bravega anaro,<br> Ĝin jam ne timigas la vento, nek staro,<br> Obstine ĝi paŝas, provita, hardita,<br> Al cel’ unu fojon signita!
+</p>
+<!-- =============================134.png============================ -->
+<p>
+Nur rekte, kuraĝe kaj ne flankiĝante<br> Ni iru la vojon celitan!<br> Eĉ guto malgranda, konstante frapante,<br> Traboras la monton granitan.<br> L’ espero, l’ obstino, kaj la pacienco—<br> Jen estas la signoj, per kies potenco<br> Ni paŝo post paŝo, post longa laboro,<br> Atingos la celon en gloro.
+</p>
+</td>
+</tr>
+</table>
+</center>
+<p align="right">
+<span style="font-variant: small-caps;">L. Zamenhof</span>, <i>el “Fundamenta Krestomatio.”</i>
+</p>
+<p align="center">
+<i>Celo</i>, aim; <i>simile</i>, like; <i>fantomo</i>, phantom, apparition; <i>sorto</i>, fate; <i>moko</i>, mockery; <i>elekti</i>, to choose; <i>flanko</i>, side; <i>guto</i>, drop; <i>frapi</i>, to strike; <i>bori</i>, to bore; <i>signo</i>, sign; <i>atingi</i>, to attain; <i>laca</i>, weary; <i>semo</i>, seed; <i>ĉesi</i>, to cease; <i>admoni</i>, to exhort; <i>koro</i>, heart; <i>vento</i>, wind; <i>subita</i>, sudden; <i>velki</i>, to wither; <i>deŝiri</i>, to tear from, pluck off; <i>akiri</i>, to acquire; <i>provi</i>, to make trial of; <i>hardi</i>, to harden.
+</p>
+<hr align="center" width="38%">
+<center>
+<b><big>EL LA PAROLO DE D-RO. L. L. ZAMENHOF.</big></b><br> <b>EN LA GUILDHALL, URBO LONDONO,</b><br> <b>La 2lan de Aŭgusto, 1907.</b>
+</center>
+<div class="indented">
+. . . La dua kulpigo, kiun ni ofte devas aŭdi, estas tio, ke ni esperantistoj estas malbonaj patriotoj. Ĉar tiuj esperantistoj, kiuj traktas la esperantismon kiel ideon, predikas reciprokan justecon kaj fratecon inter la popoloj kaj ĉar laŭ la opinio de la gentaj ŝovinistoj patriotismo konsistas en malamo kontraŭ ĉio, kio ne estas nia, tial ni laŭ ilia opinio estas malbonaj patriotoj, kaj ili diras, ke la esperantistoj ne amas sian patrujon. Kontraŭ tiu ĉi mensoga, malnobla kaj kalumnia kulpigo ni protestas plej energie, ni protestas per ĉiuj fibroj de nia koro! . . .
+</div>
+<!-- =============================135.png============================ -->
+<div class="indented">
+Vi staras nun antaŭ miaj okuloj, mia kara Litovujo, mia malfeliĉa patrujo, kiun mi neniam povas forgesi, kvankam mi forlasis vin kiel juna knabo. Vi, kiun mi ofte vidas en miaj sonĝoj, vi, kiun nenia alia parto de la tero iam povos anstataŭi en mia koro, vi atestu, kiu vin pli multe, pli kore kaj pli sincere amas: ĉu mi, idea esperantisto, kiu revis pri frateco inter ĉiuj viaj loĝantoj, kvankam mi devis bedaŭrinde forlasi vin, simile al multaj centoj da miloj da aliaj viaj filoj—aŭ ĉu tiuj personoj, kiuj deziras, ke vi apartenu nur al ili, kaj ĉiuj aliaj viaj filoj estu rigardataj kiel fremduloj aŭ sklavoj! Ho patriotismo, patriotismo, kiam fine la homoj lernos kompreni ĝuste vian sencon! Kiam via sankta nomo ĉesos esti armilo en la manoj de diversaj malhonestuloj! Kiam fine ĉiu homo ricevos la rajton kaj la eblon algluiĝi per sia tuta koro al tiu peco da tero, kiu lin naskis!
+</div>
+<div class="indented">
+Longe daŭros ankoraŭ malluma nokto sur la tero, sed ne eterne ĝi daŭros. Venos iam la tempo, kiam la homoj ĉesos esti lupoj unuj kontraŭ aliaj. Anstataŭ konstante batali inter si, elŝiri la patrujon unuj al la aliaj, perforte altrudi al si reciproke siajn lingvojn kaj morojn, ili vivos inter si pace kaj frate, en plena interkonsento ili laboros sur la tero, sur kiu ili vivas, kaj kontraŭ tiuj krudaj fortoj de la naturo, kiuj ilin ĉiujn egale atakas. Kaj kune kaj interkonsente ili celados ĉiuj al unu vero, al unu feliĉo. Kaj se iam venos tiu feliĉa tempo, ĝi estos la frukto de konstanta kaj senlaca laborado de tiuj homoj, kiujn vi vidas nun en ĉi tiu ĉambrego kaj kies nomo, ankoraŭ tre malmulte konata kaj tre malmulte ŝatata, estas “esperantistoj.”
+</div>
+<p align="right">
+<i>El “The British Esperantist.”</i>
+</p>
+<p align="center">
+<i>Kulpo</i>, fault; <i>trakti</i>, to treat; <i>prediki</i>, to preach; <i>gento</i>, tribe, race; <i>ŝovinisto</i>, Chauvinist; <i>Litovujo</i>, Lithuania; <i>senĝo</i>, dream; <i>atesti</i>, to bear witness; <i>revi</i>, to imagine, dream; <i>bedaŭri</i>, to regret; <i>sklavo</i>, slave; <i>senco</i>, meaning; <i>rajto</i>, right; <i>alglui</i>, to glue to, stick to, attach; <i>lupo</i>, wolf; <i>trudi</i>, to obtrude; <i>moro</i>, manners, custom; <i>paco</i>, peace; <i>konsenti</i>, to agree; <i>kruda</i>, crude, rough, raw; <i>frukto</i>, fruit; <i>ŝati</i>, to prize, appreciate, like.
+</p>
+<hr align="center" width="38%">
+
+
+
+
+</div>
+
+<script>
+
+// add bootstrap table styles to pandoc tables
+function bootstrapStylePandocTables() {
+  $('tr.header').parent('thead').parent('table').addClass('table table-condensed');
+}
+$(document).ready(function () {
+  bootstrapStylePandocTables();
+});
+
+
+</script>
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src  = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+
+</body>
+</html>

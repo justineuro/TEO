@@ -1,0 +1,786 @@
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+
+<meta charset="utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="generator" content="pandoc" />
+
+
+
+
+<title></title>
+
+<script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link href="site_libs/bootstrap-3.3.5/css/bootstrap.min.css" rel="stylesheet" />
+<script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<script src="site_libs/navigation-1.1/tabsets.js"></script>
+<link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
+<script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
+<link href="site_libs/font-awesome-4.5.0/css/font-awesome.min.css" rel="stylesheet" />
+
+<style type="text/css">code{white-space: pre;}</style>
+<style type="text/css">
+  pre:not([class]) {
+    background-color: white;
+  }
+</style>
+<script type="text/javascript">
+if (window.hljs) {
+  hljs.configure({languages: []});
+  hljs.initHighlightingOnLoad();
+  if (document.readyState && document.readyState === "complete") {
+    window.setTimeout(function() { hljs.initHighlighting(); }, 0);
+  }
+}
+</script>
+
+
+
+<style type="text/css">
+h1 {
+  font-size: 34px;
+}
+h1.title {
+  font-size: 38px;
+}
+h2 {
+  font-size: 30px;
+}
+h3 {
+  font-size: 24px;
+}
+h4 {
+  font-size: 18px;
+}
+h5 {
+  font-size: 16px;
+}
+h6 {
+  font-size: 12px;
+}
+.table th:not([align]) {
+  text-align: left;
+}
+</style>
+
+<link rel="stylesheet" href="bootstrap/bootstrap-cerulean-grn99.min.css" type="text/css" />
+
+</head>
+
+<body>
+
+<style type = "text/css">
+.main-container {
+  max-width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+}
+code {
+  color: inherit;
+  background-color: rgba(0, 0, 0, 0.04);
+}
+img {
+  max-width:100%;
+  height: auto;
+}
+.tabbed-pane {
+  padding-top: 12px;
+}
+button.code-folding-btn:focus {
+  outline: none;
+}
+</style>
+
+
+<style type="text/css">
+/* padding for bootstrap navbar */
+body {
+  padding-top: 51px;
+  padding-bottom: 40px;
+}
+/* offset scroll position for anchor links (for fixed navbar)  */
+.section h1 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+
+.section h2 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.section h3 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.section h4 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.section h5 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.section h6 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+</style>
+
+<script>
+// manage active state of menu based on current page
+$(document).ready(function () {
+  // active menu anchor
+  href = window.location.pathname
+  href = href.substr(href.lastIndexOf('/') + 1)
+  if (href === "")
+    href = "index.html";
+  var menuAnchor = $('a[href="' + href + '"]');
+
+  // mark it active
+  menuAnchor.parent().addClass('active');
+
+  // if it's got a parent navbar menu mark it active as well
+  menuAnchor.closest('li.dropdown').addClass('active');
+});
+</script>
+
+
+<div class="container-fluid main-container">
+
+<!-- tabsets -->
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+</script>
+
+<!-- code folding -->
+
+
+
+
+
+
+<div class="navbar navbar-default  navbar-fixed-top" role="navigation">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="index.html">The Esperanto Teacher</a>
+    </div>
+    <div id="navbar" class="navbar-collapse collapse">
+      <ul class="nav navbar-nav">
+        <li>
+  <a href="index.html">
+    <span class="fa fa-star"></span>
+     
+    About
+  </a>
+</li>
+<li class="dropdown">
+  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">
+    Lessons: 0-10
+     
+    <span class="caret"></span>
+  </a>
+  <ul class="dropdown-menu" role="menu">
+    <li>
+      <a href="intro.html"> 0</a>
+    </li>
+    <li>
+      <a href="lesson1.html"> 1</a>
+    </li>
+    <li>
+      <a href="lesson2.html"> 2</a>
+    </li>
+    <li>
+      <a href="lesson3.html"> 3</a>
+    </li>
+    <li>
+      <a href="lesson4.html"> 4</a>
+    </li>
+    <li>
+      <a href="lesson5.html"> 5</a>
+    </li>
+    <li>
+      <a href="lesson6.html"> 6</a>
+    </li>
+    <li>
+      <a href="lesson7.html"> 7</a>
+    </li>
+    <li>
+      <a href="lesson8.html"> 8</a>
+    </li>
+    <li>
+      <a href="lesson9.html"> 9</a>
+    </li>
+    <li>
+      <a href="lesson10.html">10</a>
+    </li>
+  </ul>
+</li>
+<li class="dropdown">
+  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">
+    11-20
+     
+    <span class="caret"></span>
+  </a>
+  <ul class="dropdown-menu" role="menu">
+    <li>
+      <a href="lesson11.html">11</a>
+    </li>
+    <li>
+      <a href="lesson12.html">12</a>
+    </li>
+    <li>
+      <a href="lesson13.html">13</a>
+    </li>
+    <li>
+      <a href="lesson14.html">14</a>
+    </li>
+    <li>
+      <a href="lesson15.html">15</a>
+    </li>
+    <li>
+      <a href="lesson16.html">16</a>
+    </li>
+    <li>
+      <a href="lesson17.html">17</a>
+    </li>
+    <li>
+      <a href="lesson18.html">18</a>
+    </li>
+    <li>
+      <a href="lesson19.html">19</a>
+    </li>
+    <li>
+      <a href="lesson20.html">20</a>
+    </li>
+  </ul>
+</li>
+<li class="dropdown">
+  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">
+    21-30
+     
+    <span class="caret"></span>
+  </a>
+  <ul class="dropdown-menu" role="menu">
+    <li>
+      <a href="lesson21.html">21</a>
+    </li>
+    <li>
+      <a href="lesson22.html">22</a>
+    </li>
+    <li>
+      <a href="lesson23.html">23</a>
+    </li>
+    <li>
+      <a href="lesson24.html">24</a>
+    </li>
+    <li>
+      <a href="lesson25.html">25</a>
+    </li>
+    <li>
+      <a href="lesson26.html">26</a>
+    </li>
+    <li>
+      <a href="lesson27.html">27</a>
+    </li>
+    <li>
+      <a href="lesson28.html">28</a>
+    </li>
+    <li>
+      <a href="lesson29.html">29</a>
+    </li>
+    <li>
+      <a href="lesson30.html">30</a>
+    </li>
+  </ul>
+</li>
+<li class="dropdown">
+  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">
+    31-40
+     
+    <span class="caret"></span>
+  </a>
+  <ul class="dropdown-menu" role="menu">
+    <li>
+      <a href="lesson31.html">31</a>
+    </li>
+    <li>
+      <a href="lesson32.html">32</a>
+    </li>
+    <li>
+      <a href="lesson33.html">33</a>
+    </li>
+    <li>
+      <a href="lesson34.html">34</a>
+    </li>
+    <li>
+      <a href="lesson35.html">35</a>
+    </li>
+    <li>
+      <a href="lesson36.html">36</a>
+    </li>
+    <li>
+      <a href="lesson37.html">37</a>
+    </li>
+    <li>
+      <a href="lesson38.html">38</a>
+    </li>
+    <li>
+      <a href="lesson39.html">39</a>
+    </li>
+    <li>
+      <a href="lesson40.html">40</a>
+    </li>
+  </ul>
+</li>
+<li class="dropdown">
+  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">
+    41-45+
+     
+    <span class="caret"></span>
+  </a>
+  <ul class="dropdown-menu" role="menu">
+    <li>
+      <a href="lesson41.html">41</a>
+    </li>
+    <li>
+      <a href="lesson42.html">42</a>
+    </li>
+    <li>
+      <a href="lesson43.html">43</a>
+    </li>
+    <li>
+      <a href="lesson44.html">44</a>
+    </li>
+    <li>
+      <a href="lesson45.html">45</a>
+    </li>
+    <li>
+      <a href="lesson46.html">Words in Sentences</a>
+    </li>
+    <li>
+      <a href="lesson47.html">Common Useful Expressions</a>
+    </li>
+    <li>
+      <a href="lesson48.html">Letters</a>
+    </li>
+  </ul>
+</li>
+<li class="dropdown">
+  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">
+    More
+     
+    <span class="caret"></span>
+  </a>
+  <ul class="dropdown-menu" role="menu">
+    <li>
+      <a href="keytoexer.html">Key to Exercises</a>
+    </li>
+    <li>
+      <a href="selections.html">Selections</a>
+    </li>
+    <li>
+      <a href="vocabulary.html">Vocabulary</a>
+    </li>
+    <li>
+      <a href="indextet.html">Index</a>
+    </li>
+    <li>
+      <a href="license.html">Project Gutenberg License</a>
+    </li>
+    <li>
+      <a href="addExercises.html">Additional Exercises</a>
+    </li>
+  </ul>
+</li>
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        
+      </ul>
+    </div><!--/.nav-collapse -->
+  </div><!--/.container -->
+</div><!--/.navbar -->
+
+<div class="fluid-row" id="header">
+
+
+
+
+</div>
+
+
+<p><br/><br/></p>
+<center>
+<b>LESSON 5.</b>
+</center>
+<center>
+<i>The use of final</i> <b>n</b>.
+</center>
+<!-- =============================018.png============================ -->
+<p>
+In order to understand the meaning of a sentence it is necessary to be able to recognise clearly and unmistakably what it is that is spoken about, that is, what the <i>subject of the sentence</i> is. In English this is often to be recognised only by its position in the sentence. For instance, the three words—visited, John, George, can be arranged to mean two entirely, different things, either “John visited George,” or “George visited John.” [Footnote: In teaching Esperanto to children it is well to make sure before going further that they thoroughly understand, what the subject is. <i>The subject is that which we think or speak about. The word which stands for it is the subject of the sentence</i>. The children may be required to underline the subject of each sentence in a suitable piece of prose or verse.] In Esperanto the sense does not depend on the arrangement—&quot; <i>Johano vizitis Georgon</i>&quot; and “<i>Georgon vizitis Johano</i>” mean exactly the same thing, that John visited George, the <b>n</b> at the end of “Georgon” showing that “Georgon” is <b>not</b> the subject. There is no want of clearness about the following (Esperanto) sentences, absurd as they are in English:—
+</p>
+<center>
+<table>
+<tr>
+<td align="center">
+<i>La</i>
+</td>
+<td align="center">
+<i>patron</i>
+</td>
+<td align="center">
+<i>mordis</i>
+</td>
+<td align="center">
+<i>la</i>
+</td>
+<td align="center">
+<i>hundo.</i>
+</td>
+</tr>
+<tr>
+<td align="center">
+The
+</td>
+<td align="center">
+father
+</td>
+<td align="center">
+bit
+</td>
+<td align="center">
+the
+</td>
+<td align="center">
+dog.
+</td>
+</tr>
+<tr>
+<td colspan="5">
+ 
+</td>
+</tr>
+<tr>
+<td align="center">
+<i>La</i>
+</td>
+<td align="center">
+<i>infanon</i>
+</td>
+<td align="center">
+<i>gratis</i>
+</td>
+<td align="center">
+<i>la</i>
+</td>
+<td align="center">
+<i>kato.</i>
+</td>
+</tr>
+<tr>
+<td align="center">
+The
+</td>
+<td align="center">
+child
+</td>
+<td align="center">
+scratched
+</td>
+<td align="center">
+the
+</td>
+<td align="center">
+cat.
+</td>
+</tr>
+<tr>
+<td colspan="5">
+ 
+</td>
+</tr>
+<tr>
+<td align="center">
+<i>La</i>
+</td>
+<td align="center">
+<i>birdojn</i>
+</td>
+<td align="center">
+<i>pafis</i>
+</td>
+<td align="center">
+<i>Johano.</i>
+</td>
+<td align="center">
+ 
+</td>
+</tr>
+<tr>
+<td align="center">
+The
+</td>
+<td align="center">
+birds
+</td>
+<td align="center">
+shot
+</td>
+<td align="center">
+John.
+</td>
+<td align="center">
+ 
+</td>
+</tr>
+<tr>
+<td colspan="5">
+ 
+</td>
+</tr>
+<tr>
+<td align="center">
+<i>La</i>
+</td>
+<td align="center">
+<i>musojn</i>
+</td>
+<td align="center">
+<i>kaptis</i>
+</td>
+<td align="center">
+<i>la</i>
+</td>
+<td align="center">
+<i>knabo.</i>
+</td>
+</tr>
+<tr>
+<td align="center">
+The
+</td>
+<td align="center">
+mice
+</td>
+<td align="center">
+caught
+</td>
+<td align="center">
+the
+</td>
+<td align="center">
+boy.
+</td>
+</tr>
+<tr>
+<td colspan="5">
+ 
+</td>
+</tr>
+<tr>
+<td align="center">
+<i>La</i>
+</td>
+<td align="center">
+<i>kokidon</i>
+</td>
+<td align="center">
+<i>manĝis</i>
+</td>
+<td align="center">
+<i>la</i>
+</td>
+<td align="center">
+<i>onklo.</i>
+</td>
+</tr>
+<tr>
+<td align="center">
+The
+</td>
+<td align="center">
+chicken
+</td>
+<td align="center">
+ate
+</td>
+<td align="center">
+the
+</td>
+<td align="center">
+uncle.
+</td>
+</tr>
+<tr>
+<td colspan="5">
+ 
+</td>
+</tr>
+<tr>
+<td align="center">
+<i>La</i>
+</td>
+<td align="center">
+<i>bildon</i>
+</td>
+<td align="center">
+<i>pentris</i>
+</td>
+<td align="center">
+<i>la</i>
+</td>
+<td align="center">
+<i>pentristo.</i>
+</td>
+</tr>
+<tr>
+<td align="center">
+The
+</td>
+<td align="center">
+picture
+</td>
+<td align="center">
+painted
+</td>
+<td align="center">
+the
+</td>
+<td align="center">
+painter.
+</td>
+</tr>
+<tr>
+<td colspan="5">
+ 
+</td>
+</tr>
+<tr>
+<td align="center">
+<i>La</i>
+</td>
+<td align="center">
+<i>fiŝojn</i>
+</td>
+<td align="center">
+<i>vendis</i>
+</td>
+<td align="center">
+<i>la</i>
+</td>
+<td align="center">
+<i>fiŝisto.</i>
+</td>
+</tr>
+<tr>
+<td align="center">
+The
+</td>
+<td align="center">
+fish
+</td>
+<td align="center">
+sold
+</td>
+<td align="center">
+the
+</td>
+<td align="center">
+fisherman.
+</td>
+</tr>
+</table>
+</center>
+<p>
+In these sentences the subjects are at once seen to be <i>hundo, kato, Johano, knabo, onklo, pentristo, fiŝisto</i>, for the final <b>n</b> in <i>patron, infanon, birdojn, musojn, kokidon, bildon, fiŝojn</i>, distinguishes these words from the subject.
+</p>
+<!-- =============================019.png============================ -->
+<p>
+This use of <b>n</b> renders clear sentences that are not clear in English. “John loves Mary more than George” may mean “more than John loves George” or “more than George loves Mary.” In Esperanto it is quite clear. “<i>Johano amas Marion, pli ol Georgo</i>” means “more than George loves Mary,” because “Georgo” is the subject of the second (elliptical) sentence, but “<i>Johano amas Marion, pli ol Georgon</i>” means “more than John loves George,” because the final <b>n</b> in Georgon shows this to be <b>not</b> the subject.
+</p>
+<p>
+There are cases, however, in which it is not necessary to add <b>n</b>, the noun or pronoun being distinguished from the subject in another way. Examples are found in the first exercise:—<i>Sur la tero</i> kuŝas ŝtono, <i>On the ground</i> lies a stone. <i>Antaŭ la pordo</i> staras arbo, <i>Before the door</i> stands a tree. Notwithstanding their position, “ground” and “door” are seen to be <i>not</i> the subject, because before them are the words “on,” “before,” which connect them with the rest of the sentence—it is “on the ground,” “before the door.” So with other sentences.
+</p>
+<p>
+The words <i>on</i>, <i>before</i>, and others given [in Lesson 26] are called <span style="font-variant: small-caps;">prepositions</span> <!-- [sic] --> (<i>pre</i> = before). The noun or pronoun which follows them can never be the subject of the sentence.
+</p>
+<p>
+Remember, then, that <!-- [sic] -->
+</p>
+<p>
+<b>N</b> is added to every noun and pronoun, <i>other than the subject</i>, unless it has a preposition before it. [Footnote: (i.). The explanation usually given for the use of final <b>n</b> is, that <b>n</b> is added to nouns and pronouns (a) in the Accusative Case (the direct object), (b) when the preposition is omitted. The explanation given above seems to me, however, to be much simpler. (ii.). Another use of final <b>n</b> is given later [Lesson 12, Lesson 26] ]
+</p>
+<p>
+When the noun takes <b>n</b>, any adjective which belongs to it must also take <b>n</b>, as, <i>Li donas al mi belan ruĝan floron</i>, He gives me a beautiful red flower. <i>Li donas al mi belajn ruĝajn florojn</i>, He gives me beautiful red flowers.
+</p>
+<!-- =============================020.png============================ -->
+<center>
+<table cellspacing="8">
+<caption>
+<b>Vocabulary.</b>
+</caption>
+<tr>
+<td nowrap valign="top">
+<i>letero</i>, letter.<br> <i>litero</i>, letter of alphabet.<br> <i>festo</i>, festival, holiday.<br> <i>tago</i>, day.<br> <i>nokto</i>, night.
+</td>
+<td nowrap valign="top">
+<i>mateno</i>, morning.<br> <i>multaj</i>, many.<br> <i>obstina</i>, obstinate.<br> <i>ĝoja</i>, joyful, joyous.<br> <i>hela</i>, bright, clear.
+</td>
+</tr>
+<tr>
+<td nowrap valign="top">
+<i>amas</i>, loves.<br> <i>vidas</i>, sees.<br> <i>konas</i>, knows.<br> <i>havas</i>, has, possesses.<br> <i>luno</i>, moon.<br> <i>stelo</i>, star.<br> <i>vintro</i>, winter.<br> <i>forno</i>, stove.<br> <i>edzino</i>, wife.
+</td>
+<td nowrap valign="top">
+<i>pala</i>, pale.<br> <i>deziras</i>, desires, wishes.<br> <i>eraras</i>, errs, is wrong.<br> <i>vokas</i>, calls.<br> <i>hejtas</i>, heats.<br> <i>hodiaŭ</i>, to-day.<br> <i>malpli</i>, less.<br> <i>kiam</i>, when.<br> <i>kia</i>, what (kind).
+</td>
+</tr>
+</table>
+</center>
+<p>
+Mi vidas leonon (leonojn). Mi legas libron (librojn). Mi amas la patron. Mi konas Johanon. La patro ne legas libron, sed li skribas leteron. Mi ne amas obstinajn homojn. Mi deziras al vi bonan tagon, sinjoro. Bonan matenon! Ĝojan feston (mi deziras al vi). Kia ĝoja festo (estas hodiaŭ)! En la tago ni vidas la helan sunon, kaj en la nokto ni vidas la palan lunon kaj la belajn stelojn. Ni havas pli freŝan panon, ol vi. Ne, vi eraras, sinjoro, via pano estas malpli freŝa, ol mia. Ni vokas la knabon, kaj li venos. En la vintro oni hejtas la fornojn. Kiam oni estas riĉa, oni havas multajn amikojn. Li amas min, sed mi lin ne amas. Sinjoro P. kaj lia edzino tre amas miajn infanojn; mi ankaŭ tre amas iliajn (infanojn). Mi ne konas la sinjoron, kiu legas.
+</p>
+
+
+
+
+</div>
+
+<script>
+
+// add bootstrap table styles to pandoc tables
+function bootstrapStylePandocTables() {
+  $('tr.header').parent('thead').parent('table').addClass('table table-condensed');
+}
+$(document).ready(function () {
+  bootstrapStylePandocTables();
+});
+
+
+</script>
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src  = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+
+</body>
+</html>

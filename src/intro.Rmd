@@ -1,0 +1,272 @@
+---
+title: "" #"The Alphabet and Sounds of Letters"
+author: "" #"JLAUro"
+date: "" #"May 18, 2017"
+output: 
+  html_document:
+    #theme: cerulean
+    highlight: tango
+    #toc: true
+    #toc_float:
+    #  collapsed: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+<br/><br/>
+
+<!-- =============================008.png============================ -->
+<center><b>THE ALPHABET.</b></center>
+
+<center><b>SOUNDS OF THE LETTERS.</b></center>
+
+<p>In Esperanto each letter has only one sound, and each sound is
+represented in only one way. The words are pronounced exactly as
+spelt, every letter being sounded.</p>
+
+<p>Those <b>consonants</b> which in English have one simple sound
+only are exactly the same in Esperanto; they are&mdash;<i>b, d,
+f, k, l, m, n, p, r, t, v, z</i> (<i>r</i> must be well
+rolled).</p>
+
+<p><i>q, w, x, y</i> are not used.</p>
+
+<p><i>c, g, h, s</i>, which in English represent more than one
+sound, and <i>j</i> are also used with the mark &circ;&mdash;</p>
+
+<center><i>c &#265;, g &#285;, h &#293;, j &#309;, s
+&#349;.</i></center>
+
+<p><b>c</b> (whose two English sounds are represented by <i>k</i>
+and <i>s</i>) has the sound of <i>ts</i>, as in i<i>ts</i>,
+<i>ts</i>ar.</p>
+
+<p><b>&#265;</b> like <i>ch</i>, <i>tch</i>, in
+<i>ch</i>ur<i>ch</i>, ma<i>tch</i>.</p>
+
+<p><b>g</b> hard, as in <i>g</i>o, <i>g</i>i<i>g</i>,
+<i>g</i>un.</p>
+
+<p><b>&#285;</b> soft, as in <i>g</i>entle, <i>g</i>em, or like
+<i>j</i> in <i>j</i>ust, <i>J</i>ew.</p>
+
+<p><b>h</b> well breathed, as in <i>h</i>orse, <i>h</i>ome,
+<i>h</i>ow.</p>
+
+<p><b>&#293;</b> strongly breathed, and in the throat, as in the
+Scotch word lo<i>ch</i>. (Ask any Scotsman to pronounce it).
+<i>&#293;</i> occurs but seldom. It is the Irish <i>gh</i> in
+lou<i>gh</i>, and the Welsh <i>ch</i>.</p>
+
+<p><b>j</b> like <i>y</i> in <i>yes, you</i>, or <i>j</i> in
+<i>hallelujah, fjord.</i></p>
+
+<p><b>&#309;</b> like <i>s</i> in pleasure, or the French
+<i>j</i>, as in <i>dejeuner, Jean d'Arc.</i></p>
+
+<p><b>s</b> like <i>ss</i> in a<i>ss</i>, le<i>ss</i>, never like
+<i>s</i> in ro<i>s</i>e.</p>
+
+<p><b>&#349;</b> like <i>sh</i> in <i>sh</i>e, <i>sh</i>all,
+<i>sh</i>ip, or <i>s</i> in <i>s</i>ugar, <i>s</i>ure.</p>
+
+<p>In newspapers, etc., which have not the proper type,
+<i>&#265;, &#285;, &#293;, &#309;, &#349;</i> are often replaced
+by <i>ch, gh, hh, jh, sh</i>, or by <i>c', g', h', j', s'</i>,
+and <i>&#365;</i> by <i>u</i>.</p>
+
+<!-- =============================009.png============================ -->
+<p><b>&#365;</b> is also a consonant, and has the sound of
+<i>w</i> in <i>we</i>, as <i>E&#365;ropo</i>, or <i>u</i> in
+<i>persuade</i>.</p>
+
+<p>The <b>vowels</b> <i>a, e, i, o, u</i> have not the English,
+but the Continental sounds.</p>
+
+<p><b>a</b> always like <i>a</i> in <i>a</i>h! or in
+t<i>a</i>rt.</p>
+
+<p><b>e</b> like <i>e</i> in b<i>e</i>nd, but broader, like
+<i>e</i> in th<i>e</i>re.</p>
+
+<p><b>i</b> is a sound between <i>ee</i> in m<i>ee</i>t and
+<i>i</i> in <i>i</i>s.</p>
+
+<p><b>o</b> like <i>o</i> in f<i>o</i>r, or in the Scottish
+<i>no</i>, or <i>au</i> in <i>au</i>ght.</p>
+
+<p><b>u</b> like <i>oo</i> in b<i>oo</i>t, p<i>oo</i>r.</p>
+
+<p><i>a, e, i, o, u</i> are all <i>simple</i> sounds, that is,
+the mouth is kept in one position while they are being sounded.
+In learning them lengthen them out, and be careful not to alter
+the position of the mouth, however long they are drawn out. In
+the compound sounds given below the shape of the mouth changes;
+to get the correct pronunciation sound each letter fully and
+distinctly, gradually bringing them closer until they run
+together, when they become almost as follows:&mdash;</p>
+
+<p><b>aj</b> nearly like <i>ai</i> in <i>ai</i>sle, or <i>i</i>
+in n<i>i</i>ce, f<i>i</i>ne.</p>
+
+<p><b>ej</b> nearly like <i>ei</i> in v<i>ei</i>n.</p>
+
+<p><b>oj</b> nearly like <i>oy</i> in b<i>oy</i>, or <i>oi</i> in
+v<i>oi</i>d.</p>
+
+<p><b>uj</b> nearly like <i>uj</i> in hallel<i>uj</i>ah.</p>
+
+<p><b>a&#365;</b> like <i>ahw</i>, or nearly <i>ou</i> in
+h<i>ou</i>se, pronounced broadly, ha<i>ou</i>se.</p>
+
+<p><b>e&#365;</b> like <i>ehw</i>, or <i>ey w</i> in th<i>ey
+w</i>ere, <i>ayw</i> in w<i>ayw</i>ard.</p>
+
+<p>Practise saying <i>aja, eja, oja, uja, a&#365;a, e&#365;a</i>
+several times quickly. Then gradually drop the final
+<i>a</i>.</p>
+
+<center><b>Accent.</b></center>
+
+<p>The accent or stress is always placed on the syllable before
+the last, as es-<i>pe</i>-ro, es-pe-<i>ran</i>-to,
+es-pe-ran-<i>tis</i>-to, es-pe-ran-tis-<i>ti</i>-no;
+<i>ju</i>-na, ju-<i>nu</i>-lo, ju-nu-<i>la</i>-ro. All the
+syllables must be clearly pronounced, not slurred over.</p>
+
+<!-- =============================010.png============================ -->
+<center><b>Exercise in Pronounciation.</b></center>
+
+<p><b>a</b> (as in b<i>a</i>th), <i>pat</i>-ra, <i>la</i>-na,
+a-<i>gra</i>-bla, mal-<i>var</i>-ma, <i>kla</i>-ra,
+pa-<i>fa</i>-do.</p>
+
+<p><b>e</b> (as in b<i>e</i>nd), <i>be</i>-la, m<i>e</i>m,
+fe-<i>nes</i>-tro, ven-<i>dre</i>-do, tre-<i>e</i>-ge,
+le-<i>te</i>-ro.</p>
+
+<p><b>i</b> (as in s<i>ee</i>), mi, <i>i</i>-li, i-<i>mi</i>-ti,
+vi-<i>zi</i>-ti, <i>trin</i>-ki, in-<i>sis</i>-ti.</p>
+
+<p><b>o</b> (as in f<i>o</i>r), <i>ho</i>-mo, <i>ro</i>-zo,
+ko-<i>lom</i>-bo, <i>dor</i>-mo (the <i>r</i> rolled),
+<i>mor</i>-to, po-<i>po</i>-lo.</p>
+
+<p><b>u</b> (as in b<i>oo</i>t), <i>u</i>-nu, dum, <i>bru</i>-lu,
+sur-<i>tu</i>-to, vul-<i>tu</i>-ro, mur-<i>mur</i>-i.</p>
+
+<p><b>aj</b> (as in n<i>i</i>ce), ajn, kaj, r<i>aj</i>-to,
+taj-<i>lo</i>-ro, <i>faj</i>-ro, <i>be</i>-laj.</p>
+
+<p><b>ej</b> (as in pl<i>ay</i>), <i>vej</i>-no, <i>hej</i>-mo,
+plej, <i>hej</i>-to.</p>
+
+<p><b>oj</b> (as in b<i>oy</i>), <i>pat</i>-roj, <i>foj</i>-no,
+<i>ho</i>-mojn, <i>koj</i>-no, <i>soj</i>-lo, <i>kon</i>-koj.</p>
+
+<p><b>uj</b> (as in hallel<i>uj</i>ah), tuj, <i>&#265;i</i>-uj,
+<i>ti</i>-uj.</p>
+
+<p><b>a&#365;</b> (as in c<i>ow</i>), <i>an</i>-ta&#365;,
+<i>la&#365;</i>-bo, fra&#365;-<i>li</i>-no, <i>ka&#365;</i>-zi,
+a&#365;s- <i>kul</i>-tu, <i>a&#365;</i>-di.</p>
+
+<p><b>e&#365;</b> (like ehw), E&#365;-<i>ro</i>-po,
+ne&#365;-ral-<i>gi</i>-o, E&#365;-kar-<i>is</i>-to,
+re&#365;-ma-<i>tis</i>-mo.</p>
+
+<p><b>c</b> (= ts, bi<i>ts</i>), <i>ce</i>-lo, fa-<i>ci</i>-la
+(=<i>fa-tsee-la</i>), be-<i>le</i>-co (<i>be-le-tso</i>),
+ofi-<i>ci</i>-ro, <i>pa</i>-co, ci-ko-<i>ni</i>-o,
+<i>co</i>-lo.</p>
+
+<p><b>&#265;</b> (= tch, ma<i>tch</i>), &#265;u, e&#265;,
+&#265;e, <i>&#265;am</i>-bro, <i>&#265;er</i>-pi,
+<i>tran</i>-&#265;i, <i>ri</i>-&#265;a.</p>
+
+<p><b>g</b> (as in <i>g</i>ood), <i>lon</i>-ga, <i>le</i>-gi,
+ge-<i>nu</i>-o, <i>gen</i>-to, <i>gli</i>-ti, <i>gro</i>-so.</p>
+
+<p><b>&#285;</b> (as in <i>g</i>em), <i>&#285;e</i>-mi, &#285;is,
+&#285;ar-<i>de</i>-no, <i>sa</i>-&#285;a, <i>man</i>-&#285;i,
+<i>re</i>-&#285;o.</p>
+
+<p><b>h</b> (breathed), <i>ha</i>-ro, hi-<i>run</i>-do,
+ha-<i>rin</i>-go, his-to-<i>ri</i>-o, he-<i>de</i>-ro,
+<i>him</i>-no.</p>
+
+<p><b>&#293;</b> (in throat), &#293;e-<i>mi</i>-o,
+&#293;o-<i>le</i>-ro, me-&#293;a-<i>ni</i>-ko, <i>e</i>-&#293;o,
+&#293;a-<i>o</i>-so.</p>
+
+<p><b>j</b> (like y), <i>ju</i>-na, ma-<i>jes</i>-ta,
+sin-<i>jo</i>-ro, ka-<i>je</i>-ro, jes, ja.</p>
+
+<p><b>&#309;</b> (= zh), bon-<i>a&#309;</i>-o, <i>&#309;e</i>-ti,
+&#309;ur-<i>na</i>-lo, &#309;us, <i>&#309;a&#365;</i>-do,
+&#309;a-<i>lu</i>-zo.</p>
+
+<p><b>s</b> (ss), <i>su</i>-per, ses, <i>sta</i>-ri, trans,
+ves-<i>pe</i>-ro, <i>svin</i>-gi.</p>
+
+<p><b>&#349;</b> (sh), <i>fre</i>-&#349;a, <i>&#349;e</i>-lo,
+<i>ku</i>-&#349;i, <i>&#349;tu</i>-po, <i>&#349;vi</i>-ti,
+<i>&#349;ve</i>-li.</p>
+
+<!-- =============================011.png============================ -->
+<p><b>kz</b>, ek-<i>zer</i>-co, ek-<i>zem</i>-plo,
+ek-za-<i>me</i>-no, ek-ze-<i>ku</i>-ti, ek-<i>zi</i>-li,
+ek-<i>zis</i>-ti.</p>
+
+<p><b>kv</b>, kvar, kvin, kvi-<i>e</i>-ta, <i>kvan</i>-kam,
+<i>kver</i>-ko, <i>kva</i>-za&#365;.</p>
+
+<p><b>gv</b>, <i>gvi</i>-di, <i>lin</i>-gvo.</p>
+
+<p><b>kn</b>, <i>kna</i>-bo, <i>kne</i>-di.</p>
+
+<p><b>sc</b> (sts), <i>sci</i>-o (sts-ee-o), <i>sce</i>-no
+(stse-no), <i>scep</i>-tro, eks-<i>ci</i>-ti
+(eks-<i>tsee</i>-tee), eks-cel-<i>en</i>-co
+(eks-tsel-<i>en</i>-tso), sci-<i>en</i>-co (stsee-en-tso).</p>
+
+<p><i>cen</i>-to, <i>sen</i>-to; <i>ce</i>-lo, <i>se</i>-lo,
+<i>&#349;e</i>-lo; <i>co</i>-lo, <i>ko</i>-lo; ci, &#265;i; ec,
+e&#265;; <i>kru</i>-co, <i>kru</i>-&#265;o; <i>pa</i>-go,
+<i>pa</i>-&#285;o; <i>re</i>-gi, <i>re</i>-&#285;i; <i>se</i>-gi,
+<i>se</i>-&#285;o; <i>ho</i>-ro, <i>&#293;o</i>-ro; <i>pe</i>-si,
+<i>pe</i>-zi; <i>ste</i>-lo, <i>&#349;te</i>-lo; <i>san</i>-go,
+<i>&#349;an</i>-go; <i>ver</i>-so, <i>ver</i>-&#349;i;
+dis-<i>i</i>-ri, dis-<i>&#349;i</i>-ri; <i>gus</i>-ta,
+<i>&#285;us</i>-ta; <i>stu</i>-po, <i>&#349;tu</i>-po;
+<i>sta</i>-lo, <i>&#349;ta</i>-lo; <i>pos</i>-to,
+<i>po&#349;</i>-to; re-<i>ser</i>-vi, re-<i>zer</i>-vi;
+ru-<i>&#285;i</i>-gi, ru-<i>&#265;i</i>-&#285;i;
+ri-<i>&#265;i</i>-gi, ri-<i>&#265;i</i>-&#285;i,
+ri-<i>&#265;e</i>-co; <i>fti</i>-zo.</p>
+
+<p>a-<i>e</i>-ro, oce-<i>a</i>-no, fe-<i>i</i>-no,
+<i>&#285;u</i>-i, pe-<i>re</i>-i, pe-<i>re</i>-u; fo-<i>i</i>-ro,
+<i>&#265;i</i>-u-<i>ja</i>-ra, <i>vo</i>-joj, tro-<i>u</i>-zi,
+for-<i>ram</i>-pi, ku-<i>i</i>-ri; <i>skva</i>-mo,
+zo-o-lo-<i>gi</i>-o, en-<i>u</i>-i, de-<i>tru</i>-u,
+<i>&#349;pru</i>-ci, ru-<i>i</i>-ni; Jan-u-<i>a</i>-ro,
+Feb-ru-<i>a</i>-ro, li-<i>e</i>-no, ho-<i>di</i>-a&#365;,
+hi-<i>e</i>-ra&#365;, Hun-g&aacute;r-<i>u</i>-jo,
+Ne-a-<i>po</i>-lo, sci-<i>u</i>-ro.</p>
+
+<hr align="center" width="38%">
+<p><span style="font-variant: small-caps">Note.</span>&mdash;A
+useful mnemonic for the Esperanto vowels is p<i>a</i>r,
+p<i>ea</i>r, p<i>ie</i>r, p<i>or</i>e, p<i>oo</i>r, but the
+sounds should not be dragged. It is helpful to note that the
+English words <i>mate, reign, pane, bend; meet, beat, feel, lady;
+grow, loan, soft; mute, yes, mule</i> (as pronounced in London
+and South of England), would be written in Esperanto
+thus:&mdash;<i>mejt, rejn, pejn, bend; mijt, bijt, fijl, lejdi;
+gro&#365;, lo&#365;n, soft; mjut, jes, mjul</i>.</p>
+
+
+

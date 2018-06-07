@@ -1,0 +1,221 @@
+<!DOCTYPE html>
+<html>
+<!--
+URLs:	https://css-tricks.com/snippets/javascript/showhide-element/ (User:Nanobyte)
+		http://stackoverflow.com/questions/19163327/how-do-i-make-a-div-hidden-by-default-using-javascript (User: Luke, david-lee)
+		https://www.w3schools.com/css/css_text.asp
+Date: 17-V-2017
+-->
+
+<head>
+<title>00-Esperanto-Numbers-tab</title>
+<meta http-equiv='Content-Type' content='text/html; charset=utf-8'>
+<style>
+a, body { 
+	color: #007700; 
+	font-size: 12px; 
+}	
+
+a:visited { color: #00aa00; }
+
+[id^='tr'] {
+    display: none;
+}
+
+mark {
+    padding: 3px 3px;
+    text-align: left;
+    font-style: italic;
+    font-size: 10px;
+    background-color: #009900;
+    color: white;
+    margin-top: 0px;
+    margin-left: 5px;
+}
+
+</style>
+
+<script type='text/javascript'>
+	function toggle_visibility(id) {
+	var e = document.getElementById(id);
+	e.style.display = ((e.style.display!='block') ? 'block' : 'none');
+	}
+</script>
+</head>
+
+<body>
+<p>
+<h4>Numbers Vocabulary - The Esperanto Teacher (by Helen Fryer) http://www.gutenberg.org <br/></h4>
+<a id='r0' href='#' onclick="toggle_visibility('tr0');">
+Click for Instructions.</a>
+<div id='tr0'>
+	&nbsp;
+	<mark>Click on each link to toggle the English translation.  
+	Reload page to turn off all translations.</mark>
+</div>
+</p>
+
+<table width='100%' border='5px' cellspacing='5px' cellpadding='5px'>
+	<tr id='r1'>
+			<td align='center' valign='middle'><a id='item1' href='#r0' onclick="toggle_visibility('tr1');">nulo</a>
+						<div id='tr1'><mark>0</mark></div></td>
+
+			<td align='center' valign='middle'><a id='item2' href='#r0' onclick="toggle_visibility('tr2');">unu</a>
+						<div id='tr2'><mark>1</mark></div></td>
+
+			<td align='center' valign='middle'><a id='item3' href='#r0' onclick="toggle_visibility('tr3');">du</a>
+						<div id='tr3'><mark>2</mark></div></td>
+
+			<td align='center' valign='middle'><a id='item4' href='#r0' onclick="toggle_visibility('tr4');">tri</a>
+						<div id='tr4'><mark>3</mark></div></td>
+	</tr>
+	<tr id='r1'>
+
+			<td align='center' valign='middle'><a id='item5' href='#r1' onclick="toggle_visibility('tr5');">kvar</a>
+						<div id='tr5'><mark>4</mark></div></td>
+
+			<td align='center' valign='middle'><a id='item6' href='#r1' onclick="toggle_visibility('tr6');">kvin</a>
+						<div id='tr6'><mark>5</mark></div></td>
+
+			<td align='center' valign='middle'><a id='item7' href='#r1' onclick="toggle_visibility('tr7');">ses</a>
+						<div id='tr7'><mark>6</mark></div></td>
+
+			<td align='center' valign='middle'><a id='item8' href='#r1' onclick="toggle_visibility('tr8');">sep</a>
+						<div id='tr8'><mark>7</mark></div></td>
+	</tr>
+	<tr id='r2'>
+
+			<td align='center' valign='middle'><a id='item9' href='#r2' onclick="toggle_visibility('tr9');">ok</a>
+						<div id='tr9'><mark>8</mark></div></td>
+
+			<td align='center' valign='middle'><a id='item10' href='#r2' onclick="toggle_visibility('tr10');">naŭ</a>
+						<div id='tr10'><mark>9</mark></div></td>
+
+			<td align='center' valign='middle'><a id='item11' href='#r2' onclick="toggle_visibility('tr11');">dek</a>
+						<div id='tr11'><mark>10</mark></div></td>
+
+			<td align='center' valign='middle'><a id='item12' href='#r2' onclick="toggle_visibility('tr12');">dek unu</a>
+						<div id='tr12'><mark>11</mark></div></td>
+	</tr>
+	<tr id='r3'>
+
+			<td align='center' valign='middle'><a id='item13' href='#r3' onclick="toggle_visibility('tr13');">dek du</a>
+						<div id='tr13'><mark>12</mark></div></td>
+
+			<td align='center' valign='middle'><a id='item14' href='#r3' onclick="toggle_visibility('tr14');">dek naŭ</a>
+						<div id='tr14'><mark>19</mark></div></td>
+
+			<td align='center' valign='middle'><a id='item15' href='#r3' onclick="toggle_visibility('tr15');">dudek</a>
+						<div id='tr15'><mark>20</mark></div></td>
+
+			<td align='center' valign='middle'><a id='item16' href='#r3' onclick="toggle_visibility('tr16');">dudek kvar</a>
+						<div id='tr16'><mark>24</mark></div></td>
+	</tr>
+	<tr id='r4'>
+
+			<td align='center' valign='middle'><a id='item17' href='#r4' onclick="toggle_visibility('tr17');">dudek ok</a>
+						<div id='tr17'><mark>28</mark></div></td>
+
+			<td align='center' valign='middle'><a id='item18' href='#r4' onclick="toggle_visibility('tr18');">tridek</a>
+						<div id='tr18'><mark>30</mark></div></td>
+
+			<td align='center' valign='middle'><a id='item19' href='#r4' onclick="toggle_visibility('tr19');">tridek du</a>
+						<div id='tr19'><mark>32</mark></div></td>
+
+			<td align='center' valign='middle'><a id='item20' href='#r4' onclick="toggle_visibility('tr20');">tridek sep</a>
+						<div id='tr20'><mark>37</mark></div></td>
+	</tr>
+	<tr id='r5'>
+
+			<td align='center' valign='middle'><a id='item21' href='#r5' onclick="toggle_visibility('tr21');">kvardek</a>
+						<div id='tr21'><mark>40</mark></div></td>
+
+			<td align='center' valign='middle'><a id='item22' href='#r5' onclick="toggle_visibility('tr22');">kvardek ses</a>
+						<div id='tr22'><mark>46</mark></div></td>
+
+			<td align='center' valign='middle'><a id='item23' href='#r5' onclick="toggle_visibility('tr23');">kvindek kvin</a>
+						<div id='tr23'><mark>55</mark></div></td>
+
+			<td align='center' valign='middle'><a id='item24' href='#r5' onclick="toggle_visibility('tr24');">okdek</a>
+						<div id='tr24'><mark>80</mark></div></td>
+	</tr>
+	<tr id='r6'>
+
+			<td align='center' valign='middle'><a id='item25' href='#r6' onclick="toggle_visibility('tr25');">naŭdek</a>
+						<div id='tr25'><mark>90</mark></div></td>
+
+			<td align='center' valign='middle'><a id='item26' href='#r6' onclick="toggle_visibility('tr26');">cent</a>
+						<div id='tr26'><mark>100</mark></div></td>
+
+			<td align='center' valign='middle'><a id='item27' href='#r6' onclick="toggle_visibility('tr27');">cent kvindek tri</a>
+						<div id='tr27'><mark>153</mark></div></td>
+
+			<td align='center' valign='middle'><a id='item28' href='#r6' onclick="toggle_visibility('tr28');">ducent unu</a>
+						<div id='tr28'><mark>201</mark></div></td>
+	</tr>
+	<tr id='r7'>
+
+			<td align='center' valign='middle'><a id='item29' href='#r7' onclick="toggle_visibility('tr29');">tricent sepdek ok</a>
+						<div id='tr29'><mark>378</mark></div></td>
+
+			<td align='center' valign='middle'><a id='item30' href='#r7' onclick="toggle_visibility('tr30');">naŭcent kvindek naŭ</a>
+						<div id='tr30'><mark>959</mark></div></td>
+
+			<td align='center' valign='middle'><a id='item31' href='#r7' onclick="toggle_visibility('tr31');">mil</a>
+						<div id='tr31'><mark>1000</mark></div></td>
+
+			<td align='center' valign='middle'><a id='item32' href='#r7' onclick="toggle_visibility('tr32');">dekmil sescent kvindek du</a>
+						<div id='tr32'><mark>10652</mark></div></td>
+	</tr>
+	<tr id='r8'>
+
+			<td align='center' valign='middle'><a id='item33' href='#r8' onclick="toggle_visibility('tr33');">miliono</a>
+						<div id='tr33'><mark> million (10^6)</mark></div></td>
+
+			<td align='center' valign='middle'><a id='item34' href='#r8' onclick="toggle_visibility('tr34');">miliardo</a>
+						<div id='tr34'><mark> billion (10^9)</mark></div></td>
+
+			<td align='center' valign='middle'><a id='item35' href='#r8' onclick="toggle_visibility('tr35');">biliono</a>
+						<div id='tr35'><mark> trillion (10^12)</mark></div></td>
+
+			<td align='center' valign='middle'><a id='item36' href='#r8' onclick="toggle_visibility('tr36');">triliono</a>
+						<div id='tr36'><mark> quintillion (10^18)</mark></div></td>
+	</tr>
+	<tr id='r9'>
+
+			<td align='center' valign='middle'><a id='item37' href='#r9' onclick="toggle_visibility('tr37');">kvadriliono</a>
+						<div id='tr37'><mark> 10^24</mark></div></td>
+
+			<td align='center' valign='middle'><a id='item38' href='#r9' onclick="toggle_visibility('tr38');">kvintiliono</a>
+						<div id='tr38'><mark> 10^30</mark></div></td>
+
+			<td align='center' valign='middle'><a id='item39' href='#r9' onclick="toggle_visibility('tr39');">sekstiliono</a>
+						<div id='tr39'><mark> 10^36</mark></div></td>
+
+			<td align='center' valign='middle'><a id='item40' href='#r9' onclick="toggle_visibility('tr40');">septiliono</a>
+						<div id='tr40'><mark> 10^42</mark></div></td>
+	</tr>
+	<tr id='r10'>
+
+			<td align='center' valign='middle'><a id='item41' href='#r10' onclick="toggle_visibility('tr41');">oktiliono</a>
+						<div id='tr41'><mark> 10^48</mark></div></td>
+
+			<td align='center' valign='middle'><a id='item42' href='#r10' onclick="toggle_visibility('tr42');">noniliono</a>
+						<div id='tr42'><mark> 10^54</mark></div></td>
+
+			<td align='center' valign='middle'><a id='item43' href='#r10' onclick="toggle_visibility('tr43');">deciliono</a>
+						<div id='tr43'><mark> 10^60</mark></div></td>
+
+			<td align='center' valign='middle'><a id='item44' href='#r10' onclick="toggle_visibility('tr44');">undeciliono</a>
+						<div id='tr44'><mark> 10^66</mark></div></td>
+	</tr>
+	<tr id='r11'>
+
+			<td align='center' valign='middle'><a id='item45' href='#r11' onclick="toggle_visibility('tr45');">duodeciliono</a>
+						<div id='tr45'><mark> 10^72</mark></div></td>
+
+	</tr>
+</table>
+</body>
+</html>
+

@@ -1,0 +1,84 @@
+---
+title: "" #"Lesson 36 - Per. Kun. Sen"
+author: "" #"JLAUro"
+date: "" #"May 21, 2017"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+<br/><br/>
+
+<center><b>LESSON 36.</b></center>
+
+<center><b>Per. Kun. Sen.</b></center>
+
+<p><b>Per</b> and <b>kun</b> represent different uses of our word
+"with," so care must be taken to use the correct word.</p>
+
+<p><b>Per</b> signifies <i>by means of</i>; it denotes the
+<i>instrument</i> by means of which something is done, as <i>Per
+hakilo ni hakas</i>, By means of an axe we chop.</p>
+
+<p><b>Kun</b> means <i>in company with, accompanying</i>. <i>Li
+iros kun mi</i>, He will go with me.</p>
+
+<p><b>Sen</b> means <i>without</i> as <i>Teo sen sukero</i>, Tea
+without sugar. It is used as a prefix to denote absence of
+something, as <i>sen-utila</i>, without use, useless (compare
+with <i>mal</i>, which denotes the exact opposite;
+<i>malutila</i> means <i>harmful, noxious</i>).</p>
+
+<center>
+<table cellspacing="8">
+<caption><b>Vocabulary.</b></caption>
+
+<tr>
+<td nowrap valign="top"><i>envio</i>, envy.<br>
+ <i>&#349;a&#365;mo</i>, foam, froth.<br>
+ <i>fi&#349;o</i>, fish.<br>
+ <i>vosto</i>, tail.<br>
+ <i>pentra&#309;o</i>, painting.<br>
+ <i>re&#285;ido</i>, prince (king's son).<br>
+ <i>princo</i>, prince.<br>
+ <i>ondo</i>, wave.<br>
+ <i>membro</i>, member.<br>
+ <i>tataro</i>, Tartar.</td>
+<td nowrap valign="top"><i>folio</i>, leaf.<br>
+ <i>fadeno</i>, thread.<br>
+ <i>lud-</i>, play.<br>
+ <i>pentr-</i>, paint.<br>
+ <i>flar-</i>, smell (something).<br>
+ <i>pel-</i>, drive.<br>
+ <i>kovr-</i>, cover.<br>
+ <i>&#265;es-</i>, cease.<br>
+ <i>mov-</i>, move (something).<br>
+ <i>kune</i>, together.</td>
+</tr>
+</table>
+</center>
+
+<!-- =============================076.png============================ -->
+<p>Mi man&#285;as per la bu&#349;o, kaj flaras per la nazo.
+&#348;i surpa&#349;is per piedo sur la serpenton. &#284;i
+enkovris la belegan lilion per blanka &#349;a&#365;mo. La korpo
+fini&#285;is per fi&#349;a vosto. &#264;iuj muroj estas ornamitaj
+per grandaj pentra&#309;oj. Per tie &#265;i, kaj ne per alia
+vojo, la &#349;telisto forkuris. Per kia maniero oni povas veni
+en la landon de oro? Per tia maniero. Per unu vorto. La stelo
+Venus ekbrulis per envio.</p>
+
+<p>&#348;i volis ludi kun ili, sed kun teruro ili forkuris. Kun
+kia atento &#349;i a&#365;skultis tiujn &#265;i rakontojn! La
+plej bela el ili estis la juna re&#285;ido kun la grandaj nigraj
+okuloj. Tien &#265;i alna&#285;is la virineto de maro kun la bela
+princo. Kun plezuro. Kun &#265;iu jaro la nombro de la membroj
+rapide kreskis.</p>
+
+<p>La tataro restis sen bona &#265;evalo kaj sen man&#285;o. Li
+preska&#365; sen vivo estis pelata de la ondoj. Ili teksis per
+&#265;iuj fortoj, sed sen fadenoj. Li senvorte obeis. La folioj
+sin movis (<i>or</i> movi&#285;is) sen&#265;ese. Li kreis
+sennombrajn birdojn.</p>

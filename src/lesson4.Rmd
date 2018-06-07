@@ -1,0 +1,140 @@
+---
+title: "" #"Lesson 4 - Words"
+author: "" #"JLAUro"
+date: "" #"May 18, 2017"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+<br/><br/>
+
+<center><b>LESSON 4.</b></center>
+
+<center>
+<table cellspacing="8">
+<tr>
+<td nowrap valign="top"><i>mi</i>, I.<br>
+ <i>ci</i>, thou.<br>
+ <i>li</i>, he.<br>
+ <i>&#349;i</i>, she.<br>
+ <i>&#285;i</i>, it</td>
+<td nowrap valign="top"><i>ni</i>, we.<br>
+ <i>vi</i>, you.<br>
+ <i>ili</i>, they.<br>
+ <i>si</i>, (see Lesson 7).<br>
+ <i>oni</i>, one, they, people.</td>
+</tr>
+</table>
+</center>
+
+(<i>The above words are called</i> <span style=
+"font-variant: small-caps">Pronouns</span> <i>because they are
+used instead of repeating the noun</i>).
+
+<p>By adding <b>a</b> the pronouns are made to denote a quality,
+in this case possession, as <i>mia libro</i>, my book; <i>via
+pomo</i>, your apple; <i>ilia infano</i>, their child.</p>
+
+<center>
+<table cellspacing="8">
+<tr>
+<td nowrap valign="top"><i>mia</i>, my, mine.<br>
+ <i>cia</i>, thy, thine.<br>
+ <i>lia</i>, his.<br>
+ <i>&#349;ia</i>, her, hers.<br>
+ <i>&#285;ia</i>, its.</td>
+<td nowrap valign="top"><i>nia</i>, our, ours.<br>
+ <i>via</i>, your, yours,<br>
+ <i>ilia</i>, their, theirs.<br>
+ <i>sia</i> (see Lesson 7),</td>
+</tr>
+</table>
+</center>
+
+<!-- =============================016.png============================ -->
+<p>When the name to which these "pronoun-adjectives" belong is
+plural they must of course take <b>j</b>, as <i>miaj libroj</i>,
+my books; <i>viaj pomoj</i>, your apples; <i>iliaj infanoj</i>,
+their children.</p>
+
+<p>In speaking of relations and parts of the body <i>la</i> is
+often used instead of <i>mia</i>, <i>lia</i>, etc., as <i>La filo
+staras apud la patro</i>, The son stands by the (his) father.</p>
+
+<p>For "mine," "ours," etc., <i>mia</i>, <i>nia</i>, etc., may be
+used either with or without <i>la</i>, as <i>La libro estas
+mia</i>, or <i>La libro estas la mia</i>, The book is mine.</p>
+
+<p><b>Oni</b> is used for <i>one, they, people</i>, when these
+words are indefinite in meaning, as in the sentences:&mdash;Here
+one can speak fearlessly, <i>Tie &#265;i oni povas maltime
+paroli</i>, They say that he is rich, <i>Oni diras, ke li estas
+ri&#265;a</i>, People often eat too quickly, <i>Oni ofte
+man&#285;as tro rapide.</i></p>
+
+<center>
+<table cellspacing="8">
+<caption><b>Vocabulary.</b></caption>
+
+<tr>
+<td nowrap valign="top"><i><b>a</b>vo</i>, grandfather.<br>
+ <i>am<b>i</b>ko</i>, friend.<br>
+ <i>&#285;ard<b>e</b>no</i>, garden<br>
+ <i>knab<b>i</b>no</i>, girl.<br>
+ <i>r<b>u</b>so</i>, Russian.<br>
+ <i>sinj<b>o</b>ro</i>, gentleman, Mr., Sir.<br>
+ <i>v<b>e</b>ro</i>, truth.<br>
+ <i>v<b>e</b>nas</i>, comes.<br>
+ <i><b>i</b>ras</i>, goes.<br>
+ <i>l<b>e</b>gas</i>, reads.<br>
+ <i>skr<b>i</b>bas</i>, writes.<br>
+ <i>pl<b>o</b>ras</i>, cry, cries.<br>
+ <i>v<b>o</b>las</i>, wills, wishes.<br>
+ <i>d<b>i</b>ras</i>, says.<br>
+ <i>s<b>i</b>das</i>, sits.</td>
+<td nowrap valign="top"><i>v<b>e</b>nkas</i>, conquers.<br>
+ <i>m<b>a</b>n&#285;i</i>, to eat.<br>
+ <i>&#285;ent<b>i</b>la</i>, polite.<br>
+ <i>sil<b>e</b>nte</i>, silently.<br>
+ <i>k<b>i</b>u</i>, who, which (that).<br>
+ <i>&#265;<b>i</b>u</i>, each one, every.<br>
+ <i>&#265;<b>i</b>uj</i>, all, all the.<br>
+ <i>la plej</i>, the most.<br>
+ <i>t<b>i</b>el</i>, as, so.<br>
+ <i>k<b>i</b>el</i>, as.<br>
+ <i>nun</i>, now.<br>
+ <i><b>a</b>nka&#365;</i>, also.<br>
+ <i>&#265;<b>i</b>am</i>, always.<br>
+ <i>el</i>, out of.<br>
+ <i>&#265;ar</i>, because, for.</td>
+</tr>
+</table>
+</center>
+
+<!-- =============================017.png============================ -->
+<p>Mi legas. Vi skribas. Li estas knabo, kaj &#349;i estas
+knabino. Ni estas homoj. Vi estas infanoj. Ili estas rusoj. Kie
+estas la knaboj? Ili estas en la &#285;ardeno, Kie estas la
+knabinoj? Ili anka&#365; estas en la &#285;ardeno. Kie estas la
+tran&#265;iloj? Ili ku&#349;as sur la tablo. La infano ploras,
+&#265;ar &#285;i volas man&#285;i. Sinjoro, vi estas
+ne&#285;entila. Sinjoroj, vi estas ne&#285;entilaj. Oni diras; ke
+la vero &#265;iam venkas. La domo apartenas al li. Mi venas de la
+avo, kaj mi iras nun al la onklo. Mi estas tiel forta, kiel vi.
+Nun mi legas, vi legas, kaj li legas, ni &#265;iuj legas. Vi
+skribas, kaj la infanoj skribas, ili (vi) &#265;iuj sidas silente
+kaj skribas.</p>
+
+<p>Mia hundo, vi estas tre fidela. Li estas mia onklo, &#265;ar
+mia patro estas lia frato. El &#265;iuj miaj infanoj, Ernesto
+estas la plej juna. Lia patro kaj liaj fratoj estas en la
+&#285;ardeno. &#349;ia onklo estas en la domo. Kie estas viaj
+libroj? Niaj libroj ku&#349;as sur la tablo; iliaj krajonoj kaj
+ilia papero anka&#365; ku&#349;as sur la tablo.</p>
+
+<p>Kiu estas en la &#265;ambro? Kiuj estas en la &#265;ambro? La
+sinjoro, kiu legas, estas mia amiko. La sinjoro, al kiu vi
+skribas, estas tajloro. Kio ku&#349;as sur la tablo?</p>

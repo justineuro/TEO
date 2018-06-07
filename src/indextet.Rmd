@@ -1,0 +1,197 @@
+---
+title: "" #"52 - Index of Book"
+author: "" #"JLAUro"
+date: "" #"May 21, 2017"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+<br/><br/>
+
+<!-- =============================176.png============================ -->
+
+
+<center><b>INDEX.</b></center>
+
+<p>[Most index entries in the original listed both page and
+lesson numbers. Since page numbers are useless for this etext,
+they have been removed. Entries that originally appeared with
+page numbers only, have nothing after them here.]</p>
+
+A, an ... 1<br>
+Accent<br>
+Accusative ... 5<br>
+Adjective ... 2<br>
+Adverb ... 12<br>
+" showing <i>Direction</i> ... 12<br>
+" of Degree ... 12<br>
+" of Comparison ... 12<br>
+<b>ajn</b> ... 20<br>
+Alphabet<br>
+Arrangement of words<br>
+ <b>&#265;i</b> ... 20<br>
+Common Useful Expressions<br>
+Comparison ... 12<br>
+ " ... 20<br>
+Complete Grammar of Esperanto<br>
+Compound Words<br>
+Conjunctions<br>
+Consonants<br>
+Correlative Words (Table) ... 20<br>
+ <b>ia</b> ... 20<br>
+ <b>ial</b> ... 20<br>
+ <b>iam</b> ... 20<br>
+ <b>ie</b> ... 20<br>
+ <b>iel</b> ... 20<br>
+ <b>ies</b> ... 20<br>
+ <b>ie</b> ... 20<br>
+ <b>iom</b> ... 20<br>
+ <b>iu</b> ... 20<br>
+<b>&#265;u</b> ... 1<br>
+ Days of Week ... 3<br>
+ Endings of Words:<br>
+ <b>-a</b> ... 2<br>
+ <b>-anta</b> ... 16<br>
+ <b>-as</b> ... 1<br>
+ <b>"</b> ... 6<br>
+ <b>-ata</b> ... 15<br>
+ <b>-e</b> ... 12<br>
+ <b>-i</b> ... 10<br>
+ <b>-inta</b> ... 16<br>
+ <b>-is</b> ... 6<br>
+<!-- =============================177.png============================ -->
+ <b>-ita</b> ... 15<br>
+ <b>-j</b> ... 3<br>
+ <b>-n</b> ... 5<br>
+ <b>-o</b> ... 1<br>
+ <b>-onta</b> ... 16<br>
+ <b>-os</b> ... 6<br>
+ <b>-ota</b> ... 15<br>
+ <b>-u</b> ... 10<br>
+ <b>-us</b> ... 11<br>
+Exclamations<br>
+ Infinitive Mood ... 10<br>
+ Key to Exercises<br>
+ <b>La</b> ... 1<br>
+" instead of Pronoun ... 4<br>
+Letters, Beginnings<br>
+", Endings<br>
+ Manner of Using the Book<br>
+<b>Mem</b> ... 7<br>
+Months ... 8<br>
+ <b>n</b> ... 5<br>
+Nouns ... 1<br>
+Numbers, Cardinal ... 8<br>
+ ", Ordinal, etc. ... 8<br>
+<b>Oni</b> ... 4<br>
+Origin and Aim of Esperanto<br>
+ Participles ... 15<br>
+" Active ... 16<br>
+" Passive ... 16<br>
+" as Nouns ... 16<br>
+" as Adverbs ... 17<br>
+Plural ... 3<br>
+Prefixes:&mdash;<br>
+ <b>bo-</b> ... 43<br>
+ <b>dis-</b> ... 45<br>
+ <b>ek-</b> ... 14<br>
+ <b>ge-</b> ... 43<br>
+ <b>mal-</b> ... 13<br>
+ <b>pra-</b> ... 43<br>
+ <b>re-</b> ... 14<br>
+<!-- =============================178.png============================ -->
+Prepositions ... 26<br>
+ " with Accusative ... 26<br>
+ " Omission of ... 26<br>
+ <b>al</b> ... 27<br>
+ <b>anstata&#365;</b> ... 39<br>
+ <b>anta&#365;</b> ... 33<br>
+ <b>apud</b> ... 28<br>
+ <b>&#265;e</b> ... 28<br>
+ <b>&#265;irka&#365;</b> ... 34<br>
+ <b>da</b> ... 9<br>
+ <b>"</b> ... 35<br>
+ <b>de</b> ... 35<br>
+ <b>dum</b> ... 34<br>
+ <b>ekster</b> ... 30<br>
+ <b>el</b> ... 30<br>
+ <b>en</b> ... 29<br>
+ <b>&#285;is</b> ... 34<br>
+ <b>inter</b> ... 30<br>
+ <b>je</b> ... 40<br>
+ <b>kontra&#365;</b> ... 39<br>
+ <b>krom</b> ... 39<br>
+ <b>kun</b> ... 36<br>
+ <b>la&#365;</b> ... 38<br>
+ <b>malgra&#365;</b> ... 40<br>
+ <b>per</b> ... 36<br>
+ <b>po</b> ... 40<br>
+ <b>por</b> ... 37<br>
+ <b>post</b> ... 33<br>
+ <b>preter</b> ... 32<br>
+ <b>pri</b> ... 38<br>
+ <b>pro</b> ... 37<br>
+ <b>sen</b> ... 36<br>
+ <b>spite</b> ... 40<br>
+ <b>sub</b> ... 31<br>
+ <b>super</b> ... 31<br>
+ <b>sur</b> ... 31<br>
+ <b>tra</b> ... 32<br>
+ <b>trans</b> ... 32<br>
+Pronouns ... 4<br>
+Pronoun-Adjectives ... 4<br>
+Pronunciation<br>
+ Selections for Reading<br>
+<b>Si</b> ... 7<br>
+Subject ... 5<br>
+<!-- =============================179.png============================ -->
+Suffixes :&mdash; Lesson<br>
+ <b>-a&#265;-</b> ... 45<br>
+ <b>-ad-</b> ... 14<br>
+ <b>-a&#309;-</b> ... 41<br>
+ <b>-an-</b> ... 23<br>
+ <b>-ar-</b> ... 24<br>
+ <b>-&#265;j-</b> ... 43<br>
+ <b>-ebl-</b> ... 44<br>
+ <b>-ec-</b> ... 41<br>
+ <b>-eg-</b> ... 21<br>
+ <b>-ej-</b> ... 42<br>
+ <b>-em-</b> ... 44<br>
+ <b>-er-</b> ... 24<br>
+ <b>-estr-</b> ... 23<br>
+ <b>-et-</b> ... 21<br>
+ <b>-id-</b> ... 43<br>
+ <b>-ig-</b> ... 19<br>
+ <b>-i&#285;-</b> ... 19<br>
+ <b>-il-</b> ... 22<br>
+ <b>-in-</b> ... 13<br>
+ <b>-ind-</b> ... 44<br>
+ <b>-ing-</b> ... 42<br>
+ <b>-ist-</b> ... 18<br>
+ <b>-nj-</b> ... 43<br>
+ <b>-obi-</b> ... 9<br>
+ <b>-on-</b> ... 9<br>
+ <b>-op-</b> ... 9<br>
+ <b>-uj-</b> ... 42<br>
+ <b>-ul-</b> ... 25<br>
+ <b>-um-</b> ... 45<br>
+ The ... 1<br>
+ Verbs ... 6<br>
+" ... 10<br>
+" ... 11<br>
+" ... 15<br>
+ Words used with the Object<br>
+
+
+
+
+
+
+
+
+
+
+<hr align="center" width="38%">

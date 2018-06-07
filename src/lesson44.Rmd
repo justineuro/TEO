@@ -1,0 +1,93 @@
+---
+title: "" #"Lesson 44 - Suffixes: -ebl-, -ind-, -em-"
+author: "" #"JLAUro"
+date: "" #"May 21, 2017"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+<br/><br/>
+
+<center><b>LESSON 44.</b></center>
+
+<center>Suffixes <b>-ebl-, -ind-, -em-.</b></center>
+
+<p>These three suffixes are used to form adjectives.</p>
+
+<p><b>-ebl-</b> means <i>possible to be</i> what the word to
+which it is added signifies, as <i>Vidi</i>, to see;
+<i>videbla</i>, able to be seen; <i>A&#365;di</i>, to hear;
+<i>a&#365;debla</i>, able to be heard, audible; <i>Movi</i>, to
+move; <i>movebla</i>, movable; <i>Ebla</i>, possible;
+<i>eble</i>, possibly.</p>
+
+<p><b>-ind-</b> means <i>worthy of</i> what the word denotes, as
+<i>Honoro</i>, honour; <i>honorinda</i>, honourable, worthy of
+honour; <i>Honti</i>, to be ashamed; <i>hontinda</i>, shameful;
+<i>Indo</i>, worth; <i>inda</i>, worthy of.</p>
+
+<p><b>-em-</b> means having an <i>inclination towards</i> or
+<i>propensity</i> for, or <i>being disposed towards</i> something
+as <i>Forgesi</i>, to forget; <i>forgesema</i>, forgetful;
+<i>Servi</i> to serve; <i>servema</i>, willing to serve,
+obliging. <i>Ema</i> fond of.</p>
+
+<p>The difference between the three suffixes is shown by the
+following words:&mdash;</p>
+
+<!-- =============================087.png============================ -->
+<p><i>Kredebla</i>, possible of belief; <i>kredinda</i>, worthy
+of belief; <i>kredema</i>, having a tendency to believe readily,
+credulous.</p>
+
+<p><i>Legebla</i>, able to be read; <i>leginda</i>, worthy of
+being read; <i>legema</i>, fond of reading, inclined to read.</p>
+
+<center>
+<table cellspacing="8">
+<caption><b>Vocabulary.</b></caption>
+
+<tr>
+<td nowrap valign="top"><i>&#349;talo</i>, steel.<br>
+ <i>spirito</i>, spirit,<br>
+ <i>bagatelo</i>, trifle.<br>
+ <i>fleks-</i>, bend.<br>
+ <i>la&#365;d-</i>, praise.<br>
+ <i>renvers-</i>, turn over.</td>
+<td nowrap valign="top"><i>memor-</i>, remember.<br>
+ <i>ekscit-</i>, excite.<br>
+ <i>ven&#285;-</i>, revenge.<br>
+ <i>kredeble</i>, probably.<br>
+ <i>kompreneble</i>, of course.</td>
+</tr>
+</table>
+</center>
+
+<p>&#348;talo estas fleksebla, sed fero ne estas fleksebla. Ne
+&#265;iu kreska&#309;o estas man&#285;ebla. Vitro estas rompebla
+kaj travidebla. Via parolo estas tute nekomprenebla, kaj viaj
+leteroj estas &#265;iam skribitaj tute nelegeble. La mallumo
+estas netrapenetrebla. Li rakontis al mi historion tute
+nekredeblan. Eble mi povos helpi al vi. &#264;u vi amas vian
+patron? Kia demando! kompreneble, ke mi lin amas. Mi kredeble ne
+povos veni al vi hodia&#365;, &#265;ar mi pensas, ke mi mem havos
+hodia&#365; gastojn. La tablo staras malrekte kaj kredeble
+balda&#365; renversi&#285;os. Li faris sian eblon.</p>
+
+<p>Li estas homo ne kredinda. Via ago estas tre la&#365;dinda.
+Tiu &#265;i grava tago restos por mi &#265;iam memorinda. &#284;i
+estas vesto de granda indo. &#284;i ne estas inda je danko. La
+&#349;ipanaro montri&#285;as ne inda je sia estro.</p>
+
+<p>Lia edzino estas tre laborema kaj &#349;parema, sed &#349;i
+estas anka&#365; tre babilema kaj kriema. Li estas tre
+ekkolerema, kaj eksciti&#285;as ofte &#265;e la plej malgranda
+bagatelo, tamen li estas tre pardonema, li ne portas longe la
+koleron, kaj li tute ne estas ven&#285;ema. Li estas tre kredema,
+e&#265; la plej nekredeblajn aferojn, kiujn rakontas al li la
+plej nekredindaj homoj, li tuj kredas. Li estas tre purema, kaj
+e&#265; unu polveron vi ne trovos sur lia vesto. Li estas bonega
+knabo, sed tre ema kredi spiritojn.</p>

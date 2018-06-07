@@ -1,0 +1,213 @@
+---
+title: "" #"Lesson 12 - Verbs"
+author: "" #"JLAUro"
+date: "" #"May 18, 2017"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+<br/><br/>
+
+<!-- =============================031.png============================ -->
+<center><b>LESSON 12.</b></center>
+
+<p>When we tell of someone doing a certain action we often want
+to allude to some circumstance concerning that action, such as
+the time, or place, or manner in which it was done, that is,
+when, or where, or how it was done.</p>
+
+<p>In the sentences&mdash;Yesterday I met your son,
+<i>Hiera&#365; mi renkontis vian filon</i>; He will go in the
+evening, <i>Li iros vespere</i>; They sat there, <i>Ili sidis
+tie</i>; She will remain at home, <i>&#348;i restos hejme</i>;
+Good children learn diligently, <i>Bonaj infanoj lernas
+diligente</i>; I will do it with pleasure, <i>Mi faros &#285;in
+plezure</i>, the words <i>hiera&#365;, vespere</i>, show the
+time, <i>tie, hejme</i>, show the place, and <i>diligente,
+plezure</i>, show the manner of the action.</p>
+
+<p>
+<!-- no, *not* italicized like other earlier similar statements -->
+(Because these words relate to the verb they are called <span
+style="font-variant: small-caps">Adverbs</span>).</p>
+
+<p>Adverbs may be formed from any word whose sense admits of it,
+and especially from adjectives, by means of the termination
+<b>e</b>, as <i>bona</i>, good, <i>bone</i>, well;
+<i>anta&#365;</i> before, <i>anta&#365;e</i>, previously or
+formerly; <i>mateno</i>, morning, <i>matene</i>, in the morning;
+<i>sekvi</i>, to follow, <i>sekve</i>, consequently.</p>
+
+<p>When we want the adverb to show "direction towards" any place,
+time, etc., either actually or figuratively, <b>n</b> is added,
+as <i>Li alkuris hejmen</i>, He ran home. <i>Ili levis unu manon
+supren</i>, They raised one hand upwards. <i>Anta&#365;en</i>!
+Forward! (<i>n</i> is also added to nouns to show direction
+towards. <i>Li eniris en la domon</i>, He entered into the
+house).</p>
+
+<p>Some adverbs are used with adjectives and other adverbs to
+show the <i>degree</i> of the quality, quantity, etc., as The
+paper is <i>very</i> white, <i>La papero estas</i> tre
+<i>blanka</i>. <i>Too</i> much speaking tires him, <i>La</i> tro
+<i>multa parolado lacigas lin</i>. I am <i>as</i> strong
+<i>as</i> you, <i>Mi estas</i> tiel <i>forta</i>, kiel <i>vi</i>
+(<i>estas forta</i>). He came <i>very</i> early, <i>Li venis</i>
+tre <i>frue</i>.</p>
+
+<!-- =============================032.png============================ -->
+<p>The following words are in themselves adverbs, and need no
+special ending:&mdash;</p>
+
+<center>
+<table cellspacing="8">
+<caption><b>Vocabulary.</b></caption>
+
+<tr>
+<td nowrap valign="top"><i>hodia&#365;</i>, to-day.<br>
+ <i>hiera&#365;</i>, yesterday.<br>
+ <i>morga&#365;</i>, to-morrow.<br>
+ <i>balda&#365;</i>, soon.<br>
+ <i>ankora&#365;</i>, yet.<br>
+ <i>jam</i>, already.<br>
+ <i>&#309;us</i>, just (time).<br>
+ <i>nun</i>, now.<br>
+ <i>tuj</i>, immediately.<br>
+ <i>denove</i>, again, anew.<br>
+ <i>&#265;i</i>, denotes proximity.<br>
+ <i>jen</i>, here, there, lo, behold.<br>
+ <i>for</i>, away, forth.<br>
+ <i>pli</i>, more.<br>
+ <i>plej</i>, most.<br>
+ <i>plu</i>, further.<br>
+ <i>tre</i>, very.</td>
+<td nowrap valign="top"><i>tro</i>, too.<br>
+ <i>tute</i>, quite.<br>
+ <i>nur</i>, only.<br>
+ <i>nepre</i>, surely, without fail.<br>
+ <i>preska&#365;</i>, nearly.<br>
+ <i>apena&#365;</i>, scarcely.<br>
+ <i>almena&#365;</i>, at least.<br>
+ <i>amba&#365;</i>, both.<br>
+ <i>anka&#365;</i>, also.<br>
+ <i>ne</i>, not.<br>
+ <i>jes</i>, yes.<br>
+ <i>ja</i>, indeed.<br>
+ <i>e&#265;</i>, even.<br>
+ <i>&#265;u</i>, whether, asks a question.<br>
+ <i>ju ... des</i>, the more...the more.</td>
+</tr>
+</table>
+</center>
+
+<p>Comparisons are made with&mdash;</p>
+
+<p><b>pli...ol</b>, more than: <i>Lakto estas pli nutra ol
+vino</i>, Milk is more nutritious than wine.</p>
+
+<p><b>malpli...ol</b>, less than: <i>Vino estas malpli nutra ol
+lakto</i>, Wine is less nutritious than milk.</p>
+
+<p><b>la plej</b>, the most,<br>
+<b>la malplej</b>, the least: <i>El &#265;iuj liaj amikoj Johano
+estas la plej sa&#285;a, kaj Georgo la malplej sa&#285;a</i>, Of
+all his friends John is the wisest, and George the least
+wise.</p>
+
+<p><b>Ju pli...des pli</b>, the more...the more: <i>Ju pli li
+lernas, des pli li deziras lerni</i>, The more he learns, the
+more he wishes to learn.</p>
+
+<p><b>Ju malpli...des malpli</b>, the less...the less: <i>Ju
+malpli li laboras, des malpli li ricevas</i>, The less he works,
+the less he gets.</p>
+
+<!-- =============================033.png============================ -->
+<p><b>Ju pli...des malpli</b>, the more...the less: <i>Ju pli li
+fari&#285;as granda, des malpli li estas forta</i>, The taller he
+becomes, the less strong he is.</p>
+
+<p><b>Ju malpli...des pli</b>, the less...the more: <i>Ju malpli
+li pensas, des pli li parolas</i>, The less he thinks, the more
+he talks.</p>
+
+<p>For comparisons of equality, as...as, so...as, see Lesson
+20.</p>
+
+<center>
+<table cellspacing="8">
+<caption><b>Vocabulary.</b></caption>
+
+<tr>
+<td nowrap valign="top"><i>pordo</i>, door.<br>
+ <i>kontrakto</i>, contract.<br>
+ <i>pastro</i>, pastor, priest.<br>
+ <i>fero</i>, iron.<br>
+ <i>bastono</i>, stick (rod).<br>
+ <i>stacio</i>, station.<br>
+ <i>stacidomo</i>, station.<br>
+ <i>hejmo</i>, home.<br>
+ <i>furio</i>, fury.<br>
+ <i>&#349;ipano</i>, sailor.<br>
+ <i>kolero</i>, anger.<br>
+ <i>honesto</i>, honesty.<br>
+ <i>dan&#285;ero</i>, danger.<br>
+ <i>koro</i>, heart.<br>
+ <i>oficisto</i>, an official.<br>
+ <i>re&#285;o</i>, king.<br>
+ <i>balo</i>, ball, dance.<br>
+ <i>humoro</i>, humour.<br>
+ <i>tempo</i>, time.<br>
+ <i>sinjorino</i>, lady, Mrs.<br>
+ <i>ferm-</i>, shut.</td>
+<td nowrap valign="top"><i>sav</i>-, save.<br>
+ <i>da&#365;r</i>-, last, continue.<br>
+ <i>tran&#265;</i>-, cut.<br>
+ <i>ekrigard</i>-, glance.<br>
+ <i>flu</i>-, flow.<br>
+ <i>ag</i>-, act (do).<br>
+ <i>lo&#285;</i>-, live, lodge.<br>
+ <i>brul</i>-, burn (as a fire).<br>
+ <i>vetur</i>-, ride (in a vehicle).<br>
+ <i>aper</i>-, appear.<br>
+ <i>postul</i>-, require, demand.<br>
+ <i>pendig</i>-, hang (something)<br>
+ <i>mort</i>-, die.<br>
+ <i>malsana</i>, ill.<br>
+ <i>varma</i>, warm.<br>
+ <i>varmega</i>, hot.<br>
+ <i>frua</i>, early.<br>
+ <i>plue</i>, further.<br>
+ <i>returne</i>, back.<br>
+ <i>&#265;ar</i>, because, whereas.</td>
+</tr>
+</table>
+</center>
+
+<!-- =============================034.png============================ -->
+<p>Resti kun leono estas dan&#285;ere. La tran&#265;ilo
+tran&#265;as bone, &#265;ar &#285;i estas akra. Iru pli rapide.
+Li fermis kolere la pordon. Lia parolo fluas dol&#265;e kaj
+agrable. Ni faris la kontrakton ne skribe, sed parole. Honesta
+homo agas honeste. La pastro, kiu mortis anta&#365; nelonge
+(anta&#365; ne longa tempo), lo&#285;is longe en nia urbo.
+&#264;u vi &#285;in ne ricevis returne? Li estas morte malsana.
+La fera bastono, kiu ku&#349;is en la forno, estas brule varmega.
+Parizo estas tre gaja. Matene frue &#349;i alveturis [Footnote:
+See Lesson 27.] al la stacidomo.</p>
+
+<p>Pardonu al mi, ke mi restis tiel longe. Lia kolero longe
+da&#365;ris. Li estas hodia&#365; en kolera humoro. La re&#285;o
+balda&#365; denove sendis alian bonkoran oficiston. Hodia&#365;
+vespere ni havos balon. Kie vi estas? For de tie-&#265;i!</p>
+
+<p>Kien li forveturis? &#348;i kuris hejmen. Ni iris
+anta&#365;en, kiel furioj. &#264;io estis bona, kaj ni veturis
+pluen. La sinjorino ekrigardis returnen. La &#349;ipanoj
+postulis, ke oni iru returnen. Mi &#285;in pendigis tien &#265;i,
+&#265;ar &#285;i savis mian vivon. Mi neniam sendis tien
+&#265;i.</p>
+

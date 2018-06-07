@@ -1,0 +1,61 @@
+---
+title: "" #"Lesson 28 -"
+author: "" #"JLAUro"
+date: "" #"May 21, 2017"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+<br/><br/>
+
+<center><b>LESSON 28.</b></center>
+
+<center><b>&#264;e. Apud.</b></center>
+
+<p><b>&#264;e</b> indicates a certain <i>place, time</i>, or
+<i>point of thought, discourse</i>, etc., as, <i>Li estis &#265;e
+mia patro</i>, He was with my father, or at my father's house.
+<i>&#264;e la momento</i>, At the moment. <i>Li estis &#265;e la
+pordo</i>, He was at the door, <i>&#264;eesti</i>, To be
+present.</p>
+
+<p><b>Apud</b> means <i>close by, beside.</i> It applies to place
+only, as <i>La knabo staris apud la patro</i>, The boy stood by,
+or beside, the father.</p>
+
+<center>
+<table cellspacing="8">
+<caption><b>Vocabulary.</b></caption>
+
+<tr>
+<td nowrap valign="top"><i>fundo</i>, bottom.<br>
+ <i>brako</i>, arm.<br>
+ <i>tor&#265;o</i>, torch.<br>
+ <i>serpento</i>, serpent.<br>
+ <i>statuo</i>, statue.<br>
+ <i>saliko</i>, willow.</td>
+<td nowrap valign="top"><i>halt-</i>, stop, halt.<br>
+ <i>ramp-</i>, creep, crawl.<br>
+ <i>plant-</i>, (to) plant.<br>
+ <i>multekosta</i>, precious,<br>
+   valuable.<br>
+ <i>a&#365; ... a&#365;</i>, either ... or.</td>
+</tr>
+</table>
+</center>
+
+<p>Mi lo&#285;is &#265;e &#349;ia patro. &#284;i falis sur la
+fundon de la maro &#265;e la rompi&#285;o de la &#349;ipo.
+&#264;e lumo de tor&#265;oj. Brako &#265;e brako. Kaptis lin
+kelka timo &#265;e la penso. Nenio helpas; oni devas nur
+kura&#285;e resti &#265;e sia opinio. &#348;i ridis &#265;e lia
+rakontado. &#264;e &#265;iu vorto, kiun vi diros, el via
+bu&#349;o eliros a&#365; floro a&#365; multekosta &#349;tono.</p>
+
+<p>Li haltis apud la pordo. La serpento rampis apud &#349;iaj
+piedoj. Kiam li estis &#265;e mi, li staris tutan horon apud la
+fenestro. Mi lo&#285;is en arbo apud via domo. &#348;i plantis
+apud la statuo roza-ru&#285;an salikon. La apudvojaj arboj.</p>

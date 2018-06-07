@@ -1,0 +1,505 @@
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+
+<meta charset="utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="generator" content="pandoc" />
+
+
+
+
+<title></title>
+
+<script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link href="site_libs/bootstrap-3.3.5/css/bootstrap.min.css" rel="stylesheet" />
+<script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<script src="site_libs/navigation-1.1/tabsets.js"></script>
+<link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
+<script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
+<link href="site_libs/font-awesome-4.5.0/css/font-awesome.min.css" rel="stylesheet" />
+
+<style type="text/css">code{white-space: pre;}</style>
+<style type="text/css">
+  pre:not([class]) {
+    background-color: white;
+  }
+</style>
+<script type="text/javascript">
+if (window.hljs) {
+  hljs.configure({languages: []});
+  hljs.initHighlightingOnLoad();
+  if (document.readyState && document.readyState === "complete") {
+    window.setTimeout(function() { hljs.initHighlighting(); }, 0);
+  }
+}
+</script>
+
+
+
+<style type="text/css">
+h1 {
+  font-size: 34px;
+}
+h1.title {
+  font-size: 38px;
+}
+h2 {
+  font-size: 30px;
+}
+h3 {
+  font-size: 24px;
+}
+h4 {
+  font-size: 18px;
+}
+h5 {
+  font-size: 16px;
+}
+h6 {
+  font-size: 12px;
+}
+.table th:not([align]) {
+  text-align: left;
+}
+</style>
+
+<link rel="stylesheet" href="bootstrap/bootstrap-cerulean-grn99.min.css" type="text/css" />
+
+</head>
+
+<body>
+
+<style type = "text/css">
+.main-container {
+  max-width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+}
+code {
+  color: inherit;
+  background-color: rgba(0, 0, 0, 0.04);
+}
+img {
+  max-width:100%;
+  height: auto;
+}
+.tabbed-pane {
+  padding-top: 12px;
+}
+button.code-folding-btn:focus {
+  outline: none;
+}
+</style>
+
+
+<style type="text/css">
+/* padding for bootstrap navbar */
+body {
+  padding-top: 51px;
+  padding-bottom: 40px;
+}
+/* offset scroll position for anchor links (for fixed navbar)  */
+.section h1 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+
+.section h2 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.section h3 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.section h4 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.section h5 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.section h6 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+</style>
+
+<script>
+// manage active state of menu based on current page
+$(document).ready(function () {
+  // active menu anchor
+  href = window.location.pathname
+  href = href.substr(href.lastIndexOf('/') + 1)
+  if (href === "")
+    href = "index.html";
+  var menuAnchor = $('a[href="' + href + '"]');
+
+  // mark it active
+  menuAnchor.parent().addClass('active');
+
+  // if it's got a parent navbar menu mark it active as well
+  menuAnchor.closest('li.dropdown').addClass('active');
+});
+</script>
+
+
+<div class="container-fluid main-container">
+
+<!-- tabsets -->
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+</script>
+
+<!-- code folding -->
+
+
+
+
+
+
+<div class="navbar navbar-default  navbar-fixed-top" role="navigation">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="index.html">The Esperanto Teacher</a>
+    </div>
+    <div id="navbar" class="navbar-collapse collapse">
+      <ul class="nav navbar-nav">
+        <li>
+  <a href="index.html">
+    <span class="fa fa-star"></span>
+     
+    About
+  </a>
+</li>
+<li class="dropdown">
+  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">
+    Lessons: 0-10
+     
+    <span class="caret"></span>
+  </a>
+  <ul class="dropdown-menu" role="menu">
+    <li>
+      <a href="intro.html"> 0</a>
+    </li>
+    <li>
+      <a href="lesson1.html"> 1</a>
+    </li>
+    <li>
+      <a href="lesson2.html"> 2</a>
+    </li>
+    <li>
+      <a href="lesson3.html"> 3</a>
+    </li>
+    <li>
+      <a href="lesson4.html"> 4</a>
+    </li>
+    <li>
+      <a href="lesson5.html"> 5</a>
+    </li>
+    <li>
+      <a href="lesson6.html"> 6</a>
+    </li>
+    <li>
+      <a href="lesson7.html"> 7</a>
+    </li>
+    <li>
+      <a href="lesson8.html"> 8</a>
+    </li>
+    <li>
+      <a href="lesson9.html"> 9</a>
+    </li>
+    <li>
+      <a href="lesson10.html">10</a>
+    </li>
+  </ul>
+</li>
+<li class="dropdown">
+  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">
+    11-20
+     
+    <span class="caret"></span>
+  </a>
+  <ul class="dropdown-menu" role="menu">
+    <li>
+      <a href="lesson11.html">11</a>
+    </li>
+    <li>
+      <a href="lesson12.html">12</a>
+    </li>
+    <li>
+      <a href="lesson13.html">13</a>
+    </li>
+    <li>
+      <a href="lesson14.html">14</a>
+    </li>
+    <li>
+      <a href="lesson15.html">15</a>
+    </li>
+    <li>
+      <a href="lesson16.html">16</a>
+    </li>
+    <li>
+      <a href="lesson17.html">17</a>
+    </li>
+    <li>
+      <a href="lesson18.html">18</a>
+    </li>
+    <li>
+      <a href="lesson19.html">19</a>
+    </li>
+    <li>
+      <a href="lesson20.html">20</a>
+    </li>
+  </ul>
+</li>
+<li class="dropdown">
+  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">
+    21-30
+     
+    <span class="caret"></span>
+  </a>
+  <ul class="dropdown-menu" role="menu">
+    <li>
+      <a href="lesson21.html">21</a>
+    </li>
+    <li>
+      <a href="lesson22.html">22</a>
+    </li>
+    <li>
+      <a href="lesson23.html">23</a>
+    </li>
+    <li>
+      <a href="lesson24.html">24</a>
+    </li>
+    <li>
+      <a href="lesson25.html">25</a>
+    </li>
+    <li>
+      <a href="lesson26.html">26</a>
+    </li>
+    <li>
+      <a href="lesson27.html">27</a>
+    </li>
+    <li>
+      <a href="lesson28.html">28</a>
+    </li>
+    <li>
+      <a href="lesson29.html">29</a>
+    </li>
+    <li>
+      <a href="lesson30.html">30</a>
+    </li>
+  </ul>
+</li>
+<li class="dropdown">
+  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">
+    31-40
+     
+    <span class="caret"></span>
+  </a>
+  <ul class="dropdown-menu" role="menu">
+    <li>
+      <a href="lesson31.html">31</a>
+    </li>
+    <li>
+      <a href="lesson32.html">32</a>
+    </li>
+    <li>
+      <a href="lesson33.html">33</a>
+    </li>
+    <li>
+      <a href="lesson34.html">34</a>
+    </li>
+    <li>
+      <a href="lesson35.html">35</a>
+    </li>
+    <li>
+      <a href="lesson36.html">36</a>
+    </li>
+    <li>
+      <a href="lesson37.html">37</a>
+    </li>
+    <li>
+      <a href="lesson38.html">38</a>
+    </li>
+    <li>
+      <a href="lesson39.html">39</a>
+    </li>
+    <li>
+      <a href="lesson40.html">40</a>
+    </li>
+  </ul>
+</li>
+<li class="dropdown">
+  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">
+    41-45+
+     
+    <span class="caret"></span>
+  </a>
+  <ul class="dropdown-menu" role="menu">
+    <li>
+      <a href="lesson41.html">41</a>
+    </li>
+    <li>
+      <a href="lesson42.html">42</a>
+    </li>
+    <li>
+      <a href="lesson43.html">43</a>
+    </li>
+    <li>
+      <a href="lesson44.html">44</a>
+    </li>
+    <li>
+      <a href="lesson45.html">45</a>
+    </li>
+    <li>
+      <a href="lesson46.html">Words in Sentences</a>
+    </li>
+    <li>
+      <a href="lesson47.html">Common Useful Expressions</a>
+    </li>
+    <li>
+      <a href="lesson48.html">Letters</a>
+    </li>
+  </ul>
+</li>
+<li class="dropdown">
+  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">
+    More
+     
+    <span class="caret"></span>
+  </a>
+  <ul class="dropdown-menu" role="menu">
+    <li>
+      <a href="keytoexer.html">Key to Exercises</a>
+    </li>
+    <li>
+      <a href="selections.html">Selections</a>
+    </li>
+    <li>
+      <a href="vocabulary.html">Vocabulary</a>
+    </li>
+    <li>
+      <a href="indextet.html">Index</a>
+    </li>
+    <li>
+      <a href="license.html">Project Gutenberg License</a>
+    </li>
+    <li>
+      <a href="addExercises.html">Additional Exercises</a>
+    </li>
+  </ul>
+</li>
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        
+      </ul>
+    </div><!--/.nav-collapse -->
+  </div><!--/.container -->
+</div><!--/.navbar -->
+
+<div class="fluid-row" id="header">
+
+
+
+
+</div>
+
+
+<p><br/><br/></p>
+<center>
+<b>LESSON 40.</b>
+</center>
+<center>
+<b>Malgraŭ. Spite. Po. Je.</b>
+</center>
+<p>
+<b>Malgraŭ</b> means <i>in spite of</i>, <i>notwithstanding</i>, as <i>Li sukcesis malgraŭ ĉio</i>, He succeeded in spite of everything.
+</p>
+<p>
+<b>Spite</b> is a stronger expression than “malgraŭ”; it means in defiance of all opposition, despite, as <i>Li faris tion, spite la malpermeso</i>, He did that, in spite of being forbidden.
+</p>
+<!-- =============================080.png============================ -->
+<p>
+<b>Po</b> means <i>at the rate of</i>, as <i>Mi aĉetis dekduon da ovoj po unu penco</i>, I bought a dozen eggs at (the rate of) a penny (each). <i>Poduone</i>, by halves. <i>Po grande</i>, wholesale; <i>po malgrande</i>, retail.
+</p>
+<p>
+As already said (see Lesson 26), <b>je</b> is the only preposition which has no meaning of its own. It is used when a preposition is needed, and none of the others properly expresses the idea, as <i>La kruĉo estas plena je</i> (or, de) <i>akvo</i>, The jug is full of water. <i>Mi enuas je la hejmo</i>, I am tired of home.
+</p>
+<center>
+<table cellspacing="8">
+<caption>
+<b>Vocabulary.</b>
+</caption>
+<tr>
+<td nowrap valign="top">
+<i>mastrumaĵo</i>, household affairs.<br> <i>fungo</i>, mushroom.<br> <i>senco</i>, sense, meaning.<br> <i>regulo</i>, rule.<br> <i>klareco</i>, clearness.<br> <i>akuzativo</i>, accusative.<br> <i>nobeleco</i>, nobility (of birth).
+</td>
+<td nowrap valign="top">
+<i>honoro</i>, honour.<br> <i>libereco</i>, freedom, liberty.<br> <i>kulpo</i>, fault.<br> <i>simila</i>, similar, like.<br> <i>komuna</i>, common to.<br> <i>kri-</i>, cry.<br> <i>sopir-</i>, sigh for, long for.<br> <i>ekzemple</i>, for example.
+</td>
+</tr>
+</table>
+</center>
+<p>
+Li multe laboris, sed malgraŭ ĉio, li ne sukcesis. Estis ankoraŭ sufiĉe varme, malgraŭ ke la suno staris malalte. Ili estos severe punataj, se ili, malgraŭ la malpermeso, pekos kontraŭ la libereco de la vojo. Spite ĉiuj miaj penoj por malhelpi lin, li foriris.
+</p>
+<p>
+Por miaj kvar infanoj mi aĉetis dek du pomojn, kaj al ĉiu el la infanoj mi donis po tri pomoj. Ili povas kosti po tri ĝis kvin ŝilingoj. Tiu ĉi libro havas sesdek paĝojn; tial se mi legos en ĉiu tago po dekkvin paĝoj, mi finos la tutan libron en kvar tagoj. Mi aĉetis kvar librojn po ses pencoj.
+</p>
+<!-- =============================081.png============================ -->
+<p>
+Ni estis nur okupitaj je kelkaj mastrumaĵoj. La konstruo estas simila je fungo. Ili forkuris, kiam la virino ekkriis je ili. Je la vespero la ĉielo kovriĝis je nuboj. El timo je Karagara mi forkuris. Ŝi estis tre fiera je sia nobeleco. La hundo sincere malĝojis je li. Neniu el ili estis tiel plena je deziroj, kiel la plej juna knabino. Je vorto de honoro.
+</p>
+<center>
+<b>40a.</b>
+</center>
+<p>
+Se ni bezonas uzi prepozicion, kaj la senco ne montras al ni, kian prepozicion uzi, tiam ni povas uzi la komunan prepozicion “je.” Sed estas bone uzadi la vorton “je” kiel eble pli malofte. Anstataŭ la vorto “je” ni povas ankaŭ uzi akuzativon sen prepozicio.—Mi ridas je lia naiveco (aŭ, mi ridas pro lia naiveco; aŭ mi ridas lian naivecon).—Je la lasta fojo mi vidas lin ĉe vi (aŭ, la lastan fojon).—Mi veturis du tagojn kaj unu nokton.—Mi sopiras je mia perdita feliĉo (aŭ, mian perditan feliĉon).—El la dirita regulo sekvas, ke se ni pri ia verbo ne scias, ĉu ĝi postulas post si la akuzativon (t.e.=tio estas, ĉu ĝi estas aktiva) aŭ ne, ni povas ĉiam uzi la akuzativon. Ekzemple, ni povas diri “obei al la patro” kaj “obei la patron” (anstataŭ, “obei je la patro”). Sed ni ne uzas la akuzativon tiam, kiam la klareco de la senco tion ĉi malpermesas; ekzemple: ni povas diri “pardoni al la malamiko” kaj “pardoni la malamikon,” sed ni devas diri ĉiam “pardoni al la malamiko lian kulpon.”
+</p>
+
+
+
+
+</div>
+
+<script>
+
+// add bootstrap table styles to pandoc tables
+function bootstrapStylePandocTables() {
+  $('tr.header').parent('thead').parent('table').addClass('table table-condensed');
+}
+$(document).ready(function () {
+  bootstrapStylePandocTables();
+});
+
+
+</script>
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src  = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+
+</body>
+</html>

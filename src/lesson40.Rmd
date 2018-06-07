@@ -1,0 +1,106 @@
+---
+title: "" #"Lesson 40 - Malgraŭ. Spite. Po. Je."
+author: "" #"JLAUro"
+date: "" #"May 21, 2017"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+<br/><br/>
+
+<center><b>LESSON 40.</b></center>
+
+<center><b>Malgra&#365;. Spite. Po. Je.</b></center>
+
+<p><b>Malgra&#365;</b> means <i>in spite of</i>,
+<i>notwithstanding</i>, as <i>Li sukcesis malgra&#365;
+&#265;io</i>, He succeeded in spite of everything.</p>
+
+<p><b>Spite</b> is a stronger expression than "malgra&#365;"; it
+means in defiance of all opposition, despite, as <i>Li faris
+tion, spite la malpermeso</i>, He did that, in spite of being
+forbidden.</p>
+
+<!-- =============================080.png============================ -->
+<p><b>Po</b> means <i>at the rate of</i>, as <i>Mi a&#265;etis
+dekduon da ovoj po unu penco</i>, I bought a dozen eggs at (the
+rate of) a penny (each). <i>Poduone</i>, by halves. <i>Po
+grande</i>, wholesale; <i>po malgrande</i>, retail.</p>
+
+<p>As already said (see Lesson 26), <b>je</b> is the only
+preposition which has no meaning of its own. It is used when a
+preposition is needed, and none of the others properly expresses
+the idea, as <i>La kru&#265;o estas plena je</i> (or, de)
+<i>akvo</i>, The jug is full of water. <i>Mi enuas je la
+hejmo</i>, I am tired of home.</p>
+
+<center>
+<table cellspacing="8">
+<caption><b>Vocabulary.</b></caption>
+
+<tr>
+<td nowrap valign="top"><i>mastruma&#309;o</i>, household
+affairs.<br>
+ <i>fungo</i>, mushroom.<br>
+ <i>senco</i>, sense, meaning.<br>
+ <i>regulo</i>, rule.<br>
+ <i>klareco</i>, clearness.<br>
+ <i>akuzativo</i>, accusative.<br>
+ <i>nobeleco</i>, nobility (of birth).</td>
+<td nowrap valign="top"><i>honoro</i>, honour.<br>
+ <i>libereco</i>, freedom, liberty.<br>
+ <i>kulpo</i>, fault.<br>
+ <i>simila</i>, similar, like.<br>
+ <i>komuna</i>, common to.<br>
+ <i>kri-</i>, cry.<br>
+ <i>sopir-</i>, sigh for, long for.<br>
+ <i>ekzemple</i>, for example.</td>
+</tr>
+</table>
+</center>
+
+<p>Li multe laboris, sed malgra&#365; &#265;io, li ne sukcesis.
+Estis ankora&#365; sufi&#265;e varme, malgra&#365; ke la suno
+staris malalte. Ili estos severe punataj, se ili, malgra&#365; la
+malpermeso, pekos kontra&#365; la libereco de la vojo. Spite
+&#265;iuj miaj penoj por malhelpi lin, li foriris.</p>
+
+<p>Por miaj kvar infanoj mi a&#265;etis dek du pomojn, kaj al
+&#265;iu el la infanoj mi donis po tri pomoj. Ili povas kosti po
+tri &#285;is kvin &#349;ilingoj. Tiu &#265;i libro havas sesdek
+pa&#285;ojn; tial se mi legos en &#265;iu tago po dekkvin
+pa&#285;oj, mi finos la tutan libron en kvar tagoj. Mi
+a&#265;etis kvar librojn po ses pencoj.</p>
+
+<!-- =============================081.png============================ -->
+<p>Ni estis nur okupitaj je kelkaj mastruma&#309;oj. La konstruo
+estas simila je fungo. Ili forkuris, kiam la virino ekkriis je
+ili. Je la vespero la &#265;ielo kovri&#285;is je nuboj. El timo
+je Karagara mi forkuris. &#348;i estis tre fiera je sia nobeleco.
+La hundo sincere mal&#285;ojis je li. Neniu el ili estis tiel
+plena je deziroj, kiel la plej juna knabino. Je vorto de
+honoro.</p>
+
+<center><b>40a.</b></center>
+
+<p>Se ni bezonas uzi prepozicion, kaj la senco ne montras al ni,
+kian prepozicion uzi, tiam ni povas uzi la komunan prepozicion
+"je." Sed estas bone uzadi la vorton "je" kiel eble pli malofte.
+Anstata&#365; la vorto "je" ni povas anka&#365; uzi akuzativon
+sen prepozicio.&mdash;Mi ridas je lia naiveco (a&#365;, mi ridas
+pro lia naiveco; a&#365; mi ridas lian naivecon).&mdash;Je la
+lasta fojo mi vidas lin &#265;e vi (a&#365;, la lastan
+fojon).&mdash;Mi veturis du tagojn kaj unu nokton.&mdash;Mi
+sopiras je mia perdita feli&#265;o (a&#365;, mian perditan
+feli&#265;on).&mdash;El la dirita regulo sekvas, ke se ni pri ia
+verbo ne scias, &#265;u &#285;i postulas post si la akuzativon
+(t.e.=tio estas, &#265;u &#285;i estas aktiva) a&#365; ne, ni
+povas &#265;iam uzi la akuzativon. Ekzemple, ni povas diri "obei
+al la patro" kaj "obei la patron" (anstata&#365;, "obei je la
+patro"). Sed ni ne uzas la akuzativon tiam, kiam la klareco de la
+senco tion &#265;i malpermesas; ekzemple: ni povas diri "pardoni
+al la malamiko" kaj "pardoni la malamikon," sed ni devas diri
+&#265;iam "pardoni al la malamiko lian kulpon."</p>

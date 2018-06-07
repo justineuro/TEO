@@ -1,0 +1,102 @@
+---
+title: "" #"Lesson 7 - Words"
+author: "" #"JLAUro"
+date: "" #"May 18, 2017"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+<br/><br/>
+
+<center><b>LESSON 7.</b></center>
+
+<p>Confusion is apt to occur in English in the use of the words
+<i>him, her, it, them; his, hers, its, their</i>, e.g., "John
+loves his brother and his children." Whose children, John's or
+his brother's? "The boys brought to their fathers their hats."
+Whose hats, the boys' or their fathers'? "She gave her sister her
+book." Whose book? Her own or her sister's?</p>
+
+<p>This confusion is avoided in Esperanto by the use of, the
+pronoun <b>si</b> (<i>sin</i>), meaning <i>himself, herself,
+itself, themselves</i>, and <b>sia,</b> meaning <i>his own, her
+own, its own, their own.</i></p>
+
+<!-- =============================023.png============================ -->
+<p><i>Si</i> (<i>sin, sia</i>) refers to the <i>subject</i> of
+the sentence <i>in which it occurs;</i> therefore in the sentence
+"John loves his brother and his son," it must be <i>"Johano amas
+sian fraton kaj</i> <b>sian</b> <i>filon</i>" if it is his own
+(John's) son, because John is the subject, but we must say
+"<i>lian</i> filon" if the brother's son is meant. "<i>La knaboj
+alportis al siaj patroj siajn &#265;apelojn</i>" means "The boys
+brought to their fathers their own (the boys') hats," because
+"boys" is the subject, but if we mean "the fathers' hats" it must
+be "<i>iliajn</i> &#265;apelojn."</p>
+
+<p>"She gave to her sister her book" must be "<i>&#348;i donis al
+sia fratino</i> sian <i>libron</i>" if it were her own book, but
+"&#348;i <i>donis al sia fratino</i> &#349;ian <i>libron</i>" if
+it were her sister's book. "<i>Li diris al si</i>..." means "He
+said to himself," but "<i>Li diris al li</i>" means that he said
+it to another person.</p>
+
+<p>"<i>Si</i>," "<i>sia</i>," can only <i>refer to</i> the
+subject, it cannot be the subject itself or any part of it;
+therefore we must say "<i>Sinjoro P. kaj</i> lia <i>edzino tre
+amas miajn infanojn</i>," because the subject is "<i>Sinjoro P.
+kaj lia edzino</i>."</p>
+
+<p>"<b>Mem,</b>" self, is only used for emphasis, <i>e.g.</i>,
+"<i>Mi mem</i>," my (own) self.</p>
+
+<center>
+<table cellspacing="8">
+<caption><b>Vocabulary.</b></caption>
+
+<tr>
+<td nowrap valign="top"><i>gasto</i>, guest.<br>
+ <i>vespero</i>, evening.<br>
+ <i>man&#285;o</i>, meal.<br>
+ <i>pupo</i>, doll.<br>
+ <i>aventuro</i>, adventure.<br>
+ <i>palaco</i>, palace.<br>
+ <i>zorg-</i>, take care of.<br>
+ <i>gard-</i>, guard.<br>
+ <i>am-</i>, love.<br>
+ <i>akompan-</i>, accompany.<br>
+ <i>lav-</i>, wash.</td>
+<td nowrap valign="top"><i>montr-</i>, show.<br>
+ <i>fleg-</i>, tend, take care of<br>
+ <i>re-ven-</i>, come back.<br>
+ <i>pri</i>, concerning, about.<br>
+ <i>&#285;is</i>, until, as far as.<br>
+ <i>tute</i>, quite, wholly.<br>
+ <i>tute ne</i>, not at all.<br>
+ <i>kun</i>, with.<br>
+ <i>el</i>, out of.<br>
+ <i>el-ir-</i>, go out of.</td>
+</tr>
+</table>
+</center>
+
+<!-- =============================024.png============================ -->
+<p>Mi amas min mem, vi amas vin mem, li amas sin mem kaj &#265;iu
+homo amas sin mem. Mi zorgas pri &#349;i tiel, kiel mi zorgas pri
+mi mem, sed &#349;i mem tute ne zorgas pri si, kaj tute sin ne
+gardas. Miaj fratoj havis hodia&#365; gastojn; post la
+vesperman&#285;o niaj fratoj eliris kun la gastoj el sia domo kaj
+akompanis ilin &#285;is ilia domo. Mi lavis min en mia
+&#265;ambro, kaj &#349;i lavis sin en sia &#265;ambro. La infano
+ser&#265;is sian pupon; mi montris al la infano, kie ku&#349;as
+&#285;ia pupo. [Footnote: Notice the use of the present
+"ku&#349;as," <i>lies</i>, after the past "montris,"
+<i>showed</i>, because at the time the action of "showing" took
+place the action of "lying" was then actually going on.]</p>
+
+<p>&#348;i rakontis al li sian aventuron. &#348;i revenis al la
+palaco de sia patro. Siajn florojn &#349;i ne flegis. Mia frato
+diris al Stefano, ke li amas lin pli, ol sin mem.</p>

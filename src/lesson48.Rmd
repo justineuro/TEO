@@ -1,0 +1,62 @@
+---
+title: "" #"48 - Letters"
+author: "" #"JLAUro"
+date: "" #"May 21, 2017"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+<br/><br/>
+
+<!-- =============================098.png============================ -->
+<center><b>LETTERS.</b></center>
+
+<center>(<i>a</i>). <b>Beginnings.</b></center>
+
+<center>
+<table border="0" cellspacing="8">
+<tr>
+<td valign="middle"><i>Kara</i>, dear.<br>
+ <i>Mia kara</i>, my dear.<br>
+ <i>Estimata</i>, esteemed.<br>
+ <i>Estiminda</i>, estimable.<br>
+ <i>Respektinda</i>,respect-worthy.<br>
+ <i>Honorinda</i> honourable.</td>
+<td valign="middle"><i>Patro, amiko, etc.</i>, father, friend,
+etc.<br>
+ <i>Samideano</i>, fellow-thinker.<br>
+ <i>Kunlaboranto</i>, fellow-worker.<br>
+ <i>Sinjoro</i>, Sir.<br>
+ <i>Sinjoroj</i>, Gentlemen, Sirs.<br>
+ <i>Sinjorino</i>, Madame, Mrs.<br>
+ <i>Fra&#365;lino</i>, Miss.</td>
+</tr>
+</table>
+</center>
+
+<center>(<i>b</i>). <b>Endings.</b></center>
+
+<center>
+<table border="0" cellspacing="8">
+<tr>
+<td valign="top"><i>Kun (koraj, amikaj) salutoj</i>, with
+(hearty, friendly) greetings.<br>
+ <i>Kun (alta, granda) estimo</i>, with (high, great) esteem.<br>
+ <i>Kun (miaj, &#265;iuj) bondeziroj</i>, with (my, all) good
+wishes.<br>
+ <i>Kun (multe da) amo</i>, with (much) love.</td>
+<td valign="top"><i>Via, La via</i>, yours.<br>
+ <i>Via, (tre) vin amanta</i>, your (very) loving.<br>
+ <i>Via, tre sincere, fidele, etc.</i>, yours very sincerely,
+faithfully, etc.<br>
+ <i>&#264;iam via</i>, yours always.<br>
+ <i>Tre sincere via</i>, very sincerely yours.</td>
+</tr>
+</table>
+</center>
+
+
+<hr align="center" width="38%">

@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html>
+<!--
+URLs:	https://css-tricks.com/snippets/javascript/showhide-element/ (User:Nanobyte)
+		http://stackoverflow.com/questions/19163327/how-do-i-make-a-div-hidden-by-default-using-javascript (User: Luke, david-lee)
+		https://www.w3schools.com/css/css_text.asp
+Date: 17-V-2017
+-->
+
+<head>
+<title>l2-phr-tab</title>
+<meta http-equiv='Content-Type' content='text/html; charset=utf-8'>
+<style>
+a, body { 
+	color: #007700; 
+	font-size: 12px; 
+}	
+
+a:visited { color: #00aa00; }
+
+[id^='tr'] {
+    display: none;
+}
+
+mark {
+    padding: 3px 3px;
+    text-align: left;
+    font-style: italic;
+    font-size: 10px;
+    background-color: #009900;
+    color: white;
+    margin-top: 0px;
+    margin-left: 5px;
+}
+
+</style>
+
+<script type='text/javascript'>
+	function toggle_visibility(id) {
+	var e = document.getElementById(id);
+	e.style.display = ((e.style.display!='block') ? 'block' : 'none');
+	}
+</script>
+</head>
+
+<body>
+<p>
+<h4>Lesson 2 Phrase - The Esperanto Teacher (by Helen Fryer) http://www.gutenberg.org <br/></h4>
+<a id='r0' href='#' onclick="toggle_visibility('tr0');">
+Click for Instructions.</a>
+<div id='tr0'>
+	&nbsp;
+	<mark>Click on each link to toggle the English translation.  
+	Reload page to turn off all translations.</mark>
+</div>
+</p>
+
+<table width='100%' border='5px' cellspacing='5px' cellpadding='5px'>
+	<tr id='r1'>
+			<td align='center' valign='middle'><a id='item1' href='#r0' onclick="toggle_visibility('tr1');">La patro estas sana.</a>
+						<div id='tr1'><mark>The father is healthy.</mark></div></td>
+
+			<td align='center' valign='middle'><a id='item2' href='#r0' onclick="toggle_visibility('tr2');">Infano ne estas matura homo.</a>
+						<div id='tr2'><mark>An infant is not a mature human being.</mark></div></td>
+
+			<td align='center' valign='middle'><a id='item3' href='#r0' onclick="toggle_visibility('tr3');">La ĉielo estas blua.</a>
+						<div id='tr3'><mark>The sky is blue.</mark></div></td>
+
+			<td align='center' valign='middle'><a id='item4' href='#r0' onclick="toggle_visibility('tr4');">Leono estas forta.</a>
+						<div id='tr4'><mark>A lion is strong.</mark></div></td>
+	</tr>
+	<tr id='r1'>
+
+			<td align='center' valign='middle'><a id='item5' href='#r1' onclick="toggle_visibility('tr5');">La patro estas bona.</a>
+						<div id='tr5'><mark>The father is good.</mark></div></td>
+
+			<td align='center' valign='middle'><a id='item6' href='#r1' onclick="toggle_visibility('tr6');">Jen estas la kajero de la juna fraŭlino.</a>
+						<div id='tr6'><mark>Here is the exercise book of the young maiden.</mark></div></td>
+
+			<td align='center' valign='middle'><a id='item7' href='#r1' onclick="toggle_visibility('tr7');">Sur la ĉielo staras la bela suno.</a>
+						<div id='tr7'><mark>On the sky stands the beautiful sun.</mark></div></td>
+
+			<td align='center' valign='middle'><a id='item8' href='#r1' onclick="toggle_visibility('tr8');">La papero estas tre blanka, sed la neĝo estas pli blanka.</a>
+						<div id='tr8'><mark>Te paper is very white, but the snow is whiter.</mark></div></td>
+	</tr>
+	<tr id='r2'>
+
+			<td align='center' valign='middle'><a id='item9' href='#r2' onclick="toggle_visibility('tr9');">Lakto estas pli nutra, ol vino.</a>
+						<div id='tr9'><mark>Milk is more nutritious than wine.</mark></div></td>
+
+			<td align='center' valign='middle'><a id='item10' href='#r2' onclick="toggle_visibility('tr10');">La pano estas freŝa.</a>
+						<div id='tr10'><mark>The bread is fresh.</mark></div></td>
+
+			<td align='center' valign='middle'><a id='item11' href='#r2' onclick="toggle_visibility('tr11');">La onklo estas pli riĉa, ol la frato.</a>
+						<div id='tr11'><mark>The uncle is richer than the brother.</mark></div></td>
+
+			<td align='center' valign='middle'><a id='item12' href='#r2' onclick="toggle_visibility('tr12');">Jen kuŝas ruĝa rozo.</a>
+						<div id='tr12'><mark>Here lies a red rose.</mark></div></td>
+	</tr>
+	<tr id='r3'>
+
+			<td align='center' valign='middle'><a id='item13' href='#r3' onclick="toggle_visibility('tr13');">La hundo estas tre fidela.</a>
+						<div id='tr13'><mark>The dog is very faithful.</mark></div></td>
+
+			<td align='center' valign='middle'><a id='item14' href='#r3' onclick="toggle_visibility('tr14');">La libro estas nova.</a>
+						<div id='tr14'><mark>The book is new.</mark></div></td>
+
+	</tr>
+</table>
+</body>
+</html>
+

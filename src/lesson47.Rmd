@@ -1,0 +1,288 @@
+---
+title: "" #"47 - Common Useful Expressions"
+author: "" #"JLAUro"
+date: "" #"May 21, 2017"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+<br/><br/>
+
+<center><b>COMMON USEFUL EXPRESSIONS.</b></center>
+
+<!-- =============================097.png============================ -->
+<center>
+<table>
+<tr>
+<td><i>tio estas, i.e.</i>, that is.</td>
+</tr>
+
+<tr>
+<td><i>kaj cetere, k.c.</i>, etcetera.</td>
+</tr>
+
+<tr>
+<td><i>kaj tiel plu, k.t.p.</i>, and so on.</td>
+</tr>
+
+<tr>
+<td><i>kiel ekzemple, k.ekz.</i>, as for example.</td>
+</tr>
+
+<tr>
+<td><i>kiel elbe plej (balda&#365;)</i>, as (soon) as
+possible.</td>
+</tr>
+
+<tr>
+<td><i>kio ajn okazos</i>, whatever happens (shall happen).</td>
+</tr>
+
+<tr>
+<td><i>kondi&#265;e, ke</i>, on the condition that.</td>
+</tr>
+
+<tr>
+<td><i>kun la kondi&#265;o, ke</i>, on the condition that.</td>
+</tr>
+</table>
+</center>
+
+<center>
+<table>
+<tr>
+<td><i>Bonan tagon, sinjoro.</i></td>
+<td>Good day, sir.</td>
+</tr>
+
+<tr>
+<td><i>Kiel vi fartas?</i></td>
+<td>How do you do?</td>
+</tr>
+
+<tr>
+<td><i>Tre bone, mi dankas.</i></td>
+<td>Very well, I thank you.</td>
+</tr>
+
+<tr>
+<td><i>Mi dankas vin.</i></td>
+<td>I thank you.</td>
+</tr>
+
+<tr>
+<td><i>Dankon.</i></td>
+<td>Thanks.</td>
+</tr>
+
+<tr>
+<td><i>Multe da dankoj.</i></td>
+<td>Many thanks.</td>
+</tr>
+
+<tr>
+<td><i>Vi estas tre &#285;entila (afabla).</i></td>
+<td>You are very kind.</td>
+</tr>
+
+<tr>
+<td><i>Vi estas tre kompleza.</i></td>
+<td>You are very obliging.</td>
+</tr>
+
+<tr>
+<td><i>Mi malsatas.</i></td>
+<td>I am hungry.</td>
+</tr>
+
+<tr>
+<td><i>Mi soifas.</i></td>
+<td>I am thirsty.</td>
+</tr>
+
+<tr>
+<td><i>Al mi estas varme (malvarme).</i></td>
+<td>I am warm (cold).</td>
+</tr>
+
+<tr>
+<td><i>Kiu estas tie? Estas mi.</i></td>
+<td>Who is there? It is I.</td>
+</tr>
+
+<tr>
+<td><i>Sidi&#285;u, mi petas.</i></td>
+<td>Be seated, I beg (you).</td>
+</tr>
+
+<tr>
+<td><i>Kun plezuro.</i></td>
+<td>With pleasure.</td>
+</tr>
+
+<tr>
+<td><i>Kion vi bezonas?</i></td>
+<td>What do you want?</td>
+</tr>
+
+<tr>
+<td><i>Cu vi min komprenas?</i></td>
+<td>Do you understand me?</td>
+</tr>
+
+<tr>
+<td><i>Vi estas prava (malprava).</i></td>
+<td>You are right (wrong).</td>
+</tr>
+
+<tr>
+<td><i>Tio estas vera.</i></td>
+<td>That is true.</td>
+</tr>
+
+<tr>
+<td><i>Estas vera, ke...</i></td>
+<td>It is true that...</td>
+</tr>
+
+<tr>
+<td><i>Je kioma horo vi foriros?</i></td>
+<td>At what time are you going?</td>
+</tr>
+
+<tr>
+<td><i>Kioma horo estas?</i></td>
+<td>What time is it?</td>
+</tr>
+
+<tr>
+<td><i>Kiom kostas tio &#265;i?</i></td>
+<td>How much does this cost?</td>
+</tr>
+
+<tr>
+<td><i>&#284;i kostas tri &#349;ilingojn.</i></td>
+<td>It costs three shillings.</td>
+</tr>
+
+<tr>
+<td><i>Kie vi estas?</i></td>
+<td>Where are you?</td>
+</tr>
+
+<tr>
+<td><i>Kien vi iras?</i></td>
+<td>Where are you going?</td>
+</tr>
+
+<tr>
+<td><i>Kian a&#285;on li havas?</i></td>
+<td>How old is he?</td>
+</tr>
+
+<tr>
+<td><i>Anta&#365; unu semajno.</i></td>
+<td>A week ago.</td>
+</tr>
+
+<tr>
+<td><i>Post du tagoj.</i></td>
+<td>In two days.</td>
+</tr>
+
+<tr>
+<td><i>Li venos &#309;a&#365;don.</i></td>
+<td>He will come on Thursday.</td>
+</tr>
+
+<tr>
+<td><i>Pasigu al mi la panon, mi petas vin.</i></td>
+<td>Pass me the bread, I beg you (please).</td>
+</tr>
+
+<tr>
+<td><i>Estas li mem!</i></td>
+<td>It is himself!</td>
+</tr>
+
+<tr>
+<td><i>Tiom pli bone</i></td>
+<td>So much the better!</td>
+</tr>
+
+<tr>
+<td><i>Oni diras, ke...</i></td>
+<td>They say, that...</td>
+</tr>
+
+<tr>
+<td><i>Neniu tion diras.</i></td>
+<td>Nobody says that.</td>
+</tr>
+
+<tr>
+<td><i>Kio okazis?</i></td>
+<td>What has happened?</td>
+</tr>
+
+<tr>
+<td><i>&#264;u vi konas Sinjoron A.?</i></td>
+<td>Do you know Mr. A.?</td>
+</tr>
+
+<tr>
+<td><i>Mi scias, kiu li estas, sed mi ne konas lin.</i></td>
+<td>I know who he is, but I do not know him.</td>
+</tr>
+
+<tr>
+<td><i>&#264;u estas leteroj por mi?</i></td>
+<td>Are there letters for me?</td>
+</tr>
+
+<tr>
+<td><i>Rapidu.</i></td>
+<td>Be quick.</td>
+</tr>
+
+<tr>
+<td><i>Ne diru tion.</i></td>
+<td>Do not say that.</td>
+</tr>
+
+<tr>
+<td><i>Ne faru tion.</i></td>
+<td>Do not do that.</td>
+</tr>
+
+<tr>
+<td><i>Kia estas la vetero? Kian veteron ni havas?</i></td>
+<td>What kind of weather is it?</td>
+</tr>
+
+<tr>
+<td><i>Pluvas; ne&#285;as.</i></td>
+<td>It rains; it snows.</td>
+</tr>
+
+<tr>
+<td><i>Pluvis la tutan nokton.</i></td>
+<td>It rained all night long.</td>
+</tr>
+
+<tr>
+<td><i>Estas beld, varmege.</i></td>
+<td>It is fine, hot.</td>
+</tr>
+
+<tr>
+<td><i>&#264;u mi tion faru?</i></td>
+<td>Shall I do that?</td>
+</tr>
+</table>
+</center>
+
+<hr align="center" width="38%">

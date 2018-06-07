@@ -1,0 +1,65 @@
+---
+title: "" #"Lesson 37 - Por. Pro."
+author: "" #"JLAUro"
+date: "" #"May 21, 2017"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+<br/><br/>
+
+<center><b>LESSON 37.</b></center>
+
+<center><b>Por. Pro.</b></center>
+
+<p><b>Por</b> means <i>for, in order to, for the purpose of, for
+the benefit of</i>, as <i>Li a&#265;etis inkon por skribi</i>, He
+bought ink in order to write. Por is one of the three
+prepositions used before verbs in the Infinitive.</p>
+
+<p><b>Pro</b> means <i>for, because of, on account of, for the
+sake of</i> (cause), as <i>Li demandis &#349;in, pro kio &#349;i
+ploras</i>, He asked her, for what (reason or cause) she
+weeps.</p>
+
+<p><b>Por</b> looks <i>forward</i> to the aim or purpose of the
+action, to that which comes after the action, while <i>pro</i>
+looks <i>back</i> to what came before the action and caused it to
+be done, as <i>Mi man&#285;as</i> pro <i>malsato</i> por
+<i>vivi</i>, I eat because of hunger in order to live.</p>
+
+<!-- =============================077.png============================ -->
+<center>
+<table cellspacing="8">
+<caption><b>Vocabulary.</b></caption>
+
+<tr>
+<td nowrap valign="top"><i>ofico</i>, office.<br>
+ <i>mastro</i>, master.<br>
+ <i>kafo</i>, coffee.<br>
+ <i>bieno</i>, property.<br>
+ <i>ka&#365;zo</i>, cause.</td>
+<td nowrap valign="top"><i>vend-</i>, sell.<br>
+ <i>konvink-</i>, convince.<br>
+ <i>kontenta</i>, content, pleased.<br>
+ <i>sata</i>, satiated.</td>
+</tr>
+</table>
+</center>
+
+<p>Li sin kuracis por resani&#285;i. &#348;i havis multege por
+rakonti. Li iris en la pre&#285;ejon, por fari la konfeson. Por
+iel pasigi la tempon. Neniu pli bone ta&#365;gas por sia ofico,
+ol li. Li uzis &#265;iajn siajn fortojn por kontentigi sian
+mastron. Por mi estas tute egale, kie ajn mi lo&#285;as. Prenu
+(la pagon) por la kafo.</p>
+
+<p>Li mortis pro (a&#365;, de) malsato. Mi havis tre bonan
+bienon, kiu estis vendita pro &#349;uldoj. Pro la &#265;ielo, ne
+faru tion &#265;i. Li estis konvinkita, ke li pro si ne devas
+timi. Pro tio &#265;i Venus lumas pli forte, ol multaj aliaj
+steloj. &#264;u pro tio, a&#365; &#265;u pro ia alia ka&#365;zo,
+mi ne scias.</p>

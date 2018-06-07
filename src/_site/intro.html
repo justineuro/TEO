@@ -1,0 +1,638 @@
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+
+<meta charset="utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="generator" content="pandoc" />
+
+
+
+
+<title></title>
+
+<script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link href="site_libs/bootstrap-3.3.5/css/bootstrap.min.css" rel="stylesheet" />
+<script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<script src="site_libs/navigation-1.1/tabsets.js"></script>
+<link href="site_libs/font-awesome-4.5.0/css/font-awesome.min.css" rel="stylesheet" />
+
+
+
+
+<style type="text/css">
+h1 {
+  font-size: 34px;
+}
+h1.title {
+  font-size: 38px;
+}
+h2 {
+  font-size: 30px;
+}
+h3 {
+  font-size: 24px;
+}
+h4 {
+  font-size: 18px;
+}
+h5 {
+  font-size: 16px;
+}
+h6 {
+  font-size: 12px;
+}
+.table th:not([align]) {
+  text-align: left;
+}
+</style>
+
+<link rel="stylesheet" href="bootstrap/bootstrap-cerulean-grn99.min.css" type="text/css" />
+
+</head>
+
+<body>
+
+<style type = "text/css">
+.main-container {
+  max-width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+}
+code {
+  color: inherit;
+  background-color: rgba(0, 0, 0, 0.04);
+}
+img {
+  max-width:100%;
+  height: auto;
+}
+.tabbed-pane {
+  padding-top: 12px;
+}
+button.code-folding-btn:focus {
+  outline: none;
+}
+</style>
+
+
+<style type="text/css">
+/* padding for bootstrap navbar */
+body {
+  padding-top: 51px;
+  padding-bottom: 40px;
+}
+/* offset scroll position for anchor links (for fixed navbar)  */
+.section h1 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+
+.section h2 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.section h3 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.section h4 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.section h5 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.section h6 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+</style>
+
+<script>
+// manage active state of menu based on current page
+$(document).ready(function () {
+  // active menu anchor
+  href = window.location.pathname
+  href = href.substr(href.lastIndexOf('/') + 1)
+  if (href === "")
+    href = "index.html";
+  var menuAnchor = $('a[href="' + href + '"]');
+
+  // mark it active
+  menuAnchor.parent().addClass('active');
+
+  // if it's got a parent navbar menu mark it active as well
+  menuAnchor.closest('li.dropdown').addClass('active');
+});
+</script>
+
+
+<div class="container-fluid main-container">
+
+<!-- tabsets -->
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+</script>
+
+<!-- code folding -->
+
+
+
+
+
+
+<div class="navbar navbar-default  navbar-fixed-top" role="navigation">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="index.html">The Esperanto Teacher</a>
+    </div>
+    <div id="navbar" class="navbar-collapse collapse">
+      <ul class="nav navbar-nav">
+        <li>
+  <a href="index.html">
+    <span class="fa fa-star"></span>
+     
+    About
+  </a>
+</li>
+<li class="dropdown">
+  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">
+    Lessons: 0-10
+     
+    <span class="caret"></span>
+  </a>
+  <ul class="dropdown-menu" role="menu">
+    <li>
+      <a href="intro.html"> 0</a>
+    </li>
+    <li>
+      <a href="lesson1.html"> 1</a>
+    </li>
+    <li>
+      <a href="lesson2.html"> 2</a>
+    </li>
+    <li>
+      <a href="lesson3.html"> 3</a>
+    </li>
+    <li>
+      <a href="lesson4.html"> 4</a>
+    </li>
+    <li>
+      <a href="lesson5.html"> 5</a>
+    </li>
+    <li>
+      <a href="lesson6.html"> 6</a>
+    </li>
+    <li>
+      <a href="lesson7.html"> 7</a>
+    </li>
+    <li>
+      <a href="lesson8.html"> 8</a>
+    </li>
+    <li>
+      <a href="lesson9.html"> 9</a>
+    </li>
+    <li>
+      <a href="lesson10.html">10</a>
+    </li>
+  </ul>
+</li>
+<li class="dropdown">
+  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">
+    11-20
+     
+    <span class="caret"></span>
+  </a>
+  <ul class="dropdown-menu" role="menu">
+    <li>
+      <a href="lesson11.html">11</a>
+    </li>
+    <li>
+      <a href="lesson12.html">12</a>
+    </li>
+    <li>
+      <a href="lesson13.html">13</a>
+    </li>
+    <li>
+      <a href="lesson14.html">14</a>
+    </li>
+    <li>
+      <a href="lesson15.html">15</a>
+    </li>
+    <li>
+      <a href="lesson16.html">16</a>
+    </li>
+    <li>
+      <a href="lesson17.html">17</a>
+    </li>
+    <li>
+      <a href="lesson18.html">18</a>
+    </li>
+    <li>
+      <a href="lesson19.html">19</a>
+    </li>
+    <li>
+      <a href="lesson20.html">20</a>
+    </li>
+  </ul>
+</li>
+<li class="dropdown">
+  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">
+    21-30
+     
+    <span class="caret"></span>
+  </a>
+  <ul class="dropdown-menu" role="menu">
+    <li>
+      <a href="lesson21.html">21</a>
+    </li>
+    <li>
+      <a href="lesson22.html">22</a>
+    </li>
+    <li>
+      <a href="lesson23.html">23</a>
+    </li>
+    <li>
+      <a href="lesson24.html">24</a>
+    </li>
+    <li>
+      <a href="lesson25.html">25</a>
+    </li>
+    <li>
+      <a href="lesson26.html">26</a>
+    </li>
+    <li>
+      <a href="lesson27.html">27</a>
+    </li>
+    <li>
+      <a href="lesson28.html">28</a>
+    </li>
+    <li>
+      <a href="lesson29.html">29</a>
+    </li>
+    <li>
+      <a href="lesson30.html">30</a>
+    </li>
+  </ul>
+</li>
+<li class="dropdown">
+  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">
+    31-40
+     
+    <span class="caret"></span>
+  </a>
+  <ul class="dropdown-menu" role="menu">
+    <li>
+      <a href="lesson31.html">31</a>
+    </li>
+    <li>
+      <a href="lesson32.html">32</a>
+    </li>
+    <li>
+      <a href="lesson33.html">33</a>
+    </li>
+    <li>
+      <a href="lesson34.html">34</a>
+    </li>
+    <li>
+      <a href="lesson35.html">35</a>
+    </li>
+    <li>
+      <a href="lesson36.html">36</a>
+    </li>
+    <li>
+      <a href="lesson37.html">37</a>
+    </li>
+    <li>
+      <a href="lesson38.html">38</a>
+    </li>
+    <li>
+      <a href="lesson39.html">39</a>
+    </li>
+    <li>
+      <a href="lesson40.html">40</a>
+    </li>
+  </ul>
+</li>
+<li class="dropdown">
+  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">
+    41-45+
+     
+    <span class="caret"></span>
+  </a>
+  <ul class="dropdown-menu" role="menu">
+    <li>
+      <a href="lesson41.html">41</a>
+    </li>
+    <li>
+      <a href="lesson42.html">42</a>
+    </li>
+    <li>
+      <a href="lesson43.html">43</a>
+    </li>
+    <li>
+      <a href="lesson44.html">44</a>
+    </li>
+    <li>
+      <a href="lesson45.html">45</a>
+    </li>
+    <li>
+      <a href="lesson46.html">Words in Sentences</a>
+    </li>
+    <li>
+      <a href="lesson47.html">Common Useful Expressions</a>
+    </li>
+    <li>
+      <a href="lesson48.html">Letters</a>
+    </li>
+  </ul>
+</li>
+<li class="dropdown">
+  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">
+    More
+     
+    <span class="caret"></span>
+  </a>
+  <ul class="dropdown-menu" role="menu">
+    <li>
+      <a href="keytoexer.html">Key to Exercises</a>
+    </li>
+    <li>
+      <a href="selections.html">Selections</a>
+    </li>
+    <li>
+      <a href="vocabulary.html">Vocabulary</a>
+    </li>
+    <li>
+      <a href="indextet.html">Index</a>
+    </li>
+    <li>
+      <a href="license.html">Project Gutenberg License</a>
+    </li>
+    <li>
+      <a href="addExercises.html">Additional Exercises</a>
+    </li>
+  </ul>
+</li>
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        
+      </ul>
+    </div><!--/.nav-collapse -->
+  </div><!--/.container -->
+</div><!--/.navbar -->
+
+<div class="fluid-row" id="header">
+
+
+
+
+</div>
+
+
+<p><br/><br/></p>
+<!-- =============================008.png============================ -->
+<center>
+<b>THE ALPHABET.</b>
+</center>
+<center>
+<b>SOUNDS OF THE LETTERS.</b>
+</center>
+<p>
+In Esperanto each letter has only one sound, and each sound is represented in only one way. The words are pronounced exactly as spelt, every letter being sounded.
+</p>
+<p>
+Those <b>consonants</b> which in English have one simple sound only are exactly the same in Esperanto; they are—<i>b, d, f, k, l, m, n, p, r, t, v, z</i> (<i>r</i> must be well rolled).
+</p>
+<p>
+<i>q, w, x, y</i> are not used.
+</p>
+<p>
+<i>c, g, h, s</i>, which in English represent more than one sound, and <i>j</i> are also used with the mark ˆ—
+</p>
+<center>
+<i>c ĉ, g ĝ, h ĥ, j ĵ, s ŝ.</i>
+</center>
+<p>
+<b>c</b> (whose two English sounds are represented by <i>k</i> and <i>s</i>) has the sound of <i>ts</i>, as in i<i>ts</i>, <i>ts</i>ar.
+</p>
+<p>
+<b>ĉ</b> like <i>ch</i>, <i>tch</i>, in <i>ch</i>ur<i>ch</i>, ma<i>tch</i>.
+</p>
+<p>
+<b>g</b> hard, as in <i>g</i>o, <i>g</i>i<i>g</i>, <i>g</i>un.
+</p>
+<p>
+<b>ĝ</b> soft, as in <i>g</i>entle, <i>g</i>em, or like <i>j</i> in <i>j</i>ust, <i>J</i>ew.
+</p>
+<p>
+<b>h</b> well breathed, as in <i>h</i>orse, <i>h</i>ome, <i>h</i>ow.
+</p>
+<p>
+<b>ĥ</b> strongly breathed, and in the throat, as in the Scotch word lo<i>ch</i>. (Ask any Scotsman to pronounce it). <i>ĥ</i> occurs but seldom. It is the Irish <i>gh</i> in lou<i>gh</i>, and the Welsh <i>ch</i>.
+</p>
+<p>
+<b>j</b> like <i>y</i> in <i>yes, you</i>, or <i>j</i> in <i>hallelujah, fjord.</i>
+</p>
+<p>
+<b>ĵ</b> like <i>s</i> in pleasure, or the French <i>j</i>, as in <i>dejeuner, Jean d’Arc.</i>
+</p>
+<p>
+<b>s</b> like <i>ss</i> in a<i>ss</i>, le<i>ss</i>, never like <i>s</i> in ro<i>s</i>e.
+</p>
+<p>
+<b>ŝ</b> like <i>sh</i> in <i>sh</i>e, <i>sh</i>all, <i>sh</i>ip, or <i>s</i> in <i>s</i>ugar, <i>s</i>ure.
+</p>
+<p>
+In newspapers, etc., which have not the proper type, <i>ĉ, ĝ, ĥ, ĵ, ŝ</i> are often replaced by <i>ch, gh, hh, jh, sh</i>, or by <i>c’, g’, h’, j’, s’</i>, and <i>ŭ</i> by <i>u</i>.
+</p>
+<!-- =============================009.png============================ -->
+<p>
+<b>ŭ</b> is also a consonant, and has the sound of <i>w</i> in <i>we</i>, as <i>Eŭropo</i>, or <i>u</i> in <i>persuade</i>.
+</p>
+<p>
+The <b>vowels</b> <i>a, e, i, o, u</i> have not the English, but the Continental sounds.
+</p>
+<p>
+<b>a</b> always like <i>a</i> in <i>a</i>h! or in t<i>a</i>rt.
+</p>
+<p>
+<b>e</b> like <i>e</i> in b<i>e</i>nd, but broader, like <i>e</i> in th<i>e</i>re.
+</p>
+<p>
+<b>i</b> is a sound between <i>ee</i> in m<i>ee</i>t and <i>i</i> in <i>i</i>s.
+</p>
+<p>
+<b>o</b> like <i>o</i> in f<i>o</i>r, or in the Scottish <i>no</i>, or <i>au</i> in <i>au</i>ght.
+</p>
+<p>
+<b>u</b> like <i>oo</i> in b<i>oo</i>t, p<i>oo</i>r.
+</p>
+<p>
+<i>a, e, i, o, u</i> are all <i>simple</i> sounds, that is, the mouth is kept in one position while they are being sounded. In learning them lengthen them out, and be careful not to alter the position of the mouth, however long they are drawn out. In the compound sounds given below the shape of the mouth changes; to get the correct pronunciation sound each letter fully and distinctly, gradually bringing them closer until they run together, when they become almost as follows:—
+</p>
+<p>
+<b>aj</b> nearly like <i>ai</i> in <i>ai</i>sle, or <i>i</i> in n<i>i</i>ce, f<i>i</i>ne.
+</p>
+<p>
+<b>ej</b> nearly like <i>ei</i> in v<i>ei</i>n.
+</p>
+<p>
+<b>oj</b> nearly like <i>oy</i> in b<i>oy</i>, or <i>oi</i> in v<i>oi</i>d.
+</p>
+<p>
+<b>uj</b> nearly like <i>uj</i> in hallel<i>uj</i>ah.
+</p>
+<p>
+<b>aŭ</b> like <i>ahw</i>, or nearly <i>ou</i> in h<i>ou</i>se, pronounced broadly, ha<i>ou</i>se.
+</p>
+<p>
+<b>eŭ</b> like <i>ehw</i>, or <i>ey w</i> in th<i>ey w</i>ere, <i>ayw</i> in w<i>ayw</i>ard.
+</p>
+<p>
+Practise saying <i>aja, eja, oja, uja, aŭa, eŭa</i> several times quickly. Then gradually drop the final <i>a</i>.
+</p>
+<center>
+<b>Accent.</b>
+</center>
+<p>
+The accent or stress is always placed on the syllable before the last, as es-<i>pe</i>-ro, es-pe-<i>ran</i>-to, es-pe-ran-<i>tis</i>-to, es-pe-ran-tis-<i>ti</i>-no; <i>ju</i>-na, ju-<i>nu</i>-lo, ju-nu-<i>la</i>-ro. All the syllables must be clearly pronounced, not slurred over.
+</p>
+<!-- =============================010.png============================ -->
+<center>
+<b>Exercise in Pronounciation.</b>
+</center>
+<p>
+<b>a</b> (as in b<i>a</i>th), <i>pat</i>-ra, <i>la</i>-na, a-<i>gra</i>-bla, mal-<i>var</i>-ma, <i>kla</i>-ra, pa-<i>fa</i>-do.
+</p>
+<p>
+<b>e</b> (as in b<i>e</i>nd), <i>be</i>-la, m<i>e</i>m, fe-<i>nes</i>-tro, ven-<i>dre</i>-do, tre-<i>e</i>-ge, le-<i>te</i>-ro.
+</p>
+<p>
+<b>i</b> (as in s<i>ee</i>), mi, <i>i</i>-li, i-<i>mi</i>-ti, vi-<i>zi</i>-ti, <i>trin</i>-ki, in-<i>sis</i>-ti.
+</p>
+<p>
+<b>o</b> (as in f<i>o</i>r), <i>ho</i>-mo, <i>ro</i>-zo, ko-<i>lom</i>-bo, <i>dor</i>-mo (the <i>r</i> rolled), <i>mor</i>-to, po-<i>po</i>-lo.
+</p>
+<p>
+<b>u</b> (as in b<i>oo</i>t), <i>u</i>-nu, dum, <i>bru</i>-lu, sur-<i>tu</i>-to, vul-<i>tu</i>-ro, mur-<i>mur</i>-i.
+</p>
+<p>
+<b>aj</b> (as in n<i>i</i>ce), ajn, kaj, r<i>aj</i>-to, taj-<i>lo</i>-ro, <i>faj</i>-ro, <i>be</i>-laj.
+</p>
+<p>
+<b>ej</b> (as in pl<i>ay</i>), <i>vej</i>-no, <i>hej</i>-mo, plej, <i>hej</i>-to.
+</p>
+<p>
+<b>oj</b> (as in b<i>oy</i>), <i>pat</i>-roj, <i>foj</i>-no, <i>ho</i>-mojn, <i>koj</i>-no, <i>soj</i>-lo, <i>kon</i>-koj.
+</p>
+<p>
+<b>uj</b> (as in hallel<i>uj</i>ah), tuj, <i>ĉi</i>-uj, <i>ti</i>-uj.
+</p>
+<p>
+<b>aŭ</b> (as in c<i>ow</i>), <i>an</i>-taŭ, <i>laŭ</i>-bo, fraŭ-<i>li</i>-no, <i>kaŭ</i>-zi, aŭs- <i>kul</i>-tu, <i>aŭ</i>-di.
+</p>
+<p>
+<b>eŭ</b> (like ehw), Eŭ-<i>ro</i>-po, neŭ-ral-<i>gi</i>-o, Eŭ-kar-<i>is</i>-to, reŭ-ma-<i>tis</i>-mo.
+</p>
+<p>
+<b>c</b> (= ts, bi<i>ts</i>), <i>ce</i>-lo, fa-<i>ci</i>-la (=<i>fa-tsee-la</i>), be-<i>le</i>-co (<i>be-le-tso</i>), ofi-<i>ci</i>-ro, <i>pa</i>-co, ci-ko-<i>ni</i>-o, <i>co</i>-lo.
+</p>
+<p>
+<b>ĉ</b> (= tch, ma<i>tch</i>), ĉu, eĉ, ĉe, <i>ĉam</i>-bro, <i>ĉer</i>-pi, <i>tran</i>-ĉi, <i>ri</i>-ĉa.
+</p>
+<p>
+<b>g</b> (as in <i>g</i>ood), <i>lon</i>-ga, <i>le</i>-gi, ge-<i>nu</i>-o, <i>gen</i>-to, <i>gli</i>-ti, <i>gro</i>-so.
+</p>
+<p>
+<b>ĝ</b> (as in <i>g</i>em), <i>ĝe</i>-mi, ĝis, ĝar-<i>de</i>-no, <i>sa</i>-ĝa, <i>man</i>-ĝi, <i>re</i>-ĝo.
+</p>
+<p>
+<b>h</b> (breathed), <i>ha</i>-ro, hi-<i>run</i>-do, ha-<i>rin</i>-go, his-to-<i>ri</i>-o, he-<i>de</i>-ro, <i>him</i>-no.
+</p>
+<p>
+<b>ĥ</b> (in throat), ĥe-<i>mi</i>-o, ĥo-<i>le</i>-ro, me-ĥa-<i>ni</i>-ko, <i>e</i>-ĥo, ĥa-<i>o</i>-so.
+</p>
+<p>
+<b>j</b> (like y), <i>ju</i>-na, ma-<i>jes</i>-ta, sin-<i>jo</i>-ro, ka-<i>je</i>-ro, jes, ja.
+</p>
+<p>
+<b>ĵ</b> (= zh), bon-<i>aĵ</i>-o, <i>ĵe</i>-ti, ĵur-<i>na</i>-lo, ĵus, <i>ĵaŭ</i>-do, ĵa-<i>lu</i>-zo.
+</p>
+<p>
+<b>s</b> (ss), <i>su</i>-per, ses, <i>sta</i>-ri, trans, ves-<i>pe</i>-ro, <i>svin</i>-gi.
+</p>
+<p>
+<b>ŝ</b> (sh), <i>fre</i>-ŝa, <i>ŝe</i>-lo, <i>ku</i>-ŝi, <i>ŝtu</i>-po, <i>ŝvi</i>-ti, <i>ŝve</i>-li.
+</p>
+<!-- =============================011.png============================ -->
+<p>
+<b>kz</b>, ek-<i>zer</i>-co, ek-<i>zem</i>-plo, ek-za-<i>me</i>-no, ek-ze-<i>ku</i>-ti, ek-<i>zi</i>-li, ek-<i>zis</i>-ti.
+</p>
+<p>
+<b>kv</b>, kvar, kvin, kvi-<i>e</i>-ta, <i>kvan</i>-kam, <i>kver</i>-ko, <i>kva</i>-zaŭ.
+</p>
+<p>
+<b>gv</b>, <i>gvi</i>-di, <i>lin</i>-gvo.
+</p>
+<p>
+<b>kn</b>, <i>kna</i>-bo, <i>kne</i>-di.
+</p>
+<p>
+<b>sc</b> (sts), <i>sci</i>-o (sts-ee-o), <i>sce</i>-no (stse-no), <i>scep</i>-tro, eks-<i>ci</i>-ti (eks-<i>tsee</i>-tee), eks-cel-<i>en</i>-co (eks-tsel-<i>en</i>-tso), sci-<i>en</i>-co (stsee-en-tso).
+</p>
+<p>
+<i>cen</i>-to, <i>sen</i>-to; <i>ce</i>-lo, <i>se</i>-lo, <i>ŝe</i>-lo; <i>co</i>-lo, <i>ko</i>-lo; ci, ĉi; ec, eĉ; <i>kru</i>-co, <i>kru</i>-ĉo; <i>pa</i>-go, <i>pa</i>-ĝo; <i>re</i>-gi, <i>re</i>-ĝi; <i>se</i>-gi, <i>se</i>-ĝo; <i>ho</i>-ro, <i>ĥo</i>-ro; <i>pe</i>-si, <i>pe</i>-zi; <i>ste</i>-lo, <i>ŝte</i>-lo; <i>san</i>-go, <i>ŝan</i>-go; <i>ver</i>-so, <i>ver</i>-ŝi; dis-<i>i</i>-ri, dis-<i>ŝi</i>-ri; <i>gus</i>-ta, <i>ĝus</i>-ta; <i>stu</i>-po, <i>ŝtu</i>-po; <i>sta</i>-lo, <i>ŝta</i>-lo; <i>pos</i>-to, <i>poŝ</i>-to; re-<i>ser</i>-vi, re-<i>zer</i>-vi; ru-<i>ĝi</i>-gi, ru-<i>ĉi</i>-ĝi; ri-<i>ĉi</i>-gi, ri-<i>ĉi</i>-ĝi, ri-<i>ĉe</i>-co; <i>fti</i>-zo.
+</p>
+<p>
+a-<i>e</i>-ro, oce-<i>a</i>-no, fe-<i>i</i>-no, <i>ĝu</i>-i, pe-<i>re</i>-i, pe-<i>re</i>-u; fo-<i>i</i>-ro, <i>ĉi</i>-u-<i>ja</i>-ra, <i>vo</i>-joj, tro-<i>u</i>-zi, for-<i>ram</i>-pi, ku-<i>i</i>-ri; <i>skva</i>-mo, zo-o-lo-<i>gi</i>-o, en-<i>u</i>-i, de-<i>tru</i>-u, <i>ŝpru</i>-ci, ru-<i>i</i>-ni; Jan-u-<i>a</i>-ro, Feb-ru-<i>a</i>-ro, li-<i>e</i>-no, ho-<i>di</i>-aŭ, hi-<i>e</i>-raŭ, Hun-gár-<i>u</i>-jo, Ne-a-<i>po</i>-lo, sci-<i>u</i>-ro.
+</p>
+<hr align="center" width="38%">
+<p>
+<span style="font-variant: small-caps;">Note.</span>—A useful mnemonic for the Esperanto vowels is p<i>a</i>r, p<i>ea</i>r, p<i>ie</i>r, p<i>or</i>e, p<i>oo</i>r, but the sounds should not be dragged. It is helpful to note that the English words <i>mate, reign, pane, bend; meet, beat, feel, lady; grow, loan, soft; mute, yes, mule</i> (as pronounced in London and South of England), would be written in Esperanto thus:—<i>mejt, rejn, pejn, bend; mijt, bijt, fijl, lejdi; groŭ, loŭn, soft; mjut, jes, mjul</i>.
+</p>
+
+
+
+
+</div>
+
+<script>
+
+// add bootstrap table styles to pandoc tables
+function bootstrapStylePandocTables() {
+  $('tr.header').parent('thead').parent('table').addClass('table table-condensed');
+}
+$(document).ready(function () {
+  bootstrapStylePandocTables();
+});
+
+
+</script>
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src  = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+
+</body>
+</html>

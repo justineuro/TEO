@@ -1,0 +1,72 @@
+---
+title: "" #"Lesson 17 - Words"
+author: "" #"JLAUro"
+date: "" #"May 21, 2017"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+<br/><br/>
+
+<center><b>LESSON 17.</b></center>
+
+<!-- =============================044.png============================ -->
+<p>Participles can be used as adverbs <i>when they refer to the
+subject</i>, and <i>tell some circumstance about the action</i>,
+as "Walking along the street, John saw your friend." "Walking
+along the street" tells the <i>circumstance</i> under which the
+subject, John, saw your friend; therefore "walking" is
+adverbial&mdash;"<i>Promenante sur la strato, Johano vidis vian
+amikon.</i>" If it were the friend who was walking, it must be
+"<i>Johano vidis vian amikon, promenantan sur la strato.</i>"</p>
+
+<p>(Examine in this way the sentences in the following
+exercise).</p>
+
+<center>
+<table cellspacing="8">
+<caption><b>Vocabulary.</b></caption>
+
+<tr>
+<td nowrap valign="top"><i>braceleto</i>, bracelet.<br>
+ <i>&#349;telisto</i>, thief.<br>
+ <i>vorto</i>, word.<br>
+ <i>duko</i>, duke.<br>
+ <i>juvelo</i>, jewel.<br>
+ <i>juvelujo</i>, jewel-case.<br>
+ <i>dolaro</i>, dollar.<br>
+ <i>instruo</i>, instruction.<br>
+ <i>planko</i>, floor.<br>
+ <i>imperiestro</i>, emperor.<br>
+ <i>okazo</i>, opportunity, occurrence, chance.<br>
+ <i>serv-</i>, serve.</td>
+<td nowrap valign="top"><i>medit-</i>, meditate.<br>
+ <i>port-</i>, carry.<br>
+ <i>demand-</i>, ask.<br>
+ <i>&#349;par-</i>, save.<br>
+ <i>edzi&#285;-</i>, marry.<br>
+ <i>hont-</i>, be ashamed.<br>
+ <i>ir-</i>, go.<br>
+ <i>profunda</i>, deep.<br>
+ <i>kelka</i>, some.<br>
+ <i>ia</i>, some (kind), any (kind).<br>
+ <i>kredeble</i>, probably.<br>
+ <i>trans</i>, across.<br>
+ <i>tio &#265;i</i>, this (thing).</td>
+</tr>
+</table>
+</center>
+
+<p>Promenante sur la strato, mi falis. Trovinte pomon, mi
+&#285;in man&#285;is. Li venis al mi tute ne atendite. Li iris
+tre meditante kaj tre malrapide. Ni hontis, ricevinte instruon de
+la knabo. La imperiestra servanto eliris, portante kun si la
+braceleton. Profunde salutante, li rakontis, ke oni kaptis la
+&#349;teliston. Ne dirante vorton, la dukino malfermis sian
+juvelujon. Laborinte unu jaron, kaj &#349;parinte kelkajn
+dolarojn, mi edzi&#285;is kun mia Mario. Transirinte la riveron,
+li trovis la &#349;teliston. Rigardinte okaze la plankon, &#349;i
+vidis ian libron, forgesitan kredeble de elirinta veturanto.</p>

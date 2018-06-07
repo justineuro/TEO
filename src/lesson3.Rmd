@@ -1,0 +1,68 @@
+---
+title: "" #"Lesson 3 - Words"
+author: "" #"JLAUro"
+date: "" #"May 18, 2017"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+<br/><br/>
+
+<center><b>LESSON 3.</b></center>
+
+<p>When the name (noun) is required to denote more than one of
+the persons or things for which it stands, <b>j</b> is added to
+it, as <i>rozoj</i>, roses; <i>kolomboj</i>, pigeons; and then
+every "describing" word (adjective) which belongs to it must also
+have <i>j</i>, as <i>ru&#285;aj rozoj</i>, red roses; <i>la
+kolomboj estas belaj</i>, the pigeons are beautiful.</p>
+
+<p>(When the noun stands for "more than one," it is said to be
+<span style="font-variant: small-caps">plural</span>. <b>j</b> is
+the sign of the plural).</p>
+
+<!-- Yes, in the original, PLURAL wasn't smallcapped precisely as others. -->
+<!-- =============================015.png============================ -->
+<center>
+<table cellspacing="8">
+<caption><b>Vocabulary.</b></caption>
+
+<tr>
+<td nowrap valign="top"><i>j<b>a</b>ro</i>, year.<br>
+ <i>k<b>a</b>nto</i>, song.<br>
+ <i>kn<b>a</b>bo</i>, boy.<br>
+ <i>lil<b>i</b>o</i>, lily.<br>
+ <i>tran&#265;<b>i</b>lo</i>, knife.<br>
+ <i>dento</i>, tooth.</td>
+<td nowrap valign="top"><i>agr<b>a</b>bla</i>, agreeable,
+pleasant.<br>
+ <i><b>a</b>kra</i>, sharp.<br>
+ <i>delik<b>a</b>ta</i>, delicate.<br>
+ <i>fl<b>u</b>gas</i>, fly, flies.<br>
+ <i>diligenta</i>, diligent.</td>
+</tr>
+
+<tr>
+<td nowrap valign="top"><i>l<b>u</b>ndo</i>, Monday.<br>
+ <i>m<b>a</b>rdo</i>, Tuesday.<br>
+ <i>merkr<b>e</b>do</i>, Wednesday.<br>
+ <i>&#309;<b>a&#365;</b>do</i>, Thursday.</td>
+<td nowrap valign="top"><i>vendr<b>e</b>do</i>, Friday.<br>
+ <i>sab<b>a</b>to</i>, Saturday.<br>
+ <i>dim<b>a</b>n&#265;o</i>, Sunday.</td>
+</tr>
+</table>
+</center>
+
+<p>La birdoj flugas. La kanto de la birdoj estas agrabla. Kie
+estas la knaboj? La patroj estas sanaj. Infanoj ne estas maturaj
+homoj. Leonoj estas fortaj. La manoj de Johano estas puraj. Jen
+estas la kajeroj de la junaj fra&#365;linoj. La onkloj estas pli
+ri&#265;aj, ol la fratoj. La hundoj estas tre fidelaj. Blankaj
+paperoj ku&#349;as sur la tablo. En la &#265;ambro estas novaj
+&#265;apeloj. Kie estas la akraj tran&#265;iloj? Bonaj infanoj
+estas diligentaj. Jen ku&#349;as puraj, blankaj, delikataj
+lilioj. La dentoj de leonoj estas akraj.</p>

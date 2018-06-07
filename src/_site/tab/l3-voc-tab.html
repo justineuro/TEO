@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html>
+<!--
+URLs:	https://css-tricks.com/snippets/javascript/showhide-element/ (User:Nanobyte)
+		http://stackoverflow.com/questions/19163327/how-do-i-make-a-div-hidden-by-default-using-javascript (User: Luke, david-lee)
+		https://www.w3schools.com/css/css_text.asp
+Date: 17-V-2017
+-->
+
+<head>
+<title>l3-voc-tab</title>
+<meta http-equiv='Content-Type' content='text/html; charset=utf-8'>
+<style>
+a, body { 
+	color: #007700; 
+	font-size: 12px; 
+}	
+
+a:visited { color: #00aa00; }
+
+[id^='tr'] {
+    display: none;
+}
+
+mark {
+    padding: 3px 3px;
+    text-align: left;
+    font-style: italic;
+    font-size: 10px;
+    background-color: #009900;
+    color: white;
+    margin-top: 0px;
+    margin-left: 5px;
+}
+
+</style>
+
+<script type='text/javascript'>
+	function toggle_visibility(id) {
+	var e = document.getElementById(id);
+	e.style.display = ((e.style.display!='block') ? 'block' : 'none');
+	}
+</script>
+</head>
+
+<body>
+<p>
+<h4>Lesson 3 Vocabulary  - The Esperanto Teacher (by Helen Fryer) http://www.gutenberg.org <br/></h4>
+<a id='r0' href='#' onclick="toggle_visibility('tr0');">
+Click for Instructions.</a>
+<div id='tr0'>
+	&nbsp;
+	<mark>Click on each link to toggle the English translation.  
+	Reload page to turn off all translations.</mark>
+</div>
+</p>
+
+<table width='100%' border='5px' cellspacing='5px' cellpadding='5px'>
+	<tr id='r1'>
+			<td align='center' valign='middle'><a id='item1' href='#r0' onclick="toggle_visibility('tr1');">jaro</a>
+						<div id='tr1'><mark> year</mark></div></td>
+
+			<td align='center' valign='middle'><a id='item2' href='#r0' onclick="toggle_visibility('tr2');">kanto</a>
+						<div id='tr2'><mark> song</mark></div></td>
+
+			<td align='center' valign='middle'><a id='item3' href='#r0' onclick="toggle_visibility('tr3');">knabo</a>
+						<div id='tr3'><mark> boy</mark></div></td>
+
+			<td align='center' valign='middle'><a id='item4' href='#r0' onclick="toggle_visibility('tr4');">lilio</a>
+						<div id='tr4'><mark> lily</mark></div></td>
+	</tr>
+	<tr id='r1'>
+
+			<td align='center' valign='middle'><a id='item5' href='#r1' onclick="toggle_visibility('tr5');">tranĉilo</a>
+						<div id='tr5'><mark> knife</mark></div></td>
+
+			<td align='center' valign='middle'><a id='item6' href='#r1' onclick="toggle_visibility('tr6');">dento</a>
+						<div id='tr6'><mark> tooth</mark></div></td>
+
+			<td align='center' valign='middle'><a id='item7' href='#r1' onclick="toggle_visibility('tr7');">agrabla</a>
+						<div id='tr7'><mark> agreeable, pleasant</mark></div></td>
+
+			<td align='center' valign='middle'><a id='item8' href='#r1' onclick="toggle_visibility('tr8');">akra</a>
+						<div id='tr8'><mark> sharp</mark></div></td>
+	</tr>
+	<tr id='r2'>
+
+			<td align='center' valign='middle'><a id='item9' href='#r2' onclick="toggle_visibility('tr9');">delikata</a>
+						<div id='tr9'><mark> delicate</mark></div></td>
+
+			<td align='center' valign='middle'><a id='item10' href='#r2' onclick="toggle_visibility('tr10');">flugas</a>
+						<div id='tr10'><mark> fly, flies</mark></div></td>
+
+			<td align='center' valign='middle'><a id='item11' href='#r2' onclick="toggle_visibility('tr11');">diligenta</a>
+						<div id='tr11'><mark> diligent</mark></div></td>
+
+			<td align='center' valign='middle'><a id='item12' href='#r2' onclick="toggle_visibility('tr12');">lundo</a>
+						<div id='tr12'><mark> Monday</mark></div></td>
+	</tr>
+	<tr id='r3'>
+
+			<td align='center' valign='middle'><a id='item13' href='#r3' onclick="toggle_visibility('tr13');">mardo</a>
+						<div id='tr13'><mark> Tuesday</mark></div></td>
+
+			<td align='center' valign='middle'><a id='item14' href='#r3' onclick="toggle_visibility('tr14');">merkredo</a>
+						<div id='tr14'><mark> Wednesday</mark></div></td>
+
+			<td align='center' valign='middle'><a id='item15' href='#r3' onclick="toggle_visibility('tr15');">ĵaŭdo</a>
+						<div id='tr15'><mark> Thursday</mark></div></td>
+
+			<td align='center' valign='middle'><a id='item16' href='#r3' onclick="toggle_visibility('tr16');">vendredo</a>
+						<div id='tr16'><mark> Friday</mark></div></td>
+	</tr>
+	<tr id='r4'>
+
+			<td align='center' valign='middle'><a id='item17' href='#r4' onclick="toggle_visibility('tr17');">sabato</a>
+						<div id='tr17'><mark> Saturday</mark></div></td>
+
+			<td align='center' valign='middle'><a id='item18' href='#r4' onclick="toggle_visibility('tr18');">dimanĉo</a>
+						<div id='tr18'><mark> Sunday</mark></div></td>
+
+	</tr>
+</table>
+</body>
+</html>
+

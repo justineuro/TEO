@@ -1,0 +1,3237 @@
+---
+title: "" #"51 - Vocabulary"
+author: "" #"JLAUro"
+date: "" #"May 21, 2017"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+<br/><br/>
+
+<!-- =============================136.png============================ -->
+<center><b>FOREWORD TO SUPPLEMENTARY VOCABULARY.</b></center>
+
+<p>As this Vocabulary is intended for those who have worked
+through the preceding lessons, it is not a full vocabulary, but
+only supplementary to those already given, and the words
+contained in those are, as a rule, not repeated here.</p>
+
+<p>In order to get in as many root words as possible, derived
+words and the second word of a pair (<i>e.g.</i>, male or female,
+opposites, the action and the tool, the animal and its young,
+etc.) are generally omitted; the simple word or one of the pair
+being found, the other word is to be formed from it by means of
+the proper word-ending, prefix or suffix.</p>
+
+<p>In English there are often several words to express the same
+or nearly the same meaning. Want of space prevents these being
+all included; the most important or most commonly used word has
+therefore been chosen; for instance, <i>mercury</i>,
+<i>tranquil</i>, <i>diaphanous</i>, <i>suffocate</i>,
+<i>salve</i>, <i>renown</i>, <i>fiddle</i>, are not to be found,
+but <i>quicksilver</i>, <i>calm</i>, <i>translucent</i>,
+<i>smother</i>, <i>ointment</i>, <i>fame</i>, <i>violin</i>, are
+there.</p>
+
+<!-- =============================137.png============================ -->
+<p>A most valuable help to the student is a good <i>English</i>
+dictionary, and if this gives the derivation of the words, the
+interest of the study is greatly increased. The difficulty often
+is, not to find the right Esperanto word, but to know exactly
+what the English word or phrase means. It is the experience of
+most Esperantists that in learning Esperanto their knowledge of
+their own language has become much more thorough. [Footnote: A
+remark made by a student during one lesson was "Well, if we don't
+learn Esperanto, we shall learn English."] For this reason and
+also that this language cannot be learned simply as a matter of
+rote, but demands the exercise of the thinking and reasoning
+powers, [Footnote: To convince an opponent or a doubter of this,
+tell him that "utila" means "useful," and "mal" denotes the
+contrary; then ask what "malutila" means. The answer will almost
+certainly be "useless." Then show that the contrary of a good
+quality is not merely the absence of that quality, but is a bad
+quality, and therefore the contrary of "useful" is "harmful."]
+Esperanto ought to be taught in all schools.</p>
+
+<!-- =============================138.png============================ -->
+<center><b>VOCABULARY.</b></center>
+
+<center><b>A</b></center>
+
+<b>abbot,</b> abato.<br>
+<b>abdomen,</b> ventro.<br>
+<b>ability,</b> kapablo, povo, lerteco, talento.<br>
+<b>able (to be),</b> povi.<br>
+<b>abolish,</b> neniigi, forigi.<br>
+<b>abomination,</b> abomeno.<br>
+<b>abroad,</b> eksterlande.<br>
+<b>absent (to be),</b> foresti.<br>
+<b>absolve,</b> senkulpigi, senpekigi.<br>
+<b>absorb,</b> absorbi; sorbi.<br>
+<b>abstain,</b> deteni sin.<br>
+<b>abuse,</b> insult'i, -o; trouzi; malbonuzi.<br>
+<b>abyss,</b> abismo, profundega&#309;o.<br>
+<b>accent,</b> akcent'i, -o; supersigno.<br>
+<b>accept,</b> akcepti, alpreni.<br>
+<b>accident,</b> malfeli&#265;a&#309;o, okazo.<br>
+<b>account,</b> kalkulo; rakonto; konto. <b>on&mdash;of,</b>
+pro.<br>
+<b>accuse,</b> kulpigi, akuzi.<br>
+<b>ace,</b> aso.<br>
+<b>ache,</b> dolor'o, -i.<br>
+<b>acknowledge,</b> konfesi.<br>
+<b>acorn,</b> glano.<br>
+<b>acquaint,</b> sciigi.<br>
+<b>acquainted, become&mdash;with,</b> konati&#285;i kun.<br>
+<b>acquire,</b> akiri, atingi.<br>
+<b>acquit,</b> senkulpigi.<br>
+<b>acrid,</b> akra, morda, pika.<br>
+<b>act,</b> ag'i, -o; far'i, -o; le&#285;o; akto.<br>
+<b>action,</b> agado; (<i>law</i>) proceso.<br>
+<b>active,</b> agema, aktiva.<br>
+<b>actor,</b> aktoro.<br>
+<b>actual,</b> nuna, efektiva.<br>
+<b>adapt,</b> alfari.<br>
+<b>add,</b> aldoni, kunmeti, sumigi.<br>
+<b>address,</b> alparoli al; sin turni al; (<i>letters</i>)
+adresi.<br>
+<b>adhere,</b> ali&#285;i, alglui&#285;i al.<br>
+<b>adjourn,</b> prokrasti.<br>
+<b>admit,</b> allasi, konfesi.<br>
+<b>adopt,</b> alpreni, fil (-in) -igi.<br>
+<b>adore,</b> adori, amegi.<br>
+<b>adult,</b> plenkresk'a, plena&#285;'a.<br>
+<b>adulterate,</b> falsi.<br>
+<b>adultery,</b> adulto.<br>
+<b>advantage,</b> utilo, profito, bona&#309;o.<br>
+<b>advertise,</b> anonci, reklami.<br>
+<b>advice,</b> konsilo.<br>
+<b>affair,</b> afero.<br>
+<b>affected (to be),</b> afekti.<br>
+<b>affiliate,</b> ali&#285;i, filii&#285;i.<br>
+<b>afternoon,</b> posttagmezo.<br>
+<b>again,</b> re-, ree, denove.<br>
+<b>agenda,</b> tagordo, programo.<br>
+<b>agent,</b> agento.<br>
+<b>agile,</b> facilmova.<br>
+<b>agitate,</b> agiti.<br>
+<b>agony,</b> dolorego, (<i>death</i>&mdash;) agonio.<br>
+<b>agree,</b> konscnti, interkonsenti.<br>
+<!-- =============================139.png============================ -->
+<b>agreeable,</b> afabla, agrabla.<br>
+<b>agreement,</b> kontrakto, interkonsento.<br>
+<b>agriculture,</b> terkulturo.<br>
+<b>aim,</b> cel'o, -i.<br>
+<b>air,</b> aero, aerumi; mieno; ario.<br>
+<b>aisle,</b> flanka&#309;o.<br>
+<b>alarm,</b> maltrankviligi; alarmo.<br>
+<b>alder,</b> alno.<br>
+<b>alert,</b> vigla.<br>
+<b>alien,</b> alilandulo, eksterlandulo.<br>
+<b>alike,</b> simila, egala.<br>
+<b>alive,</b> vivanta, viva.<br>
+<b>alleviate,</b> plidol&#265;igi, malpliigi.<br>
+<b>allow,</b> permesi.<br>
+<b>allowance,</b> porcio; (a/c) rabato; dekalkulo.<br>
+<b>allude,</b> aludi.<br>
+<b>almanac,</b> almanako, kalendaro.<br>
+<b>almighty,</b> &#265;iopova.<br>
+<b>almond,</b> migdalo.<br>
+<b>alms,</b> almozo.<br>
+<b>alone,</b> sola.<br>
+<b>along,</b> la&#365;longe.<br>
+<b>aloud,</b> la&#365;te, vo&#265;e.<br>
+<b>alternate,</b> alterni.<br>
+<b>amazement,</b> mirego.<br>
+<b>amber,</b> sukceno.<br>
+<b>ambition,</b> ambicio.<br>
+<b>ambush,</b> embusko.<br>
+<b>amiable,</b> afabla, aminda.<br>
+<b>amputate,</b> detran&#265;i, amputi.<br>
+<b>amuse,</b> amuzi.<br>
+<b>anarchy,</b> anar&#293;io.<br>
+<b>ancestors,</b> praavoj, prapatroj.<br>
+<b>ancient,</b> antikva.<br>
+<b>anecdote,</b> anekdoto.<br>
+<b>angel,</b> an&#285;elo.<br>
+<b>angle,</b> angulo; fi&#349;i.<br>
+<b>animal,</b> besto.<br>
+<b>ankle,</b> maleolo.<br>
+<b>anniversary,</b> datreveno.<br>
+<b>announce,</b> anonci.<br>
+<b>annoy,</b> &#265;agreni, &#285;eni.<br>
+<b>annual,</b> &#265;iujara.<br>
+<b>annul,</b> nuligi.<br>
+<b>anoint,</b> sanktolei, &#349;miri.<br>
+<b>anonymous,</b> anonima, sennoma<br>
+<b>ant,</b> formiko.<br>
+<b>anthem,</b> antemo.<br>
+<b>anvil,</b> amboso.<br>
+<b>anxious,</b> maltrankvila.<br>
+<b>apathetic,</b> apatia.<br>
+<b>aperture,</b> malferma&#309;o, aperturo.<br>
+<b>apologise,</b> peti pardonon.<br>
+<b>apparatus,</b> aparato.<br>
+<b>appeal,</b> alvoki; (law) apelacio.<br>
+<b>appear,</b> aperi; &#349;ajni.<br>
+<b>appearance,</b> vidi&#285;o; &#349;ajno, mieno.<br>
+<b>appetite,</b> apetito.<br>
+<b>applaud,</b> apla&#365;di.<br>
+<b>apply,</b> almeti; sin turni al.<br>
+<b>appoint,</b> nomi, difini.<br>
+<b>appreciate,</b> &#349;ati.<br>
+<b>approach,</b> alproksimi&#285;i.<br>
+<b>approve,</b> aprobi.<br>
+<b>apricot,</b> abrikoto.<br>
+<b>apron,</b> anta&#365;tuko.<br>
+<b>arable,</b> plugebla, semota&#365;ga.<br>
+<b>arbitrary,</b> arbitra.<br>
+<b>arbitration,</b> arbitracio.<br>
+<b>arbour,</b> la&#365;bo.<br>
+<b>arch,</b> arko; arkefleksi.<br>
+<b>argue,</b> argumenti.<br>
+<b>arithmetic,</b> aritmetiko.<br>
+<b>arm,</b> brako, <b>-pit,</b> akselo; armi.<br>
+<b>arms,</b> armiloj, bataliloj.<br>
+<b>aroma,</b> aromo.<br>
+<b>arouse,</b> veki.<br>
+<b>arrange,</b> aran&#285;i.<br>
+<b>arrest,</b> aresti.<br>
+<b>arrive,</b> alveni.<br>
+<b>arrogant,</b> aroganta<br>
+<b>arrow,</b> sago.<br>
+<b>art,</b> arto.<br>
+<b>artery,</b> arterio.<br>
+<b>artful,</b> ruza.<br>
+<!-- =============================140.png============================ -->
+<b>artichoke,</b> arti&#349;oko.<br>
+<b>article,</b> artikolo, komerca&#309;o.<br>
+<b>artificial,</b> artefarita, arta.<br>
+<b>artifice,</b> artifiko.<br>
+<b>artisan,</b> metiisto.<br>
+<b>artist,</b> artisto.<br>
+<b>ascertain,</b> konstati.<br>
+<b>ash,</b> cindro, (<i>tree</i>) frakseno.<br>
+<b>ask,</b> demandi. <b>-for,</b> peti.<br>
+<b>asparagus,</b> asparago.<br>
+<b>aspect,</b> aspekto, vidi&#285;o, fazo.<br>
+<b>aspen,</b> tremolo.<br>
+<b>ass,</b> azeno.<br>
+<b>assemble,</b> kunveni, kunvoki.<br>
+<b>assert,</b> aserti, konstati.<br>
+<b>assign,</b> asigni.<br>
+<b>assure,</b> certigi; asekuri.<br>
+<b>astonish,</b> mirigi. (<b>to be -ed</b>), miri.<br>
+<b>astringent,</b> adstringa.<br>
+<b>astute,</b> sagaca.<br>
+<b>asylum,</b> rifu&#285;ejo, azilo.<br>
+<b>athletic,</b> atleta.<br>
+<b>atmosphere,</b> atmosfero.<br>
+<b>atom,</b> atomo.<br>
+<b>attach,</b> alligi, kunigi.<br>
+<b>attain,</b> atingi, trafi.<br>
+<b>attempt,</b> provi; (<i>criminal</i>) atenco.<br>
+<b>attention,</b> atento, (<i>pay</i>&mdash;) atenti.<br>
+<b>attitude,</b> sintenado.<br>
+<b>attract,</b> altiri, logi.<br>
+<b>auction,</b> a&#365;kcio.<br>
+<b>audit,</b> kontkontroli.<br>
+<b>author,</b> a&#365;toro.<br>
+<b>authority,</b> rajto, a&#365;toritato.<br>
+<b>avalanche,</b> lavango.<br>
+<b>avaricious,</b> avara.<br>
+<b>avenue,</b> aleo.<br>
+<b>average,</b> meznombro, mezakvanto.<br>
+<b>avert,</b> deturni.<br>
+<b>avoid,</b> eviti.<br>
+<b>award,</b> al&#309;u&#285;i<br>
+<b>axis,</b> akso.<br>
+<b>axle,</b> akso.<br>
+<b>azure,</b> lazuro.<br>
+
+
+<center><b>B</b></center>
+
+<b>baboon,</b> paviano.<br>
+<b>baby,</b> infaneto.<br>
+<b>bachelor,</b> fra&#365;lo.<br>
+<b>back,</b> dorso, posta flanko.<br>
+<b>backbone,</b> spino.<br>
+<b>bacon,</b> lardo.<br>
+<b>bag,</b> sako.<br>
+<b>bait,</b> alloga&#309;o.<br>
+<b>bake,</b> baki.<br>
+<b>balance,</b> ekvilibri; (<i>of account</i>) resta&#309;o.
+<b>-sheet,</b> bilanco.<br>
+<b>balcony,</b> balkono.<br>
+<b>ball,</b> (<i>play</i>) pilko, (<i>cannon</i>) kuglo,
+(<i>dance</i>) balo.<br>
+<b>balloon,</b> aerostato.<br>
+<b>ballot,</b> baloti, -o.<br>
+<b>balsam,</b> balzamo.<br>
+<b>band,</b> ligilo; bando; orkestro.<br>
+<b>bandage,</b> banda&#285;i.<br>
+<b>banish,</b> ekzili.<br>
+<b>bank,</b> (<i>money</i>) banko; bordodigo.<br>
+<b>banker,</b> bankiero.<br>
+<b>bankrupt,</b> bankroto.<br>
+<b>banner,</b> flago, standardo.<br>
+<b>banquet,</b> festeno.<br>
+<b>baptism,</b> bapto.<br>
+<b>bar,</b> bar'i, -ilo; bufedo.<br>
+<b>barbarian,</b> barbaro.<br>
+<b>barber,</b> barbiro.<br>
+<b>bare,</b> nuda.<br>
+<b>bargain,</b> mar&#265;andi.<br>
+<b>bark,</b> boji; &#349;elo.<br>
+<b>barley,</b> hordeo.<br>
+<b>barrel,</b> barelo. <b>-organ,</b> gurdo.<br>
+<b>barrister,</b> advokato.<br>
+<b>base,</b> bazo; fundamento; malnobla.<br>
+<b>basin,</b> pelvo, kuvo.<br>
+<!-- =============================141.png============================ -->
+<b>basket,</b> korbo.<br>
+<b>bat,</b> vesperto; batilo.<br>
+<b>bath,</b> bano, bankuvo.<br>
+<b>bathe,</b> sin bani.<br>
+<b>beam,</b> radio, trabo, vekto.<br>
+<b>bean,</b> fabo, fazeolo.<br>
+<b>bear,</b> urso; porti; subteni<br>
+<b>beard,</b> barbo.<br>
+<b>beat,</b> bati, vergi, vipi, venki.<br>
+<b>beautiful,</b> bela.<br>
+<b>beaver,</b> kastoro.<br>
+<b>because,</b> &#265;ar, tial ke, pro tio ke.<br>
+<b>bed,</b> lito, ku&#349;ejo, fluejo, florbedo.<br>
+<b>bee,</b> abelo.<br>
+<b>beech,</b> fago.<br>
+<b>beer,</b> biero.<br>
+<b>beet,</b> beto.<br>
+<b>beetle,</b> skarabo, blato.<br>
+<b>beg,</b> peti, almozpeti.<br>
+<b>begin,</b> komenci, ek-.<br>
+<b>behave,</b> konduti.<br>
+<b>behold,</b> rigardi; jen!<br>
+<b>bell,</b> sonorilo.<br>
+<b>below,</b> sube, malsupre.<br>
+<b>belt,</b> zono.<br>
+<b>bench,</b> benko; (<i>joiner's</i>) stablo.<br>
+<b>bend,</b> fleks'i, -i&#285;i; klin'i, -i&#285;i.<br>
+<b>bent,</b> kurb'a, -igita.<br>
+<b>bequeath,</b> testamenti.<br>
+<b>berry,</b> bero.<br>
+<b>besiege,</b> sie&#285;i.<br>
+<b>bet,</b> veti.<br>
+<b>betray,</b> perfidi.<br>
+<b>betrothal,</b> fian&#265;' (-in-) i&#285;o.<br>
+<b>bewitch,</b> sor&#265;i.<br>
+<b>bilberry,</b> mirtelo.<br>
+<b>bile,</b> galo.<br>
+<b>bill,</b> kalkulo; kambio; afi&#349;o; beko.<br>
+<b>billiards,</b> bilardo<br>
+<b>bind,</b> ligi; (books) bindi; banda&#285;i. -<b>weed</b>,
+liano.<br>
+<b>birch,</b> betulo.<br>
+<b>birth,</b> naski&#285;o.<br>
+<b>biscuit,</b> biskvito.<br>
+<b>bishop,</b> episkopo.<br>
+<b>bit,</b> peco; enbu&#349;a&#309;o.<br>
+<b>bite,</b> mordi.<br>
+<b>bitter,</b> akra, maldol&#265;a.<br>
+<b>blackbird,</b> merlo.<br>
+<b>blacking,</b> ciro.<br>
+<b>bladder,</b> veziko.<br>
+<b>blade,</b> klingo; (<i>of grass</i>), folieto<br>
+<b>blaspheme,</b> blasfemi.<br>
+<b>bless,</b> beni.<br>
+<b>blind,</b> blinda. <b>window</b>-, rulkurteno.<br>
+<b>blond,</b> blonda.<br>
+<b>blood,</b> sango.<br>
+<b>blot,</b> makulo.<br>
+<b>blow,</b> blovi; bato, frapo.<br>
+<b>blouse,</b> bluzo.<br>
+<b>blue,</b> blua; -<b>bell</b>, hiacinto, kampanoleto.<br>
+<b>boa-constrictor,</b> boao.<br>
+<b>boast,</b> fanfaroni.<br>
+<b>boat,</b> boato.<br>
+<b>bobbin,</b> bobeno.<br>
+<b>body,</b> korpo.<br>
+<b>bog,</b> mar&#265;o.<br>
+<b>boil,</b> boli; absceso.<br>
+<b>bold,</b> kura&#285;a, sentima.<br>
+<b>bolt,</b> rigl'i, -ilo; bolto.<br>
+<b>bomb,</b> bombo.<br>
+<b>bombard,</b> bombardi.<br>
+<b>bond,</b> obligacio, garantia&#309;o<br>
+<b>bondage,</b> servuto, sklaveco.<br>
+<b>bone,</b> osto.<br>
+<b>bonnet,</b> &#265;apo.<br>
+<b>booth,</b> budo.<br>
+<b>border,</b> rand'o, -a&#309;o; borderi.<br>
+<b>bore,</b> bori; kalibro.<br>
+<b>born,</b> (<b>to be,</b>) naski&#285;i.<br>
+<b>borrow,</b> prunte preni.<br>
+<b>bosom,</b> brusto, sino.<br>
+<b>bottom,</b> fundo, malsupro.<br>
+<b>boundary,</b> limo.<br>
+<b>bouquet,</b> bukedo.<br>
+<b>bow,</b> saluti; kapklini; pafarko; ar&#265;o; banto.<br>
+<!-- =============================142.png============================ -->
+<b>bowels,</b> interna&#309;o, intestaro.<br>
+<b>bowl,</b> pelvo, kuvo.<br>
+<b>box,</b> kesto, skatolo; lo&#285;io; boksi; pugnobati.<br>
+<b>braces,</b> &#349;elko.<br>
+<b>brain,</b> cerbo.<br>
+<b>bran,</b> brano.<br>
+<b>branch,</b> bran&#265;o; filio.<br>
+<b>brass,</b> flava kupro, latuno.<br>
+<b>brave,</b> brava, kura&#285;a.<br>
+<b>breach,</b> bre&#265;o.<br>
+<b>break,</b> rompi, frakasi.<br>
+<b>breakfast,</b> matenman&#285;'i, -o.<br>
+<b>breast,</b> brusto, mamo.<br>
+<b>breathe,</b> spiri.<br>
+<b>bribe,</b> suba&#265;eti.<br>
+<b>brick,</b> briko.<br>
+<b>bridge,</b> ponto.<br>
+<b>bridle,</b> brido.<br>
+<b>bright,</b> hela, brila, gaja.<br>
+<b>bring,</b> alkonduki, alporti.<br>
+<b>broad,</b> lar&#285;a.<br>
+<b>broker,</b> makleristo, (<i>act as&mdash;</i>) makleri.<br>
+<b>brooch,</b> bro&#265;o.<br>
+<b>brood,</b> kovi, kovitaro.<br>
+<b>broth,</b> buljono.<br>
+<b>brown,</b> bruna.<br>
+<b>browse,</b> sin pa&#349;ti.<br>
+<b>bruise,</b> kontuzi; pisti.<br>
+<b>brush,</b> bros'o, -i; balailo; peniko.<br>
+<b>bucket,</b> sitelo.<br>
+<b>buckle,</b> buko.<br>
+<b>bud,</b> bur&#285;ono.<br>
+<b>budget,</b> bud&#285;eto.<br>
+<b>buffet,</b> (<i>restaurant</i>) bufedo.<br>
+<b>bug,</b> cimo.<br>
+<b>build,</b> konstrui.<br>
+<b>bullet,</b> kuglo.<br>
+<b>bullfinch,</b> pirolo.<br>
+<b>bunch,</b> fasketo, aro.<br>
+<b>bundle,</b> fasko.<br>
+<b>bungle,</b> fu&#349;i.<br>
+<b>burden,</b> surpezi, &#349;ar&#285;o.<br>
+<b>bureau,</b> oficejo, kontoro.<br>
+<b>burgess,</b> bur&#285;o.<br>
+<b>burn,</b> brul'i, -igi.<br>
+<b>burrow,</b> kavigi.<br>
+<b>burst,</b> krevi.<br>
+<b>bury,</b> enterigi, enfosi.<br>
+<b>business,</b> afero, okupo, negoco<br>
+<b>busy,</b> okupata, aferema.<br>
+<b>butcher,</b> bu&#265;'i, -isto.<br>
+<b>buttercup,</b> ranunkolo,<br>
+<b>butterfly,</b> papilio.<br>
+<b>buzz,</b> zumi.<br>
+
+
+<center><b>C</b></center>
+
+<b>cab,</b> fiakro; kabrioleto, dro&#349;ko.<br>
+<b>cabbage,</b> brasiko.<br>
+<b>cabin,</b> kajuto, kabano.<br>
+<b>cabinet,</b> &#265;ambreto, kabineto.<br>
+<b>cable,</b> &#349;nurego, kablo.<br>
+<b>cage,</b> ka&#285;o.<br>
+<b>calico,</b> kalikoto.<br>
+<b>calk,</b> kalfatri.<br>
+<b>call,</b> voki, (&mdash;<i>together</i>) kunvoki.<br>
+<b>callosity,</b> kalo.<br>
+<b>calm,</b> kvieta, trankvila.<br>
+<b>camel,</b> kamelo.<br>
+<b>camp,</b> tendaro.<br>
+<b>canary,</b> kanario.<br>
+<b>candid,</b> sincera, verdirema.<br>
+<b>candidate,</b> kandidato, aspiranto.<br>
+<b>cane,</b> kano; bastono; vergi.<br>
+<b>cannon,</b> kanono.<br>
+<b>canon,</b> kanoniko.<br>
+<b>canopy,</b> baldakeno.<br>
+<b>canvas,</b> kanvaso.<br>
+<b>cap,</b> &#265;apo, (<i>milit</i>.) kepo.<br>
+<b>capable,</b> kapabla, kompetenta.<br>
+<b>cape,</b> manteleto; promontoro, terkapo.<br>
+<b>capital,</b> &#265;efurbo; kapitalo; granda litero.<br>
+<!-- =============================143.png============================ -->
+<b>capitalist,</b> kapitalisto.<br>
+<b>capitulate,</b> kapitulaci.<br>
+<b>capsize,</b> renversi&#285;i.<br>
+<b>captain,</b> &#349;ipestro, kapitano.<br>
+<b>capture,</b> kapti.<br>
+<b>car,</b> veturilo, &#265;aro.<br>
+<b>card,</b> karto, <b>-board,</b> kartono.<br>
+<b>carnation,</b> dianto; flavroza.<br>
+<b>carp,</b> karpo; kritika&#309;i.<br>
+<b>carpenter,</b> &#265;arpentisto.<br>
+<b>carpet,</b> tapi&#349;o.<br>
+<b>carriage,</b> veturilo, kale&#349;o, vagono; transporto.<br>
+<b>carrot,</b> karoto.<br>
+<b>cart,</b> &#349;ar&#285;veturilo.<br>
+<b>carve,</b> tran&#265;i; skulpti.<br>
+<b>case,</b> okazo; ujo; kazo; proceso.<br>
+<b>cashier,</b> kasisto.<br>
+<b>cast,</b> &#309;eti, (<i>metal</i>) fandi.<br>
+<b>castle,</b> kastelo.<br>
+<b>catch,</b> kapti.<br>
+<b>caterpillar,</b> ra&#365;po.<br>
+<b>cathedral,</b> katedralo.<br>
+<b>cattle,</b> bruto, brutoj.<br>
+<b>cauliflower,</b> florbrasiko.<br>
+<b>cause,</b> ka&#365;z'i, -o; -igi; afero.<br>
+<b>caution,</b> averti; singardemo.<br>
+<b>cave,</b> kaverno.<br>
+<b>cavil,</b> &#265;ikani.<br>
+<b>caw,</b> graki.<br>
+<b>ceiling,</b> plafono.<br>
+<b>celebrate,</b> festi, soleni,<br>
+<b>celery,</b> celerio.<br>
+<b>cell,</b> &#265;elo, &#265;ambreto.<br>
+<b>cellar,</b> kelo.<br>
+<b>censor,</b> cenzuristo.<br>
+<b>censure,</b> ripro&#265;i.<br>
+<b>ceremony,</b> ceremonio, soleno.<br>
+<b>certain,</b> certa; kelkaj; ia.<br>
+<b>chaff,</b> grenventuma&#309;o.<br>
+<b>chaffinch,</b> fringo.<br>
+<b>chain,</b> &#265;eno.<br>
+<b>chair,</b> se&#285;o. <b>-man,</b> prezidanto.<br>
+<b>chalk,</b> kreto.<br>
+<b>chance,</b> hazardo; riski; okazi; &#349;anco.<br>
+<b>chancellor,</b> kanceliero.<br>
+<b>change,</b> &#349;an&#285;i, aliigi.<br>
+<b>channel,</b> kanalo.<br>
+<b>chaos,</b> &#293;aoso.<br>
+<b>chapel,</b> kapelo, pre&#285;ejeto.<br>
+<b>chapter,</b> &#265;apitro.<br>
+<b>character,</b> karaktero; (<i>drama</i>) rolo.<br>
+<b>charm,</b> &#265;armi; talismano.<br>
+<b>chaste,</b> &#265;asta.<br>
+<b>cheat,</b> trompi.<br>
+<b>check,</b> haltigi; kontroli.<br>
+<b>cheek,</b> vango.<br>
+<b>cheerful,</b> gaja.<br>
+<b>cheese,</b> froma&#285;o,<br>
+<b>chemist,</b> apotekisto, &#293;emiisto.<br>
+<b>cheque,</b> &#265;eko.<br>
+<b>cherry,</b> &#265;erizo.<br>
+<b>chess,</b> &#349;ako.<br>
+<b>chest,</b> brusto; kesto, (<i>of drawers</i>) komodo.<br>
+<b>chestnut,</b> ka&#349;tano, (<i>horse&mdash;</i>) marono.<br>
+<b>chew,</b> ma&#265;i, (<i>&mdash;cud</i>) rema&#265;adi.<br>
+<b>chicory,</b> cikorio.<br>
+<b>chief,</b> &#265;ef'o, -a.<br>
+<b>chimney,</b> kamentubo.<br>
+<b>chin,</b> mentono.<br>
+<b>china,</b> porcelano.<br>
+<b>chirp,</b> pepi; (<i>insects</i>) &#265;irpi.<br>
+<b>chisel,</b> &#265;iz'i, -ilo.<br>
+<b>chocolate,</b> &#265;okolado.<br>
+<b>choir,</b> &#293;oro.<br>
+<b>choke,</b> sufoki.<br>
+<b>chop,</b> haki; koteleto.<br>
+<b>chronicle,</b> kroniko.<br>
+<b>church,</b> pre&#285;ejo.<br>
+<b>cigarette,</b> cigaredo.<br>
+<b>circle,</b> rondo, cirklo.<br>
+<b>circular,</b> (<i>letter</i>), cirkulero.<br>
+<b>circumference,</b> &#265;irka&#365;o.<br>
+<b>circus,</b> cirko.<br>
+<b>city,</b> civito, urbo.<br>
+<b>citizen,</b> urbano, bur&#285;o, civitano, regnano.<br>
+<!-- =============================144.png============================ -->
+<b>civil,</b> civila, &#285;entila.<br>
+<b>civilize,</b> civilizi.<br>
+<b>claim,</b> pretendi, postuli.<br>
+<b>clap,</b> (<i>hands</i>) manfrapi, pla&#365;di.<br>
+<b>class,</b> kurso; (<i>sort</i>) klaso.<br>
+<b>classify,</b> ordigi, klasifiki.<br>
+<b>claw,</b> ungego.<br>
+<b>clay,</b> argilo.<br>
+<b>clergyman,</b> pastro.<br>
+<b>clerk,</b> oficisto, kontoristo, komizo.<br>
+<b>clever,</b> lerta.<br>
+<b>cliff,</b> kruta&#309;o.<br>
+<b>climate,</b> klimato.<br>
+<b>climb,</b> grimpi, suprenrampi.<br>
+<b>clink,</b> tinti.<br>
+<b>cloak,</b> mantelo.<br>
+<b>clod,</b> bulo.<br>
+<b>closet,</b> necesejo; &#265;ambreto.<br>
+<b>cloth,</b> drapo; (<i>a</i>&mdash;) tuko.<br>
+<b>clothe,</b> vesti.<br>
+<b>cloud,</b> nubo.<br>
+<b>clover,</b> trifolio.<br>
+<b>club,</b> klubo, (<i>cards</i>) trefo.<br>
+<b>clue,</b> postesigno.<br>
+<b>coal,</b> karbo.<br>
+<b>coast,</b> marbordo.<br>
+<b>coat,</b> vesto; <b>-tail</b>, basko.<br>
+<b>cockle,</b> kardio.<br>
+<b>cocoa,</b> kakao; <b>-nut</b>, kokoso.<br>
+<b>cod,</b> gado, moruo.<br>
+<b>coffee,</b> kafo.<br>
+<b>coffin,</b> &#265;erko.<br>
+<b>coil,</b> rula&#309;o, volva&#309;o.<br>
+<b>coin,</b> monero.<br>
+<b>coke,</b> koakso.<br>
+<b>colander,</b> kribrilo,<br>
+<b>cold,</b> malvarm'a, -umo.<br>
+<b>colleague,</b> kolego.<br>
+<b>collect,</b> kolekti, amasigi.<br>
+<b>collective,</b> opa.<br>
+<b>college,</b> kolegio.<br>
+<b>colony,</b> kolonio.<br>
+<b>colour,</b> koloro.<br>
+<b>comb,</b> kombi; (<i>fowl</i>'s) kresto.<br>
+<b>combine,</b> kombin'i, -i&#285;i, kun'igi, -i&#285;i.<br>
+<b>come,</b> veni.<br>
+<b>comfort,</b> komforti, konsoli.<br>
+<b>comic,</b> komika, ridinda.<br>
+<b>comma,</b> komo.<br>
+<b>command,</b> ordoni, komandi.<br>
+<b>comment,</b> komentar'i, -o.<br>
+<b>commerce,</b> komerco, negoco.<br>
+<b>commission,</b> komisi'i, -o; (<i>sell on</i>&mdash;)
+makleri.<br>
+<b>committee,</b> komitato.<br>
+<b>common,</b> komuna, ordinara, vulgara; erikejo, step'o,
+-eto.<br>
+<b>commune,</b> komunumo.<br>
+<b>communicate,</b> komuniki.<br>
+<b>companion,</b> kunulo.<br>
+<b>company,</b> anaro, kompanio, societo, trupo, roto.<br>
+<b>compare,</b> kompari.<br>
+<b>compartment,</b> fako.<br>
+<b>compass,</b> (<i>mariners'</i>&mdash;) kompaso;
+(<i>drawing</i>) cirkelo.<br>
+<b>compel,</b> devigi.<br>
+<b>compensate,</b> kompensi<br>
+<b>complete,</b> konkuri.<br>
+<b>complaint,</b> plendi.<br>
+<b>complete,</b> plen'a, -igi.<br>
+<b>compliment,</b> kompliment'o, -i.<br>
+<b>compose,</b> verki; komposti.<br>
+<b>compositor,</b> kompostisto.<br>
+<b>comrade,</b> kamarado.<br>
+<b>concern,</b> koncerni; zorgo; rilati al.<br>
+<b>concrete,</b> konkreta.<br>
+<b>concussion,</b> skuego.<br>
+<b>condemn,</b> kondamni.<br>
+<b>condition,</b> kondi&#265;o; stato.<br>
+<b>condole,</b> kondolenci.<br>
+<b>confectioner,</b> konfitisto.<br>
+<b>conference,</b> konferenco.<br>
+<b>confirm,</b> konfirmi.<br>
+<b>confiscate,</b> konfiski.<br>
+<b>conflict,</b> konflikto.<br>
+<b>conform,</b> konformi.<br>
+<!-- =============================145.png============================ -->
+<b>confuse,</b> konfuzi.<br>
+<b>congratulate,</b> gratuli.<br>
+<b>congregation,</b> kongregacio.<br>
+<b>congress,</b> kongreso.<br>
+<b>conjure,</b> &#309;ongli.<br>
+<b>conscience,</b> konscienco.<br>
+<b>conscious,</b> konsci'a, -<b>ness</b>, 'o.<br>
+<b>consequence,</b> sekvo.<br>
+<b>conservative,</b> konservativa.<br>
+<b>consider,</b> pripensi, konsideri.<br>
+<b>consistent,</b> konsekvenca.<br>
+<b>consonant,</b> konsonanto.<br>
+<b>constipation,</b> mallakso.<br>
+<b>consult,</b> konsili&#285;i kun.<br>
+<b>consume,</b> konsumi.<br>
+<b>consumption,</b> (<i>disease</i>) ftizo.<br>
+<b>contact,</b> kontakto.<br>
+<b>contain,</b> enhavi, enteni.<br>
+<b>content,</b> kontenta.<br>
+<b>continue,</b> da&#365;ri, -igi.<br>
+<b>contract,</b> kontrakti; kuntir'i, -i&#285;i.<br>
+<b>contrary,</b> kontra&#365;o, malo.<br>
+<b>contrast,</b> kontrasti.<br>
+<b>contrive,</b> elpensi.<br>
+<b>control,</b> estri, regi.<br>
+<b>convenient,</b> oportuna.<br>
+<b>conversation,</b> interparolado, konversacio.<br>
+<b>convict,</b> kondamnito.<br>
+<b>convince,</b> konvinki.<br>
+<b>convolvulus,</b> konvolvolo.<br>
+<b>convulse,</b> konvulsio, spasmo.<br>
+<b>copper,</b> kupro.<br>
+<b>copy,</b> kopii; ekzemplero.<br>
+<b>coral,</b> koralo.<br>
+<b>cord,</b> &#349;nuro.<br>
+<b>core,</b> kora&#309;o, interna&#309;o.<br>
+<b>cork,</b> korko; &#349;topi,<br>
+<b>corn,</b> greno; (<i>foot</i>), kalo.<br>
+<b>corner,</b> angulo.<br>
+<b>correct,</b> korekti; &#285;usta, senerara.<br>
+<b>correspond,</b> korespondi.<br>
+<b>corrode,</b> mordeti.<br>
+<b>corset,</b> korseto.<br>
+<b>costume,</b> kostumo.<br>
+<b>cotton,</b> (<i>raw</i>), kotono; (<i>manuf</i>.) katuno.<br>
+<b>cough,</b> tusi.<br>
+<b>council,</b> konsilantaro.<br>
+<b>count,</b> kalkuli; grafo.<br>
+<b>country,</b> lando; kamparo.<br>
+<b>courage,</b> kura&#285;o.<br>
+<b>course,</b> kuro; kurso. <b>of</b>&mdash;, kompreneble.<br>
+<b>court,</b> korto, (<i>royal</i>&mdash;) kortego; ju&#285;ejo;
+amindumi.<br>
+<b>covetous,</b> avida.<br>
+<b>crab,</b> krabo, kankro.<br>
+<b>crack,</b> fendi, kraki, krev'i, -igi.<br>
+<b>cradle,</b> lulilo.<br>
+<b>crafty,</b> ruza.<br>
+<b>crane,</b> gruo, &#349;ar&#285;levilo.<br>
+<b>crape,</b> krepo.<br>
+<b>crater,</b> kratero.<br>
+<b>cravat,</b> kravato.<br>
+<b>creature,</b> esta&#309;o, kreita&#309;o.<br>
+<b>credit,</b> kredito.<br>
+<b>creed,</b> kredo.<br>
+<b>creep,</b> rampi.<br>
+<b>crest,</b> tufo, kresto.<br>
+<b>crevice,</b> fendo.<br>
+<b>cricket,</b> grilo; (<i>game</i>) kriketo.<br>
+<b>crime,</b> krimo.<br>
+<b>crippled,</b> kripla.<br>
+<b>crisis,</b> krizo.<br>
+<b>criticism,</b> kritiko.<br>
+<b>crochet,</b> kro&#265;eti.<br>
+<b>crocodile,</b> krokodilo, aligatoro.<br>
+<b>cross,</b> kruco, trans' -iri, -pasi. &mdash;<b>out</b>,
+streki.<br>
+<b>croup,</b> krupo.<br>
+<b>crow,</b> korniko.<br>
+<b>crowd,</b> amaso.<br>
+<b>crown,</b> krono; (<i>of head</i>) verto.<br>
+<b>cruel,</b> kruela.<br>
+<b>cruise,</b> krozi.<br>
+<b>crumple,</b> &#265;ifi.<br>
+<b>crust,</b> krusto.<br>
+<!-- =============================146.png============================ -->
+<b>crutch,</b> lambastono.<br>
+<b>cry,</b> krii, ekkrii, plori; (<i>of animals</i>) bleko.<br>
+<b>crystal,</b> kristalo.<br>
+<b>cube,</b> kubo.<br>
+<b>cuckoo,</b> kukolo.<br>
+<b>cucumber,</b> kukumo.<br>
+<b>cuff,</b> manumo; frapo.<br>
+<b>cultivate,</b> kulturi.<br>
+<b>cunning,</b> ruza.<br>
+<b>cup,</b> taso, kaliko.<br>
+<b>cupboard,</b> &#349;ranko.<br>
+<b>cure,</b> resanigi; (<i>bacon, etc</i>.) pekli.<br>
+<b>curious,</b> scivola, stranga, kurioza.<br>
+<b>curl,</b> buklo.<br>
+<b>currant,</b> ribo, sekvinbereto (korinta).<br>
+<b>current,</b> fluo.<br>
+<b>curtain,</b> kurteno.<br>
+<b>curved,</b> kurba, fleksita, nerekta.<br>
+<b>cushion,</b> kuseno.<br>
+<b>customer,</b> kliento.<br>
+<b>cutlet,</b> kotleto.<br>
+<b>cycle,</b> ciklo.<br>
+<b>cyclone,</b> ciklono.<br>
+<b>Czar,</b> Caro.<br>
+
+
+<center><b>D</b></center>
+
+<b>daffodil,</b> narciso.<br>
+<b>daily,</b> &#265;iutaga.<br>
+<b>dainty,</b> franda&#309;o; frandema delikata,<br>
+<b>daisy,</b> lekant'o, -eto.<br>
+<b>dam,</b> digo, akvo&#349;topilo.<br>
+<b>damage,</b> difekti.<br>
+<b>dance,</b> danc'i, -o; balo.<br>
+<b>dandelion,</b> leontodo.<br>
+<b>dare,</b> kura&#285;i.<br>
+<b>darn,</b> fliki.<br>
+<b>date,</b> dato; (<i>fruit</i>) daktilo.<br>
+<b>dawn,</b> tagi&#285;o.<br>
+<b>dead,</b> senviva, mortinta. -ly, pereiga.<br>
+<b>dear,</b> kara, multekosta.<br>
+<b>debauch,</b> dibo&#265;o.<br>
+<b>debris,</b> rub'o, -a&#309;o.<br>
+<b>debt,</b> &#349;uldo, (<i>be in</i>&mdash;) &#349;uldi.<br>
+<b>decipher,</b> de&#265;ifri.<br>
+<b>deck,</b> ferdeko; ornami.<br>
+<b>declaration,</b> deklaracio.<br>
+<b>decoration,</b> ornama&#309;o; ordeno.<br>
+<b>decree,</b> dekreto, mandate.<br>
+<b>decrepit,</b> kaduka.<br>
+<b>dedicate,</b> dedi&#265;i.<br>
+<b>deed,</b> ago, faro, fara&#309;o, farita&#309;o;
+dokumento.<br>
+<b>deep,</b> profunda; (<i>sound</i>) basa.<br>
+<b>deer,</b> cervo.<br>
+<b>defeat,</b> venki, malvenko.<br>
+<b>defend,</b> defendi.<br>
+<b>defer,</b> prokrasti.<br>
+<b>deficiency,</b> deficito, malsufi&#265;eco.<br>
+<b>defile,</b> intermonto; malpurigi.<br>
+<b>define,</b> difini.<br>
+<b>definite,</b> definitiva.<br>
+<b>degenerate,</b> degeneri.<br>
+<b>degree,</b> grado.<br>
+<b>Deity,</b> Dia&#309;o, Dieco.<br>
+<b>delay,</b> prokrasti.<br>
+<b>delegate,</b> deleg'i, -ito.<br>
+<b>delicate,</b> delikata.<br>
+<b>delightful,</b> &#265;arma, rava.<br>
+<b>delirium,</b> delir'o, (<i>be in</i>) -i.<br>
+<b>deliver,</b> savi, liberigi; (<i>goods</i>) liveri.<br>
+<b>deluge,</b> superakvego, diluvo.<br>
+<b>den,</b> nestego, kaverno.<br>
+<b>denounce,</b> denunci.<br>
+<b>deny,</b> nei, malkonfesi.<br>
+<b>depart,</b> foriri.<br>
+<b>department,</b> fako.<br>
+<b>depend,</b> dependi.<br>
+<b>derive,</b> devenigi.<br>
+<b>descendant,</b> ido, posteulo.<br>
+<b>describe,</b> priskribi.<br>
+<!-- =============================147.png============================ -->
+<b>desert,</b> dezerto; forlasi; forkuri de.<br>
+<b>desk,</b> pupitro.<br>
+<b>despatch,</b> ekspedi, depe&#349;o.<br>
+<b>dessert,</b> deserto.<br>
+<b>destine,</b> (for), difini (por).<br>
+<b>destroy,</b> detrui.<br>
+<b>detail,</b> detalo.<br>
+<b>detriment,</b> malutilo, perdo.<br>
+<b>develop,</b> plivastigi, disvolv'-i, -i&#285;i, (<i>phot</i>.)
+aperigi.<br>
+<b>devil,</b> diablo, demono.<br>
+<b>devoted,</b> sindona.<br>
+<b>devout,</b> pia.<br>
+<b>dew,</b> roso.<br>
+<b>dexterous,</b> lerta.<br>
+<b>dial,</b> ciferplato.<br>
+<b>diarrhoea,</b> lakso.<br>
+<b>dice,</b> ludkuboj.<br>
+<b>dictate,</b> dikti.<br>
+<b>dictionary,</b> vortaro.<br>
+<b>die,</b> morti.<br>
+<b>differ,</b> diferenci.<br>
+<b>digest,</b> digesti.<br>
+<b>dignity,</b> digno, rango.<br>
+<b>dine,</b> tag', vesper', -man&#285;i.<br>
+<b>dip,</b> trempi, subakvigi.<br>
+<b>diploma,</b> diplomo.<br>
+<b>diplomacy,</b> diplomatio.<br>
+<b>direct,</b> direkti, rekta, senpera.<br>
+<b>disappoint,</b> seniluziigi, &#265;agreni.<br>
+<b>discharge,</b> eligi, eksigi, elpagi.<br>
+<b>disciple,</b> lernanto, dis&#265;iplo.<br>
+<b>discipline,</b> disciplino.<br>
+<b>discount,</b> diskonto, rabato.<br>
+<b>discover,</b> eltrovi.<br>
+<b>discreet,</b> diskreta, singardema.<br>
+<b>discuss,</b> diskuti.<br>
+<b>disease,</b> malsano.<br>
+<b>disguise,</b> alivesti, maski.<br>
+<b>disgust,</b> na&#365;zi.<br>
+<b>dish,</b> plado.<br>
+<b>dislocate,</b> elartikigi.<br>
+<b>dismal,</b> funebra.<br>
+<b>dismay,</b> konsterni.<br>
+<b>dispel,</b> peli, forpeli, dispeli.<br>
+<b>dispose,</b> disponi.<br>
+<b>disposition,</b> inklino, emo.<br>
+<b>dispute,</b> disputi, malpaci.<br>
+<b>dissect,</b> sekci.<br>
+<b>disseminate,</b> dissemi.<br>
+<b>dissolve,</b> solvi.<br>
+<b>distance,</b> interspaco, malproksimeco, distanco.<br>
+<b>distinct,</b> klara.<br>
+<b>distinguish,</b> distingi.<br>
+<b>distract,</b> distri.<br>
+<b>distribute,</b> disdoni.<br>
+<b>district,</b> regiono, kvartalo, distrikto.<br>
+<b>ditch,</b> foso.<br>
+<b>dive,</b> subakvi&#285;i.<br>
+<b>dividends,</b> rento, dividendo.<br>
+<b>divorce,</b> eksedzigi.<br>
+<b>dizziness,</b> kapturni&#285;o.<br>
+<b>do,</b> fari.<br>
+<b>doctor,</b> kuracisto, doktoro.<br>
+<b>doctrine,</b> doktrino, instruo.<br>
+<b>domestic,</b> hejma, doma.<br>
+<b>dose,</b> dozo.<br>
+<b>dot,</b> punkto.<br>
+<b>double,</b> duobl'a, -igi.<br>
+<b>doubt,</b> dubi.<br>
+<b>dough,</b> kneda&#309;o.<br>
+<b>down,</b> lanugo; malsupre.<br>
+<b>dowry,</b> doto.<br>
+<b>drag,</b> treni.<br>
+<b>dragon,</b> drako. <b>-fly</b>, libelo.<br>
+<b>dragoon,</b> dragono.<br>
+<b>drain,</b> defluilego, senakvigi.<br>
+<b>drake,</b> anaso.<br>
+<b>drape,</b> drapiri.<br>
+<b>draught,</b> aerfluo. <b>-s</b> <i>(game)</i> damoj.<br>
+<b>draw,</b> desegni; tiri, (<i>from well</i>) &#265;erpi.<br>
+<b>drawer,</b> tirkesto.<br>
+<!-- =============================148.png============================ -->
+<b>drawers,</b> kalsono, (chest of -s), komodo.<br>
+<b>dream,</b> son&#285;'i, -o; (day-), rev'o, -i.<br>
+<b>dredge,</b> skrapegi.<br>
+<b>dress,</b> robo; vesti, sin vesti.<br>
+<b>drill,</b> bori; ekzerco, manovro.<br>
+<b>drink,</b> trinki, (<i>to excess</i>) drinki.<br>
+<b>drive,</b> veturi; peli. <b>&mdash;away</b>, forpeli.<br>
+<b>droll,</b> ridinda, &#349;erca.<br>
+<b>drone,</b> abelviro; zumi.<br>
+<b>drop,</b> gut'o, -i.<br>
+<b>drown,</b> dron'i, -igi.<br>
+<b>drug,</b> drogo.<br>
+<b>drum,</b> tamburo.<br>
+<b>drunken,</b> ebria.<br>
+<b>dry,</b> seka. <b>&mdash;land</b>, firma&#309;o.<br>
+<b>duck,</b> anasino, anaso.<br>
+<b>duration,</b> da&#365;ro.<br>
+<b>duty,</b> devo, (<i>tax</i>) imposto. <b>be on&mdash;</b>,
+de&#309;ori.<br>
+<b>dwell,</b> lo&#285;i, restadi.<br>
+<b>dye,</b> tinkturi.<br>
+<b>dyke,</b> digo.<br>
+
+
+<center><b>E</b></center>
+
+<b>eager,</b> avida.<br>
+<b>ear,</b> orelo, (<i>corn</i>) spiko.<br>
+<b>earl,</b> grafo.<br>
+<b>early,</b> fru'a, -e.<br>
+<b>earn,</b> perlabori.<br>
+<b>earnest,</b> serioza, diligenta, fervora.<br>
+<b>earth,</b> tero. <b>-quake</b>, tertremo.<br>
+<b>earthenware,</b> fajenco.<br>
+<b>east,</b> oriento.<br>
+<b>easter,</b> Pasko.<br>
+<b>ebony,</b> ebono.<br>
+<b>ecclesiastical,</b> eklezia.<br>
+<b>echo,</b> e&#293;o, resonadi.<br>
+<b>edge,</b> rando, tran&#265;rando, bordo<br>
+<b>edify,</b> edifi.<br>
+<b>edit,</b> redakti.<br>
+<b>edition,</b> eldono.<br>
+<b>editor,</b> redaktoro.<br>
+<b>educate,</b> eduki.<br>
+<b>eel,</b> angilo.<br>
+<b>effect,</b> efiko, efekto.<br>
+<b>effective,</b> efektiva.<br>
+<b>efficacious,</b> efika.<br>
+<b>effort,</b> peno, klopodo.<br>
+<b>eiderduck,</b> molanaso.<br>
+<b>elastic,</b> elast'a, -a&#309;o.<br>
+<b>elbow,</b> kubuto.<br>
+<b>elder,</b> (tree) sambuko.<br>
+<b>elect,</b> elekti, baloti.<br>
+<b>electricity,</b> elektro.<br>
+<b>elegant,</b> eleganta.<br>
+<b>elf,</b> koboldo, elfo.<br>
+<b>elm,</b> ulmo.<br>
+<b>eloquent,</b> elokventa.<br>
+<b>embalm,</b> balzami.<br>
+<b>embrace,</b> &#265;irka&#365;preni, enbrakigi; ampleksi.<br>
+<b>embroider,</b> brodi.<br>
+<b>emerald,</b> smeraldo.<br>
+<b>emigrate,</b> elmigri.<br>
+<b>eminent,</b> eminenta.<br>
+<b>emotion,</b> kortu&#349;eco.<br>
+<b>emphasis,</b> emfazo, akcentego<br>
+<b>empire,</b> imperio.<br>
+<b>enable,</b> ebligi.<br>
+<b>enamel,</b> emajl'o, -i.<br>
+<b>enchant,</b> ravi; ensor&#265;i.<br>
+<b>encore,</b> bis.<br>
+<b>endeavour,</b> klopodi, peni.<br>
+<b>endow,</b> doti.<br>
+<b>endure,</b> da&#365;ri; toleri, suferi.<br>
+<b>energy,</b> energio.<br>
+<b>engine,</b> ma&#349;ino, lokomotivo, motoro.<br>
+<b>engrave,</b> gravuri.<br>
+<b>enjoy,</b> &#285;ui.<br>
+<b>enlist,</b> varbi, rekruti.<br>
+<b>enough,</b> sufi&#265;a, (be&mdash;) sufi&#265;i.<br>
+<b>entangle,</b> impliki.<br>
+<b>enterprise,</b> entrepreno.<br>
+<!-- =============================149.png============================ -->
+<b>entertain,</b> amuzi; regali.<br>
+<b>enthusiasm,</b> entuziasmo.<br>
+<b>entice,</b> logi, allogi.<br>
+<b>entwine,</b> kunplekti.<br>
+<b>envelop,</b> envolvi.<br>
+<b>envelope,</b> koverto.<br>
+<b>environs,</b> &#265;irka&#365;a&#309;o.<br>
+<b>equivalent,</b> ekvivalenta, egala.<br>
+<b>erase,</b> trastreki; forfroti.<br>
+<b>erect,</b> vertikala; rekta; starigi.<br>
+<b>errand,</b> komisio.<br>
+<b>escape,</b> forkuri, forsavi&#285;i.<br>
+<b>establish,</b> fondi, starigi.<br>
+<b>estate,</b> (<i>land</i>) bieno.<br>
+<b>esteem,</b> estimi.<br>
+<b>estimate,</b> taksi.<br>
+<b>eternal,</b> eterna, &#265;iama.<br>
+<b>ethical,</b> etika.<br>
+<b>eve,</b> anta&#365;tago.<br>
+<b>even,</b> e&#265;; parnombra; ebena.<br>
+<b>event,</b> okazo.<br>
+<b>evil,</b> malbono, peko.<br>
+<b>exact,</b> &#285;usta, preciza; postuli.<br>
+<b>examine,</b> ekzameni, esplori.<br>
+<b>examination,</b> ekzameno.<br>
+<b>example,</b> ekzemplo.<br>
+<b>exceed,</b> superi.<br>
+<b>except,</b> krom, esceptinte; escepte.<br>
+<b>exchange,</b> inter&#349;an&#285;i. <b>the&mdash;</b>,
+Borso.<br>
+<b>excite,</b> eksciti.<br>
+<b>exclusive,</b> eksklusiva.<br>
+<b>excursion,</b> ekskurso.<br>
+<b>execute,</b> efektivigi; (&mdash;<i>a criminal</i>),
+ekzekuti.<br>
+<b>exercise,</b> ekzerci. -book, kajero.<br>
+<b>exhaust,</b> konsumi, el&#265;erpi.<br>
+<b>exhibition,</b> ekspozicio.<br>
+<b>exhort,</b> admoni.<br>
+<b>expect,</b> atendi.<br>
+<b>expel,</b> elpeli.<br>
+<b>experience,</b> sperto.<br>
+<b>experiment,</b> eksperimento.<br>
+<b>expert,</b> lerta, kompetenta.<br>
+<b>explode,</b> eksplod'-i, -igi.<br>
+<b>express,</b> esprimi, ekspreso.<br>
+<b>extend,</b> etendi.<br>
+<b>exterminate,</b> ekstermi.<br>
+<b>extinguish,</b> estingi.<br>
+<b>extract,</b> ekstrakti, eltiri.<br>
+<b>extraordinary,</b> eksterordinara.<br>
+<b>eye,</b> okulo. <b>-brow</b>, brovo. <b>-lid</b>,
+palpebro.<br>
+
+
+<center><b>F</b></center>
+
+<b>fable,</b> fablo.<br>
+<b>fact,</b> fakto. <b>in</b>&mdash;, ja, efektive.<br>
+<b>factory,</b> fabrikejo, faktorio.<br>
+<b>fade,</b> velki.<br>
+<b>fail,</b> manki; malprosperi, bankroti.<br>
+<b>faint,</b> sveni.<br>
+<b>fair,</b> foiro; blonda; justa.<br>
+<b>fairy,</b> feino, feo.<br>
+<b>faith,</b> fido, kredo.<br>
+<b>falcon,</b> falko.<br>
+<b>false,</b> falsa, malvera.<br>
+<b>fame,</b> gloro, renomo; famo.<br>
+<b>familiar,</b> kutima, intima.<br>
+<b>family,</b> familio.<br>
+<b>fan,</b> ventum'i, -ilo.<br>
+<b>fare,</b> farti; veturpago.<br>
+<b>farm,</b> farmi (<i>have on lease</i>); farmobieno.<br>
+<b>fashion,</b> modo, maniero, fasono.<br>
+<b>fast,</b> fast'i, -o; rapida.<br>
+<b>fasten,</b> alligi, fiksi,<br>
+<b>fat,</b> gras'a, -o; sebo.<br>
+<b>fatal,</b> fatala, mortiga.<br>
+<b>fate,</b> sorto.<br>
+<b>fathom,</b> sondi, klafto.<br>
+<b>fault,</b> kulpo; difekto; eraro.<br>
+<b>favour,</b> favori, komplezo.<br>
+<b>feast,</b> regalo, festeno; festo.<br>
+<b>feather,</b> plumo.<br>
+<b>feature,</b> trajto.<br>
+<!-- =============================150.png============================ -->
+<b>feed,</b> nutri, man&#285;igi, pa&#349;ti.<br>
+<b>feel,</b> palpi, senti.<br>
+<b>felt,</b> felto.<br>
+<b>female,</b> ino, virinseksa.<br>
+<b>fence,</b> skermi; palisaro.<br>
+<b>ferment,</b> fermenti.<br>
+<b>fern,</b> filiko.<br>
+<b>ferret,</b> &#265;asputoro,<br>
+<b>ferry-boat,</b> pramo.<br>
+<b>fester,</b> ulceri&#285;i, pusi.<br>
+<b>festival,</b> festo.<br>
+<b>feudal,</b> fe&#365;dala.<br>
+<b>fever,</b> febro.<br>
+<b>fibre,</b> fibro.<br>
+<b>fife,</b> fifro.<br>
+<b>fig,</b> figo.<br>
+<b>fight,</b> batal'i, -o.<br>
+<b>figure,</b> cifero; figuro.<br>
+<b>figurative,</b> figura.<br>
+<b>file,</b> fajli, -ilo.<br>
+<b>film,</b> filmo, tavoleto.<br>
+<b>filter,</b> filtr'i, -ilo.<br>
+<b>fin,</b> na&#285;ilo.<br>
+<b>fine,</b> delikata; monpuno.<br>
+<b>fir,</b> abio.<br>
+<b>fire,</b> brulo, fajro; (<i>gun</i>), pafi.<br>
+<b>fireplace,</b> kameno, fajrejo.<br>
+<b>fireworks,</b> artfajra&#309;o.<br>
+<b>firm,</b> firma, fortika; firmo.<br>
+<b>fish,</b> fi&#349;'o, -i, -kapti.<br>
+<b>fist,</b> pugno.<br>
+<b>fit,</b> atako. <b>&mdash;for</b>, ta&#365;ga; konvena,
+deca.<br>
+<b>fix,</b> fiksi.<br>
+<b>flake,</b> floko, ne&#285;ero.<br>
+<b>flame,</b> flami.<br>
+<b>flannel,</b> flanelo.<br>
+<b>flat,</b> plata, ebena; apartamento.<br>
+<b>flatter,</b> flati.<br>
+<b>flavour,</b> gusto.<br>
+<b>flax,</b> lino.<br>
+<b>flea,</b> pulo.<br>
+<b>flesh,</b> (<i>meat</i>), viando; karno.<br>
+<b>flint,</b> siliko.<br>
+<b>flit,</b> flirti.<br>
+<b>float,</b> na&#285;i; surna&#285;i.<br>
+<b>flock,</b> aro, pa&#349;tataro, &#349;afaro.<br>
+<b>flog,</b> skur&#285;i.<br>
+<b>flood,</b> superakvegi.<br>
+<b>floor,</b> planko, eta&#285;o.<br>
+<b>flour,</b> faruno.<br>
+<b>flow,</b> flui.<br>
+<b>flower,</b> flor'o, -i. <b>-bed,</b> bedo.<br>
+<b>fluid,</b> fluajo.<br>
+<b>flutter,</b> flugeti, flirti.<br>
+<b>fly,</b> mu&#349;o; flugi.<br>
+<b>fog,</b> nebulo.<br>
+<b>fold,</b> fald'i, -o.<br>
+<b>follow,</b> sekvi.<br>
+<b>fondle,</b> dorloti, karesi.<br>
+<b>food,</b> nutra&#309;o.<br>
+<b>fool,</b> malsa&#285;ulo.<br>
+<b>foot,</b> piedo; futo. <b>-man,</b> lakeo. <b>-path,</b>
+trotuaro, piedvojeto.<br>
+<b>forage,</b> fura&#285;o.<br>
+<b>forehead,</b> frunto.<br>
+<b>foreign,</b> ali', ekster'-landa, fremda.<br>
+<b>forest,</b> arbarego.<br>
+<b>forge,</b> for&#285;i.<br>
+<b>forget,</b> forgesi. <b>-me-not</b>, miozoto.<br>
+<b>forgive,</b> pardoni.<br>
+<b>formidable,</b> timeginda.<br>
+<b>formulate,</b> formuli.<br>
+<b>fortress,</b> fortika&#309;o.<br>
+<b>fortunate,</b> feli&#265;a.<br>
+<b>foundation,</b> fundamento<br>
+<b>foundry,</b> fandejo.<br>
+<b>fountain,</b> fontano.<br>
+<b>fowl,</b> kortbirdo.<br>
+<b>fox,</b> vulpo.<br>
+<b>frame,</b> kadro.<br>
+<b>freckle,</b> lentugo.<br>
+<b>free,</b> liber'a, -igi; senpaga.<br>
+<b>freeze,</b> frosti&#285;i, glaci'igi, -i&#285;i.<br>
+<b>frequent,</b> ofta; vizitadi.<br>
+<b>fringe,</b> fran&#285;o.<br>
+<b>fritter,</b> frita&#309;o.<br>
+<!-- =============================151.png============================ -->
+<b>frock,</b> vesteto. <b>-coat,</b> surtuto.<br>
+<b>frog,</b> rano.<br>
+<b>frolic,</b> petoli.<br>
+<b>frown,</b> sulk'o, -igi.<br>
+<b>frugal,</b> &#349;parema,<br>
+<b>fruit,</b> frukto. <b>-ful,</b> fruktodona.<br>
+<b>fry,</b> friti, <i>(spawn)</i> frajo, <b>-ing</b> <b>pan,</b>
+pato, fritilo.<br>
+<b>fuel,</b> brula&#309;o, hejta&#309;o.<br>
+<b>fulfil,</b> plenumi.<br>
+<b>fun,</b> &#349;ercado.<br>
+<b>function,</b> funkcio.<br>
+<b>funeral,</b> enterigiro.<br>
+<b>funnel,</b> funelo.<br>
+<b>funny,</b> ridinda.<br>
+<b>fur,</b> felo; <i>(&mdash;coat)</i> pelto.<br>
+<b>furnace,</b> fornego.<br>
+<b>furnish,</b> mebli, provizi.<br>
+<b>furrow,</b> sulko.<br>
+<b>further,</b> pile, plimalproksime.<br>
+<b>fury,</b> furiozo, furio.<br>
+<b>fuse,</b> fandi.<br>
+<b>furniture,</b> mebl'o, -aro.<br>
+<b>future,</b> estonteco.<br>
+
+
+<center><b>G</b></center>
+
+<b>gadfly,</b> tabano.<br>
+<b>gain,</b> gajni, <i>(clock)</i> trorapidi.<br>
+<b>gall,</b> galo. <b>-nut,</b> gajlo.<br>
+<b>gallery,</b> galerio.<br>
+<b>gallop,</b> galopi.<br>
+<b>game,</b> ludo, &#265;asa&#309;o.<br>
+<b>gap,</b> bre&#265;o; manko.<br>
+<b>gargle,</b> gargari.<br>
+<b>garrison,</b> garnizon'o, -i.<br>
+<b>gas,</b> gaso.<br>
+<b>gate,</b> pordego.<br>
+<b>gauze,</b> gazo.<br>
+<b>gelatine,</b> gelateno.<br>
+<b>gem,</b> gemo.<br>
+<b>general,</b> &#285;enerala; generalo.<br>
+<b>generation,</b> generacio.<br>
+<b>generous,</b> malavara.<br>
+<b>genius,</b> genio, geniulo.<br>
+<b>gentle,</b> dol&#265;a, neforta, milda.<br>
+<b>gentleman,</b> sinjoro.<br>
+<b>genus,</b> gento.<br>
+<b>germ,</b> &#285;ermo.<br>
+<b>germinate,</b> &#285;ermi.<br>
+<b>gesture,</b> gesto.<br>
+<b>ghost,</b> fantomo.<br>
+<b>giant,</b> giganto.<br>
+<b>gild,</b> ori, orumi.<br>
+<b>gill,</b> <i>(of fish)</i>, branko.<br>
+<b>gin,</b> &#285;ino.<br>
+<b>ginger,</b> zingibro. -bread, mielkuko.<br>
+<b>gipsy,</b> cigano.<br>
+<b>give,</b> doni, donaci,<br>
+<b>glacier,</b> glaciejo.<br>
+<b>glass,</b> vitro, <b>a&mdash;,</b> glaso.
+<b>looking&mdash;,</b> spegulo.<br>
+<b>glaze,</b> glazuri.<br>
+<b>glorify,</b> glori.<br>
+<b>glove,</b> ganto.<br>
+<b>glow,</b> ardi, brili. <b>-worm,</b> lampiro.<br>
+<b>glue,</b> gluo.<br>
+<b>glycerine,</b> glicerino.<br>
+<b>gnat,</b> kulo.<br>
+<b>gnaw,</b> mordeti.<br>
+<b>goat,</b> kapro.<br>
+<b>goblet,</b> pokalo.<br>
+<b>goblin,</b> koboldo.<br>
+<b>God,</b> Dio.<br>
+<b>gold,</b> oro.<br>
+<b>goldfinch,</b> kardelo.<br>
+<b>golosh,</b> galo&#349;o.<br>
+<b>goodbye,</b> adia&#365;.<br>
+<b>goose,</b> anserino.<br>
+<b>gooseberry,</b> groso.<br>
+<b>gospel,</b> evangelio.<br>
+<b>gout,</b> podagro.<br>
+<b>govern,</b> regi.<br>
+<b>governess,</b> guvernistino<br>
+<b>graceful,</b> gracia.<br>
+<b>gradual,</b> grada, la&#365;grada.<br>
+<b>graft,</b> inokuli, grefti.<br>
+<!-- =============================152.png============================ -->
+<b>grain,</b> grajno, greno.<br>
+<b>grammar,</b> gramatiko.<br>
+<b>grape,</b> vinbero.<br>
+<b>grass,</b> herbo.<br>
+<b>grasshopper,</b> akrido.<br>
+<b>grate,</b> fajrujo; raspi, skrapi.<br>
+<b>grating,</b> krado.<br>
+<b>gravity,</b> pezo.<br>
+<b>gravy,</b> suko.<br>
+<b>grease,</b> graso; &#349;miri.<br>
+<b>great,</b> granda. <b>-coat,</b> palto, gravitoj<br>
+<b>greedy,</b> avida, man&#285;egema.<br>
+<b>green,</b> verda. <b>-house,</b> varmejo.<br>
+<b>greengage,</b> renklodo.<br>
+<b>grey,</b> griza. <b>-hound,</b> leporhundo.<br>
+<b>grill,</b> kradrosti.<br>
+<b>grin,</b> grimaci, rikani.<br>
+<b>grind,</b> mueli; pisti; grinci.<br>
+<b>gristle,</b> kartilago.<br>
+<b>groan,</b> &#285;emi.<br>
+<b>grocer,</b> spicisto.<br>
+<b>grotesque,</b> groteska.<br>
+<b>grotto,</b> groto.<br>
+<b>ground,</b> tero. <b>-floor,</b> tereta&#285;o.<br>
+<b>groundsel,</b> senecio.<br>
+<b>group,</b> grup'o, -igi.<br>
+<b>grouse,</b> tetro.<br>
+<b>grub,</b> larvo.<br>
+<b>guarantee,</b> garantii.<br>
+<b>guard,</b> gardi, (<i>milit.</i>) gvardio.<br>
+<b>gudgeon,</b> gobio.<br>
+<b>guess,</b> diveni, konjekti.<br>
+<b>guide,</b> gvidi.<br>
+<b>guillotine,</b> gilotino.<br>
+<b>gulf,</b> golfo.<br>
+<b>gull,</b> mevo.<br>
+<b>gullet,</b> ezofago gor&#285;o, fa&#365;ko.<br>
+<b>gum,</b> gumo, dentokarno.<br>
+<b>gun,</b> pafilo, kanono. <b>-powder,</b> pulvo.<br>
+<b>gush,</b> &#349;pruci.<br>
+<b>guttapercha,</b> gutaperko.<br>
+<b>gutter,</b> defluilo.<br>
+
+
+<center><b>H</b></center>
+
+<b>habit,</b> kutimo.<br>
+<b>haddock,</b> eglefino.<br>
+<b>hair,</b> haro, haroj; hararo <b>-dresser,</b> frizisto.<br>
+<b>hall,</b> vestiblo, halo, salono.<br>
+<b>halt,</b> halti, lami.<br>
+<b>halter,</b> kolbrido.<br>
+<b>ham,</b> &#349;inko.<br>
+<b>hammer,</b> martelo.<br>
+<b>hand,</b> mano. <b>-ful,</b> plenmano, <b>-shake,</b>
+manpremo.<br>
+<b>handkerchief,</b> naztuko.<br>
+<b>handle,</b> tenilo, manpreni.<br>
+<b>hang,</b> pend'i, -igi.<br>
+<b>hansom,</b> kabrioleto, fiakro.<br>
+<b>happen,</b> okazi.<br>
+<b>harbour,</b> haveno.<br>
+<b>harden,</b> malmoligi, (<i>health</i>), hardi<br>
+<b>hare,</b> leporo.<br>
+<b>harm,</b> difekti, malutili.<br>
+<b>harness,</b> jungi, junga&#309;o.<br>
+<b>harpoon,</b> harpuno.<br>
+<b>harrow,</b> erpi, erpilo.<br>
+<b>harvest,</b> rikolto.<br>
+<b>hasten,</b> rapid'i, -igi.<br>
+<b>hatch,</b> kovi.<br>
+<b>hatchet,</b> hakilo.<br>
+<b>haunch,</b> kokso.<br>
+<b>hawk,</b> akcipitro; kolporti.<br>
+<b>hawthorn,</b> kratago.<br>
+<b>hay,</b> fojno.<br>
+<b>hazlenut,</b> avelo.<br>
+<b>heal,</b> resanigi, cikatri&#285;i.<br>
+<b>health,</b> sano. <b>propose a&mdash;,</b> toasti.<br>
+<b>heap,</b> amas'o, -igi.<br>
+<b>heart,</b> koro, (<i>cards</i>) kero. <b>by,</b> parkere.<br>
+<b>hearth,</b> kameno, fajrujo, hejmo.<br>
+<b>heath,</b> eriko, erikejo, stepo.<br>
+<b>heathen,</b> idolano.<br>
+<b>heaven,</b> &#265;ielo.<br>
+<!-- =============================153.png============================ -->
+<b>heavy,</b> peza.<br>
+<b>hedge,</b> plektobarilo, <b>-hog</b> erinaco.<br>
+<b>heir,</b> heredanto.<br>
+<b>hell,</b> infero.<br>
+<b>helm,</b> direktilo.<br>
+<b>helmet,</b> kasko.<br>
+<b>hem,</b> borderi.<br>
+<b>hemp,</b> kanabo.<br>
+<b>herald,</b> heroldo.<br>
+<b>heresy,</b> herezo.<br>
+<b>hermit,</b> ermito.<br>
+<b>hero,</b> heroo.<br>
+<b>heron,</b> ardeo.<br>
+<b>herring,</b> haringo.<br>
+<b>hesitate,</b> &#349;anceli&#285;i, heziti.<br>
+<b>hiccough,</b> singulti.<br>
+<b>hide,</b> ka&#349;i; felo.<br>
+<b>hinge,</b> &#265;arniro.<br>
+<b>hip,</b> kokso.<br>
+<b>hire,</b> dungi; lui; pago.<br>
+<b>hiss,</b> sibli<br>
+<b>hit,</b> frapi.<br>
+<b>hoard,</b> amaso.<br>
+<b>hoar frost,</b> prujno.<br>
+<b>hoax,</b> mistifik'o, -i.<br>
+<b>hole,</b> truo, kavo<br>
+<b>holiday,</b> festo, libertempo.<br>
+<b>hollow,</b> kav'a, -o.<br>
+<b>holly,</b> ilekso.<br>
+<b>honey,</b> mielo, <b>-comb,</b> mieltavolo. <b>-suckle,</b>
+lonicero.<br>
+<b>hood,</b> kapu&#265;o, kufo.<br>
+<b>hook,</b> hoko, agrafo; alkro&#265;i.<br>
+<b>hope,</b> espero.<br>
+<b>hops,</b> lupolo.<br>
+<b>horizon,</b> horizonto.<br>
+<b>horn,</b> korno.<br>
+<b>hospitable,</b> gastama.<br>
+<b>hospital,</b> hospitalo.<br>
+<b>host,</b> mastro; gastiganto; hostio.<br>
+<b>hostage,</b> garantiulo.<br>
+<b>hotel,</b> hotelo.<br>
+<b>hover,</b> flirti.<br>
+<b>hub,</b> radcentro, akso.<br>
+<b>hue,</b> nuanco, koloro,<br>
+<b>hum,</b> zumi.<br>
+<b>human,</b> homa. <b>-being,</b> homo.<br>
+<b>humane,</b> humana.<br>
+<b>humble,</b> humila.<br>
+<b>humbug,</b> blago.<br>
+<b>humming-bird,</b> kolibro.<br>
+<b>humorous,</b> humora&#309;a, sprita, &#349;erca.<br>
+<b>hump,</b> &#285;ibo.<br>
+<b>hunger,</b> malsato.<br>
+<b>hunt,</b> &#265;asi.<br>
+<b>hurrah,</b> hura.<br>
+<b>hurricane,</b> uragano.<br>
+<b>hurt,</b> vundi, malutili.<br>
+<b>husk,</b> &#349;elo.<br>
+<b>hut,</b> kabano.<br>
+<b>hymn,</b> himno.<br>
+<b>hyphen,</b> streketo.<br>
+<b>hypocritical,</b> hipokrita.<br>
+
+
+<center><b>I</b></center>
+
+<b>ideal,</b> ideala.<br>
+<b>identical,</b> identa.<br>
+<b>idiom,</b> idiomo, idiotismo.<br>
+<b>idiotic,</b> idiota.<br>
+<b>idle,</b> senokupa.<br>
+<b>idol,</b> idolo.<br>
+<b>illegitimate,</b> nela&#365;le&#285;a, bastarda,<br>
+<b>illuminate,</b> ilumini.<br>
+<b>illusion,</b> iluzio.<br>
+<b>illustrate,</b> ilustri.<br>
+<b>image,</b> figuro, bildo.<br>
+<b>imagine,</b> imagi, revi.<br>
+<b>imbibe,</b> ensorbi.<br>
+<b>imbue,</b> penetri, inspiri.<br>
+<b>imitate,</b> imiti.<br>
+<b>immediately,</b> tuj.<br>
+<b>imminent,</b> surpenda, minaca.<br>
+<b>impassive,</b> stoika, kvietega.<br>
+<!-- =============================154.png============================ -->
+<b>impertinent,</b> impertinenta.<br>
+<b>implement,</b> ilo.<br>
+<b>implicate,</b> impliki.<br>
+<b>importune,</b> trud'i, -igi.<br>
+<b>impose,</b> trudi, trompi.<br>
+<b>impregnable,</b> fortika, nekaptebla.<br>
+<b>impress,</b> impresi.<br>
+<b>improvize,</b> improvizi.<br>
+<b>impudent,</b> senhonta.<br>
+<b>inch,</b> colo.<br>
+<b>incident,</b> okaza&#309;o, epizodo.<br>
+<b>incite,</b> instigi; inciti.<br>
+<b>incline,</b> inklini, deklivo.<br>
+<b>include,</b> enhavi, enkalkuli.<br>
+<b>income,</b> enspezo, rento.<br>
+<b>incommode,</b> &#285;eni.<br>
+<b>incompatible,</b> nekunigebla.<br>
+<b>increase,</b> kreski, pli'igi, -i&#285;i.<br>
+<b>incriminate,</b> enkulpigi.<br>
+<b>indeed,</b> efektive, ja.<br>
+<b>independent,</b> sendependa.<br>
+<b>index,</b> nomaro; montra tabelo.<br>
+<b>india-rubber,</b> ka&#365;&#265;uko.<br>
+<b>indifferent,</b> indiferenta.<br>
+<b>indigenous,</b> indi&#285;ena, enlanda.<br>
+<b>indignant (to be),</b> indigni.<br>
+<b>indirect,</b> malrekta, pera.<br>
+<b>indispensable,</b> nepre necesa.<br>
+<b>individual,</b> individuo.<br>
+<b>indolent,</b> senenergia.<br>
+<b>indomitable,</b> necedigebla.<br>
+<b>indorse,</b> dorseskribi, &#285;iri.<br>
+<b>induce,</b> decidigi, alkonduki.<br>
+<b>indulge,</b> indulgi.<br>
+<b>industrious,</b> diligenta, laborema<br>
+<b>industry,</b> <i>(business)</i>, industrio.<br>
+<b>infantry,</b> infanterio.<br>
+<b>infect,</b> infekti.<br>
+<b>infiltrate,</b> ensorbi&#285;i.<br>
+<b>infinite,</b> senlima, sennombra, senfina.<br>
+<b>infirm,</b> kaduka, malforta.<br>
+<b>inflammation,</b> brulumo.<br>
+<b>influence,</b> influ'o, -i sur.<br>
+<b>influenza,</b> gripo, influenco.<br>
+<b>inform,</b> informi, sciigi.<br>
+<b>infuse,</b> infuzi.<br>
+<b>inherit,</b> heredi.<br>
+<b>initiate,</b> iniciati.<br>
+<b>inject,</b> en&#349;prucigi, en&#309;eti.<br>
+<b>injection,</b> <i>(med.)</i>, klistero.<br>
+<b>injure,</b> vundi, difekti, malutili.<br>
+<b>inquest,</b> enketo.<br>
+<b>inquisitive,</b> sciama, scivolo.<br>
+<b>insect,</b> insekto.<br>
+<b>inside,</b> interna, <i>(&mdash;out)</i> returnite.<br>
+<b>insidious,</b> insida.<br>
+<b>insist,</b> insisti.<br>
+<b>inspector,</b> inspektoro.<br>
+<b>inspire,</b> enspiri, inspiri.<br>
+<b>instigate,</b> instigi.<br>
+<b>instinct,</b> instinkto.<br>
+<b>institution,</b> instituto.<br>
+<b>instructions,</b> instrukcio.<br>
+<b>insult,</b> ofendi; malhonori.<br>
+<b>insure,</b> asekuri.<br>
+<b>intellect,</b> intelekto, prudento.<br>
+<b>intelligent,</b> inteligenta.<br>
+<b>intend,</b> intenci.<br>
+<b>intense,</b> ega, intensa.<br>
+<b>intercourse,</b> interrilato.<br>
+<b>interest,</b> procento, rentumo, intereso, interes'i, -igi,
+-i&#285;i.<br>
+<b>interfere,</b> sin inter'meti, -miksi, sin altrudi.<br>
+<b>interrupt,</b> interrompi.<br>
+<b>interval,</b> inter'spaco, -tempo.<br>
+<b>intervene,</b> interveni.<br>
+<b>interview,</b> intervjuo.<br>
+<b>intricate,</b> malsimpla, komplika.<br>
+<b>introduce,</b> prezenti, enkonduki.<br>
+<b>intrude,</b> trudi.<br>
+<b>invade,</b> invadi.<br>
+<b>invaluable,</b> netaksebla.<br>
+<b>invent,</b> elpensi.<br>
+<b>invert,</b> renversi.<br>
+<b>invest,</b> <i>(money)</i>, procent'doni, -meti.<br>
+<b>invoice,</b> fakturo, kalkulo.<br>
+<!-- =============================155.png============================ -->
+<b>iris,</b> (<i>of eye</i>), iriso; (<i>flower</i>) irido.<br>
+<b>iron,</b> fero; gladi.<br>
+<b>ironmonger,</b> fera&#309;isto.<br>
+<b>irony,</b> ironio.<br>
+<b>irritate,</b> inciti, kolerigi.<br>
+<b>island,</b> insulo.<br>
+<b>isolate,</b> izoli.<br>
+<b>isthmus,</b> terkolo, istmo.<br>
+<b>italics,</b> (<i>in&mdash;</i>), kursive.<br>
+<b>itch,</b> juki.<br>
+<b>item,</b> ero.<br>
+<b>itinerant,</b> vaganta.<br>
+<b>ivory,</b> eburo, elefantosto.<br>
+<b>ivy,</b> hedero.<br>
+
+
+<center><b>J</b></center>
+
+<b>jackal,</b> &#349;akalo.<br>
+<b>jacket,</b> jako, &#309;aketo.<br>
+<b>jam,</b> frukta&#309;o, konfita&#309;o.<br>
+<b>jaw,</b> makzelo. &mdash;<b>s</b>. fa&#365;ko.<br>
+<b>jealous,</b> &#309;aluza.<br>
+<b>jelly,</b> gelateno.<br>
+<b>jessamine,</b> jasmeno.<br>
+<b>jewel,</b> juvelo.<br>
+<b>jingle,</b> tinti.<br>
+<b>join,</b> kun'igi, -i&#285;i; unui&#285;i kun, ali&#285;i.<br>
+<b>joiner,</b> ligna&#309;isto.<br>
+<b>joint,</b> artiko; kuni&#285;o.<br>
+<b>joist,</b> trabo.<br>
+<b>joke,</b> &#349;erci.<br>
+<b>journal,</b> &#309;urnalo; taglibro.<br>
+<b>journey,</b> voja&#285;'i, -o; veturi.<br>
+<b>joy,</b> &#285;oj'o. be &mdash;ful, -i.<br>
+<b>jubilee,</b> jubileo.<br>
+<b>judgment,</b> ju&#285;o.<br>
+<b>judicious,</b> prudenta, sa&#285;a.<br>
+<b>jug,</b> kru&#265;o.<br>
+<b>juggle,</b> &#309;ongli.<br>
+<b>juice,</b> suko.<br>
+<b>jump,</b> salti.<br>
+<b>jury,</b> ju&#285;antaro, &#309;urintaro.<br>
+<b>juryman,</b> &#309;urinto.<br>
+<b>just,</b> justa; &#285;uste; (<i>time</i>) &#309;us.<br>
+<b>justify,</b> pravigi.<br>
+
+
+<center><b>K</b></center>
+
+<b>keel,</b> kilo.<br>
+<b>keep,</b> teni, gardi, konservi.<br>
+<b>kernel,</b> kerno.<br>
+<b>kettle,</b> kaldrono, bolilo.<br>
+<b>key,</b> &#349;losilo, (<i>piano</i>) klavo.<br>
+<b>kick,</b> piedfrapi.<br>
+<b>kidney,</b> reno.<br>
+<b>kill,</b> mortigi, bu&#265;i, senvivigi.<br>
+<b>kind,</b> speco; afabla, bonkora<br>
+<b>kingdom,</b> regno, re&#285;lando.<br>
+<b>kingfisher,</b> alciono.<br>
+<b>kiss,</b> kisi.<br>
+<b>knapsack,</b> tornistro.<br>
+<b>knave,</b> fripono; (<i>cards</i>) lakeo.<br>
+<b>knead,</b> knedi.<br>
+<b>knee,</b> genuo.<br>
+<b>kneel,</b> genufleksi.<br>
+<b>knife,</b> tran&#265;ilo.<br>
+<b>knight,</b> kavaliro.<br>
+<b>knit,</b> triki.<br>
+<b>knock,</b> frapi.<br>
+<b>knot,</b> nodo, (<i>in wood</i>) lignotubero<br>
+<b>know,</b> (&mdash;<i>a fact</i>), scii; (<i>as a person</i>)
+koni.<br>
+<b>knuckle,</b> fingroartiko; (<i>hock</i>) poplito.<br>
+
+
+<center><b>L</b></center>
+
+<b>label,</b> surskribeto, etiketo.<br>
+<b>lace,</b> punto; pasamento; (<i>boot</i>&mdash;),
+la&#265;o.<br>
+<b>lacquer,</b> lako.<br>
+<b>ladder,</b> &#349;tupetaro.<br>
+<b>ladle,</b> &#265;erp'i, -ilo.<br>
+<!-- =============================156.png============================ -->
+<b>ladybird,</b> kokcinelo.<br>
+<b>lagoon,</b> laguno.<br>
+<b>lair,</b> bestku&#349;ejo, nestego.<br>
+<b>lake,</b> lago; lakru&#285;o.<br>
+<b>lame,</b> kripla. to be&mdash;, lami.<br>
+<b>lamp,</b> lampo, lanterno, (-<i>wick</i>) me&#265;o.<br>
+<b>land,</b> lando; tero; surteri&#285;i.<br>
+<b>landscape,</b> pejza&#285;o, vida&#309;o.<br>
+<b>language,</b> lingv'o, -a&#309;o.<br>
+<b>lapwing,</b> vanelo.<br>
+<b>larch,</b> lariko.<br>
+<b>lard,</b> lardi; porkograso.<br>
+<b>lark,</b> ala&#365;do.<br>
+<b>last,</b> lasta, fina; da&#365;ri; (<i>boot</i>-)
+boto&#349;tipo.<br>
+<b>lath,</b> lato.<br>
+<b>lathe,</b> tornilo.<br>
+<b>lattice,</b> krad'o, -a&#309;o; lata&#309;o.<br>
+<b>laurel,</b> la&#365;ro.<br>
+<b>lava,</b> lafo.<br>
+<b>lavender,</b> lavendo.<br>
+<b>law,</b> le&#285;o; juro, (-<i>suit</i>) proceso.<br>
+<b>lawn,</b> batisto; herbejeto.<br>
+<b>lay,</b> meti; (<i>eggs</i>) demeti; laika.<br>
+<b>layer,</b> tavolo; (<i>plants</i>) markoti.<br>
+<b>lead,</b> konduki.<br>
+<b>lead,</b> plumbo. <b>black</b>&mdash;, grafito.<br>
+<b>leaf,</b> folio, paperfolio.<br>
+<b>league,</b> ligo.<br>
+<b>leak,</b> traflueti.<br>
+<b>lean,</b> klini. &mdash;<b>on</b>, sin apogi sur;
+malgrasa.<br>
+<b>leap year,</b> superjaro.<br>
+<b>learn,</b> lerni, scii&#285;i pri.<br>
+<b>learned,</b> klera, instruita.<br>
+<b>leather,</b> ledo.<br>
+<b>leave,</b> lasi, forlasi; deiri; testamenti; restigi.<br>
+<b>lecture,</b> parolad'o, -i; prelego.<br>
+<b>leech,</b> hirudo.<br>
+<b>leek,</b> poreo.<br>
+<b>leg,</b> kruro, (<i>of fowl, etc</i>.) femuro.<br>
+<b>legacy,</b> hereda&#309;o, testamenta&#309;o.<br>
+<b>legend,</b> legendo, fabelo.<br>
+<b>legitimate,</b> rajta, la&#365;le&#285;a.<br>
+<b>lemon,</b> citrono.<br>
+<b>lemonade,</b> limonado.<br>
+<b>lend,</b> pruntedoni.<br>
+<b>lentil,</b> lento.<br>
+<b>leprosy,</b> lepro.<br>
+<b>lesson,</b> leciono.<br>
+<b>let,</b> lasi, permesi; (<i>a house</i>) luigi<br>
+<b>lettuce,</b> laktuko.<br>
+<b>level,</b> ebena; nivel'o, -ilo.<br>
+<b>lever,</b> levilo.<br>
+<b>liberal,</b> liberal'a, -ulo.<br>
+<b>library,</b> biblioteko.<br>
+<b>lichen,</b> likeno.<br>
+<b>lick,</b> leki.<br>
+<b>lie,</b> ku&#349;i, (<i>tell a</i>&mdash;) mensogi.<br>
+<b>life,</b> vivo, vigleco.<br>
+<b>lift,</b> levi, levilo, lifto, elevatoro.<br>
+<b>light,</b> lum'i, -o; (ek)lumigi, malpeza.<br>
+<b>like,</b> simila; kiel; &#349;ati.<br>
+<b>likely,</b> ver&#349;ajne, kredeble.<br>
+<b>lilac,</b> siringo.<br>
+<b>lily,</b> lilio; (<i>of the valley</i>) konvalo.<br>
+<b>lime,</b> kalko; (<i>tree</i>) tilio.<br>
+<b>limit,</b> lim'o, -igi.<br>
+<b>limp,</b> lami, lameti.<br>
+<b>line,</b> linio; sub&#349;tofi.<br>
+<b>linen,</b> tolo, lina&#309;o, (<i>washing</i>)
+tola&#309;o.<br>
+<b>linnet,</b> kanabeno.<br>
+<b>lint,</b> &#265;arpio.<br>
+<b>lip,</b> lipo.<br>
+<b>liquid,</b> fluid'a, -a&#309;o.<br>
+<b>liquidate,</b> likvidi.<br>
+<b>liqueur,</b> likvoro.<br>
+<b>liquorice,</b> glicirizo.<br>
+<b>list,</b> tabelo, nomaro, listo, katalogo, registro.<br>
+<b>literal,</b> la&#365;litera, la&#365;vorta.<br>
+<b>literature,</b> literaturo; (<i>polite</i>&mdash;)
+beletristiko.<br>
+<!-- =============================157.png============================ -->
+<b>live,</b> vivi, lo&#285;i.<br>
+<b>liver,</b> hepato.<br>
+<b>livery,</b> livreo.<br>
+<b>lizard,</b> lacerto.<br>
+<b>load,</b> &#349;ar&#285;'i, -o; <i>(&mdash;a gun)</i>
+&#349;argi<br>
+<b>loaf,</b> pano, panbulo.<br>
+<b>lobby,</b> vestiblo.<br>
+<b>lobster,</b> omaro.<br>
+<b>local,</b> loka, tiea, regiona.<br>
+<b>lock,</b> &#349;losi; seruro; <i>(hair)</i> tufo;
+<i>(canal)</i> kluzo.<br>
+<b>locust,</b> akrido.<br>
+<b>log,</b> &#349;tipo, bloko.<br>
+<b>loins,</b> lumbo.<br>
+<b>lonely,</b> sol'a, -eca, -ula.<br>
+<b>long,</b> longa. <b>&mdash;for,</b> sopiri pri.<br>
+<b>look,</b> aspekto, mieno. <b>&mdash;at,</b> rigardi.
+<b>&mdash;for,</b> ser&#265;i. <b>&mdash;after,</b> zorgi pri,
+varti.<br>
+<b>loop,</b> ma&#349;o.<br>
+<b>Lord,</b> <i>(the&mdash;)</i> Sinjoro, <i>(a&mdash;)</i>
+nobelo.<br>
+<b>lose,</b> perdi, malgajni, <i>(clock)</i> malrapidi.<br>
+<b>lots,</b> <i>(cast)</i>, loti.<br>
+<b>lottery,</b> loterio.<br>
+<b>loud,</b> la&#365;ta.<br>
+<b>love,</b> ami. <b>make&mdash;,</b> amindumi.<br>
+<b>loyal,</b> lojala, fidela.<br>
+<b>lozenge,</b> pastelo, <i>(&mdash;shape)</i> lozan&#285;o.<br>
+<b>luck,</b> feli&#265;o, &#349;anco, sorto.<br>
+<b>lucky,</b> feli&#265;a.<br>
+<b>luggage,</b> paka&#309;oj.<br>
+<b>lull,</b> luli; trankviligi.<br>
+<b>lamp,</b> bulo, maso, &#349;vela&#309;o.<br>
+<b>long,</b> pulmo.<br>
+<b>lupin,</b> lupeno.<br>
+<b>luxury,</b> lukso.<br>
+<b>lynch,</b> lin&#265;i.<br>
+<b>lynx,</b> linko.<br>
+<b>lyre,</b> liro.<br>
+<b>lyric,</b> lirika.<br>
+
+
+<center><b>M</b></center>
+
+<b>machine,</b> ma&#349;ino.<br>
+<b>mackerel,</b> skombro.<br>
+<b>mad,</b> freneza, rabia.<br>
+<b>magic,</b> magio.<br>
+<b>magnanimous,</b> grandanima<br>
+<b>magpie,</b> pigo.<br>
+<b>mahogany,</b> mahagono.<br>
+<b>majesty,</b> majesto, Mo&#349;to.<br>
+<b>major,</b> <i>(milit.)</i>, majoro.<br>
+<b>majority,</b> plimulto; plena&#285;o.<br>
+<b>make,</b> fari, -igi; fabriki.<br>
+<b>male,</b> vira, virseksa.<br>
+<b>malicious,</b> malica.<br>
+<b>mallow,</b> malvo; <i>(marsh&mdash;)</i> alteo.<br>
+<b>malt,</b> malto.<br>
+<b>mammal,</b> mambesto.<br>
+<b>manage,</b> administri, <i>(&mdash;a house)</i> mastrumi.<br>
+<b>mane,</b> kolharoj.<br>
+<b>mange,</b> favo, skabio.<br>
+<b>mania,</b> manio.<br>
+<b>manna,</b> manao.<br>
+<b>manner,</b> maniero; teni&#285;o, mieno.<br>
+<b>manners,</b> moroj.<br>
+<b>manoeuvre,</b> manovro.<br>
+<b>mantle,</b> mantelo.<br>
+<b>manufacture,</b> fabriki, manufakturo.<br>
+<b>manure,</b> sterko.<br>
+<b>manuscript,</b> manuskripto.<br>
+<b>map,</b> karto, geografikarto.<br>
+<b>maple,</b> acero.<br>
+<b>marble,</b> marmoro; globeto.<br>
+<b>march,</b> mar&#349;i.<br>
+<b>marigold,</b> kalendulo.<br>
+<b>mark,</b> sign'o, -i; mark'o.<br>
+<b>market,</b> vendejo, foiro, komercejo.<br>
+<b>marl,</b> kalkargilo.<br>
+<b>marrow,</b> ostocerbo, <i>(vegetable&mdash;)</i>
+kukurbeto.<br>
+<b>marry,</b> edz (in) -igi, -i&#285;i.<br>
+<!-- =============================158.png============================ -->
+<b>marsh,</b> mar&#265;o.<br>
+<b>martyr,</b> martiro, suferanto.<br>
+<b>mask,</b> masko.<br>
+<b>mason,</b> masonisto. <b>free&mdash;,</b> framosono.<br>
+<b>mass,</b> amaso, <i>(church)</i> meso.<br>
+<b>mast,</b> masto.<br>
+<b>master,</b> mastro, majstro.<br>
+<b>mastiff,</b> korthundo, dogo,<br>
+<b>mat,</b> mato.<br>
+<b>match,</b> alumeto; parigi.<br>
+<b>matchmaker,</b> svatist'o, -ino.<br>
+<b>material,</b> &#349;tofo, materialo.<br>
+<b>mattress,</b> matraco.<br>
+<b>mayor,</b> urbestro.<br>
+<b>meadow,</b> herbejo.<br>
+<b>meal,</b> faruno; <i>(a&mdash;)</i> man&#285;o.<br>
+<b>mean,</b> celi diri; signifi; malnobla.<br>
+<b>meaning,</b> signifo, senco.<br>
+<b>means,</b> rimedo. <b>by&mdash;of,</b> per.<br>
+<b>measles,</b> morbilo.<br>
+<b>measure,</b> mezuri; <i>(music)</i> takto.<br>
+<b>meat,</b> viando.<br>
+<b>mechanic,</b> me&#293;anikisto, metiisto<br>
+<b>meddle,</b> enmiksi&#285;i.<br>
+<b>medicine,</b> <i>(a)</i>, kuracilo, medikamento,
+<i>(science)</i> medicine.<br>
+<b>meditate,</b> mediti.<br>
+<b>medium,</b> meza; <i>(a)</i>, mediumo.<br>
+<b>meek,</b> modesta, kvieta.<br>
+<b>meet,</b> renkonti, -i&#285;i; kunveni.<br>
+<b>melody,</b> melodio.<br>
+<b>melt,</b> fluid'i&#285;i, -igi, <i>(metals)</i> fandi.<br>
+<b>memory,</b> memoro.<br>
+<b>mend,</b> ripari, (<i>patch</i>) fliki.<br>
+<b>mental,</b> spirita, intelekta, cerba.<br>
+<b>merchant,</b> komercisto, negocisto.<br>
+<b>mercy,</b> kompato, indulge, korfavoreco.<br>
+<b>merry,</b> gaja; <i>(to be&mdash;)</i> gaji.<br>
+<b>mesh,</b> ma&#349;o, -a&#309;o.<br>
+<b>Messiah,</b> Mesio.<br>
+<b>metal,</b> metalo.<br>
+<b>method,</b> metodo.<br>
+<b>middle,</b> mezo.<br>
+<b>midwife,</b> aku&#349;istino.<br>
+<b>mignonette,</b> resedo.<br>
+<b>migrate,</b> migri.<br>
+<b>mild,</b> milda, neforta, kvieta<br>
+<b>mile,</b> mejlo.<br>
+<b>military,</b> milita.<br>
+<b>milk,</b> lakto, melki.<br>
+<b>mind,</b> spirito, animo; intelekto atenti, zorgi pri, ne
+ofendi&#285;i<br>
+<b>mine,</b> mini, subfosi; mia.<br>
+<b>mineral,</b> mineralo.<br>
+<b>minister,</b> pastro, <i>(polit.)</i> ministro.<br>
+<b>mint,</b> mento.<br>
+<b>minutes,</b> <i>(of meeting, etc.)</i>, protokolo.<br>
+<b>miracle,</b> miraklo.<br>
+<b>mirror,</b> spegulo.<br>
+<b>misery,</b> mizero.<br>
+<b>mission,</b> misio.<br>
+<b>mistake,</b> erar'o, -i.<br>
+<b>mistletoe,</b> visko.<br>
+<b>mite,</b> akaro.<br>
+<b>mix,</b> miksi.<br>
+<b>mob,</b> popolamaso, popola&#265;o, fipopolo, kanajlaro.<br>
+<b>mock,</b> moki.<br>
+<b>model,</b> modelo.<br>
+<b>moderate,</b> modera.<br>
+<b>modern,</b> moderna.<br>
+<b>modest,</b> modesta.<br>
+<b>molasses,</b> melaso, sukerresta&#309;o.<br>
+<b>mole,</b> talpo; digo.<br>
+<b>molest,</b> &#285;eni, sin altrudi al.<br>
+<b>monarch,</b> monar&#293;o.<br>
+<b>money,</b> mono, <b>-order,</b> po&#349;tmandato.<br>
+<b>mongrel,</b> hibrida.<br>
+<b>monk,</b> mona&#293;o.<br>
+<b>monkey,</b> simio.<br>
+<b>monster,</b> monstro.<br>
+<b>mood,</b> modo.<br>
+<b>moor,</b> stepo, erikejo; <i>(&mdash;a ship)</i> alligi.<br>
+<b>moral,</b> morala, bonmora.<br>
+<b>mortar,</b> mortero, <i>(a&mdash;)</i> pistujo.<br>
+<!-- =============================159.png============================ -->
+<b>mortgage,</b> hipoteko.<br>
+<b>mortify,</b> &#265;agreni; gangreni&#285;i.<br>
+<b>mortification,</b> (<i>med.</i>), gangrene.<br>
+<b>mosaic,</b> mozaiko.<br>
+<b>mosquito,</b> moskito.<br>
+<b>moss,</b> musko.<br>
+<b>moth,</b> (<i>clothes</i>&mdash;), tineo.<br>
+<b>motive,</b> motivo.<br>
+<b>motto,</b> devizo, moto.<br>
+<b>mould,</b> model'i, -ilo; tero, &#349;imo.<br>
+<b>mound,</b> alta&#309;eto, remparo, digo.<br>
+<b>mourn,</b> funebri. <b>-ing,</b> funebra vesto.<br>
+<b>move,</b> mov'i, -i&#285;i.<br>
+<b>movement,</b> movo, movado.<br>
+<b>mow,</b> fal&#265;i.<br>
+<b>mud,</b> koto, &#349;limo.<br>
+<b>muddle,</b> fu&#349;i; konfuzi.<br>
+<b>muff,</b> mufo.<br>
+<b>mug,</b> pokaleto.<br>
+<b>mulberry,</b> moruso.<br>
+<b>mule,</b> mulo.<br>
+<b>mummy,</b> mumo.<br>
+<b>murmur,</b> murmuri.<br>
+<b>muscle,</b> muskolo.<br>
+<b>museum,</b> muzeo.<br>
+<b>mushroom,</b> fungo, agariko.<br>
+<b>muslin,</b> muslino.<br>
+<b>mussel,</b> mitulo.<br>
+<b>must,</b> devi.<br>
+<b>mustard,</b> mustardo, (<i>-plant</i>), sinapo.<br>
+<b>mutual,</b> reciproka.<br>
+<b>myriad,</b> miriado.<br>
+<b>mystery,</b> mistero.<br>
+<b>myth,</b> mito.<br>
+
+
+<center><b>N</b></center>
+
+<b>nail,</b> najli; (<i>of finger, etc.</i>) ungo.<br>
+<b>naive,</b> naiva.<br>
+<b>naked,</b> nuda.<br>
+<b>nape,</b> nuko.<br>
+<b>nation,</b> nacio.<br>
+<b>native,</b> enlanda, indi&#285;ena; (&mdash;<i>land</i>)
+patrujo.<br>
+<b>nature,</b> naturo.<br>
+<b>nausea,</b> na&#365;zo.<br>
+<b>nave,</b> (<i>church</i>) navo; (<i>of wheel</i>) aksingo.<br>
+<b>navigable,</b> &#349;ipirebla.<br>
+<b>near,</b> proksima; apud.<br>
+<b>neat,</b> pura, bonorda.<br>
+<b>necktie,</b> kravato.<br>
+<b>nectar,</b> nektaro.<br>
+<b>need,</b> bezoni.<br>
+<b>neglect,</b> ne zorgi pri, preterlasi, malatenti.<br>
+<b>negociate,</b> negoci.<br>
+<b>neighbour,</b> najbaro, proksimulo. <b>&mdash;hood,</b>
+&#265;irka&#365;a&#309;o.<br>
+<b>neither,</b> nek.<br>
+<b>nerve,</b> nervo.<br>
+<b>net,</b> reto; tulo.<br>
+<b>nettle,</b> urtiko.<br>
+<b>neuter,</b> ne&#365;tra.<br>
+<b>neutral,</b> ne&#365;trala.<br>
+<b>news,</b> sciigo, nova&#309;o. <b>&mdash;paper,</b>
+&#309;urnalo, gazeto.<br>
+<b>next,</b> plejproksima, sekvanta.<br>
+<b>niche,</b> ni&#265;o.<br>
+<b>nightingale,</b> najtingalo.<br>
+<b>noble,</b> nobla. <b>-man,</b> nobelo.<br>
+<b>nod,</b> signodoni.<br>
+<b>noise,</b> bruo.<br>
+<b>nonsense,</b> sensenca&#309;o.<br>
+<b>noon,</b> tagmezo.<br>
+<b>noose,</b> ma&#349;o.<br>
+<b>nor,</b> nek.<br>
+<b>normal,</b> norma, normala.<br>
+<b>north,</b> nordo.<br>
+<b>note,</b> not'i, -o, rimark'i, -o, (<i>music</i>) noto,
+tono.<br>
+<b>notice,</b> rimarki, noti, avizo.<br>
+<b>nought,</b> nulo, nenio.<br>
+<b>nourish,</b> nutri.<br>
+<b>novel,</b> romano.<br>
+<!-- =============================160.png============================ -->
+<b>novice,</b> novico, novulo.<br>
+<b>now,</b> nun, nuntempe.<br>
+<b>numb,</b> rigida.<br>
+<b>number,</b> (<i>quantity</i>) nombro; (<i>No</i>.) numero;
+numeri.<br>
+<b>nurse,</b> (<i>a child</i>) varti, (<i>the sick</i>)
+flegi.<br>
+<b>nurseling,</b> su&#265;infano.<br>
+<b>nut,</b> nukso, (<i>of screw</i>) &#349;ra&#365;bingo.<br>
+<b>nutmeg,</b> muskato.<br>
+<b>nymph,</b> nimfo.<br>
+
+
+<center><b>O</b></center>
+
+<b>oak,</b> kverko.<br>
+<b>oakum,</b> stupo.<br>
+<b>oasis,</b> oazo.<br>
+<b>oath,</b> (<i>legal</i>) juro; blasfemo.<br>
+<b>oatmeal,</b> grio, avenfaruno.<br>
+<b>oats,</b> aveno.<br>
+<b>object,</b> objekto, a&#309;o, (<i>aim</i>) celo.<br>
+<b>oblige,</b> devigi; fari komplezon.<br>
+<b>observe,</b> rimarki; vidi, observi.<br>
+<b>obstinate,</b> obstina.<br>
+<b>obstruct,</b> bari, obstrukci.<br>
+<b>obtain,</b> ricevi, akiri, havigi al si.<br>
+<b>occasion,</b> okazo, okazigi.<br>
+<b>occur,</b> okazi.<br>
+<b>octopus,</b> okpiedulo.<br>
+<b>off,</b> for, de.<br>
+<b>offend,</b> ofendi.<br>
+<b>offence,</b> ofendo, kulpo, peko.<br>
+<b>offer,</b> propono.<br>
+<b>office,</b> ofico, oficejo, kontoro.<br>
+<b>officer,</b> oficisto, (<i>milit.</i>) oficiro.<br>
+<b>officiate,</b> funkcii; de&#309;ori; servi kiel.<br>
+<b>offspring,</b> ido, idaro.<br>
+<b>often,</b> ofte.<br>
+<b>oil,</b> oleo. <b>-cloth,</b> vakstolo.<br>
+<b>ointment,</b> &#349;mira&#309;o.<br>
+<b>olive,</b> olivo.<br>
+<b>omnibus,</b> omnibuso.<br>
+<b>omnipotent,</b> &#265;iopova.<br>
+<b>omniscient,</b> &#265;ioscia.<br>
+<b>once,</b> unufoje, iam, foje.<br>
+<b>onion,</b> bulbo.<br>
+<b>only,</b> nur, sola.<br>
+<b>ooze,</b> traguteti; &#349;limo.<br>
+<b>open,</b> malferm'i, -a.<br>
+<b>opera,</b> opero. <b>-glass,</b> lorneto.<br>
+<b>operate,</b> funkciigi; (<i>med.</i>) operacii.<br>
+<b>opinion,</b> opinio; (<i>be of&mdash;</i>), opinii.<br>
+<b>opium,</b> opio.<br>
+<b>opportunity,</b> okazo.<br>
+<b>oppress,</b> subpremi.<br>
+<b>or,</b> a&#365;.<br>
+<b>oracle,</b> orakolo.<br>
+<b>orange,</b> oran&#285;'o, -kolora.<br>
+<b>orbit,</b> orbito.<br>
+<b>orchard,</b> fruktarbejo.<br>
+<b>orchestra,</b> orkestro.<br>
+<b>orchid,</b> orkideo.<br>
+<b>order,</b> ordo; klaso; ordoni; mendi; (<i>postal</i>)
+po&#349;tmandato, (<i>decoration</i>) ordeno.<br>
+<b>ore,</b> mina&#309;o, mineralo, metalo.<br>
+<b>organ,</b> organo, -ilo; (<i>music</i>) orgeno.<br>
+<b>organic,</b> organika.<br>
+<b>organise,</b> organizi.<br>
+<b>origin,</b> deveno, origino.<br>
+<b>original,</b> original'a, -o.<br>
+<b>ornament,</b> ornamo; garnituro.<br>
+<b>orphan,</b> orf'o, -ino.<br>
+<b>oscillate,</b> balanci&#285;i, pendoli.<br>
+<b>osier,</b> salika&#309;o.<br>
+<b>ostentation,</b> fanfaronade, parado.<br>
+<b>ostrich,</b> struto.<br>
+<b>other,</b> alia, cetera.<br>
+<b>ought,</b> devus.<br>
+<b>ounce,</b> unco.<br>
+<b>outlaw,</b> proskripcii.<br>
+<b>outlay,</b> elspezo.<br>
+<b>outlet,</b> defluejo, elirejo.<br>
+<b>outline,</b> konturo, skizo.<br>
+<!-- =============================161.png============================ -->
+<b>outrage,</b> perfort'a&#309;o, -i.<br>
+<b>oval,</b> ovalo, ovoforma.<br>
+<b>oven,</b> forno.<br>
+<b>overall,</b> kitelo, supervesto.<br>
+<b>overcoat,</b> palto.<br>
+<b>overlook,</b> esplori, pardoni, malatenti.<br>
+<b>overseer,</b> laborestro, kontrolisto, vokto.<br>
+<b>overtake,</b> kuratingi.<br>
+<b>overturn,</b> renversi.<br>
+<b>owe,</b> &#349;uldi.<br>
+<b>owing to,</b> pro, ka&#365;ze de.<br>
+<b>owl,</b> strigo, gufo.<br>
+<b>own.,</b> propra; posedi; konfesi.<br>
+<b>ox,</b> bovo.<br>
+<b>oyster,</b> ostro.<br>
+
+
+<center><b>P</b></center>
+
+<b>pack,</b> paki. <b>&mdash;up,</b> enpaki.<br>
+<b>pad,</b> &#349;vela&#309;o, pufo; remburi.<br>
+<b>pagan,</b> idol'isto, -ano.<br>
+<b>page,</b> pa&#285;o; (<i>boy</i>) lakeeto; (<i>noble</i>)
+pa&#285;io.<br>
+<b>pail,</b> sitelo.<br>
+<b>pain,</b> dolor'o, -i; igi. <b>take&mdash;s,</b> peni.<br>
+<b>paint,</b> pentri, kolori; <b>-brush,</b> peniko.<br>
+<b>pair,</b> paro.<br>
+<b>pale,</b> pala; malhela.<br>
+<b>paling,</b> palisaro.<br>
+<b>palm,</b> palmo, manplato.<br>
+<b>palpitation,</b> korbatado.<br>
+<b>pan,</b> tervazo. <b>sauce-</b>, kaserolo; <b>frying-,</b>
+pato.<br>
+<b>pane,</b> vitra&#309;o.<br>
+<b>pansy,</b> violo trikolora, trikoloreto.<br>
+<b>paper,</b> papero. <b>wall-,</b> tapeto.<br>
+<b>parable,</b> kompara&#309;o, alegorio.<br>
+<b>parade,</b> parado, pompo.<br>
+<b>paragraph,</b> paragrafo.<br>
+<b>parchment,</b> pergameno.<br>
+<b>parish,</b> paro&#293;o.<br>
+<b>park,</b> parko.<br>
+<b>parliament,</b> parlamento.<br>
+<b>parrot,</b> papago.<br>
+<b>parsley,</b> petroselo.<br>
+<b>parson,</b> pastro.<br>
+<b>particular,</b> speciala, aparta.<br>
+<b>partridge,</b> perdriko.<br>
+<b>party,</b> (<i>polit.</i>) partio; festeto; aro.<br>
+<b>pass,</b> pasi, pasigi.<br>
+<b>passage,</b> trairejo, voja&#285;o.<br>
+<b>passion,</b> pasio; manio; kolerego.<br>
+<b>past,</b> estinta, pasinta.<br>
+<b>paste,</b> pasto.<br>
+<b>pastry,</b> paste&#265;o.<br>
+<b>pasture,</b> pa&#349;ti, pa&#349;tejo.<br>
+<b>patch,</b> fliki.<br>
+<b>path,</b> vojeto.<br>
+<b>pathetic,</b> kortu&#349;a.<br>
+<b>patience,</b> pacienco.<br>
+<b>patriot,</b> patrioto.<br>
+<b>pattern,</b> modelo, desegno.<br>
+<b>pause,</b> halteti, pa&#365;zi.<br>
+<b>pave,</b> pavimi.<br>
+<b>paw,</b> piedego.<br>
+<b>pawn,</b> garantie doni; (<i>chess</i>) soldato.<br>
+<b>pay,</b> pagi; salajro.<br>
+<b>pea,</b> pizo.<br>
+<b>peace,</b> paco.<br>
+<b>peach,</b> persiko.<br>
+<b>peacock,</b> pavo.<br>
+<b>peak,</b> pinto.<br>
+<b>pear,</b> piro.<br>
+<b>pearl,</b> perlo.<br>
+<b>pedal,</b> pedalo.<br>
+<b>pedestal,</b> piedestalo.<br>
+<b>peel,</b> &#349;elo, sen&#349;eligi.<br>
+<b>pen,</b> plumo, skribilo.<br>
+<b>pencil,</b> krajono, (<i>slate</i>&mdash;) grifelo;
+(<i>hair</i>&mdash;) peniko.<br>
+<b>pendulum,</b> pendolo.<br>
+<!-- =============================162.png============================ -->
+<b>penetrate,</b> penetri<br>
+<b>peninsula,</b> duoninsulo.<br>
+<b>pension,</b> pensio.<br>
+<b>people,</b> homoj, (a&mdash;) popolo.<br>
+<b>pepper,</b> pipro.<br>
+<b>percentage,</b> procento.<br>
+<b>perch,</b> (<i>fish</i>) per&#265;o.<br>
+<b>perfect,</b> perfekta.<br>
+<b>perhaps,</b> eble.<br>
+<b>period,</b> periodo.<br>
+<b>perish,</b> perei.<br>
+<b>persecute,</b> persekuti, turmenti.<br>
+<b>persist,</b> persisti, da&#365;ri.<br>
+<b>person,</b> persono.<br>
+<b>pestle,</b> pistilo.<br>
+<b>petroleum,</b> petrolo.<br>
+<b>petulant,</b> petola, inciti&#285;ema.<br>
+<b>pewter,</b> stanplumbo.<br>
+<b>phantom,</b> fantomo, apero.<br>
+<b>phase,</b> fazo.<br>
+<b>pheasant,</b> fazano.<br>
+<b>phenomenon,</b> fenomeno.<br>
+<b>philanthropist,</b> filantropo.<br>
+<b>philanthropy,</b> filantropio.<br>
+<b>phrase,</b> frazo, frazero.<br>
+<b>piano,</b> fortepiano.<br>
+<b>pickaxe,</b> pikfosilo, pio&#265;o.<br>
+<b>pickle,</b> pekli.<br>
+<b>picture,</b> bildo, pentra&#309;o; prezenti, ilustri.<br>
+<b>pie,</b> paste&#265;o.<br>
+<b>pig,</b> porko. <b>guinea-</b>, kobajo.<br>
+<b>pike,</b> (<i>fish</i>), ezoko.<br>
+<b>pilgrimage,</b> (<i>go on&mdash;</i>), pilgrimi.<br>
+<b>pill,</b> pilolo.<br>
+<b>pillow,</b> kapkuseno.<br>
+<b>pilot,</b> pilot'o, -i; gvidi.<br>
+<b>pimpernel,</b> anagalo.<br>
+<b>pimple,</b> akno.<br>
+<b>pin,</b> pinglo, pinglefiksi.<br>
+<b>pincers,</b> prenilo.<br>
+<b>pinch,</b> pin&#265;i.<br>
+<b>pine,</b> pino; konsumi&#285;i. <b>-apple,</b> ananaso.<br>
+<b>pink,</b> rozkolora; dianto.<br>
+<b>pioneer,</b> pioniro.<br>
+<b>pipe,</b> tubo, pipo; (<i>mus.</i>) &#349;almo.<br>
+<b>pistol,</b> pistol'o, -eto.<br>
+<b>piston,</b> pi&#349;to.<br>
+<b>pit,</b> kavo, fosa&#309;o, (<i>well</i>) puto;
+(<i>theatre</i>) partero.<br>
+<b>pitch,</b> pe&#265;o, bitumo; tono.<br>
+<b>pitcher,</b> kru&#265;o.<br>
+<b>pity,</b> kompati. (<i>a-</i>), doma&#285;o.<br>
+<b>pivot,</b> pivoto, akso.<br>
+<b>placard,</b> afi&#349;o,<br>
+<b>place,</b> loko; meti.<br>
+<b>plague,</b> turmenti, inciteti; pesto.<br>
+<b>plait,</b> plekti, har'ligo, -plekta&#309;o,<br>
+<b>plan,</b> plano, projekto, skizo.<br>
+<b>plane,</b> rabot'i, -ilo; (<i>&mdash;tree</i>) platano.<br>
+<b>planet,</b> planedo.<br>
+<b>plank,</b> tabulo.<br>
+<b>plant,</b> kreska&#309;o; planti.<br>
+<b>plash,</b> pla&#365;di.<br>
+<b>plaster,</b> plastro; (<i>of Paris</i>) gipso.<br>
+<b>plate,</b> telero; (<b>photo</b>) kli&#349;a&#309;o.<br>
+<b>platform,</b> estrado; plata&#309;o; perono, trotuaro.<br>
+<b>play,</b> ludi; teatra&#309;o. <b>-ful</b>, petola.<br>
+<b>please,</b> pla&#265;i al, kontentigi.<br>
+<b>pleasant,</b> afabla, agrabla.<br>
+<b>pledge,</b> garantia&#309;o.<br>
+<b>pliable,</b> fleksebla.<br>
+<b>plot,</b> konspir'i, -o; intrig'i, -o.<br>
+<b>plough,</b> plug'i, -ilo.<br>
+<b>plum,</b> pruno.<br>
+<b>plumber,</b> plumbisto.<br>
+<b>plural,</b> multenombro.<br>
+<b>plush,</b> plu&#349;o.<br>
+<b>pocket,</b> po&#349;o, enpo&#349;igi.<br>
+<b>pod,</b> &#349;elo.<br>
+<b>poem,</b> poemo.<br>
+<b>poet,</b> poeto.<br>
+<b>poetry,</b> poezio, versa&#309;o.<br>
+<!-- =============================163.png============================ -->
+<b>point,</b> punkto; (<i>cards</i>) poento; (<i>tip</i>)
+pinto.<br>
+<b>poison,</b> veneno.<br>
+<b>poker,</b> fajrinstigilo.<br>
+<b>pole,</b> stango; (<i>of car</i>) timono; (<i>geog</i>.)
+poluso.<br>
+<b>polecat,</b> putoro.<br>
+<b>police,</b> police, (&mdash;<i>court</i>) ju&#285;ejo.<br>
+<b>policy,</b> politiko.<br>
+<b>polish,</b> poluri.<br>
+<b>politics,</b> politiko.<br>
+<b>pompous,</b> pompa.<br>
+<b>poodle,</b> pudelo.<br>
+<b>poor,</b> malri&#265;a, kompatinda.<br>
+<b>pope,</b> papo.<br>
+<b>poplar,</b> poplo.<br>
+<b>poppy,</b> papavo. -<b>coloured</b>, punca<br>
+<b>popular,</b> populara.<br>
+<b>porcelain,</b> porcelano.<br>
+<b>porcupine,</b> histriko.<br>
+<b>porous,</b> pora, trua&#309;a.<br>
+<b>porpoise,</b> fokeno.<br>
+<b>porridge,</b> ka&#265;o.<br>
+<b>port,</b> haveno.<br>
+<b>porter,</b> portisto, pordisto.<br>
+<b>portion,</b> parto, (<i>ration</i>) porcio,<br>
+<b>portmanteau,</b> valizo.<br>
+<b>position,</b> pozicio, situacio.<br>
+<b>positive,</b> pozitiva, definitiva.<br>
+<b>possess,</b> posedi, havi<br>
+<b>possible,</b> ebla.<br>
+<b>post,</b> stango, fosto; ofico. <b>letter</b>&mdash;,
+po&#349;to.<br>
+<b>postage,</b> postelspezo, (<i>stamp</i>) po&#349;tmarko.<br>
+<b>posture,</b> teni&#285;o, pozo, pozicio.<br>
+<b>potato,</b> terpomo.<br>
+<b>potent,</b> potenca.<br>
+<b>poultice,</b> kataplasmo.<br>
+<b>poultry,</b> kortbirdoj.<br>
+<b>pound,</b> funto, (<i>money</i>) funto sterlinga; pisti.<br>
+<b>pour,</b> ver&#349;i (<i>liquids</i>), &#349;uti.<br>
+<b>powder,</b> pulvoro. <b>gun</b>-, pulvo; (<i>face</i>&mdash;)
+pudro.<br>
+<b>power,</b> povo, potenco.<br>
+<b>practise,</b> sin ekzerci; (<i>profession</i>) praktiki.<br>
+<b>praise,</b> la&#365;di, glori.<br>
+<b>pray,</b> pre&#285;i, peti.<br>
+<b>preach,</b> prediki.<br>
+<b>precaution,</b> anta&#365;zorgo.<br>
+<b>precious,</b> altvalora, karega<br>
+<b>precipice,</b> krutega&#309;o; profundega&#309;o.<br>
+<b>precise,</b> preciza, &#285;usta.<br>
+<b>prefer,</b> preferi.<br>
+<b>prefix,</b> prefiks'i, -o.<br>
+<b>pregnant,</b> graveda.<br>
+<b>prejudice,</b> anta&#365;ju&#285;o.<br>
+<b>premium,</b> premio.<br>
+<b>prepare,</b> prepari, pretigi.<br>
+<b>prescription,</b> recepto.<br>
+<b>present,</b> (<i>be</i>), apudesti, &#265;eesti; (<i>gift</i>)
+donaco.<br>
+<b>present,</b> prezenti, donaci.<br>
+<b>preserve,</b> konservi, konfito.<br>
+<b>preside,</b> prezidi.<br>
+<b>press,</b> premi; gazetaro, &#309;urnalaro.<br>
+<b>pretend,</b> preteksti, &#349;ajnigi.<br>
+<b>price,</b> prezo, kosto.<br>
+<b>prick,</b> piki.<br>
+<b>primrose,</b> primolo.<br>
+<b>principle,</b> principo.<br>
+<b>print,</b> presi; gravura&#309;o.<br>
+<b>prison,</b> malliberejo.<br>
+<b>private,</b> privata, konfidencia.<br>
+<b>privilege,</b> privilegio.<br>
+<b>prize,</b> premio; &#349;ati.<br>
+<b>probable,</b> kredebla.<br>
+<b>problem,</b> problemo.<br>
+<b>proboscis,</b> rostro.<br>
+<b>process,</b> proceso.<br>
+<b>procession,</b> procesio.<br>
+<b>proclaim,</b> proklami.<br>
+<b>profession,</b> profesio.<br>
+<b>professor,</b> profesoro<br>
+<!-- =============================164.png============================ -->
+<b>profit,</b> profito, gajno.<br>
+<b>progress,</b> progreso.<br>
+<b>pronounce,</b> elparoli.<br>
+<b>proof,</b> pruvo, provo, presprova&#309;o.<br>
+<b>proper,</b> &#285;usta, konvena, deca.<br>
+<b>prophesy,</b> profeti, anta&#365;diri.<br>
+<b>proportion,</b> proporcio.<br>
+<b>propose,</b> proponi.<br>
+<b>prosecute,</b> persekuti, procesi kontra&#365;.<br>
+<b>protect,</b> protekti, &#349;irmi.<br>
+<b>protest,</b> protesti.<br>
+<b>proud,</b> fiera.<br>
+<b>provide,</b> provizi.<br>
+<b>provoke,</b> inciti, kolerigi.<br>
+<b>prudent,</b> singardema.<br>
+<b>public,</b> publika, komuna.<br>
+<b>puff,</b> pufo. &mdash;<b>up,</b> &#349;vel'i, -igi.<br>
+<b>pug,</b> mopso.<br>
+<b>pull,</b> tiri.<br>
+<b>pulley,</b> rulbloko.<br>
+<b>pulp,</b> mola&#309;o.<br>
+<b>pump,</b> pump'i, -ilo.<br>
+<b>pumice-stone,</b> pumiko.<br>
+<b>pupil,</b> lernanto; (<i>of eye</i>) pupilo.<br>
+<b>pure,</b> pura, virta.<br>
+<b>purple,</b> purpura.<br>
+<b>purpose,</b> cel'i, -o; intenci.<br>
+<b>push,</b> pu&#349;i; (<i>along</i>) &#349;ovi.<br>
+<b>put,</b> meti. &mdash;<b>off</b>, prokrasti.
+&mdash;<b>aside</b>, apartigi.<br>
+<b>putrid,</b> putra.<br>
+<b>puzzle,</b> enigmo.<br>
+
+
+<center><b>Q</b></center>
+
+<b>quadruped,</b> kvarpiedulo.<br>
+<b>quail,</b> koturno.<br>
+<b>Quaker,</b> kvakero.<br>
+<b>quality,</b> kvalito, eco.<br>
+<b>quantity,</b> kvanto, kiomo.<br>
+<b>quarry,</b> &#349;tonminejo.<br>
+<b>quarter,</b> kvarono, (<i>district</i>) kvartalo.<br>
+<b>quay,</b> kajo, en (el) &#349;ipigejo.<br>
+<b>question,</b> demandi, dubi.<br>
+<b>quick,</b> rapida, <b>-en,</b> akceli.<br>
+<b>quicksilver,</b> hidrargo.<br>
+<b>quiet,</b> kvieta, trankvila.<br>
+<b>quinine,</b> kinino.<br>
+<b>quinsy,</b> angino.<br>
+<b>quite,</b> tute.<br>
+<b>quits,</b> kvitaj.<br>
+<b>quorum,</b> kvorumo.<br>
+<b>quote,</b> citi.<br>
+
+
+<center><b>R</b></center>
+
+<b>rabbit,</b> kuniklo.<br>
+<b>race,</b> raso, gento; vetkuri.<br>
+<b>radish,</b> rafaneto. <b>horse-,</b> rafano.<br>
+<b>raft,</b> floso.<br>
+<b>rag,</b> &#265;ifono.<br>
+<b>rail,</b> relo. <b>-way,</b> fervojo. <b>-way station,</b>
+stacidomo.<br>
+<b>rainbow,</b> &#265;ielarko.<br>
+<b>raisin,</b> sekvinbero.<br>
+<b>rake,</b> rast'i, -ilo.<br>
+<b>rampart,</b> remparo.<br>
+<b>rancid,</b> ranca.<br>
+<b>rank,</b> vico, grado, rango.<br>
+<b>raspberry,</b> frambo.<br>
+<b>rat,</b> rato.<br>
+<b>rate,</b> procento, &mdash;<b>of,</b> po.<br>
+<b>rattle,</b> kraketi. <b>-snake,</b> sonserpento.<br>
+<b>raven,</b> korvo.<br>
+<b>raw,</b> kruda, nekuirita.<br>
+<b>reach,</b> atingi, trafi.<br>
+<b>ready,</b> preta. <b>-money,</b> kontanto.<br>
+<b>real,</b> vera, reala, efektiva.<br>
+<b>ream,</b> rismo.<br>
+<b>reap,</b> rikolti.<br>
+<!-- =============================165.png============================ -->
+<b>reason,</b> (cause) ka&#365;zo, (faculty) prudento;
+rezoni.<br>
+<b>reasonable,</b> prudenta.<br>
+<b>rebel,</b> ribeli.<br>
+<b>receipt,</b> kvitanco, ricevo.<br>
+<b>receipts,</b> enspezoj.<br>
+<b>receive,</b> ricevi, akcepti.<br>
+<b>recipe,</b> recepto, formulo.<br>
+<b>recite,</b> deklami.<br>
+<b>recruit,</b> rekruto; varbi.<br>
+<b>refer to,</b> sin turni al.<br>
+<b>refine,</b> rafini.<br>
+<b>refuge,</b> (<i>take</i>) rifu&#285;'i, -ejo.<br>
+<b>refuse,</b> rifuzi; for&#309;eta&#309;o, rubo.<br>
+<b>register,</b> registri, enskribi.<br>
+<b>regularly,</b> akurate, regule.<br>
+<b>reign,</b> re&#285;i; re&#285;ado, re&#285;eco.<br>
+<b>relate,</b> rakonti; rilati al.<br>
+<b>relation,</b> parenco; rilato.<br>
+<b>religion,</b> religio.<br>
+<b>remain,</b> resti.<br>
+<b>remedy,</b> kuracilo, rimedo.<br>
+<b>remember,</b> memori.<br>
+<b>remove,</b> translo&#285;'i&#285;i, -igi.<br>
+<b>rent,</b> luprezo.<br>
+<b>repeat,</b> ripeti, rediri.<br>
+<b>repent,</b> penti.<br>
+<b>report,</b> raporti; famo; (<i>official</i>) protokolo.<br>
+<b>represent,</b> reprezenti.<br>
+<b>reptile,</b> rampa&#309;o.<br>
+<b>republic,</b> respubliko.<br>
+<b>repugnance,</b> antipatio.<br>
+<b>require,</b> bezoni, postuli.<br>
+<b>resemble,</b> simili.<br>
+<b>reserve,</b> rezervi.<br>
+<b>resign,</b> eksi&#285;i.<br>
+<b>resignation,</b> resignacio; eksi&#285;o.<br>
+<b>resin,</b> rezino. <b>-wood,</b> keno.<br>
+<b>resolve,</b> decid'i, -o; solvi.<br>
+<b>respect,</b> respekti.<br>
+<b>responsible,</b> (<i>for</i>), responda pri.<br>
+<b>rest,</b> pa&#365;zo, resta&#309;o, kvieteco, ripozo,
+apogi.<br>
+<b>restaurant,</b> restoracio.<br>
+<b>result,</b> rezulti; sekvo; rezultato.<br>
+<b>retail,</b> detale, pomalgrande.<br>
+<b>revenge,</b> ven&#285;'o, -i.<br>
+<b>revolution,</b> revolucio.<br>
+<b>reward,</b> rekompenco, premio.<br>
+<b>rhubarb,</b> rabarbo.<br>
+<b>rhyme,</b> rim'i, -o.<br>
+<b>rhythm,</b> ritmo.<br>
+<b>rib,</b> ripo.<br>
+<b>ribbon,</b> rubando.<br>
+<b>rice,</b> rizo.<br>
+<b>riddle,</b> kribrilo; enigmo.<br>
+<b>right,</b> (<i>&mdash;hand</i>) dekstra; (<i>legal&mdash;</i>)
+rajto; (<i>straight</i>) rekta; (<i>correct</i>) prava.<br>
+<b>righteous,</b> justa, pia.<br>
+<b>ring,</b> ringo, rondo; sonorigi.<br>
+<b>ringworm,</b> favo.<br>
+<b>rinse,</b> gargari, laveti.<br>
+<b>riot,</b> tumulto.<br>
+<b>rise,</b> levi&#285;i, supreniri, deveni.<br>
+<b>risk,</b> riski.<br>
+<b>road,</b> vojo, strato. <b>-stead,</b> rodo.<br>
+<b>roar,</b> (<i>winds and waves</i>) mu&#285;i.<br>
+<b>roast,</b> rost'i, -a&#309;o.<br>
+<b>rob,</b> rabi.<br>
+<b>robe,</b> vesto, robo.<br>
+<b>robust,</b> fortika.<br>
+<b>rock,</b> &#349;tonego, roko; balanci, luli.<br>
+<b>rod,</b> vergo. <b>fishing-,</b> hokfadeno.<br>
+<b>rogue,</b> fripono, kanajlo.<br>
+<b>roll,</b> rul'i, -i&#285;i; kunvolva&#309;o, (<i>bread</i>)
+bulko.<br>
+<b>roof,</b> tegmento.<br>
+<b>rook,</b> frugilego.<br>
+<b>root,</b> radik'o, enradiki.<br>
+<b>rope,</b> &#349;nurego.<br>
+<b>rot,</b> putri.<br>
+<b>round,</b> ronda; &#265;irka&#365;.<br>
+<b>rouse,</b> eksciti, veki.<br>
+<b>row,</b> vico; remi.<br>
+<b>rubbish,</b> rubo, for&#309;eta&#309;o.<br>
+<!-- =============================166.png============================ -->
+<b>ruby,</b> rubeno.<br>
+<b>rudder,</b> direktilo.<br>
+<b>rue,</b> ruto; beda&#365;regi, penti.<br>
+<b>ruin,</b> ruin'o, -igi.<br>
+<b>rule,</b> regi, regado; regulo.<br>
+<b>ruler,</b> registo; liniilo.<br>
+<b>rumour,</b> famo.<br>
+<b>run,</b> kuri; flui.<br>
+<b>rapture,</b> rompo; hernio.<br>
+<b>ruse,</b> ruzo.<br>
+<b>rush,</b> junko; kuregi.<br>
+<b>rust,</b> rusti.<br>
+<b>rut,</b> radkavo, radsigno.<br>
+<b>rye,</b> sekalo.<br>
+
+
+<center><b>S</b></center>
+
+<b>sable,</b> zibelo.<br>
+<b>sacrifice,</b> ofero.<br>
+<b>saddle,</b> selo.<br>
+<b>sagacious,</b> sagaca.<br>
+<b>sage,</b> salvio; sa&#285;a.<br>
+<b>sail,</b> velo; na&#285;i.<br>
+<b>salad,</b> salato.<br>
+<b>salmon,</b> salmo.<br>
+<b>salt,</b> salo, <b>&mdash;meat,</b> pekla&#309;o.<br>
+<b>saltpetre,</b> salpetro, nitro.<br>
+<b>same,</b> sama.<br>
+<b>sample,</b> specimeno,<br>
+<b>sanction,</b> sankcii.<br>
+<b>sap,</b> suko.<br>
+<b>sapphire,</b> safiro.<br>
+<b>sarcasm,</b> sarkasmo.<br>
+<b>sardine,</b> sardelo.<br>
+<b>sated (to be),</b> sati.<br>
+<b>satin,</b> atlaso.<br>
+<b>saturate,</b> saturi.<br>
+<b>sauce,</b> sa&#365;co, <b>-pan,</b> kaserolo.<br>
+<b>saucer,</b> subtaso.<br>
+<b>sausage,</b> kolbaso.<br>
+<b>save,</b> savi, &#349;pari; krom.<br>
+<b>savoury,</b> bongusta.<br>
+<b>scaffold,</b> e&#349;afodo; traba&#309;o.<br>
+<b>scald,</b> brogi.<br>
+<b>scale,</b> skalo, <i>(fish)</i> skvamo; tarifo.<br>
+<b>scales,</b> pesilo.<br>
+<b>scandal,</b> skandalo.<br>
+<b>scar,</b> cikatro.<br>
+<b>scarf,</b> skarpo.<br>
+<b>scarlet,</b> skarlato.<br>
+<b>scene,</b> vida&#309;o, sceno.<br>
+<b>scenery,</b> pejza&#309;o.<br>
+<b>scent,</b> odoro, parfumo; flari.<br>
+<b>scissors,</b> tondilo.<br>
+<b>scold,</b> ripro&#265;i, malla&#365;di.<br>
+<b>scorpion,</b> skorpio.<br>
+<b>scoundrel,</b> kanajlo.<br>
+<b>scour,</b> frotlavi;<br>
+<b>scourge,</b> skur&#285;i.<br>
+<b>scrape,</b> skrapi, raspi.<br>
+<b>scratch,</b> grati.<br>
+<b>screen,</b> &#349;irm'i, -ilo.<br>
+<b>screw,</b> &#349;ra&#365;bo.<br>
+<b>scrupulous,</b> konscienca, skrupula.<br>
+<b>sculpture,</b> skulpti.<br>
+<b>scum,</b> &#349;a&#365;mo.<br>
+<b>scurvy,</b> skorbuto.<br>
+<b>seal,</b> sigel'i, -o, <i>(animal)</i> foko.<br>
+<b>seaside,</b> marbordo.<br>
+<b>season,</b> sezono; spici.<br>
+<b>seasonable,</b> &#285;ustatempa.<br>
+<b>secret,</b> sekreta, ka&#349;ita.<br>
+<b>secretary,</b> sekretario.<br>
+<b>section,</b> sekcio.<br>
+<b>secular,</b> monda.<br>
+<b>sedentary,</b> hejmsida, sida.<br>
+<b>sediment,</b> fe&#265;o.<br>
+<b>seed,</b> semo.<br>
+<b>seem,</b> &#349;ajni.<br>
+<b>seemly,</b> deca.<br>
+<b>seize,</b> ekkapti.<br>
+<b>select,</b> elekti, elelekti.<br>
+<b>selfish,</b> egoista.<br>
+<b>semicolon,</b> punktokomo.<br>
+<b>semolina,</b> tritika&#309;o.<br>
+<!-- =============================167.png============================ -->
+<b>send,</b> sendi, (&mdash;<i>for</i>) venigi.<br>
+<b>sensation,</b> sensacio,<br>
+<b>sense,</b> sento, senco.<br>
+<b>sensitive,</b> sentema.<br>
+<b>sensual,</b> volupta.<br>
+<b>sentence,</b> frazo, ju&#285;o, verdikto.<br>
+<b>sentiment,</b> sento, opinio.<br>
+<b>sentimental,</b> sentimentala.<br>
+<b>separate,</b> apart'a, -igi, disigi, malkunigi.<br>
+<b>serfdom,</b> servuto.<br>
+<b>sergeant,</b> ser&#285;ento.<br>
+<b>series,</b> serio.<br>
+<b>serious,</b> serioza.<br>
+<b>serve,</b> servi, (&mdash;<i>for</i>) ta&#365;gi.<br>
+<b>service,</b> servo, man&#285;ilaro, Diservo.<br>
+<b>serviette,</b> bu&#349;tuko,<br>
+<b>set,</b> meti, (&mdash;<i>on edge</i>) agaci.<br>
+<b>sew,</b> kudri, stebi.<br>
+<b>sewing machine,</b> stebilo.<br>
+<b>sex,</b> sekso.<br>
+<b>shade,</b> ombro, ombra&#309;o, nuanco<br>
+<b>shadow,</b> ombro.<br>
+<b>shaft,</b> (<i>of vehicle</i>) timono; (<i>pit</i>)
+&#349;akto.<br>
+<b>shake,</b> &#349;anceli, skui; tremi.<br>
+<b>shame,</b> hont'o, -igi.<br>
+<b>share,</b> dividi, partopreni; parto; porcio; akcio.<br>
+<b>shark,</b> &#349;arko.<br>
+<b>sharp,</b> akra, acida, pinta, pika.<br>
+<b>shatter,</b> frakasi.<br>
+<b>shawl,</b> &#349;alo.<br>
+<b>sheaf,</b> garbo.<br>
+<b>shear,</b> tondi.<br>
+<b>shed,</b> budo.<br>
+<b>sheet,</b> drapo, lit-tuko, tavolo.<br>
+<b>shelf,</b> breto.<br>
+<b>shell,</b> konko, &#349;elo, bombo.<br>
+<b>shelter,</b> &#349;irmilo, rifu&#285;ejo,<br>
+<b>shield,</b> &#349;ildo, &#349;irmi.<br>
+<b>shin,</b> tibio.<br>
+<b>shirt,</b> &#265;emizo.<br>
+<b>shock,</b> skueg'i, -o.<br>
+<b>shop,</b> butiko, magazeno.<br>
+<b>shoulder,</b> &#349;ultro,-<b>blade</b>, skapolo<br>
+<b>shovel,</b> &#349;ovel'i, -ilo.<br>
+<b>show,</b> montri; parado.<br>
+<b>shrill,</b> sibla.<br>
+<b>shrivel,</b> sulki&#285;i.<br>
+<b>shrimp,</b> markankreto.<br>
+<b>shroud,</b> mortkitelo; ka&#349;i.<br>
+<b>sick,</b> (<i>be,</i>&mdash;) vomi.<br>
+<b>siege,</b> sie&#285;o, <b>be</b>-, sie&#285;i.<br>
+<b>sift,</b> kribri.<br>
+<b>sigh,</b> sopiri, ek&#285;emi.<br>
+<b>sight,</b> vidado, vida&#309;o.<br>
+<b>sign,</b> signo, subskribi.<br>
+<b>signal,</b> signalo.<br>
+<b>silent,</b> silenta.<br>
+<b>silk,</b> silko.<br>
+<b>sill,</b> sojlo.<br>
+<b>silver,</b> ar&#285;ento.<br>
+<b>simple,</b> simpla, naiva.<br>
+<b>since,</b> de kiam, &#265;ar, tial ke.<br>
+<b>sinew,</b> tendeno.<br>
+<b>situation,</b> situacio, sido, ofico.<br>
+<b>size,</b> grandeco, amplekso; for mato; glueto<br>
+<b>skate,</b> glit'i, -ilo; (<i>fish</i>) rajo.<br>
+<b>skeleton,</b> skeleto.<br>
+<b>sketch,</b> skizi.<br>
+<b>skilful,</b> lerta.<br>
+<b>skin,</b> ha&#365;to, felo.<br>
+<b>skirt,</b> jupo.<br>
+<b>skittles,</b> keglo.<br>
+<b>skull,</b> kranio.<br>
+<b>slander,</b> kalumnii.<br>
+<b>slanting,</b> oblikva.<br>
+<b>slate,</b> ardezo. -<b>s</b>, tegmenta&#309;o.<br>
+<b>slave,</b> sklavo.<br>
+<b>sleeve,</b> maniko.<br>
+<b>slipper,</b> pantoflo.<br>
+<b>slime,</b> &#349;limo.<br>
+<b>sloe,</b> prunelo.<br>
+<b>slope,</b> deklivo.<br>
+<b>sluice,</b> kluzo.<br>
+<b>sly,</b> ruza, ka&#349;ema.<br>
+<!-- =============================168.png============================ -->
+<b>smallpox,</b> variolo.<br>
+<b>smart,</b> eleganta; doloreti.<br>
+<b>smear,</b> &#349;miri.<br>
+<b>smell,</b> flari, odori.<br>
+<b>smelt,</b> fandi.<br>
+<b>smock,</b> kitelo.<br>
+<b>smoke,</b> fumi, (<i>fish, etc.</i>) fuma&#309;i.<br>
+<b>smooth,</b> glata, ebena.<br>
+<b>smother,</b> sufoki.<br>
+<b>smuggle,</b> kontrabandi.<br>
+<b>snail,</b> heliko.<br>
+<b>snake,</b> serpento.<br>
+<b>sneeze,</b> terni.<br>
+<b>snore,</b> ronki.<br>
+<b>snowdrop,</b> galanto.<br>
+<b>so,</b> tiel, tiamaniere. <b>&mdash;much</b>, tiom.<br>
+<b>soak,</b> trempi.<br>
+<b>soap,</b> sap'o, -umi.<br>
+<b>sober,</b> sobra, serioza.<br>
+<b>social,</b> sociala.<br>
+<b>society,</b> socio, societo.<br>
+<b>socket,</b> ingo.<br>
+<b>sod,</b> bulo.<br>
+<b>soda,</b> sodo.<br>
+<b>sofa,</b> sofo, kanapo.<br>
+<b>soft,</b> mola, delikata.<br>
+<b>soil,</b> tero.<br>
+<b>solder,</b> luti.<br>
+<b>soldier,</b> soldato, militisto.<br>
+<b>sole,</b> sola; (<i>fish</i>) soleo; (<i>foot</i>) plando;
+(<i>boot</i>) ledplando.<br>
+<b>solemn,</b> solena.<br>
+<b>solfa,</b> notkanti.<br>
+<b>solicitor,</b> advokato.<br>
+<b>solid,</b> fortika; solida, malfluida.<br>
+<b>solidarity,</b> solidareco.<br>
+<b>sonorous,</b> sonora.<br>
+<b>soot,</b> fulgo.<br>
+<b>sorcery,</b> sor&#265;o.<br>
+<b>sorry (be),</b> beda&#365;ri.<br>
+<b>sort,</b> speco.<br>
+<b>soul,</b> animo.<br>
+<b>sound,</b> son'o, -i; sondi.<br>
+<b>soup,</b> supo.<br>
+<b>sour,</b> acida, malgaja.<br>
+<b>source,</b> fonto, deveno.<br>
+<b>south,</b> sudo.<br>
+<b>space,</b> spaco; (<i>of time</i>) da&#365;ro<br>
+<b>sparrow,</b> pasero. <b>-hawk</b>, akcipitro.<br>
+<b>spawn,</b> fraj'o, -i; fi&#349;osemo<br>
+<b>spear,</b> lanco, ponardego<br>
+<b>special,</b> speciala.<br>
+<b>spectacles,</b> okulvitroj.<br>
+<b>speculate,</b> spekulacii, teoriigi, konjekti.<br>
+<b>spell,</b> silabi; sor&#265;a&#309;o.<br>
+<b>spend,</b> elspezi.<br>
+<b>sphere,</b> sfero.<br>
+<b>sphinx,</b> sfinkso.<br>
+<b>spice,</b> spico.<br>
+<b>spill,</b> disver&#349;i, dis&#349;uti.<br>
+<b>spin,</b> &#349;pini.<br>
+<b>spinach,</b> spinaco.<br>
+<b>spiral,</b> helikforma.<br>
+<b>spirii,</b> spirito; energio; fantomo; alkoholo.<br>
+<b>spit,</b> kra&#265;i; sputi.<br>
+<b>spite,</b> malamo, ven&#285;o, (<i>in&mdash;of</i>)
+malgra&#365;; spite.<br>
+<b>splash,</b> &#349;pruci; pla&#365;di.<br>
+<b>spleen,</b> lieno; spleno<br>
+<b>split,</b> fendi, spliti.<br>
+<b>spoil,</b> difekti, malbonigi; ruinigi; akiro.<br>
+<b>spoke,</b> (<i>wheel,</i>) radio.<br>
+<b>sponge,</b> spongo.<br>
+<b>spontaneous,</b> propra'mova, -vola.<br>
+<b>spot,</b> makulo.<br>
+<b>spout,</b> &#349;pruci.<br>
+<b>sprain,</b> tordi, distordo<br>
+<b>spread,</b> disvast'igi' -i&#285;i; etendi, sterni.<br>
+<b>spring,</b> printempo, fonto, risorto, salti.<br>
+<b>sprinkle,</b> &#349;pruci, aspergi.<br>
+<b>spur,</b> sprono.<br>
+<!-- =============================169.png============================ -->
+<b>spy,</b> spioni; esplori.<br>
+<b>squadron,</b> skadro, eskadro.<br>
+<b>square,</b> kvadrato; rektangulilo; placo.<br>
+<b>squint,</b> strabi.<br>
+<b>squirrel,</b> sciuro.<br>
+<b>staff,</b> (<i>officers</i>), stabo.<br>
+<b>stage,</b> estrado, scenejo.<br>
+<b>stain,</b> makul'o, -i.<br>
+<b>stair,</b> &#349;tupo.<br>
+<b>stake,</b> paliso, fosto; veto.<br>
+<b>stalk,</b> trunketo.<br>
+<b>stall,</b> budo, stalo.<br>
+<b>stammer,</b> balbuti.<br>
+<b>stamp,</b> stampi; po&#349;tmarko; piedfrapi.<br>
+<b>starch,</b> amelo.<br>
+<b>starling,</b> sturno.<br>
+<b>state,</b> stato; &#348;tato; esprimi, diri, aserti.<br>
+<b>station,</b> stacio, stacidomo.<br>
+<b>steak,</b> bifsteko.<br>
+<b>steel,</b> &#349;talo.<br>
+<b>steep,</b> kruta; trempi.<br>
+<b>steer,</b> direkti, piloti.<br>
+<b>step,</b> &#349;tupo; pa&#349;i.<br>
+<b>steppe,</b> stepo.<br>
+<b>steward,</b> intendanto.<br>
+<b>stick,</b> bastono, glui,(&mdash;<i>bills</i>) afi&#349;i.<br>
+<b>stiff,</b> rigida.<br>
+<b>still,</b> kvieta; ankora&#365;, tamen.<br>
+<b>stimulate,</b> stimuli.<br>
+<b>sting,</b> piki.<br>
+<b>stipulate,</b> kondi&#265;i.<br>
+<b>stock,</b> provizi.<br>
+<b>stocks,</b> rentoj.<br>
+<b>stocking,</b> &#349;trumpo.<br>
+<b>stoker,</b> hejtisto.<br>
+<b>stomach,</b> stomako.<br>
+<b>stone,</b> &#349;tono, (<i>of fruit</i>) grajno.<br>
+<b>stool,</b> skabelo, benketo.<br>
+<b>stoop,</b> kurbi&#285;i.<br>
+<b>stop,</b> halt'i, -igi; resti, pa&#365;zi;
+(<i>full</i>&mdash;) punkto; &#349;topi.<br>
+<b>stopper,</b> &#349;topilo.<br>
+<b>store,</b> magazeno; tenejo; proviz'o, -i.<br>
+<b>stork,</b> cikonio.<br>
+<b>storm,</b> ventego.<br>
+<b>story,</b> rakonto, fabelo; eta&#285;o.<br>
+<b>stout,</b> dika.<br>
+<b>strain,</b> stre&#265;i; filtri, kribri.<br>
+<b>strait,</b> markolo; embarasajxo.<br>
+<b>strange,</b> stranga, kurioza, fremda.<br>
+<b>strap,</b> rimeno.<br>
+<b>straw,</b> pajlo.<br>
+<b>strawberry,</b> frago.<br>
+<b>streak,</b> strio, strek'i, -o.<br>
+<b>stretch,</b> stre&#265;i.<br>
+<b>stretcher,</b> homportilo.<br>
+<b>strict,</b> severa.<br>
+<b>strike,</b> frapi; striko.<br>
+<b>strip,</b> strio; (&mdash;<i>off</i>) senigi je.<br>
+<b>strong,</b> forta, fortika.<br>
+<b>struggle,</b> barakti; batali.<br>
+<b>student,</b> studento, lernanto, studanto.<br>
+<b>stuff,</b> &#349;tofo; remburi.<br>
+<b>stupid,</b> stulta, malsprita.<br>
+<b>stupor,</b> letargio.<br>
+<b>sturgeon,</b> sturgo.<br>
+<b>style,</b> stilo; modo.<br>
+<b>subject,</b> objekto; temo; (<i>gram.</i>) subjekto.<br>
+<b>subscribe,</b> (<i>to journal</i>) aboni; (<i>to society</i>)
+kotizi; (<i>sign</i>) subskribi; (<i>money</i>) monoferi.<br>
+<b>substance,</b> &#349;tofo, substanco.<br>
+<b>succeed,</b> sukcesi; sekvi.<br>
+<b>suck,</b> su&#265;i.<br>
+<b>suckle,</b> mamnutri.<br>
+<b>sudden,</b> subita, abrupta,<br>
+<b>suet,</b> rensebo.<br>
+<b>suffer,</b> suferi, toleri.<br>
+<b>sufficient,</b> sufi&#265;a. <b>be</b>&mdash;, -i<br>
+<b>suffrage,</b> vo&#265;donrajto.<br>
+<b>suggest,</b> proponi, inspiri, pensigi.<br>
+<!-- =============================170.png============================ -->
+<b>suit,</b> konveni; ta&#365;gi.<br>
+<b>suitable,</b> deca, konvena, ta&#365;ga.<br>
+<b>sum,</b> sumo. &mdash;<b>up</b>, resumi.<br>
+<b>summer,</b> somero. -<b>house</b>, la&#365;bo.<br>
+<b>summon,</b> kunvoki, procesi.<br>
+<b>superfluity,</b> superfluo, tromulto.<br>
+<b>superintendent,</b> intendanto.<br>
+<b>superior,</b> supera.<br>
+<b>superstition,</b> supersti&#265;o.<br>
+<b>supple,</b> fleksebla.<br>
+<b>support,</b> subteni.<br>
+<b>suppose,</b> supozi, konjekti.<br>
+<b>sure,</b> certa<br>
+<b>surface,</b> supra&#309;o.<br>
+<b>surgeon,</b> &#293;irurgo.<br>
+<b>surgery,</b> &#293;irurgio.<br>
+<b>surprise,</b> mir'o, -igi, (<i>take by</i>&mdash;)
+surprizi.<br>
+<b>surrender,</b> cedi, kapitulaci.<br>
+<b>survey,</b> termezuri.<br>
+<b>susceptible,</b> impresema.<br>
+<b>suspect,</b> suspekti.<br>
+<b>swaddle,</b> vindi.<br>
+<b>swagger,</b> fanfaroni.<br>
+<b>swallow,</b> hirundo; gluti.<br>
+<b>swan,</b> cigno.<br>
+<b>swear,</b> &#309;uri; blasfemi.<br>
+<b>sweat,</b> &#349;viti.<br>
+<b>sweep,</b> balai.<br>
+<b>swell,</b> &#349;veli.<br>
+<b>swing,</b> balanc'i, -i&#285;i; svingi.<br>
+<b>sword,</b> glavo, spado.<br>
+<b>sycamore,</b> sikomoro.<br>
+<b>syllable,</b> silabo.<br>
+<b>syllabus,</b> temaro.<br>
+<b>symbol,</b> simbolo, emblemo, signo<br>
+<b>symmetry,</b> simetrio.<br>
+<b>sympathy,</b> kompato, simpatio.<br>
+<b>symptom,</b> simptomo.<br>
+<b>syndicate,</b> sindikato.<br>
+<b>syrup,</b> siropo; melaso.<br>
+<b>system,</b> sistemo.<br>
+
+
+<center><b>T</b></center>
+
+<b>table,</b> tablo, tabelo.<br>
+<b>tact,</b> delikateco, takto<br>
+<b>tactics,</b> taktiko.<br>
+<b>tail,</b> vosto.<br>
+<b>tailor,</b> tajloro.<br>
+<b>talent,</b> talento.<br>
+<b>talk,</b> interparolad'i, -o; konversacio.<br>
+<b>tallow,</b> sebo.<br>
+<b>talon,</b> ungego.<br>
+<b>tame,</b> dresi; malsova&#285;a.<br>
+<b>tan,</b> tan'i, -ilo.<br>
+<b>tankard,</b> pokalo.<br>
+<b>tap,</b> krano; frapeti.<br>
+<b>tape,</b> katunrubando.<br>
+<b>tar,</b> gudr'o, -umi.<br>
+<b>tart,</b> torto; acida.<br>
+<b>task,</b> tasko.<br>
+<b>taste,</b> gust'o, -umi.<br>
+<b>tattoo,</b> tatui.<br>
+<b>tax,</b> imposto.<br>
+<b>tea,</b> teo.<br>
+<b>teach,</b> instrui, lernigi.<br>
+<b>tear,</b> &#349;iri.<br>
+<b>tear,</b> larmo.<br>
+<b>tease,</b> inciteti.<br>
+<b>tedious,</b> teda, enuiga.<br>
+<b>tell,</b> rakonti, diri.<br>
+<b>temper,</b> humoro, karaktero.<br>
+<b>temperate,</b> sobra, modera.<br>
+<b>temperature,</b> temperaturo.<br>
+<b>temple,</b> templo; tempio.<br>
+<b>tempt,</b> tenti.<br>
+<b>tenant,</b> luanto.<br>
+<b>tendency,</b> tendenco, emo, inklino.<br>
+<b>tenor,</b> tenoro; senco; signifo<br>
+<b>tent,</b> tendo<br>
+<b>terrace,</b> teraso.<br>
+<b>terror,</b> teruro.<br>
+<b>testify,</b> atesti.<br>
+<b>text,</b> teksto<br>
+<b>textile,</b> teksa.<br>
+<b>thaw,</b> degeli.<br>
+<!-- =============================171.png============================ -->
+<b>theatre,</b> teatro.<br>
+<b>then,</b> tiam, poste, do.<br>
+<b>thick,</b> dika; densa.<br>
+<b>thigh,</b> femuro.<br>
+<b>thing,</b> afero, a&#309;o, objekto.<br>
+<b>think,</b> pensi, opinii.<br>
+<b>thirst,</b> soif'i, -o.<br>
+<b>thistle,</b> kardo.<br>
+<b>thorn,</b> dorno.<br>
+<b>thrash,</b> dra&#349;i; skur&#285;i, bategi.<br>
+<b>threaten,</b> minaci.<br>
+<b>threshold,</b> sojlo.<br>
+<b>thrill,</b> eksciti.<br>
+<b>throat,</b> gor&#285;o, fa&#365;ko.<br>
+<b>throne,</b> trono.<br>
+<b>throw,</b> &#309;eti.<br>
+<b>thrush,</b> turdo.<br>
+<b>thunder,</b> tondr'i, -o.<br>
+<b>thus,</b> tiel, tiamaniere; jene<br>
+<b>thyme,</b> timiano.<br>
+<b>ticket,</b> bileto.<br>
+<b>tickle,</b> tikli, amuzi.<br>
+<b>tide,</b> tajdo, marfluo.<br>
+<b>tidy,</b> bonorda.<br>
+<b>tie,</b> ligi; kravato.<br>
+<b>tiger,</b> tigro.<br>
+<b>tile,</b> kahelo; tegolo.<br>
+<b>till,</b> &#285;is; prilabori.<br>
+<b>time,</b> tempo, fojo, da&#365;ro, (<i>mus.</i>) takto.
+<b>-table,</b> horaro.<br>
+<b>tin,</b> stano.<br>
+<b>tinkle,</b> tinti.<br>
+<b>tire,</b> lacigi, tedi.<br>
+<b>tired,</b> laca, enuigita.<br>
+<b>tissue,</b> teksa&#309;o.<br>
+<b>title,</b> titolo.<br>
+<b>titmouse,</b> paruo.<br>
+<b>toad,</b> bufo.<br>
+<b>toast,</b> panrosta&#309;o; toasto.<br>
+<b>tobacco,</b> tabako.<br>
+<b>toe,</b> piedfingro.<br>
+<b>toilet,</b> tualeto.<br>
+<b>tolerate,</b> toleri.<br>
+<b>tone,</b> tono.<br>
+<b>tongs,</b> prenilo.<br>
+<b>tongue,</b> lango.<br>
+<b>top,</b> supro, pinto; verto; turbo.<br>
+<b>torment,</b> turmenti.<br>
+<b>torrent,</b> torento.<br>
+<b>tortoise,</b> testudo<br>
+<b>total,</b> tuto.<br>
+<b>totter,</b> &#349;anceli&#285;i.<br>
+<b>tourist,</b> turisto.<br>
+<b>towel,</b> vi&#349;'ilo, -tuko.<br>
+<b>tower,</b> turo.<br>
+<b>town,</b> urbo.<br>
+<b>trace,</b> postesigno.<br>
+<b>trade,</b> negoci, komerci; metio, (&mdash;<i>union</i>)
+sindikato, metia unui&#285;o.<br>
+<b>tradition,</b> tradicio.<br>
+<b>train,</b> vagonaro; eduki, dresi; trena&#309;o.<br>
+<b>tram,</b> tramo, tramveturilo.<br>
+<b>translate,</b> traduki.<br>
+<b>translucent,</b> diafana.<br>
+<b>transparent,</b> travidebla.<br>
+<b>trap,</b> kaptilo, enfalejo; kariolo.<br>
+<b>travel,</b> voja&#285;i, veturi.<br>
+<b>tray,</b> pleto.<br>
+<b>treacle,</b> melaso.<br>
+<b>tread,</b> mar&#349;i, pa&#349;i<br>
+<b>treasure,</b> trezoro.<br>
+<b>treasurer,</b> kasisto.<br>
+<b>treat,</b> regali; kuraci; trakti.<br>
+<b>treaty,</b> kontrakto, trakta&#309;o.<br>
+<b>tree,</b> arbo.<br>
+<b>trellis,</b> palisplekta&#309;o.<br>
+<b>tremble,</b> tremi, skui&#285;i.<br>
+<b>tribe,</b> gento, tribo.<br>
+<b>trick,</b> fripon'i, -a&#309;o, (<i>cards</i>) preno.<br>
+<b>trickle,</b> guteti.<br>
+<b>trifle,</b> bagatelo, triviala&#309;o.<br>
+<b>tripe,</b> tripo.<br>
+<b>triumph,</b> triumf'i, -o.<br>
+<b>troop,</b> trupo, bando.<br>
+<b>tropic,</b> tropiko.<br>
+<b>trot,</b> troti.<br>
+<b>trough,</b> trogo.<br>
+<!-- =============================172.png============================ -->
+<b>trousers,</b> pantalono.<br>
+<b>trout,</b> truto.<br>
+<b>trowel,</b> trulo.<br>
+<b>tramp,</b> (<i>cards</i>), atuto.<br>
+<b>trumpet,</b>, trumpeto.<br>
+<b>trunk,</b> (<i>animal</i>) rostro; (<i>tree</i>) trunko;
+(<i>box</i>) kofro; (<i>body</i>) torso.<br>
+<b>trust,</b> fidi.<br>
+<b>try,</b> provi, peni.<br>
+<b>Tsar,</b> Caro.<br>
+<b>tuber,</b> tubero.<br>
+<b>tuft,</b> tufo.<br>
+<b>tumbler,</b> glaso.<br>
+<b>tumult,</b> tumulto.<br>
+<b>tune,</b> ario, melodio; agordi.<br>
+<b>turbot,</b> rombfi&#349;o.<br>
+<b>turkey,</b> meleagro.<br>
+<b>turn,</b> turn'i, -i&#285;i; torni; pivoti; vico.<br>
+<b>turnip,</b> napo.<br>
+<b>turpentine,</b> terebinto.<br>
+<b>turquoise,</b> turkiso.<br>
+<b>turtle-dove,</b> turto.<br>
+<b>tutor,</b> guvernisto.<br>
+<b>twilight,</b> krepusko.<br>
+<b>twin,</b> dunaskito, &#285;emelo.<br>
+<b>twist,</b> tordi.<br>
+<b>type,</b> modelo, tipo; presliteraro.<br>
+<b>tyrant,</b> tirano.<br>
+
+
+<center><b>U</b></center>
+
+<b>umbrella,</b> ombrelo, pluv&#349;irmilo.<br>
+<b>underline,</b> substreki.<br>
+<b>understand,</b> kompreni.<br>
+<b>undulating,</b> ondolinia.<br>
+<b>unfailingly,</b> nepre.<br>
+<b>uniform,</b> uniformo; unuforma.<br>
+<b>unit,</b> unuo.<br>
+<b>unite,</b> unu'i&#285;i, -igi; kun'i&#285;i, -igi.<br>
+<b>universe,</b> universo.<br>
+<b>unless,</b> esceptinte ke, se ne.<br>
+<b>up,</b> supre.<br>
+<b>upholster,</b> remburi.<br>
+<b>upright,</b> vertikala, rekta; honesta.<br>
+<b>upset,</b> renversi.<br>
+<b>upstairs,</b> supre.<br>
+<b>urchin,</b> bubo.<br>
+<b>urgent,</b> ur&#285;a.<br>
+<b>use,</b> uzi, utiligi,(<i>&mdash;up</i>) eluzi.<br>
+<b>useful,</b> utila, (<i>be&mdash;</i>) utili.<br>
+<b>usual,</b> ordinara, kutima.<br>
+<b>usurp,</b> uzurpi.<br>
+<b>usury,</b> procentego.<br>
+<b>utmost,</b> ekstrema.<br>
+
+
+<center><b>V</b></center>
+
+<b>vacant,</b> neokupata.<br>
+<b>vacate,</b> forlasi.<br>
+<b>vaccinate,</b> inokuli.<br>
+<b>vacillate,</b> &#349;anceli&#285;i.<br>
+<b>vain,</b> vana; vanta.<br>
+<b>valet,</b> lakeo, servisto.<br>
+<b>valley,</b> valo.<br>
+<b>value,</b> valoro; &#349;ati, estimi; taksi.<br>
+<b>valuation,</b> taks'o, -ado.<br>
+<b>valve,</b> klapo.<br>
+<b>various,</b> diversaj.<br>
+<b>varnish,</b> lak'i, -o.<br>
+<b>vase,</b> vazo.<br>
+<b>vast,</b> vasta, ampleksa.<br>
+<b>vat,</b> kuvego.<br>
+<b>vault,</b> arka&#309;o,<br>
+<b>vegetable,</b> legomo, vegeta&#309;'o. -a; kreska&#309;o.<br>
+<b>vegetate,</b> vegeti.<br>
+<b>vehicle,</b> veturilo.<br>
+<b>veil,</b> vual'o, -i.<br>
+<b>vein,</b> vejno.<br>
+<b>vellum,</b> veleno.<br>
+<b>velvet,</b> veluro.<br>
+<b>venerable,</b> respektinda.<br>
+<b>venerate,</b> respektegi.<br>
+<b>vent,</b> ellas'o, -truo.<br>
+<b>ventilate,</b> ventoli.<br>
+<!-- =============================173.png============================ -->
+<b>venture,</b> kura&#285;i, riski.<br>
+<b>verandah,</b> balkono.<br>
+<b>verb,</b> verbo.<br>
+<b>verbal,</b> parola, bu&#349;a.<br>
+<b>verbatim,</b> la&#365;vorte.<br>
+<b>verdict,</b> ju&#285;o, verdikto.<br>
+<b>verger,</b> sakristiano.<br>
+<b>vermicelli,</b> vermi&#265;elo.<br>
+<b>vermilion,</b> cinabro.<br>
+<b>verse,</b> verso, strofo.<br>
+<b>very, &mdash;much,</b> tre.<br>
+<b>vessel,</b> &#349;ipo; vazo, ujo.<br>
+<b>vest,</b> ve&#349;to; &#309;aketo.<br>
+<b>vestige,</b> postsigno.<br>
+<b>vex,</b> &#265;agreni.<br>
+<b>vibrate,</b> vibri, tremeti.<br>
+<b>vicar,</b> paro&#293;estro; vikario<br>
+<b>vice,</b> (<i>prefix</i>), vie-,<br>
+<b>victim,</b> viktimo, ofera&#309;o.<br>
+<b>victory,</b> venko, triumfo, sukceso.<br>
+<b>view,</b> vida&#309;o; perspektivo.<br>
+<b>vigilant,</b> vigla.<br>
+<b>vine,</b> vinberujo.<br>
+<b>violate,</b> malrespekti, malvirtigi.<br>
+<b>violence,</b> perforto.<br>
+<b>violet,</b> violo.<br>
+<b>violin,</b> violono.<br>
+<b>viper,</b> vipero, kolubro.<br>
+<b>virago,</b> megero.<br>
+<b>virgin,</b> virgulino, virga.<br>
+<b>virile,</b> vira.<br>
+<b>virtue,</b> virto.<br>
+<b>virus,</b> veneno, viruso.<br>
+<b>viscid,</b> glueca.<br>
+<b>vision,</b> vizio, vidado.<br>
+<b>visit,</b> viziti.<br>
+<b>vocabulary,</b> vortaro.<br>
+<b>voice,</b> vo&#265;o.<br>
+<b>void,</b> el&#309;eti, nuligi.<br>
+<b>volcano,</b> vulkano.<br>
+<b>volley,</b> salvo.<br>
+<b>volume,</b> volumo; volumeno, amplekso.<br>
+<b>voluntary,</b> memvola, propravola.<br>
+<b>voluptuous,</b> volupta.<br>
+<b>vote,</b> vo&#265;doni.<br>
+<b>vow,</b> solene promesi, dedi&#265;i.<br>
+<b>vowel,</b> vokalo.<br>
+<b>vulgar,</b> vulgara.<br>
+<b>vulture,</b> vulturo.<br>
+
+
+<center><b>W</b></center>
+
+<b>wadding,</b> vato.<br>
+<b>waddle,</b> &#349;anceli&#285;i.<br>
+<b>wade,</b> vadi, akvotrairi.<br>
+<b>wages,</b> salajro.<br>
+<b>waggon,</b> &#349;ar&#285;veturilo, vagono<br>
+<b>waist,</b> talio, (-coat) ve&#349;to.<br>
+<b>wait,</b> atendi, (-on) servi.<br>
+<b>waiter,</b> kelnero.<br>
+<b>wake,</b> vek'i, -i&#285;i; &#349;ippostsigno.<br>
+<b>walk,</b> piediri, mar&#349;i, promeni.<br>
+<b>wallflower,</b> keiranto.<br>
+<b>walnut,</b> juglando.<br>
+<b>walrus,</b> rosmaro.<br>
+<b>waltz,</b> valso.<br>
+<b>wander,</b> vagi, deliri.<br>
+<b>want,</b> bezoni; seneco, manko; mizerego.<br>
+<b>ward,</b> zorgato.<br>
+<b>wardrobe,</b> vestotenejo; vestaro.<br>
+<b>warehouse,</b> tenejo, provizejo.<br>
+<b>wares,</b> komerca&#309;o.<br>
+<b>war,</b> milito.<br>
+<b>warm,</b> varma, fervora.<br>
+<b>warn,</b> averti, admoni.<br>
+<b>wart,</b> veruko.<br>
+<b>wasp,</b> vespo.<br>
+<b>waste,</b> mal&#349;pari.<br>
+<b>watch,</b> observi; spioni; po&#349;horlo&#285;o.<br>
+<b>water,</b> akvo; surver&#349;i.<br>
+<b>waterproof,</b> nepenetrebla.<br>
+<b>wave,</b> ondo; flirt'i, -igi.<br>
+<b>wax,</b> vakso.<br>
+<b>way,</b> vojo, maniero, kutimo.<br>
+<b>wean,</b> debrustigi, demamigi.<br>
+<!-- =============================174.png============================ -->
+<b>weapon,</b> batalilo, armilo.<br>
+<b>wear,</b> porti; (<i>&mdash;out</i>) eluzi;
+(<i>&mdash;away</i>) konsumi&#285;i.<br>
+<b>weary,</b> laca.<br>
+<b>weather,</b> vetero. <b>-cock,</b> ventoflago.<br>
+<b>weave,</b> teksi, plekti.<br>
+<b>wedding,</b> edzi&#285;o.<br>
+<b>wedge,</b> kojno.<br>
+<b>weed,</b> sarki; malbonherbo; <b>sea-,</b> fuko, algo.<br>
+<b>weep,</b> plori.<br>
+<b>weigh,</b> (<i>ascertain the weight</i>) pesi; (<i>have
+weight</i>) pezi.<br>
+<b>weight,</b> pezo, pezilo.<br>
+<b>welcome,</b> bonvenigi; bonvenu!<br>
+<b>weld,</b> kunfor&#285;i.<br>
+<b>well,</b> bone; nu!; puto.<br>
+<b>west,</b> okcidento.<br>
+<b>whale,</b> baleno.<br>
+<b>wharf,</b> kajo, el(en)&#349;ipejo.<br>
+<b>wheat,</b> tritiko.<br>
+<b>wheel,</b> rado.<br>
+<b>wheelbarrow,</b> pu&#349;veturilo.<br>
+<b>whelk,</b> bukceno.<br>
+<b>whey,</b> selakto.<br>
+<b>whim,</b> kaprico.<br>
+<b>whip,</b> vip'i, -o.<br>
+<b>whirl,</b> turni&#285;i, kirli&#285;i. <b>-pool,</b>
+turnakvo.<br>
+<b>whisk,</b> (<i>eggs, etc.</i>), kirli.<br>
+<b>whiskers,</b> vangharoj.<br>
+<b>whisper,</b> murmuri; subparoli, flustri.<br>
+<b>whistle,</b> fajfi, sibli.<br>
+<b>whist,</b> visto.<br>
+<b>whiting,</b> merlango.<br>
+<b>Whitsuntide,</b> Pentekosto.<br>
+<b>whole,</b> tuta, tuto.<br>
+<b>wholesale,</b> pogrande.<br>
+<b>whooping-cough,</b> koklu&#349;o.<br>
+<b>wick,</b> me&#265;o.<br>
+<b>wicker,</b> salika&#309;a.<br>
+<b>widower,</b> vidvo.<br>
+<b>wig,</b> peruko.<br>
+<b>wild,</b> sova&#285;a, nedresita.<br>
+<b>wilderness,</b> dezerto.<br>
+<b>will,</b> vol'o, -i.<br>
+<b>willingly,</b> volonte.<br>
+<b>willy-nilly,</b> vole-nevole.<br>
+<b>win,</b> gajni.<br>
+<b>wince,</b> ektremi.<br>
+<b>wind,</b> volvi, (<i>&mdash;clock</i>) stre&#265;i<br>
+<b>windpipe,</b> tra&#293;eo.<br>
+<b>wing,</b> flugilo, flanka&#309;o.<br>
+<b>wink,</b> palpebrumi.<br>
+<b>winnow,</b> ventumi.<br>
+<b>wipe,</b> vi&#349;i.<br>
+<b>wire,</b> metalfadeno.<br>
+<b>wish,</b> deziri, voli.<br>
+<b>witch,</b> sor&#265;istino.<br>
+<b>withdraw,</b> eli&#285;i.<br>
+<b>wither,</b> velki, sensuki&#285;i.<br>
+<b>withstand,</b> kontra&#365;stari.<br>
+<b>witness,</b> atest'i; -anto.<br>
+<b>witty,</b> sprita.<br>
+<b>woe,</b> mal&#285;ojo; veo<br>
+<b>wolf,</b> lupo.<br>
+<b>wonder,</b> mir'i, -o; (<i>a &mdash;</i>) mirinda&#309;o.<br>
+<b>woo,</b> amindumi, sin svati.<br>
+<b>wood,</b> ligno; arbaro.<br>
+<b>woodcock,</b> skolopo.<br>
+<b>woodpecker,</b> pego.<br>
+<b>word,</b> vorto.<br>
+<b>work,</b> labor'i, -o; (<i>mental</i>) verk'i, -o;
+funkcii.<br>
+<b>worm,</b> vermo.<br>
+<b>wormwood,</b> absinto.<br>
+<b>worn (out),</b> eluzita.<br>
+<b>worry,</b> maltrankvil'igi, -i&#285;i; &#265;agrenadi,
+&#285;enadi.<br>
+<b>worship,</b> adori; Diservo; kulto.<br>
+<b>worth,</b> ind'o, -eco, valoro.<br>
+<b>wound,</b> vundi.<br>
+<b>wrap,</b> faldi, envolvi.<br>
+<b>wreath,</b> girlando.<br>
+<b>wreck, (ship-),</b> &#349;ippereo; periigi.<br>
+<b>wren,</b> regolo.<br>
+<b>wrestle,</b> lukti.<br>
+<b>wretched,</b> mizer(eg)a.<br>
+<!-- =============================175.png============================ -->
+<b>wring,</b> tordi.<br>
+<b>wrinkle,</b> sulketo, sulkigi.<br>
+<b>wrist,</b> manradiko.<br>
+<b>wry,</b> torda.<br>
+
+
+<center><b>Y</b></center>
+
+<b>yacht,</b> ja&#293;to, &#349;ipeto.<br>
+<b>yard,</b> korto, (<i>measure</i>) jardo; velstango.<br>
+<b>yarn,</b> fadeno, rakont(a&#265;)o.<br>
+<b>yawn,</b> oscedi.<br>
+<b>year,</b> jaro. <b>-ly,</b> &#265;iujara.<br>
+<b>yeast,</b> fermentilo.<br>
+<b>yellow,</b> flava.<br>
+<b>yew,</b> taksuso.<br>
+<b>yield,</b> cedi, kapitulaci; produkti.<br>
+<b>yoke,</b> jungi; (<i>&mdash; of egg</i>) ovoflavo.<br>
+<b>young,</b> juna, junularo; ido, idaro.<br>
+<b>youth,</b> junulo, juneco, junularo.<br>
+
+
+<center><b>Z</b></center>
+
+<b>zeal,</b> fervoro, diligenteco.<br>
+<b>zealot,</b> zeloto, fanatikulo.<br>
+<b>zebra,</b> zebro.<br>
+<b>zero,</b> nulo.<br>
+<b>zigzag,</b> zigzag'a, -o,<br>
+<b>zinc,</b> zinko.<br>
+<b>zone,</b> (ter)zono.<br>
+
+<hr align="center" width="38%">

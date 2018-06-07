@@ -1,0 +1,120 @@
+---
+title: "" #"Lesson 1 - Words"
+author: "" #"JLAUro"
+date: "" #"May 18, 2017"
+output: 
+  html_document:
+    #theme: cerulean
+    highlight: tango
+    #toc: true
+    #toc_float:
+    #  collapsed: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+<br/><br/>
+
+<!-- =============================012.png============================ -->
+<center><b>LESSON 1.</b></center>
+
+<center><b>Words.</b></center>
+
+<p>In Esperanto a word generally consists of an unchanging part
+or root, which expresses the idea, and an ending which shows the
+use of the word, that is, whether it is a name, a describing
+word, etc. By changing the ending the use of the word is
+changed.</p>
+
+<p>Notice carefully the words given below which end in <b>o.</b>
+It will be seen that they are all names.</p>
+
+<p>In Esperanto every name ends in <b>o.</b></p>
+
+<p>(<i>In Grammar names are called</i> <span style=
+"font-variant: small-caps">Nouns</span>).</p>
+
+<p>Notice further the words which end in <b>-as.</b> They all
+express doing or being (action or state), which is going on at
+the present time, or which is a custom at the present time.</p>
+
+<p>The words "a," "an," are not expressed; "the" is translated by
+<i>la</i>.</p>
+
+<!-- =============================013.png============================ -->
+<center>
+<table cellspacing="8">
+<caption><b>Vocabulary.</b></caption>
+
+<tr>
+<td nowrap valign="top"><i>p<b>a</b>tro</i>, father.<br>
+ <i>fr<b>a</b>to</i>, brother.<br>
+ <i>f<b>i</b>lo</i>, son.<br>
+ <i>Teod<b>o</b>ro</i>,Theodore.<br>
+ <i>tajl<b>o</b>ro</i>, tailor.<br>
+ <i>le<b>o</b>no</i>, lion.<br>
+ <i>b<b>e</b>sto</i>, animal.<br>
+ <i>kol<b>o</b>mbo</i>, pigeon.<br>
+ <i>b<b>i</b>rdo</i>, bird.<br>
+ <i>r<b>o</b>zo</i>, rose.<br>
+ <i>fl<b>o</b>ro</i>, flower.<br>
+ <i>p<b>o</b>mo</i>, apple.<br>
+ <i>s<b>u</b>no</i>, sun.<br>
+ <i>t<b>e</b>ro</i>, earth, ground.<br>
+ <i>&#349;t<b>o</b>no</i>, stone.</td>
+<td nowrap valign="top"><i>&#265;<b>a</b>mbro</i>, room.<br>
+ <i>fen<b>e</b>stro</i>, window.<br>
+ <i>l<b>i</b>bro</i>, book.<br>
+ <i>kraj<b>o</b>no</i>, pencil.<br>
+ <i>pl<b>u</b>mo</i>, pen.<br>
+ <i>&#265;ap<b>e</b>lo</i>, hat.<br>
+ <i>d<b>o</b>mo</i>, house.<br>
+ <i><b>a</b>rbo</i>, tree.<br>
+  <br>
+ <!-- separates nouns from verbs -->
+ <i><b>e</b>stas</i>, is, are, am.<br>
+ <i>apart<b>e</b>nas</i>, belongs.<br>
+ <i>br<b>i</b>las</i>, shines.<br>
+ <i>k<b>u</b>&#349;as</i>, lies.<br>
+ <i>st<b>a</b>ras</i>, stands.</td>
+</tr>
+
+<tr>
+<td nowrap valign="top"><i>la</i>, the.<br>
+ <i>kaj</i>, and.<br>
+ <i>jes</i>, yes.<br>
+ <i>ne</i>, no, not.<br>
+ <i>al</i>, to, towards.<br>
+ <i>sur</i>, on.<br>
+ <i>en</i>, in.<br>
+ <i><b>a</b>pud</i>, by, near, beside.</td>
+<td nowrap valign="top"><i>de</i>, of, from.<br>
+ <i>k<b>i</b>e</i>, where.<br>
+ <i>k<b>i</b>o</i>, what thing.<br>
+ <i>jen <b>e</b>stas</i>, here is.<br>
+ <i>&#265;u</i>, whether (asks a question).<br>
+ <i><b>a</b>nta&#365;</i>, before, in front of.</td>
+</tr>
+</table>
+</center>
+
+<center>(<i>The black type shows the accented
+syllable</i>).</center>
+
+<p>Patro kaj frato. Leono estas besto. Rozo estas floro kaj
+kolombo estas birdo. La rozo apartenas al Teodoro. La suno
+brilas. La patro estas tajloro. Kie estas la libro kaj la
+krajono? Jen estas pomo. Sur la tero ku&#349;as &#349;tono. Sur
+la fenestro ku&#349;as krajono kaj plumo. La filo staras apud la
+patro. Jen ku&#349;as la &#265;apelo de la patro. La patro estas
+en la &#265;ambro. Anta&#365; la domo staras arbo.</p>
+
+<p>Kio estas leono? Kio estas rozo? Kio brilas? Kio estas la
+patro? Kie estas la patro? Kio estas sur la fenestro? Kie estas
+la plumo?</p>
+
+<p>&#264;u leono estas besto? Jes, leono estas besto. &#264;u
+rozo estas birdo? Ne, rozo ne estas birdo, rozo estas floro.</p>
+

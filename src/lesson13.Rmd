@@ -1,0 +1,97 @@
+---
+title: "" #"Lesson 13 - Verbs"
+author: "" #"JLAUro"
+date: "" #"May 18, 2017"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+<br/><br/>
+
+<center><b>LESSON 13.</b></center>
+
+<center><b>Mal-, -in-.</b></center>
+
+<p>In Esperanto certain syllables which have a definite meaning
+are placed at the beginning (prefixes) or end (suffixes) of words
+to alter in some way the meaning of those words.</p>
+
+<p>The prefix <b>mal-</b> gives an exactly opposite meaning to
+the word to which it is prefixed, as <i>dekstra</i>, right
+(hand); <i>maldekstra</i>, left (hand); <i>nova</i>, new;
+<i>malnova</i>, old; <i>helpi</i>, to help, <i>malhelpi</i>, to
+hinder; <i>fermi</i>, to shut, <i>malfermi</i>, to open.</p>
+
+<p>The suffix <b>-in-</b> denotes the female sex. From
+<i>viro</i>, [Footnote: The word <i>homo</i> previously given
+(Lesson 2) signifies a human being, a person, without reference
+to sex; <i>viro</i> means a man as distinguished from a woman.] a
+man, we get <i>virino</i>, a woman; <i>filo</i>, son,
+<i>filino</i>, daughter; <i>&#265;evalo</i>, a horse,
+<i>&#265;evalino</i>, a mare; <i>koko</i>, a cock, <i>kokino</i>,
+a hen.</p>
+
+<!-- =============================035.png============================ -->
+<center>
+<table cellspacing="8">
+<caption><b>Vocabulary.</b></caption>
+
+<tr>
+<td nowrap valign="top"><i>kresko</i>, growth.<br>
+ <i>haro</i>, hair (substance).<br>
+ <i>haroj</i>, hair (of head).<br>
+ <i>nazo</i>, nose.<br>
+ <i>vojo</i>, road.<br>
+ <i>viro</i>, man.<br>
+ <i>edzo</i>, husband,<br>
+ <i>nepo</i>, grandson.<br>
+ <i>nevo</i>, nephew.<br>
+ <i>bovo</i>, ox.<br>
+ <i>vidvo</i>, widower,<br>
+ <i>fian&#265;o</i>, fianc&eacute;.<br>
+ <i>nenio</i>, nothing.<br>
+ <i>turment-</i>, torment.<br>
+ <i>sent-</i>, feel.<br>
+ <i>ben-</i>, bless.<br>
+ <i>estim-</i>, have esteem for.</td>
+<td nowrap valign="top"><i>ferm-</i>, shut.<br>
+ <i>help-</i>, help.<br>
+ <i>fari&#285;-</i>, become.<br>
+ <i>dekstra</i>, right (hand).<br>
+ <i>meza</i>, middle, medium.<br>
+ <i>dika</i>, thick, stout.<br>
+ <i>mola</i>, soft.<br>
+ <i>luma</i>, light (luminous).<br>
+ <i>nobla</i>, noble (character).<br>
+ <i>rekta</i>, straight.<br>
+ <i>kurba</i>, curved.<br>
+ <i>feli&#265;a</i>, happy.<br>
+ <i>naskita</i>, born.<br>
+ <i>fermita</i>, shut.<br>
+ <i>e&#265;</i>, even.<br>
+ <i>longe</i>, for a long time.<br>
+ <i>denove</i>, anew, again.</td>
+</tr>
+</table>
+</center>
+
+<p>Mia frato ne estas granda, sed li ne estas malgranda, li estas
+de meza kresko. Haro estas tre maldika. La nokto estas tiel
+malluma, ke ni nenion povas vidi e&#265; anta&#365; nia nazo. Tiu
+&#265;i malfre&#349;a pano estas malmola, kiel &#349;tono.
+Malbonaj infanoj amas turmenti bestojn. Li sentis sin tiel
+malfeli&#265;a, ke li malbenis la tagon, en kiu li estis naskita.
+Ni forte malestimas tiun &#265;i malnoblan homon. La fenestro
+longe estis nefermita; mi &#285;in fermis, sed mia frato tuj
+&#285;in denove malfermis. Rekta vojo estas pli mallonga, ol
+kurba. Ne estu maldanka.</p>
+
+<p>La edzino de mia patro estas mia patrino, kaj la avino de miaj
+infanoj. Mia fratino estas tre bela knabino. Mia onklino estas
+tre bona virino. Mi vidis vian avinon kun &#349;iaj kvar nepinoj,
+kaj kun mia nevino. Mi havas bovon kaj bovinon. La juna vidvino
+fari&#285;is denove fian&#265;ino.</p>
+

@@ -1,0 +1,90 @@
+---
+title: "" #"Lesson 35 - De. Da."
+author: "" #"JLAUro"
+date: "" #"May 21, 2017"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+<br/><br/>
+
+<center><b>LESSON 35.</b></center>
+
+<center><b>De. Da.</b></center>
+
+<!-- =============================074.png============================ -->
+<p><b>De</b> means <i>of</i>, <i>from</i>, or <i>by</i>; it
+denotes (i.) <i>possession</i>, as <i>La &#265;apelo de la
+patro</i>, The father's hat; (ii.), <i>the agent of an
+action</i>, as <i>La letero estis skribata de Johano</i>, The
+letter was written by John; (iii.), <i>cause, Li mortis de
+febro</i>, He died of fever; (iv.), <i>starting point, from,
+since</i>, as <i>De tiu tempo neniu lin vidis</i>, (Starting)
+from (since) that time nobody has seen him; <i>Li venis de
+Parizo</i>, He came from Paris.</p>
+
+<p><b>Da</b> means <i>of</i>; it is used after words signifying
+quantity, when the noun following has a <i>general</i>, not a
+<i>particular</i> sense, as <i>Dekduo da kuleroj</i>, A dozen
+spoons; <i>Funto da teo</i>, A pound of tea; <i>Peco da pano</i>,
+A piece of bread; but if some particular tea, bread, etc., is
+specified, <i>de</i> must be used, as <i>Funto de la teo</i>, A
+pound of the tea; <i>Peco de la pano</i>, A piece of the bread.
+<i>La</i> cannot be used after <i>da.</i></p>
+
+<center>
+<table cellspacing="8">
+<caption><b>Vocabulary.</b></caption>
+
+<tr>
+<td nowrap valign="top"><i>placo</i>, place, square.<br>
+ <i>velo</i>, sail.<br>
+ <i>drapo</i>, cloth.<br>
+ <i>ovo</i>, egg.<br>
+ <i>kilometro</i>, kilometre.<br>
+ <i>bordo</i>, shore.<br>
+ <i>amaso</i>, crowd.<br>
+ <i>a&#365;tuno</i>, autumn.<br>
+ <i>turo</i>, tower.<br>
+ <i>&#265;evalo</i>, horse.</td>
+<td nowrap valign="top"><i>peco</i>, piece.<br>
+ <i>sumo</i>, sum.<br>
+ <i>inko</i>, ink.<br>
+ <i>najbaro</i>, neighbour.<br>
+ <i>mezuro</i>, measure,<br>
+ <i>sufer-</i>, suffer.<br>
+ <i>signif-</i>, mean, signify.<br>
+ <i>nigra</i>, black.<br>
+ <i>plena</i>, full.</td>
+</tr>
+</table>
+</center>
+
+<p>La lumo de la luno. En la mezo de la placo staris domo. Li
+povis havi la a&#285;on de dekses jaroj. La tempo de ilia vivo
+estas ankora&#365; pli mallonga, ol de nia. Ili sin levis de apud
+la tablo. Mi pensis, ke vi de tie jam ne revenos. La &#349;ipanoj
+demetis la velojn. Li deiris de la &#265;evalo.</p>
+
+<!-- =============================075.png============================ -->
+<p>Glaso de vino estas glaso, en kiu anta&#365;e sin trovis vino,
+a&#365; kiun oni uzas por vino; glaso da vino estas glaso plena
+je vino. Alportu al mi metron da nigra drapo. (Metro de drapo
+signifus metron, kiu ku&#349;is sur drapo, a&#365; kiu estas
+uzata por drapo). Mi a&#265;etis dekon da ovoj. Tiu &#265;i
+rivero havas ducent kilometrojn da longo. Sur la bordo de la maro
+staris amaso da homoj. Multaj birdoj flugas en la a&#365;tuno en
+pli varmajn landojn. Sur la arbo sin trovis multe (a&#365; multo)
+da birdoj. Kelkaj homoj sentas sin la plej feli&#265;aj, kiam ili
+vidas la suferojn de siaj najbaroj. En la &#265;ambro sidis nur
+kelke da homoj. "Da" post ia vorto montras, ke tiu &#265;i vorto
+havas signifon de mezuro.</p>
+
+<p>&#284;i estas bela peco da &#349;tofo. Sur la teleron li metis
+milojn da pecoj da ar&#285;ento. La lumoj brilas kiel centoj da
+steloj. Knabo a&#265;etis boteleton da inko. Ili konstruas
+turetojn enhavantajn multe da &#265;ambretoj. Li donis al ili
+grandan sumon da mono.</p>

@@ -1,0 +1,235 @@
+<!DOCTYPE html>
+<html>
+<!--
+URLs:	https://css-tricks.com/snippets/javascript/showhide-element/ (User:Nanobyte)
+		http://stackoverflow.com/questions/19163327/how-do-i-make-a-div-hidden-by-default-using-javascript (User: Luke, david-lee)
+		https://www.w3schools.com/css/css_text.asp
+Date: 17-V-2017
+-->
+
+<head>
+<title>l4-voc-tab</title>
+<meta http-equiv='Content-Type' content='text/html; charset=utf-8'>
+<style>
+a, body { 
+	color: #007700; 
+	font-size: 12px; 
+}	
+
+a:visited { color: #00aa00; }
+
+[id^='tr'] {
+    display: none;
+}
+
+mark {
+    padding: 3px 3px;
+    text-align: left;
+    font-style: italic;
+    font-size: 10px;
+    background-color: #009900;
+    color: white;
+    margin-top: 0px;
+    margin-left: 5px;
+}
+
+</style>
+
+<script type='text/javascript'>
+	function toggle_visibility(id) {
+	var e = document.getElementById(id);
+	e.style.display = ((e.style.display!='block') ? 'block' : 'none');
+	}
+</script>
+</head>
+
+<body>
+<p>
+<h4>Lesson 4 Vocabulary  - The Esperanto Teacher (by Helen Fryer) http://www.gutenberg.org <br/></h4>
+<a id='r0' href='#' onclick="toggle_visibility('tr0');">
+Click for Instructions.</a>
+<div id='tr0'>
+	&nbsp;
+	<mark>Click on each link to toggle the English translation.  
+	Reload page to turn off all translations.</mark>
+</div>
+</p>
+
+<table width='100%' border='5px' cellspacing='5px' cellpadding='5px'>
+	<tr id='r1'>
+			<td align='center' valign='middle'><a id='item1' href='#r0' onclick="toggle_visibility('tr1');">avo</a>
+						<div id='tr1'><mark> grandfather</mark></div></td>
+
+			<td align='center' valign='middle'><a id='item2' href='#r0' onclick="toggle_visibility('tr2');">amiko</a>
+						<div id='tr2'><mark> friend</mark></div></td>
+
+			<td align='center' valign='middle'><a id='item3' href='#r0' onclick="toggle_visibility('tr3');">ĝardeno</a>
+						<div id='tr3'><mark> garden</mark></div></td>
+
+			<td align='center' valign='middle'><a id='item4' href='#r0' onclick="toggle_visibility('tr4');">knabino</a>
+						<div id='tr4'><mark> girl</mark></div></td>
+	</tr>
+	<tr id='r1'>
+
+			<td align='center' valign='middle'><a id='item5' href='#r1' onclick="toggle_visibility('tr5');">ruso</a>
+						<div id='tr5'><mark> Russian</mark></div></td>
+
+			<td align='center' valign='middle'><a id='item6' href='#r1' onclick="toggle_visibility('tr6');">sinjoro</a>
+						<div id='tr6'><mark> gentleman, Mr., Sir</mark></div></td>
+
+			<td align='center' valign='middle'><a id='item7' href='#r1' onclick="toggle_visibility('tr7');">vero</a>
+						<div id='tr7'><mark> truth</mark></div></td>
+
+			<td align='center' valign='middle'><a id='item8' href='#r1' onclick="toggle_visibility('tr8');">venas</a>
+						<div id='tr8'><mark> comes</mark></div></td>
+	</tr>
+	<tr id='r2'>
+
+			<td align='center' valign='middle'><a id='item9' href='#r2' onclick="toggle_visibility('tr9');">iras</a>
+						<div id='tr9'><mark> goes</mark></div></td>
+
+			<td align='center' valign='middle'><a id='item10' href='#r2' onclick="toggle_visibility('tr10');">legas</a>
+						<div id='tr10'><mark> reads</mark></div></td>
+
+			<td align='center' valign='middle'><a id='item11' href='#r2' onclick="toggle_visibility('tr11');">skribas</a>
+						<div id='tr11'><mark> writes</mark></div></td>
+
+			<td align='center' valign='middle'><a id='item12' href='#r2' onclick="toggle_visibility('tr12');">ploras</a>
+						<div id='tr12'><mark> cry, cries</mark></div></td>
+	</tr>
+	<tr id='r3'>
+
+			<td align='center' valign='middle'><a id='item13' href='#r3' onclick="toggle_visibility('tr13');">volas</a>
+						<div id='tr13'><mark> wills, wishes</mark></div></td>
+
+			<td align='center' valign='middle'><a id='item14' href='#r3' onclick="toggle_visibility('tr14');">diras</a>
+						<div id='tr14'><mark> says</mark></div></td>
+
+			<td align='center' valign='middle'><a id='item15' href='#r3' onclick="toggle_visibility('tr15');">sidas</a>
+						<div id='tr15'><mark> sits</mark></div></td>
+
+			<td align='center' valign='middle'><a id='item16' href='#r3' onclick="toggle_visibility('tr16');">venkas</a>
+						<div id='tr16'><mark> conquers</mark></div></td>
+	</tr>
+	<tr id='r4'>
+
+			<td align='center' valign='middle'><a id='item17' href='#r4' onclick="toggle_visibility('tr17');">manĝi</a>
+						<div id='tr17'><mark> to eat</mark></div></td>
+
+			<td align='center' valign='middle'><a id='item18' href='#r4' onclick="toggle_visibility('tr18');">ĝentila</a>
+						<div id='tr18'><mark> polite</mark></div></td>
+
+			<td align='center' valign='middle'><a id='item19' href='#r4' onclick="toggle_visibility('tr19');">silente</a>
+						<div id='tr19'><mark> silently</mark></div></td>
+
+			<td align='center' valign='middle'><a id='item20' href='#r4' onclick="toggle_visibility('tr20');">kiu</a>
+						<div id='tr20'><mark> who, which (that)</mark></div></td>
+	</tr>
+	<tr id='r5'>
+
+			<td align='center' valign='middle'><a id='item21' href='#r5' onclick="toggle_visibility('tr21');">ĉiu</a>
+						<div id='tr21'><mark> each one, every</mark></div></td>
+
+			<td align='center' valign='middle'><a id='item22' href='#r5' onclick="toggle_visibility('tr22');">ĉiuj</a>
+						<div id='tr22'><mark> all, all the</mark></div></td>
+
+			<td align='center' valign='middle'><a id='item23' href='#r5' onclick="toggle_visibility('tr23');">la plej</a>
+						<div id='tr23'><mark> the most</mark></div></td>
+
+			<td align='center' valign='middle'><a id='item24' href='#r5' onclick="toggle_visibility('tr24');">tiel</a>
+						<div id='tr24'><mark> as, so</mark></div></td>
+	</tr>
+	<tr id='r6'>
+
+			<td align='center' valign='middle'><a id='item25' href='#r6' onclick="toggle_visibility('tr25');">kiel</a>
+						<div id='tr25'><mark> as</mark></div></td>
+
+			<td align='center' valign='middle'><a id='item26' href='#r6' onclick="toggle_visibility('tr26');">nun</a>
+						<div id='tr26'><mark> now</mark></div></td>
+
+			<td align='center' valign='middle'><a id='item27' href='#r6' onclick="toggle_visibility('tr27');">ankaŭ</a>
+						<div id='tr27'><mark> also</mark></div></td>
+
+			<td align='center' valign='middle'><a id='item28' href='#r6' onclick="toggle_visibility('tr28');">ĉiam</a>
+						<div id='tr28'><mark> always</mark></div></td>
+	</tr>
+	<tr id='r7'>
+
+			<td align='center' valign='middle'><a id='item29' href='#r7' onclick="toggle_visibility('tr29');">el</a>
+						<div id='tr29'><mark> out of</mark></div></td>
+
+			<td align='center' valign='middle'><a id='item30' href='#r7' onclick="toggle_visibility('tr30');">ĉar</a>
+						<div id='tr30'><mark> because, for</mark></div></td>
+
+			<td align='center' valign='middle'><a id='item31' href='#r7' onclick="toggle_visibility('tr31');">mi</a>
+						<div id='tr31'><mark> I</mark></div></td>
+
+			<td align='center' valign='middle'><a id='item32' href='#r7' onclick="toggle_visibility('tr32');">ci</a>
+						<div id='tr32'><mark> thou</mark></div></td>
+	</tr>
+	<tr id='r8'>
+
+			<td align='center' valign='middle'><a id='item33' href='#r8' onclick="toggle_visibility('tr33');">li</a>
+						<div id='tr33'><mark> he</mark></div></td>
+
+			<td align='center' valign='middle'><a id='item34' href='#r8' onclick="toggle_visibility('tr34');">ŝi</a>
+						<div id='tr34'><mark> she</mark></div></td>
+
+			<td align='center' valign='middle'><a id='item35' href='#r8' onclick="toggle_visibility('tr35');">ĝi</a>
+						<div id='tr35'><mark> it</mark></div></td>
+
+			<td align='center' valign='middle'><a id='item36' href='#r8' onclick="toggle_visibility('tr36');">ni</a>
+						<div id='tr36'><mark> we</mark></div></td>
+	</tr>
+	<tr id='r9'>
+
+			<td align='center' valign='middle'><a id='item37' href='#r9' onclick="toggle_visibility('tr37');">vi</a>
+						<div id='tr37'><mark> you</mark></div></td>
+
+			<td align='center' valign='middle'><a id='item38' href='#r9' onclick="toggle_visibility('tr38');">ili</a>
+						<div id='tr38'><mark> they</mark></div></td>
+
+			<td align='center' valign='middle'><a id='item39' href='#r9' onclick="toggle_visibility('tr39');">si</a>
+						<div id='tr39'><mark> himself, herself, itself, themselves (see Lesson 7)</mark></div></td>
+
+			<td align='center' valign='middle'><a id='item40' href='#r9' onclick="toggle_visibility('tr40');">oni</a>
+						<div id='tr40'><mark> one, they, people</mark></div></td>
+	</tr>
+	<tr id='r10'>
+
+			<td align='center' valign='middle'><a id='item41' href='#r10' onclick="toggle_visibility('tr41');">mia</a>
+						<div id='tr41'><mark> my, mine</mark></div></td>
+
+			<td align='center' valign='middle'><a id='item42' href='#r10' onclick="toggle_visibility('tr42');">cia</a>
+						<div id='tr42'><mark> thy, thine</mark></div></td>
+
+			<td align='center' valign='middle'><a id='item43' href='#r10' onclick="toggle_visibility('tr43');">lia</a>
+						<div id='tr43'><mark> his</mark></div></td>
+
+			<td align='center' valign='middle'><a id='item44' href='#r10' onclick="toggle_visibility('tr44');">ŝia</a>
+						<div id='tr44'><mark> her, hers</mark></div></td>
+	</tr>
+	<tr id='r11'>
+
+			<td align='center' valign='middle'><a id='item45' href='#r11' onclick="toggle_visibility('tr45');">ĝia</a>
+						<div id='tr45'><mark> its</mark></div></td>
+
+			<td align='center' valign='middle'><a id='item46' href='#r11' onclick="toggle_visibility('tr46');">nia</a>
+						<div id='tr46'><mark> our, ours</mark></div></td>
+
+			<td align='center' valign='middle'><a id='item47' href='#r11' onclick="toggle_visibility('tr47');">via</a>
+						<div id='tr47'><mark> your, yours</mark></div></td>
+
+			<td align='center' valign='middle'><a id='item48' href='#r11' onclick="toggle_visibility('tr48');">ilia</a>
+						<div id='tr48'><mark> their, theirs</mark></div></td>
+	</tr>
+	<tr id='r12'>
+
+			<td align='center' valign='middle'><a id='item49' href='#r12' onclick="toggle_visibility('tr49');">sia</a>
+						<div id='tr49'><mark> his own, her own, its own, their own (see Lesson 7)</mark></div></td>
+
+	</tr>
+</table>
+</body>
+</html>
+

@@ -1,0 +1,518 @@
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+
+<meta charset="utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="generator" content="pandoc" />
+
+
+
+
+<title></title>
+
+<script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link href="site_libs/bootstrap-3.3.5/css/bootstrap.min.css" rel="stylesheet" />
+<script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<script src="site_libs/navigation-1.1/tabsets.js"></script>
+<link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
+<script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
+<link href="site_libs/font-awesome-4.5.0/css/font-awesome.min.css" rel="stylesheet" />
+
+<style type="text/css">code{white-space: pre;}</style>
+<style type="text/css">
+  pre:not([class]) {
+    background-color: white;
+  }
+</style>
+<script type="text/javascript">
+if (window.hljs) {
+  hljs.configure({languages: []});
+  hljs.initHighlightingOnLoad();
+  if (document.readyState && document.readyState === "complete") {
+    window.setTimeout(function() { hljs.initHighlighting(); }, 0);
+  }
+}
+</script>
+
+
+
+<style type="text/css">
+h1 {
+  font-size: 34px;
+}
+h1.title {
+  font-size: 38px;
+}
+h2 {
+  font-size: 30px;
+}
+h3 {
+  font-size: 24px;
+}
+h4 {
+  font-size: 18px;
+}
+h5 {
+  font-size: 16px;
+}
+h6 {
+  font-size: 12px;
+}
+.table th:not([align]) {
+  text-align: left;
+}
+</style>
+
+<link rel="stylesheet" href="bootstrap/bootstrap-cerulean-grn99.min.css" type="text/css" />
+
+</head>
+
+<body>
+
+<style type = "text/css">
+.main-container {
+  max-width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+}
+code {
+  color: inherit;
+  background-color: rgba(0, 0, 0, 0.04);
+}
+img {
+  max-width:100%;
+  height: auto;
+}
+.tabbed-pane {
+  padding-top: 12px;
+}
+button.code-folding-btn:focus {
+  outline: none;
+}
+</style>
+
+
+<style type="text/css">
+/* padding for bootstrap navbar */
+body {
+  padding-top: 51px;
+  padding-bottom: 40px;
+}
+/* offset scroll position for anchor links (for fixed navbar)  */
+.section h1 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+
+.section h2 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.section h3 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.section h4 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.section h5 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.section h6 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+</style>
+
+<script>
+// manage active state of menu based on current page
+$(document).ready(function () {
+  // active menu anchor
+  href = window.location.pathname
+  href = href.substr(href.lastIndexOf('/') + 1)
+  if (href === "")
+    href = "index.html";
+  var menuAnchor = $('a[href="' + href + '"]');
+
+  // mark it active
+  menuAnchor.parent().addClass('active');
+
+  // if it's got a parent navbar menu mark it active as well
+  menuAnchor.closest('li.dropdown').addClass('active');
+});
+</script>
+
+
+<div class="container-fluid main-container">
+
+<!-- tabsets -->
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+</script>
+
+<!-- code folding -->
+
+
+
+
+
+
+<div class="navbar navbar-default  navbar-fixed-top" role="navigation">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="index.html">The Esperanto Teacher</a>
+    </div>
+    <div id="navbar" class="navbar-collapse collapse">
+      <ul class="nav navbar-nav">
+        <li>
+  <a href="index.html">
+    <span class="fa fa-star"></span>
+     
+    About
+  </a>
+</li>
+<li class="dropdown">
+  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">
+    Lessons: 0-10
+     
+    <span class="caret"></span>
+  </a>
+  <ul class="dropdown-menu" role="menu">
+    <li>
+      <a href="intro.html"> 0</a>
+    </li>
+    <li>
+      <a href="lesson1.html"> 1</a>
+    </li>
+    <li>
+      <a href="lesson2.html"> 2</a>
+    </li>
+    <li>
+      <a href="lesson3.html"> 3</a>
+    </li>
+    <li>
+      <a href="lesson4.html"> 4</a>
+    </li>
+    <li>
+      <a href="lesson5.html"> 5</a>
+    </li>
+    <li>
+      <a href="lesson6.html"> 6</a>
+    </li>
+    <li>
+      <a href="lesson7.html"> 7</a>
+    </li>
+    <li>
+      <a href="lesson8.html"> 8</a>
+    </li>
+    <li>
+      <a href="lesson9.html"> 9</a>
+    </li>
+    <li>
+      <a href="lesson10.html">10</a>
+    </li>
+  </ul>
+</li>
+<li class="dropdown">
+  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">
+    11-20
+     
+    <span class="caret"></span>
+  </a>
+  <ul class="dropdown-menu" role="menu">
+    <li>
+      <a href="lesson11.html">11</a>
+    </li>
+    <li>
+      <a href="lesson12.html">12</a>
+    </li>
+    <li>
+      <a href="lesson13.html">13</a>
+    </li>
+    <li>
+      <a href="lesson14.html">14</a>
+    </li>
+    <li>
+      <a href="lesson15.html">15</a>
+    </li>
+    <li>
+      <a href="lesson16.html">16</a>
+    </li>
+    <li>
+      <a href="lesson17.html">17</a>
+    </li>
+    <li>
+      <a href="lesson18.html">18</a>
+    </li>
+    <li>
+      <a href="lesson19.html">19</a>
+    </li>
+    <li>
+      <a href="lesson20.html">20</a>
+    </li>
+  </ul>
+</li>
+<li class="dropdown">
+  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">
+    21-30
+     
+    <span class="caret"></span>
+  </a>
+  <ul class="dropdown-menu" role="menu">
+    <li>
+      <a href="lesson21.html">21</a>
+    </li>
+    <li>
+      <a href="lesson22.html">22</a>
+    </li>
+    <li>
+      <a href="lesson23.html">23</a>
+    </li>
+    <li>
+      <a href="lesson24.html">24</a>
+    </li>
+    <li>
+      <a href="lesson25.html">25</a>
+    </li>
+    <li>
+      <a href="lesson26.html">26</a>
+    </li>
+    <li>
+      <a href="lesson27.html">27</a>
+    </li>
+    <li>
+      <a href="lesson28.html">28</a>
+    </li>
+    <li>
+      <a href="lesson29.html">29</a>
+    </li>
+    <li>
+      <a href="lesson30.html">30</a>
+    </li>
+  </ul>
+</li>
+<li class="dropdown">
+  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">
+    31-40
+     
+    <span class="caret"></span>
+  </a>
+  <ul class="dropdown-menu" role="menu">
+    <li>
+      <a href="lesson31.html">31</a>
+    </li>
+    <li>
+      <a href="lesson32.html">32</a>
+    </li>
+    <li>
+      <a href="lesson33.html">33</a>
+    </li>
+    <li>
+      <a href="lesson34.html">34</a>
+    </li>
+    <li>
+      <a href="lesson35.html">35</a>
+    </li>
+    <li>
+      <a href="lesson36.html">36</a>
+    </li>
+    <li>
+      <a href="lesson37.html">37</a>
+    </li>
+    <li>
+      <a href="lesson38.html">38</a>
+    </li>
+    <li>
+      <a href="lesson39.html">39</a>
+    </li>
+    <li>
+      <a href="lesson40.html">40</a>
+    </li>
+  </ul>
+</li>
+<li class="dropdown">
+  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">
+    41-45+
+     
+    <span class="caret"></span>
+  </a>
+  <ul class="dropdown-menu" role="menu">
+    <li>
+      <a href="lesson41.html">41</a>
+    </li>
+    <li>
+      <a href="lesson42.html">42</a>
+    </li>
+    <li>
+      <a href="lesson43.html">43</a>
+    </li>
+    <li>
+      <a href="lesson44.html">44</a>
+    </li>
+    <li>
+      <a href="lesson45.html">45</a>
+    </li>
+    <li>
+      <a href="lesson46.html">Words in Sentences</a>
+    </li>
+    <li>
+      <a href="lesson47.html">Common Useful Expressions</a>
+    </li>
+    <li>
+      <a href="lesson48.html">Letters</a>
+    </li>
+  </ul>
+</li>
+<li class="dropdown">
+  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">
+    More
+     
+    <span class="caret"></span>
+  </a>
+  <ul class="dropdown-menu" role="menu">
+    <li>
+      <a href="keytoexer.html">Key to Exercises</a>
+    </li>
+    <li>
+      <a href="selections.html">Selections</a>
+    </li>
+    <li>
+      <a href="vocabulary.html">Vocabulary</a>
+    </li>
+    <li>
+      <a href="indextet.html">Index</a>
+    </li>
+    <li>
+      <a href="license.html">Project Gutenberg License</a>
+    </li>
+    <li>
+      <a href="addExercises.html">Additional Exercises</a>
+    </li>
+  </ul>
+</li>
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        
+      </ul>
+    </div><!--/.nav-collapse -->
+  </div><!--/.container -->
+</div><!--/.navbar -->
+
+<div class="fluid-row" id="header">
+
+
+
+
+</div>
+
+
+<p><br/><br/></p>
+<center>
+<b>LESSON 26.</b>
+</center>
+<p>
+The following words, which have already been used in the previous lessons, are always placed before <i>nouns</i> or <i>pronouns</i>, to show the relation (of position, etc.) between the thing for which the noun stands and another thing or an action.
+</p>
+<!-- =============================062.png============================ -->
+<center>
+<table cellspacing="8">
+<tr>
+<td nowrap valign="top">
+<i>al</i>, to, towards.<br> <i>apud</i>, beside, near, by.<br> <i>da</i>, of (indefinite quantity).<br> <i>de</i>, of from, by.<br> <i>el</i>, out of.<br> <i>en</i>, in, into, within.<br> <i>ekster</i>, outside.<br> <i>ĝis</i>, until, till, as far as.<br> <i>inter</i>, between, among.<br> <i>kontraŭ</i>, against, opposite.<br> <i>kun</i>, (in company) with.
+</td>
+<td nowrap valign="top">
+<i>laŭ</i>, according to.<br> <i>per</i>, by means of, with.<br> <i>post</i>, after, behind.<br> <i>pri</i>, concerning, about.<br> <i>por</i>, for, for the sake of.<br> <i>sen</i>, without.<br> <i>super</i>, above, over.<br> <i>sur</i>, on, upon.<br> <i>tra</i>, through.<br> <i>trans</i>, across, on the other side.<br> <i>je</i>, (has no definite meaning).
+</td>
+</tr>
+</table>
+</center>
+<p>
+(<i>These words are called</i> <span style="font-variant: small-caps;">Prepositions</span>, <i>which means</i> placed before).
+</p>
+<p>
+The other simple prepositions are—
+</p>
+<center>
+<table cellspacing="8">
+<tr>
+<td nowrap valign="top">
+<i>anstataŭ</i>, instead of.<br> <i>antaŭ</i>, before.<br> <i>ĉe</i>, at, with.<br> <i>ĉirkaŭ</i>, about, around.<br> <i>krom</i>, besides, except.<br> <i>malgraŭ</i>, notwithstanding, in spite of.
+</td>
+<td nowrap valign="top">
+<i>po</i>, at the rate of.<br> <i>pro</i>, for (cause), owing to.<br> <i>preter</i>, past, beyond, by.<br> <i>spite</i>, in despite of.<br> <i>sub</i>, under.
+</td>
+</tr>
+</table>
+</center>
+<p>
+The prepositions <i>anstataŭ</i>, <i>antaŭ</i> (<i>ol</i>), and <i>por</i> are also used before Infinitive verbs, as <i>anstataŭ diri</i>, instead of saying (to say); <i>antaŭ ol paroli</i>, before speaking; <i>por lerni</i>, in order to learn.
+</p>
+<!-- =============================063.png============================ -->
+<p>
+In Esperanto all the prepositions except “je” have a definite meaning, and care must be taken to use the one which conveys the exact sense. The same word cannot be used for “with” in the two sentences “He went with his father” and “He cut it with a knife,” or for “about” in “He spoke about his child” and “They stood about the stove.” In the first example “with” his father is “kun”, in company with, <i>Li iris</i> kun <i>sia patro</i>, and “with” a knife is “per”, by means of, <i>Li tranĉis ĝin</i> per <i>tranĉilo</i>. “About,” in “about his child,” is “pri,” concerning, <i>Li parolis</i> pri <i>sia infano</i>, but “about,” in “about the stove,” is “ĉirkaŭ,” around, <i>Ili staris</i> ĉirkaŭ <i>la forno</i>.
+</p>
+<p>
+When we cannot decide which is the correct preposition to use in any case, we may use “je,” the only preposition which has no special meaning of its own, or the preposition may be left out altogether, and “n” added to the noun or pronoun, provided that no want of clearness ensue (see Lesson 27), as <i>Mi ridas</i> pro <i>lia naiveco</i>, or, <i>Mi ridas</i> je <i>lia naiveco</i>, or, <i>Mi ridas lian naiveco</i>n, I laugh at his simplicity.
+</p>
+<p>
+When we wish to express “motion towards” something, and the preposition does not of itself express it, <i>n</i> is added to the noun or pronoun, as in the case of adverbs (see Lesson 12), <i>Li estas en la domo</i>, He is in the house; but, <i>Li iras en la domon</i>, He is going into the house.
+</p>
+<p>
+<span style="font-variant: small-caps;">Note</span>.—There are three cases in which the noun or pronoun takes <i>n</i>. (i.). When it is the <i>direct object</i> of the verb, as <i>Mi vidis lin</i>, I saw him. (ii.). To show <i>direction</i>, as <i>Li iris en la ĝardenon</i>, He went into the garden. (iii.). When the <i>preposition</i> is <i>left out</i>. This is usually done in the case of <i>dates</i> and expressions signifying <i>duration</i> of time, as <i>Georgo Vaŝington estis naskita la dudek-duan de Februaro de la jaro mil sepcent tridek du</i>, George Washington was born the 22nd of February, 1732. <i>Vi restos tie ĉi la tutan vivon (dum la tuta vivo)</i>, You will remain here your (the) whole life.
+</p>
+<p>
+All the prepositions whose meaning allows of it can be used as adjectives, adverbs, etc., by adding the proper endings, as from <i>antaŭ</i>, before, we get <i>antaŭa</i>, former, <i>antaŭe</i>, formerly or previously, <i>antaŭen</i>, forward.
+</p>
+<p>
+Prepositions are also joined to other words, and to prefixes or suffixes, as <i>antaŭdiri</i>, to foretell; <i>apudmara urbo</i>, a seaside town; <i>senigi</i>, to deprive of.
+</p>
+<!-- =============================064.png============================ -->
+<p>
+Sometimes the preposition is both prefixed to the verb and used after it before the noun, as <i>Li eliris el la domo, kaj eniris en la ĝardenon</i>, He went out of the house, and entered into the garden.
+</p>
+
+
+
+
+</div>
+
+<script>
+
+// add bootstrap table styles to pandoc tables
+function bootstrapStylePandocTables() {
+  $('tr.header').parent('thead').parent('table').addClass('table table-condensed');
+}
+$(document).ready(function () {
+  bootstrapStylePandocTables();
+});
+
+
+</script>
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src  = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+
+</body>
+</html>

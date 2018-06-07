@@ -1,0 +1,83 @@
+---
+title: "" #"Lesson 42 - Suffixes: -eĵ-, -uj-, -ing-"
+author: "" #"JLAUro"
+date: "" #"May 21, 2017"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+<br/><br/>
+
+<center><b>LESSON 42.</b></center>
+
+<center>Suffixes <b>-ej-, -uj-, -ing-.</b></center>
+
+<p>The suffix <b>-ej-</b> denotes a <i>place specially used</i>
+for a certain purpose, as <i>Tombo</i>, a tomb; <i>tombejo</i>, a
+cemetery. <i>&#264;evalo</i>, a horse; <i>&#265;evalejo</i>, a
+stable. <i>Mallibera,</i> captive <i>malliberejo</i>, a
+prison.</p>
+
+<p><b>-uj-</b> denotes that which <i>contains</i> or
+<i>produces</i>, or <i>bears</i> (as countries, fruit-trees,
+receptacles, etc.), as <i>Anglo</i>, an Englishman:
+<i>Anglujo</i>, England. <i>Hispano</i>, a Spaniard;
+<i>Hispanujo</i> Spain (<i>lando</i> is also used, as
+<i>Skotlando</i>). <i>Pomo</i>, an apple; <i>pomujo</i>, an apple
+tree (<i>arbo</i> is also used, as <i>pomarbo</i>). <i>Abelo</i>,
+a bee; <i>abelujo</i>, a beehive. <i>Sukerujo</i>, a sugar-basin;
+<i>Ujo</i>, a receptacle.</p>
+
+<p><b>-ing-</b> signifies a <i>holder, case</i>, or <i>sheath</i>
+for one thing, as <i>Fingro</i>, a finger; <i>fingringo</i>, a
+thimble. <i>Piedo</i>, a foot; <i>piedingo</i>, a stirrup.
+<i>Glavo</i>, a sword; <i>glavingo</i>, a sword-sheath.
+<i>Ingo</i>, a sheath.</p>
+
+<center>
+<table cellspacing="8">
+<caption><b>Vocabulary.</b></caption>
+
+<tr>
+<td nowrap valign="top"><i>skatolo</i>, box.<br>
+ <i>hufo</i>, hoof.<br>
+ <i>pantalono</i>, trousers.<br>
+ <i>cigaro</i>, cigar.<br>
+ <i>tubo</i>, tube.<br>
+ <i>mona&#293;o</i>, monk.<br>
+ <i>magazeno</i>, magazine, warehouse.</td>
+<td nowrap valign="top"><i>objekto</i>, object, thing.<br>
+ <i>glavo</i>, sword,<br>
+ <i>konsil-</i>, counsel, advise.<br>
+ <i>&#349;vit-</i>, sweat, perspire.<br>
+ <i>sorb-</i>, absorb.<br>
+ <i>ban-</i>, bathe (oneself or another).</td>
+</tr>
+</table>
+</center>
+
+<!-- =============================084.png============================ -->
+<p>La domo, en kiu oni lernas, estas lernejo, kaj la domo, en kiu
+oni pre&#285;as, estas pre&#285;ejo. La kuiristo sidas en la
+kuirejo. La kuracisto konsilas al mi iri en &#349;vitbanejon. La
+&#265;evalo metis unu hufon sur serpentejon. La virino promenadis
+tra belegaj arbaroj kaj herbejoj. Li venis en sian lo&#285;ejon.
+Li haltis apud la pordego de la mona&#293;ejo.</p>
+
+<p>La rusoj lo&#285;as en Rusujo, kaj la germanoj en Germanujo.
+Mia skribilaro konsistas el inkujo, sablujo, kelke da plumoj,
+krajono, kaj inksorbilo. En la po&#349;o de mia pantalono mi
+portas monujon, kaj en la po&#349;o de mia surtuto mi portas
+paperujon; pli grandan paperujon mi portas sub la brako. Metu sur
+la tablon la sukerujon, la teujon, kaj la tekru&#265;on.</p>
+
+<p>Magazeno, en kiu oni vendas cigarojn, a&#365; &#265;ambro, en
+kiu oni tenas cigarojn, estas cigarejo; skatoleto a&#365; alia
+objekto, en kiu oni tenas cigarojn, estas cigarujo; tubeto, en
+kiun oni metas cigaron, kiam oni &#285;in fumas, estas cigaringo.
+Skatoleto, en kiu oni tenas plumojn, estas plumujo, kaj
+bastoneto, sur kiu oni tenas plumon por skribadi, estas plumingo.
+En la kandelingo sidis brulanta kandelo.</p>

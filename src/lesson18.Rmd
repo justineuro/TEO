@@ -1,0 +1,65 @@
+---
+title: "" #"Lesson 18 - Words"
+author: "" #"JLAUro"
+date: "" #"May 21, 2017"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+<br/><br/>
+
+<!-- =============================045.png============================ -->
+<center><b>LESSON 18.</b></center>
+
+<center><i>Suffix</i> <b>-ist-.</b></center>
+
+<p>The suffix <b>-ist-</b> denotes one who occupies himself with
+or devotes himself to any special thing, as a business or a
+hobby, as <i>ju&#285;i</i>, to judge, <i>ju&#285;isto</i>, a
+judge; <i>servi</i>, to serve, <i>servisto</i>, a servant;
+<i>kuraci</i>, to treat (as a doctor), <i>kuracisto</i>, a
+doctor; <i>lavi</i>, to wash, <i>lavisto</i>, a laundryman.</p>
+
+<center>
+<table cellspacing="8">
+<caption><b>Vocabulary.</b></caption>
+
+<tr>
+<td nowrap valign="top"><i>boto</i>, boot.<br>
+ <i>&#349;uo</i>, shoe.<br>
+ <i>maro</i>, sea.<br>
+ <i>me&#293;aniko</i>, mechanics.<br>
+ <i>&#293;emio</i>, chemistry.<br>
+ <i>diplomato</i>, diplomatist.<br>
+ <i>fiziko</i>, physics.<br>
+ <i>scienco</i>, science.<br>
+ <i>dron-</i>, be drowned, sink.<br>
+ <i>verk-</i>, work mentally, write, compose.</td>
+<td nowrap valign="top"><i>transskrib-</i>, transcribe, copy.<br>
+ <i>kuir-</i>, cook.<br>
+ <i>veturig-</i>, drive (a carriage, etc.).<br>
+ <i>tromp-</i>, deceive.<br>
+ <i>okup-</i>, occupy, employ.<br>
+ <i>teks-</i>, weave.<br>
+ <i>diversa(j)</i>, various.<br>
+ <i>simple</i>, simply.<br>
+ <i>je</i>, (indefinite meaning). [Lessons 26, 40.]</td>
+</tr>
+</table>
+</center>
+
+<p>La botisto faras botojn kaj &#349;uojn. &#348;telistojn neniu
+lasas en sian domon. La kura&#285;a maristo dronis en la maro.
+Verkisto verkas librojn, kaj skribisto simple transskribas
+paperojn. Ni havas diversajn servantojn&mdash;kuiriston,
+&#265;ambristinon, infanistinon, kaj veturigiston. Kiu okupas sin
+je me&#293;aniko estas me&#293;ankisto, kaj kiu okupas sin je
+&#293;emio estas &#293;emiisto. Diplomatiiston oni povas
+anka&#365; nomi diplomato, [Footnote: See Lesson 45.] sed
+fizikiston oni ne povas nomi fiziko, [Footnote: See Lesson 45.]
+&#265;ar fiziko estas la nomo de la scienco mem. Unu tagon
+[Footnote: See Lesson 26.] (en unu tago) venis du trompantoj,
+kiuj diris, ke ili estas teksistoj.</p>

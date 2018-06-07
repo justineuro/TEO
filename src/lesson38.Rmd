@@ -1,0 +1,67 @@
+---
+title: "" #"Lesson 38 - Pri. Laŭ"
+author: "" #"JLAUro"
+date: "" #"May 21, 2017"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+<br/><br/>
+
+<center><b>LESSON 38.</b></center>
+
+<center><b>Pri. La&#365;.</b></center>
+
+<p><b>Pri</b> means <i>concerning, in regard to, about</i>, as
+<i>Ni parolis pri nia amiko</i>, We spoke about or concerning our
+friend.</p>
+
+<p><i>Pripensi</i>, to think about, to consider.
+<i>Priparoli</i>, to speak about. <i>Priskribi</i>, to
+describe.</p>
+
+<p><b>La&#365;</b> means <i>according to, in accordance with</i>,
+as <i>La&#365; mia opinio</i>, According to (or, in) my
+opinion.</p>
+
+<p><i>La&#365;longe</i>, lengthways.</p>
+
+<center>
+<table cellspacing="8">
+<caption><b>Vocabulary.</b></caption>
+
+<tr>
+<td nowrap valign="top"><i>konko</i>, shell<br>
+ <i>komando</i>, command.<br>
+ <i>ekstera&#309;o</i>, exterior.<br>
+ <i>portreto</i>, portrait.<br>
+ <i>boneco</i>, goodness.<br>
+ <i>fojo</i>, time.</td>
+<td nowrap valign="top"><i>afero</i>, affair, matter.<br>
+ <i>honesteco</i>, honesty.<br>
+ <i>konvena</i>, suitable, proper, respectable.<br>
+ <i>son&#285;-</i>, dream.<br>
+ <i>&#349;ajn-</i>, seem, appear.</td>
+</tr>
+</table>
+</center>
+
+<!-- =============================078.png============================ -->
+<p>&#348;i volis kredi, ke la hebreo parolas pri iu alia. Nun la
+virino havas &#265;ion, &#349;i pri nenio povas peti. Pri tio
+&#265;i ne pensu. Tion oni vere ne povas diri pri vi. Estis
+ankora&#365; multaj aferoj, pri kiuj ili volis scii. Li ne povis
+e&#265; son&#285;i pri &#349;i. &#348;i demandadis pri tio la
+maljunan avinon.</p>
+
+<p>Mi restas tie &#265;i la&#365; la ordono de mia estro. Li
+ekiris la&#365; tiu &#265;i rivero. Ili havis la permeson
+supreniri &#265;iufoje la&#365; sia volo. &#348;i povis la&#365;
+sia pla&#265;o fosi kaj planti. La konkoj sin fermas kaj
+malfermas la&#365; la fluo de la akvo. La&#365; sia
+ekstera&#309;o li &#349;ajnis konvena homo. La&#365; la komando
+"tri" vi ekpafos sur la arbon. La pli juna filino estis la plena
+portreto de sia patro la&#365; sia boneco kaj honesteco.</p>

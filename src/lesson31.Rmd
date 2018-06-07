@@ -1,0 +1,87 @@
+---
+title: "" #"Lesson 31 - Sur. Super. Sub."
+author: "" #"JLAUro"
+date: "" #"May 21, 2017"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+<br/><br/>
+
+<center><b>LESSON 31.</b></center>
+
+<center><b>Sur. Super. Sub.</b></center>
+
+<p><b>Sur</b> means <i>on, upon</i> (touching). <i>Li sidas sur
+la kanapo</i>, He is sitting on the sofa. Followed by the
+accusative (with <i>n</i>) it means <i>on to</i>, as
+<i>Sidi&#285;u sur la kanapon</i>, Sit down on the sofa.
+<i>Influi sur la karakteron</i>, To have influence on the
+character.</p>
+
+<p><b>Super</b> means <i>over, above</i> (not touching). <i>Super
+la maro flugis la nuboj</i>, Over the sea floated the clouds.
+Followed by the accusative it shows motion over and above a
+thing, as <i>Li &#309;etis &#349;tonon super la muron</i>, He
+threw a stone over the wall.</p>
+
+<p><b>Sub</b> means <i>under, underneath</i>. <i>La hundo
+ku&#349;is sub la tablo</i>, The dog lay under the table. With
+the accusative <i>sub</i> shows motion to and beneath, as <i>La
+hundo kuris sub la tablon</i>, The dog ran under the table.</p>
+
+<center>
+<table cellspacing="8">
+<caption><b>Vocabulary.</b></caption>
+
+<tr>
+<td nowrap valign="top"><i>aero</i>, air.<br>
+ <i>sono</i>, sound.<br>
+ <i>benko</i>, bench.<br>
+ <i>kato</i>, cat.<br>
+ <i>lito</i>, bed.<br>
+ <i>frukto</i>, fruit.<br>
+ <i>genuo</i>, knee.<br>
+ <i>muso</i>, mouse.<br>
+ <i>muziko</i>, music.<br>
+ <i>ponto</i>, bridge.<br>
+ <i>sofo</i>, sofa.</td>
+<td nowrap valign="top"><i>supra&#309;o</i>, surface.<br>
+ <i>&#349;ultro</i>, shoulder.<br>
+ <i>ferdeko</i>, deck.<br>
+ <i>balanc-</i>, swing (something).<br>
+ <i>frap-</i>, strike, slap.<br>
+ <i>influ-</i>, have influence on.<br>
+ <i>prem-</i>, press.<br>
+ <i>na&#285;-</i>, swim.<br>
+ <i>forestanta</i>, absent.<br>
+ <i>nobla</i>, noble (quality).<br>
+ <i>alta</i>, high.</td>
+</tr>
+</table>
+</center>
+
+<!-- =============================069.png============================ -->
+<p>Mi sidas sur se&#285;o kaj tenas la piedojn sur benketo. Li
+revenis kun kato sur la brako. Mi metis la manon sur la tablon.
+Li falis sur la genuojn. Ne iru sur la ponton. Li &#309;etis sin
+malespere sur se&#285;on. Li frapis lin sur la &#349;ultron, kaj
+premis lin malsupren sur la sofon. Mi sidigis min sur la lokon de
+la forestanta hejtisto. La fruktoplantado devas influi noblige
+sur tiujn, kiuj sia okupas je &#285;i.</p>
+
+<p>Super la tero sin trovas aero. Liaj pensoj alte levi&#285;is
+super la nubojn. &#348;i ricevis la permeson sin levi super la
+supra&#309;on de la maro. Ili povis sin levi sur la altajn
+montojn alte super la nubojn. Li staras supre sur la monto kaj
+rigardas malsupren sur la kampon. &#348;i sidis sur la akvo kaj
+balanci&#285;is supren kaj malsupren.</p>
+
+<p>El sub la kanapo la muso kuris sub la liton, kaj nun &#285;i
+kuras sub la lito. &#348;i ofte devis na&#285;i sub la akvon. Sub
+la sonoj de muziko ili dancis sur la ferdeko. Ekfloris sub
+&#349;ia rigardo la blankaj lilioj. &#348;i subi&#285;is sub la
+akvon. &#348;i suprenna&#285;is &#265;e la subiro de la suno.</p>

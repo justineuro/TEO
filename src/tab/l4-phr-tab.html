@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html>
+<!--
+URLs:	https://css-tricks.com/snippets/javascript/showhide-element/ (User:Nanobyte)
+		http://stackoverflow.com/questions/19163327/how-do-i-make-a-div-hidden-by-default-using-javascript (User: Luke, david-lee)
+		https://www.w3schools.com/css/css_text.asp
+Date: 17-V-2017
+-->
+
+<head>
+<title>l4-phr-tab</title>
+<meta http-equiv='Content-Type' content='text/html; charset=utf-8'>
+<style>
+a, body { 
+	color: #007700; 
+	font-size: 12px; 
+}	
+
+a:visited { color: #00aa00; }
+
+[id^='tr'] {
+    display: none;
+}
+
+mark {
+    padding: 3px 3px;
+    text-align: left;
+    font-style: italic;
+    font-size: 10px;
+    background-color: #009900;
+    color: white;
+    margin-top: 0px;
+    margin-left: 5px;
+}
+
+</style>
+
+<script type='text/javascript'>
+	function toggle_visibility(id) {
+	var e = document.getElementById(id);
+	e.style.display = ((e.style.display!='block') ? 'block' : 'none');
+	}
+</script>
+</head>
+
+<body>
+<p>
+<h4>Lesson 4 Phrase  - The Esperanto Teacher (by Helen Fryer) http://www.gutenberg.org <br/></h4>
+<a id='r0' href='#' onclick="toggle_visibility('tr0');">
+Click for Instructions.</a>
+<div id='tr0'>
+	&nbsp;
+	<mark>Click on each link to toggle the English translation.  
+	Reload page to turn off all translations.</mark>
+</div>
+</p>
+
+<table width='100%' border='5px' cellspacing='5px' cellpadding='5px'>
+	<tr id='r1'>
+			<td align='center' valign='middle'><a id='item1' href='#r0' onclick="toggle_visibility('tr1');">Mi legas. </a>
+						<div id='tr1'><mark>I read. (I am reading).</mark></div></td>
+
+			<td align='center' valign='middle'><a id='item2' href='#r0' onclick="toggle_visibility('tr2');">Vi skribas. </a>
+						<div id='tr2'><mark>You write. (You (sing,. pl.) are writing.)</mark></div></td>
+
+			<td align='center' valign='middle'><a id='item3' href='#r0' onclick="toggle_visibility('tr3');">Li estas knabo, kaj ŝi estas knabino. </a>
+						<div id='tr3'><mark>He is a boy and she is a girl.</mark></div></td>
+
+			<td align='center' valign='middle'><a id='item4' href='#r0' onclick="toggle_visibility('tr4');">Ni estas homoj. </a>
+						<div id='tr4'><mark>We are humans beings (men).</mark></div></td>
+	</tr>
+	<tr id='r1'>
+
+			<td align='center' valign='middle'><a id='item5' href='#r1' onclick="toggle_visibility('tr5');">Vi estas infanoj. </a>
+						<div id='tr5'><mark>You (pl.) are children.</mark></div></td>
+
+			<td align='center' valign='middle'><a id='item6' href='#r1' onclick="toggle_visibility('tr6');">Ili estas rusoj. </a>
+						<div id='tr6'><mark>They are Russian.</mark></div></td>
+
+			<td align='center' valign='middle'><a id='item7' href='#r1' onclick="toggle_visibility('tr7');">Kie estas la knaboj? Ili estas en la ĝardeno, </a>
+						<div id='tr7'><mark>Where are the boys? They are in the garden.</mark></div></td>
+
+			<td align='center' valign='middle'><a id='item8' href='#r1' onclick="toggle_visibility('tr8');">Kie estas la knabinoj? Ili ankaŭ estas en la ĝardeno. </a>
+						<div id='tr8'><mark>Where are the girls? They are also in the garden.</mark></div></td>
+	</tr>
+	<tr id='r2'>
+
+			<td align='center' valign='middle'><a id='item9' href='#r2' onclick="toggle_visibility('tr9');">Kie estas la tranĉiloj? Ili kuŝas sur la tablo. </a>
+						<div id='tr9'><mark>Where are the knives? They are lying (on) the table.</mark></div></td>
+
+			<td align='center' valign='middle'><a id='item10' href='#r2' onclick="toggle_visibility('tr10');">La infano ploras, ĉar ĝi volas manĝi. </a>
+						<div id='tr10'><mark>The infant is crying, because it wants to eat.</mark></div></td>
+
+			<td align='center' valign='middle'><a id='item11' href='#r2' onclick="toggle_visibility('tr11');">Sinjoro, ci estas neĝentila. </a>
+						<div id='tr11'><mark>Sir, you (sing.) are not polite.</mark></div></td>
+
+			<td align='center' valign='middle'><a id='item12' href='#r2' onclick="toggle_visibility('tr12');">Sinjoroj, vi estas neĝentilaj. </a>
+						<div id='tr12'><mark>Sirs, you (pl.) are not polite.</mark></div></td>
+	</tr>
+	<tr id='r3'>
+
+			<td align='center' valign='middle'><a id='item13' href='#r3' onclick="toggle_visibility('tr13');">Oni diras; ke la vero ĉiam venkas. </a>
+						<div id='tr13'><mark>They say that the truth always conquers.</mark></div></td>
+
+			<td align='center' valign='middle'><a id='item14' href='#r3' onclick="toggle_visibility('tr14');">La domo apartenas al li. </a>
+						<div id='tr14'><mark>The house belongs to him.</mark></div></td>
+
+			<td align='center' valign='middle'><a id='item15' href='#r3' onclick="toggle_visibility('tr15');">Mi venas de la avo, kaj mi iras nun al la onklo. </a>
+						<div id='tr15'><mark>I am coming from the grandfather and I am going now to the uncle.</mark></div></td>
+
+			<td align='center' valign='middle'><a id='item16' href='#r3' onclick="toggle_visibility('tr16');">Mi estas tiel forta, kiel vi. </a>
+						<div id='tr16'><mark>I am as strong as you.</mark></div></td>
+	</tr>
+	<tr id='r4'>
+
+			<td align='center' valign='middle'><a id='item17' href='#r4' onclick="toggle_visibility('tr17');">Nun mi legas, vi legas, kaj li legas, ni ĉiuj legas. </a>
+						<div id='tr17'><mark>Now I am reading, you are reading, and he is reading, we are all reading.</mark></div></td>
+
+			<td align='center' valign='middle'><a id='item18' href='#r4' onclick="toggle_visibility('tr18');">Vi skribas, kaj la infanoj skribas, ili (vi) ĉiuj sidas silente kaj skribas.</a>
+						<div id='tr18'><mark>You (pl.) are writing and the infants are writing, they (you) are all silently sitting and writing.</mark></div></td>
+
+			<td align='center' valign='middle'><a id='item19' href='#r4' onclick="toggle_visibility('tr19');">Mia hundo, vi estas tre fidela. </a>
+						<div id='tr19'><mark>My dog, you are very faithful.</mark></div></td>
+
+			<td align='center' valign='middle'><a id='item20' href='#r4' onclick="toggle_visibility('tr20');">Li estas mia onklo, ĉar mia patro estas lia frato. </a>
+						<div id='tr20'><mark>He is my uncle, because my father is his brother.</mark></div></td>
+	</tr>
+	<tr id='r5'>
+
+			<td align='center' valign='middle'><a id='item21' href='#r5' onclick="toggle_visibility('tr21');">El ĉiuj miaj infanoj, Ernesto estas la plej juna. </a>
+						<div id='tr21'><mark>Out of all my children, Ernesto is the youngest.</mark></div></td>
+
+			<td align='center' valign='middle'><a id='item22' href='#r5' onclick="toggle_visibility('tr22');">Lia patro kaj liaj fratoj estas en la ĝardeno. ŝia onklo estas en la domo. </a>
+						<div id='tr22'><mark>His father and his brothers are in the garden, his uncle is in the house.</mark></div></td>
+
+			<td align='center' valign='middle'><a id='item23' href='#r5' onclick="toggle_visibility('tr23');">Kie estas viaj libroj? Niaj libroj kuŝas sur la tablo; iliaj krajonoj kaj ilia papero ankaŭ kuŝas sur la tablo.</a>
+						<div id='tr23'><mark>Where are your (pl.) books? Our books are (lying) on the table, their pencils and their paper also are (lying) on the table.</mark></div></td>
+
+			<td align='center' valign='middle'><a id='item24' href='#r5' onclick="toggle_visibility('tr24');">Kiu estas en la ĉambro? </a>
+						<div id='tr24'><mark>Who is in the room?</mark></div></td>
+	</tr>
+	<tr id='r6'>
+
+			<td align='center' valign='middle'><a id='item25' href='#r6' onclick="toggle_visibility('tr25');">Kiuj estas en la ĉambro? </a>
+						<div id='tr25'><mark>Who are in the room?</mark></div></td>
+
+			<td align='center' valign='middle'><a id='item26' href='#r6' onclick="toggle_visibility('tr26');">La sinjoro, kiu legas, estas mia amiko. </a>
+						<div id='tr26'><mark>The gentleman who is reading, is my uncle.</mark></div></td>
+
+			<td align='center' valign='middle'><a id='item27' href='#r6' onclick="toggle_visibility('tr27');">La sinjoro, al kiu vi skribas, estas tajloro. </a>
+						<div id='tr27'><mark>The genetleman to whom you are writing is a tailor.</mark></div></td>
+
+			<td align='center' valign='middle'><a id='item28' href='#r6' onclick="toggle_visibility('tr28');">Kio kuŝas sur la tablo?</a>
+						<div id='tr28'><mark>What is (lying) on the table?</mark></div></td>
+	</tr>
+	<tr id='r7'>
+
+	</tr>
+</table>
+</body>
+</html>
+

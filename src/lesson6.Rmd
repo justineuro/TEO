@@ -1,0 +1,109 @@
+---
+title: "" #"Lesson 6 - Words"
+author: "" #"JLAUro"
+date: "" #"May 18, 2017"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+<br/><br/>
+
+<center><b>LESSON 6.</b></center>
+
+<p>We have seen already (Lesson 1) that the words which end in
+<b>-as</b> express the idea of <i>doing</i> (action) or of
+<i>being</i> (state), and that they assert that this action or
+state is going on, or is a custom, at the present time, as <i>Mi
+vidas</i>, I see; <i>&#348;i estas</i>, She is; <i>Ili
+suferas</i>, They suffer, they are suffering.</p>
+
+<p>To say that the action or state took place at some <i>past</i>
+time, <b>-is</b> is used, as <i>Mi vidis</i>, I saw; <i>&#348;i
+estis</i>, She was; <i>Ili suferis</i>, They suffered, they were
+suffering.</p>
+
+<!-- =============================021.png============================ -->
+<p>To say that the action or state will take place at some time
+to come, in the future, <b>-os</b> is used, as, <i>Mi vidos</i>,
+I shall see; <i>&#348;i estos</i>, She will be; <i>Ili
+suferos</i>, They will suffer, they will be suffering.</p>
+
+<p><i>(Words which assert something, or which express the idea of
+doing or of being, are called <span style=
+"font-variant: small-caps">Verbs</span>).</i></p>
+
+<p><i>(The root only of the verbs will now be given in the
+Vocabulary without the</i> termination<i>).</i></p>
+
+<center>
+<table cellspacing="8">
+<caption><b>Vocabulary.</b></caption>
+
+<tr>
+<td nowrap valign="top"><i>historio</i>, history.<br>
+ <i>kuzo</i>, cousin.<br>
+ <i>plezuro</i>, pleasure.<br>
+ <i>horlo&#285;o</i>, clock.<br>
+ <i>laboro</i>, work.<br>
+ <i>popolo</i>, a people.<br>
+ <i>virino</i>, woman.<br>
+ <i>a&#285;o</i>, age.<br>
+ <i>jaro</i>, year.<br>
+ <i>permeso</i>, permission.<br>
+ <i>respond-</i>, answer.<br>
+ <i>far-</i>, do, make.<br>
+ <i>forpel-</i>, drive away.<br>
+ <i>ricev-</i>, receive, get.<br>
+ <i>don-</i>, give.<br>
+ <i>trov-</i>, find.<br>
+ <i>renkont-</i>, meet.<br>
+ <i>salut-</i>, greet, salute.<br>
+ <i>rakont-</i>, relate, tell.<br>
+ <i>vizit-</i>, visit.</td>
+<td nowrap valign="top"><i>dorm-</i>, sleep.<br>
+ <i>vek-</i>, wake.<br>
+ <i>ser&#265;-</i>, seek.<br>
+ <i>fin-</i>, end.<br>
+ <i>tim-</i>, fear.<br>
+ <i>ating-</i>, reach to.<br>
+ <i>surda</i>, deaf.<br>
+ <i>muta</i>, dumb.<br>
+ <i>dol&#265;a</i>, sweet.<br>
+ <i>tri</i>, three.<br>
+ <i>dek-kvin</i>, fifteen.<br>
+ <i>kial</i>, why.<br>
+ <i>hiera&#365;</i>, yesterday.<br>
+ <i>morga&#365;</i>, to-morrow.<br>
+ <i>anta&#365;</i>, before.<br>
+ <i>post</i>, after.<br>
+ <i>jam</i>, already.<br>
+ <i>jam ne</i>, no more.<br>
+ <i>ankora&#365;</i>, still, yet.</td>
+</tr>
+</table>
+</center>
+
+<p>Kial vi ne respondas al mi? &#264;u vi estas surda a&#365;
+muta? Kion vi faras?</p>
+
+<!-- =============================022.png============================ -->
+<p>La knabo forpelis la birdojn. De la patro mi ricevis libron,
+kaj de la frato mi ricevis plumon. La patro donis al mi
+dol&#265;an pomon. Jen estas la pomo, kiun mi trovis. Hiera&#365;
+mi renkontis vian filon, kaj li &#285;entile salutis min.
+Anta&#365; tri tagoj mi vizitis vian kuzon, kaj mia vizito faris
+al li plezuron. Kiam mi venis al li, li dormis, sed mi lin
+vekis.</p>
+
+<p>Mi rakontos al vi historion. &#264;u vi diros al mi la veron?
+Hodia&#365; estas sabato, kaj morga&#365; estos diman&#265;o.
+Hiera&#365; estis vendredo, kaj postmorga&#365; estos lundo.
+&#264;u vi jam trovis vian horlo&#285;on? Mi &#285;in
+ankora&#365; ne ser&#265;is; kiam mi finos mian laboron, mi
+ser&#265;os mian horlo&#285;on, sed mi timas, ke mi &#285;in jam
+ne trovos. Se vi nin venkos, la popolo diros, ke nur virinojn vi
+venkis. Kiam vi atingos la a&#285;on de dek-kvin jaroj, vi
+ricevos la permeson.</p>

@@ -1,0 +1,61 @@
+---
+title: "" #"Lesson 29 - En"
+author: "" #"JLAUro"
+date: "" #"May 21, 2017"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+<br/><br/>
+
+<!-- =============================066.png============================ -->
+<center><b>LESSON 29.</b></center>
+
+<center><b>En.</b></center>
+
+<p><b>En</b> means <i>in, inside;</i> when <i>n</i> is added to
+the noun which it precedes, it means <i>into</i>, as <i>Kie vi
+estas? Mi estas en la domo. Kien vi iras? Mi iras en la
+&#285;ardenon.</i> Where are you? I am in the house. Where are
+you going? I am going into the garden. <i>Malamiko venis en nian
+landon</i>, An enemy came into our country.</p>
+
+<center>
+<table cellspacing="8">
+<caption><b>Vocabulary.</b></caption>
+
+<tr>
+<td nowrap valign="top"><i>Hispanujo</i>, Spain.<br>
+ <i>humoro</i>, humour, temper.<br>
+ <i>paco</i>, peace.<br>
+ <i>pinglo</i>, pin.<br>
+ <i>nasko-tago</i>, birthday.<br>
+ <i>faruno</i>, flour.<br>
+ <i>parto</i>, part.</td>
+<td nowrap valign="top"><i>muel-</i>, grind.<br>
+ <i>turn-</i>, turn.<br>
+ <i>divid-</i>, divide.<br>
+ <i>do</i>, then.<br>
+ <i>&#285;uste</i>, exactly, just.<br>
+ <i>kvaza&#365;</i>, as if.</td>
+</tr>
+</table>
+</center>
+
+<p>La birdo flugas en la &#265;ambro ( = &#285;i estas en la
+&#265;ambro, kaj flugas en &#285;i). La birdo flugas en la
+&#265;ambron ( = &#285;i estas ekster la &#265;ambro, kaj flugas
+nun en &#285;in). Mi voja&#285;as en Hispanujo. Mi voja&#285;as
+en Hispanujon. Kion do fari en tia okazo? Mi estas en bona
+humoro. Li murmuretis al la re&#285;ino en la orelon. En sekvo de
+tiu &#265;i okazo. Mi preferus resti en paco tie &#265;i.
+&#348;ia naskotago estis &#285;uste en la mezo de vintro. Li
+ekrigardis en la okulojn de la infano. Li estis bela granda viro
+en la a&#285;o de kvardek jaroj. En la da&#365;ro de mia tuta
+vivo. En la fino de la jaro. Mano en mano. Enirinte en la
+vagonon, &#349;i sidis kvaza&#365; sur pingloj. La greno
+mueli&#285;as en farunon. Aleksandro turni&#285;is en polvon. Li
+dividis la pomon en du partojn.</p>
