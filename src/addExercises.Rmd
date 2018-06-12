@@ -2,14 +2,24 @@
 title: "" #"Additional Exercises - Words and Phrases"
 author: "" #"JLAUro"
 date: "" #"June 7, 2018"
-output: html_document
+output: 
+  html_document:
+    css: ["css/hideshow.css","bootstrap/bootstrap-cerulean-grn99.min.css"]
+    javascript: js/hideshow.js
+    #theme: cerulean
+    highlight: tango
+    #toc: true
+    #toc_float: 
+    #  collapsed: false
+    #mathjax: "https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML"
+    #mathjax: "file:///sdcard//MathJax/MathJax.js?config=TeX-AMS-MML_HTMLorMML"
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-<br/><br/><br/>
+<br/><br/>
 
 <!-- =============================???.png============================ -->
 <center><b>ADDITIONAL EXERCISES</b></center>
@@ -21,7 +31,10 @@ The exercise sets available via the links below are either Vocabulary builders o
 
 &nbsp; | &nbsp; | &nbsp; | &nbsp;
 --- | --- | --- | --- 
- [Lesson 1 Vocabulary](./tab/l1-voc-tab.html) | [Lesson 1 Phrase](./tab/l1-phr-tab.html) | [Lesson 2 Vocabulary](./tab/l2-voc-tab.html) | [Lesson 2 Phrase](./tab/l2-phr-tab.html) 
- [Lesson 3 Vocabulary](./tab/l3-voc-tab.html) | [Lesson 3 Phrase](./tab/l3-phr-tab.html) | [Lesson 4 Vocabulary](./tab/l4-voc-tab.html) | [Lesson 4 Phrase](./tab/l4-phr-tab.html) 
- [Lesson 5 Vocabulary](./tab/l5-voc-tab.html) | [Lesson 5 Phrase](./tab/l5-phr-tab.html) | [Numbers Vocabulary](./tab/00-Esperanto-Numbers-tab.html) | \ 
+ [Lesson 1 Vocabulary](./l1-voc-tab.html) | [Lesson 1 Phrase](./l1-phr-tab.html) | [Lesson 2 Vocabulary](./l2-voc-tab.html) | [Lesson 2 Phrase](./l2-phr-tab.html) 
+ [Lesson 3 Vocabulary](./l3-voc-tab.html) | [Lesson 3 Phrase](./l3-phr-tab.html) | [Lesson 4 Vocabulary](./l4-voc-tab.html) | [Lesson 4 Phrase](./l4-phr-tab.html) 
+ [Lesson 5 Vocabulary](./l5-voc-tab.html) | [Lesson 5 Phrase](./l5-phr-tab.html) | [Lesson 6 Vocabulary](./l6-voc-tab.html) | [Lesson 6 Phrase](./l6-phr-tab.html)
+  [Lesson 7 Vocabulary](./l7-voc-tab.html) | [Lesson 7 Phrase](./l7-phr-tab.html) | [Lesson 8 Vocabulary](./l8-voc-tab.html) | [Lesson 8 Phrase](./l8-phr-tab.html) 
+  [Lesson 9 Vocabulary](./l9-voc-tab.html) | [Lesson 9 Phrase](./l9-phr-tab.html) | [Lesson 10 Vocabulary](./l10-voc-tab.html) | [Lesson 10 Phrase](./l10-phr-tab.html) 
+ [Lesson 11 Vocabulary](./l11-voc-tab.html) | [Lesson 11 Phrase](./l11-phr-tab.html) | [Numbers Vocabulary](./00-Esperanto-Numbers-tab.html) | \  
 &nbsp; | &nbsp; | &nbsp; | &nbsp;

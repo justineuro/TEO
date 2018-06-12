@@ -1,150 +1,170 @@
-name: The Esperanto Teacher
-resource_files: ./42px-Fla.png"
+name: "The Esperanto Teacher"
+resource_files:
+  - ./42px-Fla.png
 navbar:
-  brand:
-    image: 42px-Fla.png
-  title: The Esperanto Teacher
+  brand: 
+    #text: "eo flag"
+    image: "42px-Fla.png"
+  title: "The Esperanto Teacher"
+  #type: inverse
   left:
-  - text: About
-    icon: fa-star
-    href: index.html
-  - text: 'Lessons: 0-10'
-    menu:
-    - text: ' 0'
-      href: intro.html
-    - text: ' 1'
-      href: lesson1.html
-    - text: ' 2'
-      href: lesson2.html
-    - text: ' 3'
-      href: lesson3.html
-    - text: ' 4'
-      href: lesson4.html
-    - text: ' 5'
-      href: lesson5.html
-    - text: ' 6'
-      href: lesson6.html
-    - text: ' 7'
-      href: lesson7.html
-    - text: ' 8'
-      href: lesson8.html
-    - text: ' 9'
-      href: lesson9.html
-    - text: '10'
-      href: lesson10.html
-  - text: 11-20
-    menu:
-    - text: '11'
-      href: lesson11.html
-    - text: '12'
-      href: lesson12.html
-    - text: '13'
-      href: lesson13.html
-    - text: '14'
-      href: lesson14.html
-    - text: '15'
-      href: lesson15.html
-    - text: '16'
-      href: lesson16.html
-    - text: '17'
-      href: lesson17.html
-    - text: '18'
-      href: lesson18.html
-    - text: '19'
-      href: lesson19.html
-    - text: '20'
-      href: lesson20.html
-  - text: 21-30
-    menu:
-    - text: '21'
-      href: lesson21.html
-    - text: '22'
-      href: lesson22.html
-    - text: '23'
-      href: lesson23.html
-    - text: '24'
-      href: lesson24.html
-    - text: '25'
-      href: lesson25.html
-    - text: '26'
-      href: lesson26.html
-    - text: '27'
-      href: lesson27.html
-    - text: '28'
-      href: lesson28.html
-    - text: '29'
-      href: lesson29.html
-    - text: '30'
-      href: lesson30.html
-  - text: 31-40
-    menu:
-    - text: '31'
-      href: lesson31.html
-    - text: '32'
-      href: lesson32.html
-    - text: '33'
-      href: lesson33.html
-    - text: '34'
-      href: lesson34.html
-    - text: '35'
-      href: lesson35.html
-    - text: '36'
-      href: lesson36.html
-    - text: '37'
-      href: lesson37.html
-    - text: '38'
-      href: lesson38.html
-    - text: '39'
-      href: lesson39.html
-    - text: '40'
-      href: lesson40.html
-  - text: 41-45+
-    menu:
-    - text: '41'
-      href: lesson41.html
-    - text: '42'
-      href: lesson42.html
-    - text: '43'
-      href: lesson43.html
-    - text: '44'
-      href: lesson44.html
-    - text: '45'
-      href: lesson45.html
-    - text: Words in Sentences
-      href: lesson46.html
-    - text: Common Useful Expressions
-      href: lesson47.html
-    - text: Letters
-      href: lesson48.html
-  - text: More
-    menu:
-    - text: Key to Exercises
-      href: keytoexer.html
-    - text: Selections
-      href: selections.html
-    - text: Vocabulary
-      href: vocabulary.html
-    - text: Index
-      href: indextet.html
-    - text: Project Gutenberg License
-      href: license.html
-    - text: Additional Exercises
-      href: addExercises.html
-  - text: GitHub
-    icon: fa-github
-    menu:
-    - text: GitHub Site
-      href: https://github.com/justineuro/TEO
-      icon: fa-github-square
-    - text: .zip
-      href: https://github.com/justineuro/TEO/archive/master.zip
-      icon: fa-download
-    - text: .tar.gz
-      href: https://github.com/justineuro/TEO/archive/master.tar.gz
-      icon: fa-download
+    #- text: "Welcome"
+    #  icon: fa-home
+    #  href: index.html
+    - text: "About"
+      icon: fa-star
+      href: index.html # about.html
+    - text: "Lessons: 0-10"
+      menu:
+        - text: " 0"
+          href: intro.html
+        - text: " 1"
+          href: lesson1.html
+        - text: " 2"
+          href: lesson2.html
+        - text: " 3"
+          href: lesson3.html
+        - text: " 4"
+          href: lesson4.html
+        - text: " 5"
+          href: lesson5.html
+        - text: " 6"
+          href: lesson6.html
+        - text: " 7"
+          href: lesson7.html
+        - text: " 8"
+          href: lesson8.html
+        - text: " 9"
+          href: lesson9.html
+        - text: "10"
+          href: lesson10.html
+    - text: "11-20"
+      menu: 
+        - text: "11"
+          href: lesson11.html
+        - text: "12"
+          href: lesson12.html
+        - text: "13"
+          href: lesson13.html
+        - text: "14"
+          href: lesson14.html
+        - text: "15"
+          href: lesson15.html
+        - text: "16"
+          href: lesson16.html
+        - text: "17"
+          href: lesson17.html
+        - text: "18"
+          href: lesson18.html
+        - text: "19"
+          href: lesson19.html
+        - text: "20"
+          href: lesson20.html
+    - text: "21-30"
+      menu: 
+        - text: "21"
+          href: lesson21.html
+        - text: "22"
+          href: lesson22.html
+        - text: "23"
+          href: lesson23.html
+        - text: "24"
+          href: lesson24.html
+        - text: "25"
+          href: lesson25.html
+        - text: "26"
+          href: lesson26.html
+        - text: "27"
+          href: lesson27.html
+        - text: "28"
+          href: lesson28.html
+        - text: "29"
+          href: lesson29.html
+        - text: "30"        
+          href: lesson30.html
+    - text: "31-40"
+      menu:
+        - text: "31"
+          href: lesson31.html
+        - text: "32"
+          href: lesson32.html
+        - text: "33"
+          href: lesson33.html
+        - text: "34"
+          href: lesson34.html
+        - text: "35"
+          href: lesson35.html
+        - text: "36"
+          href: lesson36.html
+        - text: "37"
+          href: lesson37.html
+        - text: "38"
+          href: lesson38.html
+        - text: "39"
+          href: lesson39.html
+        - text: "40"        
+          href: lesson40.html
+    - text: "41-45+"
+      menu:
+        - text: "41"
+          href: lesson41.html
+        - text: "42"
+          href: lesson42.html
+        - text: "43"
+          href: lesson43.html
+        - text: "44"
+          href: lesson44.html
+        - text: "45"
+          href: lesson45.html
+        - text: "Words in Sentences"
+          href: lesson46.html
+        - text: "Common Useful Expressions"
+          href: lesson47.html
+        - text: "Letters"
+          href: lesson48.html
+    - text: "More"
+      menu:
+        - text: "Key to Exercises"
+          href: keytoexer.html
+        - text: "Selections"
+          href: selections.html
+        - text: "Vocabulary"
+          href: vocabulary.html
+        - text: "Index"
+          href: indextet.html
+        - text: "Project Gutenberg License"
+          href: license.html
+        - text: "Additional Exercises"
+          href: addExercises.html
+    - text: "GitHub"
+      icon: fa-github
+      menu:
+      - text: "GitHub Site"
+        href: https://github.com/justineuro/TEO
+        icon: fa-github-square
+      - text: ".zip"
+        href: https://github.com/justineuro/TEO/archive/master.zip
+        icon: fa-download
+      - text: ".tar.gz"
+        href: https://github.com/justineuro/TEO/archive/master.tar.gz
+        icon: fa-download
 output:
   html_document:
     css: bootstrap/bootstrap-cerulean-grn99.min.css
     lib_dir: site_libs
     self_contained: no
-output_dir: _site
+output_dir: "."
+#exclude: ["bootstrap","lesson3.html","lesson4.html","lesson5.html",
+#      "lesson6.html","lesson7.html","lesson8.html","lesson9.html","lesson10.html",
+#      "lesson11.html","lesson12.html","lesson13.html","lesson14.html",
+#      "lesson15.html","lesson16.html" ,"lesson17.html","lesson18.html",
+#      "lesson19.html","lesson20.html",
+#      "lesson21.html","lesson22.html","lesson23.html","lesson24.html",
+#      "lesson25.html","lesson26.html","lesson27.html","lesson26.html",
+#      "lesson27.html","lesson28.html","lesson29.html","lesson30.html",
+#      "lesson31.html","lesson32.html","lesson33.html","lesson34.html",
+#      "lesson35.html","lesson36.html" ,"lesson37.html","lesson38.html",
+#      "lesson39.html","lesson40.html",
+#      "lesson41.html","lesson42.html","lesson43.html","lesson44.html",
+#      "lesson45.html","lesson46.html" ,"lesson47.html","lesson48.html"]
+   

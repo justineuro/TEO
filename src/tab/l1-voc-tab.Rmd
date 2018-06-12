@@ -1,15 +1,24 @@
-<!DOCTYPE html>
-<html>
-<!--
-URLs:	https://css-tricks.com/snippets/javascript/showhide-element/ (User:Nanobyte)
-		http://stackoverflow.com/questions/19163327/how-do-i-make-a-div-hidden-by-default-using-javascript (User: Luke, david-lee)
-		https://www.w3schools.com/css/css_text.asp
-Date: 17-V-2017
--->
+---
+title: "" #"l1-voc-tab"
+author: "" #"JLAUro"
+date: "" #"June 7, 2018"
+output: 
+  html_document:
+    #css: bootstrap/bootstrap-cerulean-grn99.min.css
+    #javascript: js/hideshow.js
+    #theme: cerulean
+    highlight: tango
+    #toc: true
+    #toc_float: 
+    #  collapsed: false
+    #mathjax: "https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML"
+    #mathjax: "file:///sdcard//MathJax/MathJax.js?config=TeX-AMS-MML_HTMLorMML"
+---
 
-<head>
-<title>l1-voc-tab</title>
-<meta http-equiv='Content-Type' content='text/html; charset=utf-8'>
+```{r setup, include=FALSE}
+knitr::opts_chunk(echo = TRUE)
+```
+
 <style>
 a, body { 
 color: #005500; 
@@ -41,17 +50,16 @@ var e = document.getElementById(id);
 e.style.display = ((e.style.display!='block') ? 'block' : 'none');
 }
 </script>
-</head>
 
-<body>
+<br/><br/>
+
 <p>
 <h4>Lesson 1 Vocabulary - The Esperanto Teacher (by Helen Fryer) http://www.gutenberg.org <br/></h4>
 <a id='r0' href='#' onclick="toggle_visibility('tr0');">
 Click for Instructions.</a>
 <div id='tr0'>
 &nbsp;
-<mark>Click on each link to toggle the English translation.  
-Reload page to turn off all translations.</mark>
+<mark>Click on each link to toggle the English translation.  Reload page to turn off all translations.</mark>
 </div>
 </p>
 
@@ -205,6 +213,4 @@ Reload page to turn off all translations.</mark>
 
 </tr>
 </table>
-</body>
-</html>
 

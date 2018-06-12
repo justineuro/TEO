@@ -1,0 +1,129 @@
+---
+title: "" #"l6-phr-tab"
+author: "" #"JLAUro"
+date: "" #"June 7, 2018"
+output: 
+  html_document:
+    #css: bootstrap/bootstrap-cerulean-grn99.min.css
+    #javascript: js/hideshow.js
+    #theme: cerulean
+    highlight: tango
+    #toc: true
+    #toc_float: 
+    #  collapsed: false
+    #mathjax: "https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML"
+    #mathjax: "file:///sdcard//MathJax/MathJax.js?config=TeX-AMS-MML_HTMLorMML"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+<style>
+a, body { 
+color: #005500; 
+font-size: 12px; 
+}	
+
+a:visited { color: #009900; }
+
+[id^='tr'] {
+display: none;
+}
+
+mark {
+padding: 3px 3px;
+text-align: left;
+font-style: italic;
+font-size: 10px;
+background-color: #007700;
+color: white;
+margin-top: 0px;
+margin-left: 5px;
+}
+
+</style>
+
+<script type='text/javascript'>
+function toggle_visibility(id) {
+var e = document.getElementById(id);
+e.style.display = ((e.style.display!='block') ? 'block' : 'none');
+}
+</script>
+
+<br/><br/>
+
+<p>
+<h4>Lesson 6 Phrase - The Esperanto Teacher (by Helen Fryer) http://www.gutenberg.org <br/></h4>
+<a id='r0' href='#' onclick="toggle_visibility('tr0');">
+Click for Instructions.</a>
+<div id='tr0'>
+&nbsp;
+<mark>Click on each link to toggle the English translation.  Reload page to turn off all translations.</mark>
+</div>
+</p>
+
+<table width='100%' border='5px' cellspacing='5px' cellpadding='5px'>
+<tr id='r1'>
+<td align='center' valign='middle'><a id='item1' href='#r0' onclick="toggle_visibility('tr1');">Kial vi ne respondas al mi?</a>
+<div id='tr1'><mark>Why do you not respond to me?</mark></div></td>
+
+<td align='center' valign='middle'><a id='item2' href='#r0' onclick="toggle_visibility('tr2');">Ĉu vi estas surda aŭ muta?</a>
+<div id='tr2'><mark>Are you deaf or mute?</mark></div></td>
+
+<td align='center' valign='middle'><a id='item3' href='#r0' onclick="toggle_visibility('tr3');">Kion vi faras?</a>
+<div id='tr3'><mark>What are you doing?</mark></div></td>
+
+<td align='center' valign='middle'><a id='item4' href='#r0' onclick="toggle_visibility('tr4');">La knabo forpelis la birdojn.</a>
+<div id='tr4'><mark>The boy drove away the birds.</mark></div></td>
+</tr>
+<tr id='r2'>
+
+<td align='center' valign='middle'><a id='item5' href='#r1' onclick="toggle_visibility('tr5');">De la patro mi ricevis libron, kaj de la frato mi ricevis plumon.</a>
+<div id='tr5'><mark>I received a book from the father, and I received a pen from the brother.</mark></div></td>
+
+<td align='center' valign='middle'><a id='item6' href='#r1' onclick="toggle_visibility('tr6');">La patro donis al mi dolĉan pomon.</a>
+<div id='tr6'><mark>The father gave to me a sweet apple.</mark></div></td>
+
+<td align='center' valign='middle'><a id='item7' href='#r1' onclick="toggle_visibility('tr7');">Jen estas la pomo, kiun mi trovis.</a>
+<div id='tr7'><mark>Here is the apple that I found.</mark></div></td>
+
+<td align='center' valign='middle'><a id='item8' href='#r1' onclick="toggle_visibility('tr8');">Hieraŭ mi renkontis vian filon, kaj li ĝentile salutis min.</a>
+<div id='tr8'><mark>Yesterday, I met your son and he politely greeted me.</mark></div></td>
+</tr>
+<tr id='r3'>
+
+<td align='center' valign='middle'><a id='item9' href='#r2' onclick="toggle_visibility('tr9');">Antaŭ tri tagoj mi vizitis vian kuzon, kaj mia vizito faris al li plezuron.</a>
+<div id='tr9'><mark>Three days ago I visited your cousin, and my visit gave to (made) him happy.</mark></div></td>
+
+<td align='center' valign='middle'><a id='item10' href='#r2' onclick="toggle_visibility('tr10');">Kiam mi venis al li, li dormis, sed mi lin vekis.</a>
+<div id='tr10'><mark>When I came to him, he was asleep, but I woke him.</mark></div></td>
+
+<td align='center' valign='middle'><a id='item11' href='#r2' onclick="toggle_visibility('tr11');">Mi rakontos al vi historion.</a>
+<div id='tr11'><mark>I will tell to you a history.</mark></div></td>
+
+<td align='center' valign='middle'><a id='item12' href='#r2' onclick="toggle_visibility('tr12');">Ĉu vi diros al mi la veron?</a>
+<div id='tr12'><mark>Will you tell me the truth?</mark></div></td>
+</tr>
+<tr id='r4'>
+
+<td align='center' valign='middle'><a id='item13' href='#r3' onclick="toggle_visibility('tr13');">Hodiaŭ estas sabato, kaj morgaŭ estos dimanĉo.</a>
+<div id='tr13'><mark>Today is Saturday and tomorrow will be Sunday.</mark></div></td>
+
+<td align='center' valign='middle'><a id='item14' href='#r3' onclick="toggle_visibility('tr14');">Hieraŭ estis vendredo, kaj postmorgaŭ estos lundo.</a>
+<div id='tr14'><mark>Yesterday was Friday and the day after tomorrow is Monday.</mark></div></td>
+
+<td align='center' valign='middle'><a id='item15' href='#r3' onclick="toggle_visibility('tr15');">Ĉu vi jam trovis vian horloĝon?</a>
+<div id='tr15'><mark>Did you already find your watch?</mark></div></td>
+
+<td align='center' valign='middle'><a id='item16' href='#r3' onclick="toggle_visibility('tr16');">Mi ĝin ankoraŭ ne serĉis; kiam mi finos mian laboron, mi serĉos mian horloĝon, sed mi timas, ke mi ĝin jam ne trovos.</a>
+<div id='tr16'><mark>I did not look for it yet; when I will finish my work, I will look for my watch, and I fear, that I will not find it anymore.</mark></div></td>
+</tr>
+<tr id='r5'>
+
+<td align='center' valign='middle'><a id='item17' href='#r4' onclick="toggle_visibility('tr17');">Se vi nin venkos, la popolo diros, ke nur virinojn vi venkis.</a>
+<div id='tr17'><mark>If you will conquer us, the people will say that you conquered only women.</mark></div></td>
+
+</tr>
+</table>
+

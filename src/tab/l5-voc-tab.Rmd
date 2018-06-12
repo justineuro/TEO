@@ -1,0 +1,168 @@
+---
+title: "" #"l5-voc-tab"
+author: "" #"JLAUro"
+date: "" #"June 7, 2018"
+output: 
+  html_document:
+    #css: bootstrap/bootstrap-cerulean-grn99.min.css
+    #javascript: js/hideshow.js
+    #theme: cerulean
+    highlight: tango
+    #toc: true
+    #toc_float: 
+    #  collapsed: false
+    #mathjax: "https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML"
+    #mathjax: "file:///sdcard//MathJax/MathJax.js?config=TeX-AMS-MML_HTMLorMML"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+<style>
+a, body { 
+color: #005500; 
+font-size: 12px; 
+}	
+
+a:visited { color: #009900; }
+
+[id^='tr'] {
+display: none;
+}
+
+mark {
+padding: 3px 3px;
+text-align: left;
+font-style: italic;
+font-size: 10px;
+background-color: #007700;
+color: white;
+margin-top: 0px;
+margin-left: 5px;
+}
+
+</style>
+
+<script type='text/javascript'>
+function toggle_visibility(id) {
+var e = document.getElementById(id);
+e.style.display = ((e.style.display!='block') ? 'block' : 'none');
+}
+</script>
+
+<br/><br/>
+
+<p>
+<h4>Lesson 5 Vocabulary  - The Esperanto Teacher (by Helen Fryer) http://www.gutenberg.org <br/></h4>
+<a id='r0' href='#' onclick="toggle_visibility('tr0');">
+Click for Instructions.</a>
+<div id='tr0'>
+&nbsp;
+<mark>Click on each link to toggle the English translation.  Reload page to turn off all translations.</mark>
+</div>
+</p>
+
+<table width='100%' border='5px' cellspacing='5px' cellpadding='5px'>
+<tr id='r1'>
+<td align='center' valign='middle'><a id='item1' href='#r0' onclick="toggle_visibility('tr1');">letero</a>
+<div id='tr1'><mark> letter</mark></div></td>
+
+<td align='center' valign='middle'><a id='item2' href='#r0' onclick="toggle_visibility('tr2');">litero</a>
+<div id='tr2'><mark> letter of alphabet</mark></div></td>
+
+<td align='center' valign='middle'><a id='item3' href='#r0' onclick="toggle_visibility('tr3');">festo</a>
+<div id='tr3'><mark> festival, holiday</mark></div></td>
+
+<td align='center' valign='middle'><a id='item4' href='#r0' onclick="toggle_visibility('tr4');">tago</a>
+<div id='tr4'><mark> day</mark></div></td>
+</tr>
+<tr id='r2'>
+
+<td align='center' valign='middle'><a id='item5' href='#r1' onclick="toggle_visibility('tr5');">nokto</a>
+<div id='tr5'><mark> night</mark></div></td>
+
+<td align='center' valign='middle'><a id='item6' href='#r1' onclick="toggle_visibility('tr6');">mateno</a>
+<div id='tr6'><mark> morning</mark></div></td>
+
+<td align='center' valign='middle'><a id='item7' href='#r1' onclick="toggle_visibility('tr7');">multaj</a>
+<div id='tr7'><mark> many</mark></div></td>
+
+<td align='center' valign='middle'><a id='item8' href='#r1' onclick="toggle_visibility('tr8');">obstina</a>
+<div id='tr8'><mark> obstinate</mark></div></td>
+</tr>
+<tr id='r3'>
+
+<td align='center' valign='middle'><a id='item9' href='#r2' onclick="toggle_visibility('tr9');">ĝoja</a>
+<div id='tr9'><mark> joyful, joyous</mark></div></td>
+
+<td align='center' valign='middle'><a id='item10' href='#r2' onclick="toggle_visibility('tr10');">hela</a>
+<div id='tr10'><mark> bright, clear</mark></div></td>
+
+<td align='center' valign='middle'><a id='item11' href='#r2' onclick="toggle_visibility('tr11');">amas</a>
+<div id='tr11'><mark> loves</mark></div></td>
+
+<td align='center' valign='middle'><a id='item12' href='#r2' onclick="toggle_visibility('tr12');">vidas</a>
+<div id='tr12'><mark> sees</mark></div></td>
+</tr>
+<tr id='r4'>
+
+<td align='center' valign='middle'><a id='item13' href='#r3' onclick="toggle_visibility('tr13');">konas</a>
+<div id='tr13'><mark> knows</mark></div></td>
+
+<td align='center' valign='middle'><a id='item14' href='#r3' onclick="toggle_visibility('tr14');">havas</a>
+<div id='tr14'><mark> has, possesses</mark></div></td>
+
+<td align='center' valign='middle'><a id='item15' href='#r3' onclick="toggle_visibility('tr15');">luno</a>
+<div id='tr15'><mark> moon</mark></div></td>
+
+<td align='center' valign='middle'><a id='item16' href='#r3' onclick="toggle_visibility('tr16');">stelo</a>
+<div id='tr16'><mark> star</mark></div></td>
+</tr>
+<tr id='r5'>
+
+<td align='center' valign='middle'><a id='item17' href='#r4' onclick="toggle_visibility('tr17');">vintro</a>
+<div id='tr17'><mark> winter</mark></div></td>
+
+<td align='center' valign='middle'><a id='item18' href='#r4' onclick="toggle_visibility('tr18');">forno</a>
+<div id='tr18'><mark> stove</mark></div></td>
+
+<td align='center' valign='middle'><a id='item19' href='#r4' onclick="toggle_visibility('tr19');">edzino</a>
+<div id='tr19'><mark> wife</mark></div></td>
+
+<td align='center' valign='middle'><a id='item20' href='#r4' onclick="toggle_visibility('tr20');">pala</a>
+<div id='tr20'><mark> pale</mark></div></td>
+</tr>
+<tr id='r6'>
+
+<td align='center' valign='middle'><a id='item21' href='#r5' onclick="toggle_visibility('tr21');">deziras</a>
+<div id='tr21'><mark> desires, wishes</mark></div></td>
+
+<td align='center' valign='middle'><a id='item22' href='#r5' onclick="toggle_visibility('tr22');">eraras</a>
+<div id='tr22'><mark> errs, is wrong</mark></div></td>
+
+<td align='center' valign='middle'><a id='item23' href='#r5' onclick="toggle_visibility('tr23');">vokas</a>
+<div id='tr23'><mark> calls</mark></div></td>
+
+<td align='center' valign='middle'><a id='item24' href='#r5' onclick="toggle_visibility('tr24');">hejtas</a>
+<div id='tr24'><mark> heats</mark></div></td>
+</tr>
+<tr id='r7'>
+
+<td align='center' valign='middle'><a id='item25' href='#r6' onclick="toggle_visibility('tr25');">hodiaŭ</a>
+<div id='tr25'><mark> to-day</mark></div></td>
+
+<td align='center' valign='middle'><a id='item26' href='#r6' onclick="toggle_visibility('tr26');">malpli</a>
+<div id='tr26'><mark> less</mark></div></td>
+
+<td align='center' valign='middle'><a id='item27' href='#r6' onclick="toggle_visibility('tr27');">kiam</a>
+<div id='tr27'><mark> when</mark></div></td>
+
+<td align='center' valign='middle'><a id='item28' href='#r6' onclick="toggle_visibility('tr28');">kia</a>
+<div id='tr28'><mark> what (kind)</mark></div></td>
+</tr>
+<tr id='r8'>
+
+</tr>
+</table>
+
