@@ -165,4 +165,8 @@ Click for Instructions.</a>
 
 </tr>
 </table>
+<br/>
+<p>
+<a href=addExercises.html>Return to tabular index of Additional Exerices</a>
+</p>
 

@@ -10,7 +10,7 @@
 #		with translations; output filename is <filename-tab.Rmd>
 #
 # Created:	11.06.2018 18:58:25
-# Revised:	
+# Revised:	2018.06.13 18:17:41 +8
 ### 
 #----------------------------------------------------------------------------------
 # create output file Rmd; temporary auxilliary file
@@ -131,7 +131,12 @@ done < $1
 
 catToFile "</tr>
 </table>
+<br/>
+<p>
+<a href=addExercises.html>Return to tabular index of Additional Exerices</a>
+</p>
 "
+
 rm ./$filea
 #
 ##

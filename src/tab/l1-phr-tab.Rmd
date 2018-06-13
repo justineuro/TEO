@@ -54,7 +54,7 @@ e.style.display = ((e.style.display!='block') ? 'block' : 'none');
 <br/><br/>
 
 <p>
-<h4>Lesson 1 Phrase - The Esperanto Teacher (by Helen Fryer) http://www.gutenberg.org <br/></h4>
+<h4>Lesson 1 Phrase - <a  href=http://www.gutenberg.org/files/8177/8177-h/8177-h.htm>The Esperanto Teacher (by Helen Fryer)</a> <br/></h4>
 <a id='r0' href='#' onclick="toggle_visibility('tr0');">
 Click for Instructions.</a>
 <div id='tr0'>
@@ -143,4 +143,8 @@ Click for Instructions.</a>
 
 </tr>
 </table>
+<br/>
+<p>
+<a href=addExercises.html>Return to tabular index of Additional Exerices</a>
+</p>
 
