@@ -46,7 +46,8 @@ parol-
 speak 
 viv- 
 live, have life 
-rest- rest remain 
+rest- 
+rest, remain 
 honesta 
 honest 
 inda 

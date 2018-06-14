@@ -144,44 +144,47 @@ Click for Instructions.</a>
 <td align='center' valign='middle'><a id='item23' href='#r5' onclick="toggle_visibility('tr23');">viv-</a>
 <div id='tr23'><mark>live, have life</mark></div></td>
 
-<td align='center' valign='middle'><a id='item24' href='#r5' onclick="toggle_visibility('tr24');">rest- rest remain</a>
-<div id='tr24'><mark>honesta</mark></div></td>
+<td align='center' valign='middle'><a id='item24' href='#r5' onclick="toggle_visibility('tr24');">rest-</a>
+<div id='tr24'><mark>rest, remain</mark></div></td>
 </tr>
 <tr id='r7'>
 
-<td align='center' valign='middle'><a id='item25' href='#r6' onclick="toggle_visibility('tr25');">honest</a>
-<div id='tr25'><mark>inda</mark></div></td>
+<td align='center' valign='middle'><a id='item25' href='#r6' onclick="toggle_visibility('tr25');">honesta</a>
+<div id='tr25'><mark>honest</mark></div></td>
 
-<td align='center' valign='middle'><a id='item26' href='#r6' onclick="toggle_visibility('tr26');">worthy</a>
-<div id='tr26'><mark>atenta</mark></div></td>
+<td align='center' valign='middle'><a id='item26' href='#r6' onclick="toggle_visibility('tr26');">inda</a>
+<div id='tr26'><mark>worthy</mark></div></td>
 
-<td align='center' valign='middle'><a id='item27' href='#r6' onclick="toggle_visibility('tr27');">attentive</a>
-<div id='tr27'><mark>kara</mark></div></td>
+<td align='center' valign='middle'><a id='item27' href='#r6' onclick="toggle_visibility('tr27');">atenta</a>
+<div id='tr27'><mark>attentive</mark></div></td>
 
-<td align='center' valign='middle'><a id='item28' href='#r6' onclick="toggle_visibility('tr28');">dear</a>
-<div id='tr28'><mark>gaja</mark></div></td>
+<td align='center' valign='middle'><a id='item28' href='#r6' onclick="toggle_visibility('tr28');">kara</a>
+<div id='tr28'><mark>dear</mark></div></td>
 </tr>
 <tr id='r8'>
 
-<td align='center' valign='middle'><a id='item29' href='#r7' onclick="toggle_visibility('tr29');">gay, cheerful</a>
-<div id='tr29'><mark>tia</mark></div></td>
+<td align='center' valign='middle'><a id='item29' href='#r7' onclick="toggle_visibility('tr29');">gaja</a>
+<div id='tr29'><mark>gay, cheerful</mark></div></td>
 
-<td align='center' valign='middle'><a id='item30' href='#r7' onclick="toggle_visibility('tr30');">such</a>
-<div id='tr30'><mark>longa</mark></div></td>
+<td align='center' valign='middle'><a id='item30' href='#r7' onclick="toggle_visibility('tr30');">tia</a>
+<div id='tr30'><mark>such</mark></div></td>
 
-<td align='center' valign='middle'><a id='item31' href='#r7' onclick="toggle_visibility('tr31');">long</a>
-<div id='tr31'><mark>sincera</mark></div></td>
+<td align='center' valign='middle'><a id='item31' href='#r7' onclick="toggle_visibility('tr31');">longa</a>
+<div id='tr31'><mark>long</mark></div></td>
 
-<td align='center' valign='middle'><a id='item32' href='#r7' onclick="toggle_visibility('tr32');">sincere</a>
-<div id='tr32'><mark>for</mark></div></td>
+<td align='center' valign='middle'><a id='item32' href='#r7' onclick="toggle_visibility('tr32');">sincera</a>
+<div id='tr32'><mark>sincere</mark></div></td>
 </tr>
 <tr id='r9'>
 
-<td align='center' valign='middle'><a id='item33' href='#r8' onclick="toggle_visibility('tr33');">away, forth</a>
-<div id='tr33'><mark>forte</mark></div></td>
+<td align='center' valign='middle'><a id='item33' href='#r8' onclick="toggle_visibility('tr33');">for</a>
+<div id='tr33'><mark>away, forth</mark></div></td>
 
-<td align='center' valign='middle'><a id='item34' href='#r8' onclick="toggle_visibility('tr34');">strongly</a>
-<div id='tr34'><mark>sole</mark></div></td>
+<td align='center' valign='middle'><a id='item34' href='#r8' onclick="toggle_visibility('tr34');">forte</a>
+<div id='tr34'><mark>strongly</mark></div></td>
+
+<td align='center' valign='middle'><a id='item35' href='#r8' onclick="toggle_visibility('tr35');">sole</a>
+<div id='tr35'><mark>alone</mark></div></td>
 
 </tr>
 </table>

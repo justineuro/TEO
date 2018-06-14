@@ -117,29 +117,26 @@ Click for Instructions.</a>
 <div id='tr15'><mark>concerning about</mark></div></td>
 
 <td align='center' valign='middle'><a id='item16' href='#r3' onclick="toggle_visibility('tr16');">ĝis</a>
-<div id='tr16'><mark>until</mark></div></td>
+<div id='tr16'><mark>until, as far as</mark></div></td>
 </tr>
 <tr id='r5'>
 
-<td align='center' valign='middle'><a id='item17' href='#r4' onclick="toggle_visibility('tr17');">as far as</a>
-<div id='tr17'><mark>tute</mark></div></td>
+<td align='center' valign='middle'><a id='item17' href='#r4' onclick="toggle_visibility('tr17');">tute</a>
+<div id='tr17'><mark>quite wholly</mark></div></td>
 
-<td align='center' valign='middle'><a id='item18' href='#r4' onclick="toggle_visibility('tr18');">quite</a>
-<div id='tr18'><mark>wholly</mark></div></td>
+<td align='center' valign='middle'><a id='item18' href='#r4' onclick="toggle_visibility('tr18');">tute ne</a>
+<div id='tr18'><mark>not at all</mark></div></td>
 
-<td align='center' valign='middle'><a id='item19' href='#r4' onclick="toggle_visibility('tr19');">tute ne</a>
-<div id='tr19'><mark>not at all</mark></div></td>
+<td align='center' valign='middle'><a id='item19' href='#r4' onclick="toggle_visibility('tr19');">kun</a>
+<div id='tr19'><mark>with</mark></div></td>
 
-<td align='center' valign='middle'><a id='item20' href='#r4' onclick="toggle_visibility('tr20');">kun</a>
-<div id='tr20'><mark>with</mark></div></td>
+<td align='center' valign='middle'><a id='item20' href='#r4' onclick="toggle_visibility('tr20');">el</a>
+<div id='tr20'><mark>out of</mark></div></td>
 </tr>
 <tr id='r6'>
 
-<td align='center' valign='middle'><a id='item21' href='#r5' onclick="toggle_visibility('tr21');">el</a>
-<div id='tr21'><mark>out of</mark></div></td>
-
-<td align='center' valign='middle'><a id='item22' href='#r5' onclick="toggle_visibility('tr22');">el-ir-</a>
-<div id='tr22'><mark>go out of</mark></div></td>
+<td align='center' valign='middle'><a id='item21' href='#r5' onclick="toggle_visibility('tr21');">el-ir-</a>
+<div id='tr21'><mark>go out of</mark></div></td>
 
 </tr>
 </table>
