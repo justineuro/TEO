@@ -1,0 +1,111 @@
+---
+title: "" #"l9-phr-tab"
+author: "" #"JLAUro"
+date: "" #"June 7, 2018"
+output: 
+  html_document:
+    #css: bootstrap/bootstrap-cerulean-grn99.min.css
+    #javascript: js/hideshow.js
+    #theme: cerulean
+    highlight: tango
+    #toc: true
+    #toc_float: 
+    #  collapsed: false
+    #mathjax: "https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML"
+    #mathjax: "file:///sdcard//MathJax/MathJax.js?config=TeX-AMS-MML_HTMLorMML"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+<style>
+a, body { 
+color: #005500; 
+font-size: 12px; 
+}	
+
+a:visited { color: #009900; }
+
+[id^='tr'] {
+display: none;
+}
+
+mark {
+padding: 3px 3px;
+text-align: left;
+font-style: italic;
+font-size: 10px;
+background-color: #007700;
+color: white;
+margin-top: 0px;
+margin-left: 5px;
+}
+
+</style>
+
+<script type='text/javascript'>
+function toggle_visibility(id) {
+var e = document.getElementById(id);
+e.style.display = ((e.style.display!='block') ? 'block' : 'none');
+}
+</script>
+
+<br/><br/>
+
+<p>
+<h4>Lesson 9 Phrase - <a href=http://www.gutenberg.org/files/8177/8177-h/8177-h.htm>The Esperanto Teacher (by Helen Fryer)</a> <br/></h4>
+<a id='r0' href='#' onclick="toggle_visibility('tr0');">
+Click for Instructions.</a>
+<div id='tr0'>
+&nbsp;
+<mark>Click on each link to toggle the English translation.  Reload page to turn off all translations.</mark>
+</div>
+</p>
+
+<table width='100%' border='5px' cellspacing='5px' cellpadding='5px'>
+<tr id='r1'>
+<td align='center' valign='middle'><a id='item1' href='#r0' onclick="toggle_visibility('tr1');">Mi havas cent pomojn.</a>
+<div id='tr1'><mark>I have a hundred apples. I have a hundred (of) apples.</mark></div></td>
+
+<td align='center' valign='middle'><a id='item2' href='#r0' onclick="toggle_visibility('tr2');">Tiu ĉi urbo havas milionon da loĝantoj.</a>
+<div id='tr2'><mark>This town has a million of inhabitants.</mark></div></td>
+
+<td align='center' valign='middle'><a id='item3' href='#r0' onclick="toggle_visibility('tr3');">Mi aĉetis dekduon da kuleroj, kaj du dekduojn da forkoj.</a>
+<div id='tr3'><mark>I bought a dozen (of) spoons, and two dozen (of) forks.</mark></div></td>
+
+<td align='center' valign='middle'><a id='item4' href='#r0' onclick="toggle_visibility('tr4');">Mil jaroj (aŭ, milo da jaroj) faras miljaron.</a>
+<div id='tr4'><mark>One thousand years (or, a thousand of years) make a millennium.</mark></div></td>
+</tr>
+<tr id='r2'>
+
+<td align='center' valign='middle'><a id='item5' href='#r1' onclick="toggle_visibility('tr5');">Unue mi redonas al vi la monon, kiun vi pruntis al mi; due mi dankas vin por la prunto; trie mi petas vin ankaŭ poste prunti al mi, kiam mi bezonos monon.</a>
+<div id='tr5'><mark>Firstly, I return to you the money which you lent to me; secondly, I thank you for the loan; thirdly, I beg you also afterwards (on a future occasion) to lend to me when I (shall) require money.</mark></div></td>
+
+<td align='center' valign='middle'><a id='item6' href='#r1' onclick="toggle_visibility('tr6');">Tri estas duono de ses, ok estas kvar kvinonoj de dek.</a>
+<div id='tr6'><mark>Three is half of six, eight is four-fifths of ten.</mark></div></td>
+
+<td align='center' valign='middle'><a id='item7' href='#r1' onclick="toggle_visibility('tr7');">Kvar metroj da tiu ĉi ŝtofo kostas naŭ frankojn, tial du metroj kostas kvar kaj duonon frankojn (aŭ da frankoj).</a>
+<div id='tr7'><mark>Four metres of this stuff cost nine francs, therefore two metres cost four and a-half francs.</mark></div></td>
+
+<td align='center' valign='middle'><a id='item8' href='#r1' onclick="toggle_visibility('tr8');">Unu tago estas tricent-sesdek-kvinono, aŭ tricent-sesdek-sesono de jaro.</a>
+<div id='tr8'><mark>One day is a three hundred and sixty-fifth or a three hundred and sixty-sixth of a year.</mark></div></td>
+</tr>
+<tr id='r3'>
+
+<td align='center' valign='middle'><a id='item9' href='#r2' onclick="toggle_visibility('tr9');">Kvinoble sep estas tridek kvin.</a>
+<div id='tr9'><mark>Five times seven are thirty-five.</mark></div></td>
+
+<td align='center' valign='middle'><a id='item10' href='#r2' onclick="toggle_visibility('tr10');">Por ĉiu tago mi ricevas kvin frankojn, sed por la hodiaŭa tago mi ricevis duoblan pagon, t.e. (= tio estas) dek frankojn.</a>
+<div id='tr10'><mark>For each day I receive five francs, but for to-day I have received double pay, that is, ten francs.</mark></div></td>
+
+<td align='center' valign='middle'><a id='item11' href='#r2' onclick="toggle_visibility('tr11');">Tiuj ĉi du amikoj promenas ĉiam duope. Kvinope ili sin ĵetis sur min, sed mi venkis ĉiujn kvin atakantojn.</a>
+<div id='tr11'><mark>These two friends walk out always (two) together. Five together they threw themselves upon me, but I overcame all five assailants.</mark></div></td>
+
+</tr>
+</table>
+<br/>
+<p>
+<a href=addExercises.html>Return to tabular index of Additional Exerices</a>
+</p>
+

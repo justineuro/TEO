@@ -1,0 +1,153 @@
+---
+title: "" #"l10-phr-tab"
+author: "" #"JLAUro"
+date: "" #"June 7, 2018"
+output: 
+  html_document:
+    #css: bootstrap/bootstrap-cerulean-grn99.min.css
+    #javascript: js/hideshow.js
+    #theme: cerulean
+    highlight: tango
+    #toc: true
+    #toc_float: 
+    #  collapsed: false
+    #mathjax: "https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML"
+    #mathjax: "file:///sdcard//MathJax/MathJax.js?config=TeX-AMS-MML_HTMLorMML"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+<style>
+a, body { 
+color: #005500; 
+font-size: 12px; 
+}	
+
+a:visited { color: #009900; }
+
+[id^='tr'] {
+display: none;
+}
+
+mark {
+padding: 3px 3px;
+text-align: left;
+font-style: italic;
+font-size: 10px;
+background-color: #007700;
+color: white;
+margin-top: 0px;
+margin-left: 5px;
+}
+
+</style>
+
+<script type='text/javascript'>
+function toggle_visibility(id) {
+var e = document.getElementById(id);
+e.style.display = ((e.style.display!='block') ? 'block' : 'none');
+}
+</script>
+
+<br/><br/>
+
+<p>
+<h4>Lesson 10 Phrase - <a href=http://www.gutenberg.org/files/8177/8177-h/8177-h.htm>The Esperanto Teacher (by Helen Fryer)</a> <br/></h4>
+<a id='r0' href='#' onclick="toggle_visibility('tr0');">
+Click for Instructions.</a>
+<div id='tr0'>
+&nbsp;
+<mark>Click on each link to toggle the English translation.  Reload page to turn off all translations.</mark>
+</div>
+</p>
+
+<table width='100%' border='5px' cellspacing='5px' cellpadding='5px'>
+<tr id='r1'>
+<td align='center' valign='middle'><a id='item1' href='#r0' onclick="toggle_visibility('tr1');">Donu al la birdoj akvon, ĉar ili volas trinki.</a>
+<div id='tr1'><mark>Give (to) the birds water, for they want to drink.</mark></div></td>
+
+<td align='center' valign='middle'><a id='item2' href='#r0' onclick="toggle_visibility('tr2');">Aleksandro ne volas lerni, kaj tial mi batas Aleksandron.</a>
+<div id='tr2'><mark>Alexander will not learn, and therefore I beat Alexander.</mark></div></td>
+
+<td align='center' valign='middle'><a id='item3' href='#r0' onclick="toggle_visibility('tr3');">Kiu kuraĝas rajdi sur leono?</a>
+<div id='tr3'><mark>Who has courage (dares) to ride on a lion?</mark></div></td>
+
+<td align='center' valign='middle'><a id='item4' href='#r0' onclick="toggle_visibility('tr4');">Mi volis lin bati, sed li forkuris de mi.</a>
+<div id='tr4'><mark>I was going to beat him, but he ran away from me.</mark></div></td>
+</tr>
+<tr id='r2'>
+
+<td align='center' valign='middle'><a id='item5' href='#r1' onclick="toggle_visibility('tr5');">Al leono ne donu la manon.</a>
+<div id='tr5'><mark>Do not give your hand to a lion.</mark></div></td>
+
+<td align='center' valign='middle'><a id='item6' href='#r1' onclick="toggle_visibility('tr6');">Rakontu al mia juna amiko belan historion.</a>
+<div id='tr6'><mark>Relate (tell) to my young friend a beautiful story.</mark></div></td>
+
+<td align='center' valign='middle'><a id='item7' href='#r1' onclick="toggle_visibility('tr7');">Diru al la patro, ke mi estas diligenta.</a>
+<div id='tr7'><mark>Tell father that I am diligent.</mark></div></td>
+
+<td align='center' valign='middle'><a id='item8' href='#r1' onclick="toggle_visibility('tr8');">Diru al mi vian nomon.</a>
+<div id='tr8'><mark>Tell me your name.</mark></div></td>
+</tr>
+<tr id='r3'>
+
+<td align='center' valign='middle'><a id='item9' href='#r2' onclick="toggle_visibility('tr9');">Ne skribu al mi tiajn longajn leterojn.</a>
+<div id='tr9'><mark>Do not write to me such long letters.</mark></div></td>
+
+<td align='center' valign='middle'><a id='item10' href='#r2' onclick="toggle_visibility('tr10');">Montru al mi vian novan veston.</a>
+<div id='tr10'><mark>Show me your new coat.</mark></div></td>
+
+<td align='center' valign='middle'><a id='item11' href='#r2' onclick="toggle_visibility('tr11');">Infano, ne tuŝu la spegulon.</a>
+<div id='tr11'><mark>Child, do not touch the looking-glass.</mark></div></td>
+
+<td align='center' valign='middle'><a id='item12' href='#r2' onclick="toggle_visibility('tr12');">Karaj infanoj, estu ĉiam honestaj.</a>
+<div id='tr12'><mark>Dear children, always be honest. Do not listen to him.</mark></div></td>
+</tr>
+<tr id='r4'>
+
+<td align='center' valign='middle'><a id='item13' href='#r3' onclick="toggle_visibility('tr13');">Ne aŭskultu lin.</a>
+<div id='tr13'><mark>Do not listen to him.</mark></div></td>
+
+<td align='center' valign='middle'><a id='item14' href='#r3' onclick="toggle_visibility('tr14');">Li diras, ke mi estas atenta.</a>
+<div id='tr14'><mark>He says that I am attentive.</mark></div></td>
+
+<td align='center' valign='middle'><a id='item15' href='#r3' onclick="toggle_visibility('tr15');">Li petas, ke mi estu atenta.</a>
+<div id='tr15'><mark>He begs me to be attentive.</mark></div></td>
+
+<td align='center' valign='middle'><a id='item16' href='#r3' onclick="toggle_visibility('tr16');">Ordonu al li, ke li ne babilu.</a>
+<div id='tr16'><mark>Tell him not to chatter.</mark></div></td>
+</tr>
+<tr id='r5'>
+
+<td align='center' valign='middle'><a id='item17' href='#r4' onclick="toggle_visibility('tr17');">Petu lin, ke li sendu al mi kandelon.</a>
+<div id='tr17'><mark>Ask him to send me a candle.</mark></div></td>
+
+<td align='center' valign='middle'><a id='item18' href='#r4' onclick="toggle_visibility('tr18');">La dometo estas inda, ke vi ĝin aĉetu.</a>
+<div id='tr18'><mark>The cottage is worth your buying (worthy that you should buy it).</mark></div></td>
+
+<td align='center' valign='middle'><a id='item19' href='#r4' onclick="toggle_visibility('tr19');">Ŝi forte deziris, ke li restu viva.</a>
+<div id='tr19'><mark>She strongly desired that he (should) remain alive.</mark></div></td>
+
+<td align='center' valign='middle'><a id='item20' href='#r4' onclick="toggle_visibility('tr20');">Li venu, kaj mi pardonos al li.</a>
+<div id='tr20'><mark>Let him come, and I will forgive him.</mark></div></td>
+</tr>
+<tr id='r6'>
+
+<td align='center' valign='middle'><a id='item21' href='#r5' onclick="toggle_visibility('tr21');">Ni estu gajaj, ni uzu bone la vivon, ĉar la vivo ne estas longa.</a>
+<div id='tr21'><mark>Let us be gay, let us use life well, for life is not long.</mark></div></td>
+
+<td align='center' valign='middle'><a id='item22' href='#r5' onclick="toggle_visibility('tr22');">Li ne venu sole, sed alvenu kun sia plej bona amiko.</a>
+<div id='tr22'><mark>Let him not come alone, but come with his best friend.</mark></div></td>
+
+<td align='center' valign='middle'><a id='item23' href='#r5' onclick="toggle_visibility('tr23');">Mi jam havas mian ĉapelon; nun serĉu vi vian.</a>
+<div id='tr23'><mark>I already have my hat; now look for yours.</mark></div></td>
+
+</tr>
+</table>
+<br/>
+<p>
+<a href=addExercises.html>Return to tabular index of Additional Exerices</a>
+</p>
+

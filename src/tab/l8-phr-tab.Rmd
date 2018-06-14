@@ -1,0 +1,144 @@
+---
+title: "" #"l8-phr-tab"
+author: "" #"JLAUro"
+date: "" #"June 7, 2018"
+output: 
+  html_document:
+    #css: bootstrap/bootstrap-cerulean-grn99.min.css
+    #javascript: js/hideshow.js
+    #theme: cerulean
+    highlight: tango
+    #toc: true
+    #toc_float: 
+    #  collapsed: false
+    #mathjax: "https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML"
+    #mathjax: "file:///sdcard//MathJax/MathJax.js?config=TeX-AMS-MML_HTMLorMML"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+<style>
+a, body { 
+color: #005500; 
+font-size: 12px; 
+}	
+
+a:visited { color: #009900; }
+
+[id^='tr'] {
+display: none;
+}
+
+mark {
+padding: 3px 3px;
+text-align: left;
+font-style: italic;
+font-size: 10px;
+background-color: #007700;
+color: white;
+margin-top: 0px;
+margin-left: 5px;
+}
+
+</style>
+
+<script type='text/javascript'>
+function toggle_visibility(id) {
+var e = document.getElementById(id);
+e.style.display = ((e.style.display!='block') ? 'block' : 'none');
+}
+</script>
+
+<br/><br/>
+
+<p>
+<h4>Lesson 8 Phrase - <a  href=http://www.gutenberg.org/files/8177/8177-h/8177-h.htm>The Esperanto Teacher (by Helen Fryer)</a> <br/></h4>
+<a id='r0' href='#' onclick="toggle_visibility('tr0');">
+Click for Instructions.</a>
+<div id='tr0'>
+&nbsp;
+<mark>Click on each link to toggle the English translation.  Reload page to turn off all translations.</mark>
+</div>
+</p>
+
+<table width='100%' border='5px' cellspacing='5px' cellpadding='5px'>
+<tr id='r1'>
+<td align='center' valign='middle'><a id='item1' href='#r0' onclick="toggle_visibility('tr1');">Du homoj povas pli multe fari, ol unu.</a>
+<div id='tr1'><mark>Two men can do more than one.</mark></div></td>
+
+<td align='center' valign='middle'><a id='item2' href='#r0' onclick="toggle_visibility('tr2');">Mi havas nur unu buŝon, sed mi havas du orelojn.</a>
+<div id='tr2'><mark>I have only one mouth, but I have two ears.</mark></div></td>
+
+<td align='center' valign='middle'><a id='item3' href='#r0' onclick="toggle_visibility('tr3');">Li promenas kun tri hundoj.</a>
+<div id='tr3'><mark>He walks out with three dogs.</mark></div></td>
+
+<td align='center' valign='middle'><a id='item4' href='#r0' onclick="toggle_visibility('tr4');">Li faris ĉion per la dek fingroj de siaj manoj.</a>
+<div id='tr4'><mark>He did everything with the ten fingers of his hands.</mark></div></td>
+</tr>
+<tr id='r2'>
+
+<td align='center' valign='middle'><a id='item5' href='#r1' onclick="toggle_visibility('tr5');">El ŝiaj multaj infanoj unuj estas bonaj kaj aliaj malbonaj.</a>
+<div id='tr5'><mark>Of her many children some are good and others bad.</mark></div></td>
+
+<td align='center' valign='middle'><a id='item6' href='#r1' onclick="toggle_visibility('tr6');">Kvin kaj sep faras dek du.</a>
+<div id='tr6'><mark>Five and seven make twelve.</mark></div></td>
+
+<td align='center' valign='middle'><a id='item7' href='#r1' onclick="toggle_visibility('tr7');">Dek kaj dek faras dudek.</a>
+<div id='tr7'><mark>Ten and ten make twenty.</mark></div></td>
+
+<td align='center' valign='middle'><a id='item8' href='#r1' onclick="toggle_visibility('tr8');">Kvar kaj dek ok faras dudek du.</a>
+<div id='tr8'><mark>Four and eighteen make twenty-two.</mark></div></td>
+</tr>
+<tr id='r3'>
+
+<td align='center' valign='middle'><a id='item9' href='#r2' onclick="toggle_visibility('tr9');">Tridek kaj kvardek kvin faras sepdek kvin.</a>
+<div id='tr9'><mark>Thirty and forty-five make seventy-five.</mark></div></td>
+
+<td align='center' valign='middle'><a id='item10' href='#r2' onclick="toggle_visibility('tr10');">Mil okcent naŭdek tri.</a>
+<div id='tr10'><mark>One thousand eight hundred and ninety-three.</mark></div></td>
+
+<td align='center' valign='middle'><a id='item11' href='#r2' onclick="toggle_visibility('tr11');">Li havas dek unu infanojn.</a>
+<div id='tr11'><mark>He has eleven children.</mark></div></td>
+
+<td align='center' valign='middle'><a id='item12' href='#r2' onclick="toggle_visibility('tr12');">Sesdek minutoj faras unu horon, kaj unu minuto konsistas el sesdek sekundoj.</a>
+<div id='tr12'><mark>Sixty minutes make one hour, and one minute consists of sixty seconds.</mark></div></td>
+</tr>
+<tr id='r4'>
+
+<td align='center' valign='middle'><a id='item13' href='#r3' onclick="toggle_visibility('tr13');">Januaro estas la unua monato de la jaro, Aprilo estas la kvara, Novembro estas la dek-unua, kaj Decembro estas la dek-dua.</a>
+<div id='tr13'><mark>January is the first month of the year, April is the fourth, November is the eleventh, and December is the twelfth.</mark></div></td>
+
+<td align='center' valign='middle'><a id='item14' href='#r3' onclick="toggle_visibility('tr14');">La dudeka (tago) de Februaro estas la kvindek-unua tago de la jaro.</a>
+<div id='tr14'><mark>The twentieth day of February is the fifty-first day of the year.</mark></div></td>
+
+<td align='center' valign='middle'><a id='item15' href='#r3' onclick="toggle_visibility('tr15');">La sepan tagon de la semajno Dio elektis, ke ĝi estu pli sankta, ol la ses unuaj tagoj.</a>
+<div id='tr15'><mark>The seventh day of the week God chose to be (that it should be) more holy than the six first days.</mark></div></td>
+
+<td align='center' valign='middle'><a id='item16' href='#r3' onclick="toggle_visibility('tr16');">Kion Dio kreis en la sesa tago?</a>
+<div id='tr16'><mark>What did God create on the sixth day?</mark></div></td>
+</tr>
+<tr id='r5'>
+
+<td align='center' valign='middle'><a id='item17' href='#r4' onclick="toggle_visibility('tr17');">Kiun daton ni havas hodiaŭ?</a>
+<div id='tr17'><mark>What (which) date is it (have we) to-day?</mark></div></td>
+
+<td align='center' valign='middle'><a id='item18' href='#r4' onclick="toggle_visibility('tr18');">Hodiaŭ estas la dudek-sepa (tago) de Marto.</a>
+<div id='tr18'><mark>To-day is the twenty-seventh (day) of March.</mark></div></td>
+
+<td align='center' valign='middle'><a id='item19' href='#r4' onclick="toggle_visibility('tr19');">Kristnaska Tago estas la dudek-kvina (tago) de Decembro, Novjara Tago estas la unua de Januaro.</a>
+<div id='tr19'><mark>Christmas Day is the 25th of December, New Year's Day is the 1st of January.</mark></div></td>
+
+<td align='center' valign='middle'><a id='item20' href='#r4' onclick="toggle_visibility('tr20');">Oni ne forgesas facile sian unuan amon.</a>
+<div id='tr20'><mark>One does not easily forget one's first love.</mark></div></td>
+</tr>
+<tr id='r6'>
+
+</tr>
+</table>
+<br/>
+<p>
+<a href=addExercises.html>Return to tabular index of Additional Exerices</a>
+</p>
+

@@ -1,0 +1,105 @@
+---
+title: "" #"l7-phr-tab"
+author: "" #"JLAUro"
+date: "" #"June 7, 2018"
+output: 
+  html_document:
+    #css: bootstrap/bootstrap-cerulean-grn99.min.css
+    #javascript: js/hideshow.js
+    #theme: cerulean
+    highlight: tango
+    #toc: true
+    #toc_float: 
+    #  collapsed: false
+    #mathjax: "https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML"
+    #mathjax: "file:///sdcard//MathJax/MathJax.js?config=TeX-AMS-MML_HTMLorMML"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+<style>
+a, body { 
+color: #005500; 
+font-size: 12px; 
+}	
+
+a:visited { color: #009900; }
+
+[id^='tr'] {
+display: none;
+}
+
+mark {
+padding: 3px 3px;
+text-align: left;
+font-style: italic;
+font-size: 10px;
+background-color: #007700;
+color: white;
+margin-top: 0px;
+margin-left: 5px;
+}
+
+</style>
+
+<script type='text/javascript'>
+function toggle_visibility(id) {
+var e = document.getElementById(id);
+e.style.display = ((e.style.display!='block') ? 'block' : 'none');
+}
+</script>
+
+<br/><br/>
+
+<p>
+<h4>Lesson 7 Vocabulary - <a  href=http://www.gutenberg.org/files/8177/8177-h/8177-h.htm>The Esperanto Teacher (by Helen Fryer)</a> <br/></h4>
+<a id='r0' href='#' onclick="toggle_visibility('tr0');">
+Click for Instructions.</a>
+<div id='tr0'>
+&nbsp;
+<mark>Click on each link to toggle the English translation.  Reload page to turn off all translations.</mark>
+</div>
+</p>
+
+<table width='100%' border='5px' cellspacing='5px' cellpadding='5px'>
+<tr id='r1'>
+<td align='center' valign='middle'><a id='item1' href='#r0' onclick="toggle_visibility('tr1');">Mi amas min mem, vi amas vin mem, li amas sin mem kaj ĉiu homo amas sin mem.</a>
+<div id='tr1'><mark>I love myself, you love yourself, he loves himself, and every man loves himself.</mark></div></td>
+
+<td align='center' valign='middle'><a id='item2' href='#r0' onclick="toggle_visibility('tr2');">Mi zorgas pri ŝi tiel, kiel mi zorgas pri mi mem, sed ŝi mem tute ne zorgas pri si, kaj tute sin ne gardas.</a>
+<div id='tr2'><mark>I take care of her (so) as I take care of myself, but she takes no care at all of herself, and does not look after herself at all.</mark></div></td>
+
+<td align='center' valign='middle'><a id='item3' href='#r0' onclick="toggle_visibility('tr3');">Miaj fratoj havis hodiaŭ gastojn; post la vespermanĝo niaj fratoj eliris kun la gastoj el sia domo kaj akompanis ilin ĝis ilia domo.</a>
+<div id='tr3'><mark>My brothers had guests to-day; after supper our brothers went with the guests out of their (our brothers') house and accompanied them as far as their (the guests') house.</mark></div></td>
+
+<td align='center' valign='middle'><a id='item4' href='#r0' onclick="toggle_visibility('tr4');">Mi lavis min en mia ĉambro, kaj ŝi lavis sin en sia ĉambro.</a>
+<div id='tr4'><mark>I washed myself in my room, and she washed herself in her room.</mark></div></td>
+</tr>
+<tr id='r2'>
+
+<td align='center' valign='middle'><a id='item5' href='#r1' onclick="toggle_visibility('tr5');">La infano serĉis sian pupon; mi montris al la infano, kie kuŝas ĝia pupo. [Footnote: Notice the use of the present “kuŝas,” lies, after the past “montris,” showed, because at the time the action of “showing” took place the action of “lying” was then actually going on.]</a>
+<div id='tr5'><mark>The child was looking for its doll; I showed the child where its doll lay.</mark></div></td>
+
+<td align='center' valign='middle'><a id='item6' href='#r1' onclick="toggle_visibility('tr6');">Ŝi rakontis al li sian aventuron.</a>
+<div id='tr6'><mark>She related to him her adventure.</mark></div></td>
+
+<td align='center' valign='middle'><a id='item7' href='#r1' onclick="toggle_visibility('tr7');">Ŝi revenis al la palaco de sia patro.</a>
+<div id='tr7'><mark>She returned to her father's palace.</mark></div></td>
+
+<td align='center' valign='middle'><a id='item8' href='#r1' onclick="toggle_visibility('tr8');">Siajn florojn ŝi ne flegis.</a>
+<div id='tr8'><mark>Her flowers she tended not.</mark></div></td>
+</tr>
+<tr id='r3'>
+
+<td align='center' valign='middle'><a id='item9' href='#r2' onclick="toggle_visibility('tr9');">Mia frato diris al Stefano, ke li amas lin pli, ol sin mem.</a>
+<div id='tr9'><mark>My brother said to Stephen, that he loved him more than himself.</mark></div></td>
+
+</tr>
+</table>
+<br/>
+<p>
+<a href=addExercises.html>Return to tabular index of Additional Exerices</a>
+</p>
+
