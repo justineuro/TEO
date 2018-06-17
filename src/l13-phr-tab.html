@@ -52,7 +52,6 @@ h6 {
 }
 </style>
 
-<link rel="stylesheet" href="css/hideshow.css" type="text/css" />
 <link rel="stylesheet" href="bootstrap/bootstrap-cerulean-grn99.min.css" type="text/css" />
 
 </head>
@@ -437,75 +436,158 @@ $(document).ready(function () {
 </div>
 
 
+<style>
+a, body { 
+color: #005500; 
+font-size: 12px; 
+}   
+
+a:visited { color: #009900; }
+
+[id^='tr'] {
+display: none;
+}
+
+mark {
+padding: 3px 3px;
+text-align: left;
+font-style: italic;
+font-size: 10px;
+background-color: #007700;
+color: white;
+margin-top: 0px;
+margin-left: 5px;
+}
+
+</style>
+<script type='text/javascript'>
+function toggle_visibility(id) {
+var e = document.getElementById(id);
+e.style.display = ((e.style.display!='block') ? 'block' : 'none');
+}
+</script>
 <p><br/><br/></p>
-<!-- =============================???.png============================ -->
-<center>
-<b>ADDITIONAL EXERCISES</b>
-</center>
-<p><br/></p>
 <p>
-The exercise sets available via the links below are either Vocabulary builders or Phrase/Sentences translations based on the lessons of this book. Please click on a link below to access the corresponding exercise set.
+<h4>
+Lesson 13 Phrase - <a href=http://www.gutenberg.org/files/8177/8177-h/8177-h.htm>The Esperanto Teacher (by Helen Fryer)</a> <br/>
+</h4>
+<a id='r0' href='#' onclick="toggle_visibility('tr0');"> Click for Instructions.</a>
+<div id="tr0">
+<p>  <mark>Click on each link to toggle the English translation. Reload page to turn off all translations.</mark></p>
+</div>
 </p>
-<table>
-<thead>
-<tr class="header">
-<th> </th>
-<th> </th>
-<th> </th>
-<th> </th>
+<table width="100%" border="5px" cellspacing="5px" cellpadding="5px">
+<tr id="r1">
+<td align="center" valign="middle">
+<a id='item1' href='#r0' onclick="toggle_visibility('tr1');">Mia frato ne estas granda, sed li ne estas malgranda, li estas de meza kresko.</a>
+<div id="tr1">
+<mark>My brother is not big, but he is not little, he is of medium growth.</mark>
+</div>
+</td>
+<td align="center" valign="middle">
+<a id='item2' href='#r0' onclick="toggle_visibility('tr2');">Haro estas tre maldika.</a>
+<div id="tr2">
+<mark>A hair is very thin.</mark>
+</div>
+</td>
+<td align="center" valign="middle">
+<a id='item3' href='#r0' onclick="toggle_visibility('tr3');">La nokto estas tiel malluma, ke ni nenion povas vidi eĉ antaŭ nia nazo.</a>
+<div id="tr3">
+<mark>The night is so dark that we can see nothing even before our nose.</mark>
+</div>
+</td>
+<td align="center" valign="middle">
+<a id='item4' href='#r0' onclick="toggle_visibility('tr4');">Tiu ĉi malfreŝa pano estas malmola, kiel ŝtono.</a>
+<div id="tr4">
+<mark>This stale bread is hard as stone.</mark>
+</div>
+</td>
 </tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><a href="./l1-voc-tab.html">Lesson 1 Vocabulary</a></td>
-<td><a href="./l1-phr-tab.html">Lesson 1 Phrase</a></td>
-<td><a href="./l2-voc-tab.html">Lesson 2 Vocabulary</a></td>
-<td><a href="./l2-phr-tab.html">Lesson 2 Phrase</a></td>
+<tr id="r2">
+<td align="center" valign="middle">
+<a id='item5' href='#r1' onclick="toggle_visibility('tr5');">Malbonaj infanoj amas turmenti bestojn.</a>
+<div id="tr5">
+<mark>Naughty children love to torment animals.</mark>
+</div>
+</td>
+<td align="center" valign="middle">
+<a id='item6' href='#r1' onclick="toggle_visibility('tr6');">Li sentis sin tiel malfeliĉa, ke li malbenis la tagon, en kiu li estis naskita.</a>
+<div id="tr6">
+<mark>He felt (himself) so miserable that he cursed the day on which he was born.</mark>
+</div>
+</td>
+<td align="center" valign="middle">
+<a id='item7' href='#r1' onclick="toggle_visibility('tr7');">Ni forte malestimas tiun ĉi malnoblan homon.</a>
+<div id="tr7">
+<mark>We greatly despise this base man.</mark>
+</div>
+</td>
+<td align="center" valign="middle">
+<a id='item8' href='#r1' onclick="toggle_visibility('tr8');">La fenestro longe estis nefermita; mi ĝin fermis, sed mia frato tuj ĝin denove malfermis.</a>
+<div id="tr8">
+<mark>The window was long unclosed; I closed it, but my brother immediately opened it again.</mark>
+</div>
+</td>
 </tr>
-<tr class="even">
-<td><a href="./l3-voc-tab.html">Lesson 3 Vocabulary</a></td>
-<td><a href="./l3-phr-tab.html">Lesson 3 Phrase</a></td>
-<td><a href="./l4-voc-tab.html">Lesson 4 Vocabulary</a></td>
-<td><a href="./l4-phr-tab.html">Lesson 4 Phrase</a></td>
+<tr id="r3">
+<td align="center" valign="middle">
+<a id='item9' href='#r2' onclick="toggle_visibility('tr9');">Rekta vojo estas pli mallonga, ol kurba.</a>
+<div id="tr9">
+<mark>A straight road is shorter than a curved.</mark>
+</div>
+</td>
+<td align="center" valign="middle">
+<a id='item10' href='#r2' onclick="toggle_visibility('tr10');">Ne estu maldanka.</a>
+<div id="tr10">
+<mark>Do not be ungrateful.</mark>
+</div>
+</td>
+<td align="center" valign="middle">
+<a id='item11' href='#r2' onclick="toggle_visibility('tr11');">La edzino de mia patro estas mia patrino, kaj la avino de miaj infanoj.</a>
+<div id="tr11">
+<mark>The wife of my father is my mother, and the grandmother of my children.</mark>
+</div>
+</td>
+<td align="center" valign="middle">
+<a id='item12' href='#r2' onclick="toggle_visibility('tr12');">Mia fratino estas tre bela knabino.</a>
+<div id="tr12">
+<mark>My sister is a very beautiful girl. My aunt is a very good woman. I saw your grandmother with her four granddaughters, and with my niece. I have an ox and a cow. The young widow became again a fiancée.</mark>
+</div>
+</td>
 </tr>
-<tr class="odd">
-<td><a href="./l5-voc-tab.html">Lesson 5 Vocabulary</a></td>
-<td><a href="./l5-phr-tab.html">Lesson 5 Phrase</a></td>
-<td><a href="./l6-voc-tab.html">Lesson 6 Vocabulary</a></td>
-<td><a href="./l6-phr-tab.html">Lesson 6 Phrase</a></td>
+<tr id="r4">
+<td align="center" valign="middle">
+<a id='item13' href='#r3' onclick="toggle_visibility('tr13');">Mia onklino estas tre bona virino.</a>
+<div id="tr13">
+<mark>My aunt is a very good woman.</mark>
+</div>
+</td>
+<td align="center" valign="middle">
+<a id='item14' href='#r3' onclick="toggle_visibility('tr14');">Mi vidis vian avinon kun ŝiaj kvar nepinoj, kaj kun mia nevino.</a>
+<div id="tr14">
+<mark>I saw your grandmother with her four granddaughters, and with my niece.</mark>
+</div>
+</td>
+<td align="center" valign="middle">
+<a id='item15' href='#r3' onclick="toggle_visibility('tr15');">Mi havas bovon kaj bovinon.</a>
+<div id="tr15">
+<mark>I have an ox and a cow.</mark>
+</div>
+</td>
+<td align="center" valign="middle">
+<a id='item16' href='#r3' onclick="toggle_visibility('tr16');">La juna vidvino fariĝis denove fianĉino.</a>
+<div id="tr16">
+<mark>The young widow became again a fiancée.</mark>
+</div>
+</td>
 </tr>
-<tr class="even">
-<td><a href="./l7-voc-tab.html">Lesson 7 Vocabulary</a></td>
-<td><a href="./l7-phr-tab.html">Lesson 7 Phrase</a></td>
-<td><a href="./l8-voc-tab.html">Lesson 8 Vocabulary</a></td>
-<td><a href="./l8-phr-tab.html">Lesson 8 Phrase</a></td>
+<tr id="r5">
 </tr>
-<tr class="odd">
-<td><a href="./l9-voc-tab.html">Lesson 9 Vocabulary</a></td>
-<td><a href="./l9-phr-tab.html">Lesson 9 Phrase</a></td>
-<td><a href="./l10-voc-tab.html">Lesson 10 Vocabulary</a></td>
-<td><a href="./l10-phr-tab.html">Lesson 10 Phrase</a></td>
-</tr>
-<tr class="even">
-<td><a href="./l11-voc-tab.html">Lesson 11 Vocabulary</a></td>
-<td><a href="./l11-phr-tab.html">Lesson 11 Phrase</a></td>
-<td><a href="./l12-voc-tab.html">Lesson 12 Vocabulary</a></td>
-<td><a href="./l12-phr-tab.html">Lesson 12 Phrase</a></td>
-</tr>
-<tr class="odd">
-<td><a href="./l13-voc-tab.html">Lesson 13 Vocabulary</a></td>
-<td><a href="./l13-phr-tab.html">Lesson 13 Phrase</a></td>
-<td><a href="./00-Esperanto-Numbers-tab.html">Numbers Vocabulary</a></td>
-<td></td>
-</tr>
-<tr class="even">
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-</tr>
-</tbody>
 </table>
+<br/>
+<p>
+<a href=addExercises.html>Return to tabular index of Additional Exerices</a>
+</p>
 
 
 

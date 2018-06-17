@@ -1,0 +1,172 @@
+---
+title: "" #"l12-phr-tab"
+author: "" #"JLAUro"
+date: "" #"June 7, 2018"
+output: 
+  html_document:
+    #css: bootstrap/bootstrap-cerulean-grn99.min.css
+    #javascript: js/hideshow.js
+    #theme: cerulean
+    highlight: tango
+    #toc: true
+    #toc_float: 
+    #  collapsed: false
+    #mathjax: "https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML"
+    #mathjax: "file:///sdcard//MathJax/MathJax.js?config=TeX-AMS-MML_HTMLorMML"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+<style>
+a, body { 
+color: #005500; 
+font-size: 12px; 
+}	
+
+a:visited { color: #009900; }
+
+[id^='tr'] {
+display: none;
+}
+
+mark {
+padding: 3px 3px;
+text-align: left;
+font-style: italic;
+font-size: 10px;
+background-color: #007700;
+color: white;
+margin-top: 0px;
+margin-left: 5px;
+}
+
+</style>
+
+<script type='text/javascript'>
+function toggle_visibility(id) {
+var e = document.getElementById(id);
+e.style.display = ((e.style.display!='block') ? 'block' : 'none');
+}
+</script>
+
+<br/><br/>
+
+<p>
+<h4>Lesson 12 Phrase - <a href=http://www.gutenberg.org/files/8177/8177-h/8177-h.htm>The Esperanto Teacher (by Helen Fryer)</a> <br/></h4>
+<a id='r0' href='#' onclick="toggle_visibility('tr0');">
+Click for Instructions.</a>
+<div id='tr0'>
+&nbsp;
+<mark>Click on each link to toggle the English translation.  Reload page to turn off all translations.</mark>
+</div>
+</p>
+
+<table width='100%' border='5px' cellspacing='5px' cellpadding='5px'>
+<tr id='r1'>
+<td align='center' valign='middle'><a id='item1' href='#r0' onclick="toggle_visibility('tr1');">Resti kun leono estas danĝere.</a>
+<div id='tr1'><mark>To remain with a lion is dangerous.</mark></div></td>
+
+<td align='center' valign='middle'><a id='item2' href='#r0' onclick="toggle_visibility('tr2');">La tranĉilo tranĉas bone, ĉar ĝi estas akra.</a>
+<div id='tr2'><mark>The knife cuts well, for it is sharp.</mark></div></td>
+
+<td align='center' valign='middle'><a id='item3' href='#r0' onclick="toggle_visibility('tr3');">Iru pli rapide.</a>
+<div id='tr3'><mark>Go more quickly.</mark></div></td>
+
+<td align='center' valign='middle'><a id='item4' href='#r0' onclick="toggle_visibility('tr4');">Li fermis kolere la pordon.</a>
+<div id='tr4'><mark>He shut the door angrily.</mark></div></td>
+</tr>
+<tr id='r2'>
+
+<td align='center' valign='middle'><a id='item5' href='#r1' onclick="toggle_visibility('tr5');">Lia parolo fluas dolĉe kaj agrable.</a>
+<div id='tr5'><mark>His speech flows softly and pleasantly.</mark></div></td>
+
+<td align='center' valign='middle'><a id='item6' href='#r1' onclick="toggle_visibility('tr6');">Ni faris la kontrakton ne skribe, sed parole.</a>
+<div id='tr6'><mark>We made the contract not in writing, but by word of mouth.</mark></div></td>
+
+<td align='center' valign='middle'><a id='item7' href='#r1' onclick="toggle_visibility('tr7');">Honesta homo agas honeste.</a>
+<div id='tr7'><mark>An honest man acts honestly.</mark></div></td>
+
+<td align='center' valign='middle'><a id='item8' href='#r1' onclick="toggle_visibility('tr8');">La pastro, kiu mortis antaŭ nelonge (antaŭ ne longa tempo), loĝis longe en nia urbo.</a>
+<div id='tr8'><mark>The pastor who died a short time ago lived long in our city.</mark></div></td>
+</tr>
+<tr id='r3'>
+
+<td align='center' valign='middle'><a id='item9' href='#r2' onclick="toggle_visibility('tr9');">Ĉu vi ĝin ne ricevis returne?</a>
+<div id='tr9'><mark>Did you not get it back?</mark></div></td>
+
+<td align='center' valign='middle'><a id='item10' href='#r2' onclick="toggle_visibility('tr10');">Li estas morte malsana.</a>
+<div id='tr10'><mark>He is sick unto death.</mark></div></td>
+
+<td align='center' valign='middle'><a id='item11' href='#r2' onclick="toggle_visibility('tr11');">La fera bastono, kiu kuŝis en la forno, estas brule varmega.</a>
+<div id='tr11'><mark>The iron rod which was in the stove (fire) is burning; hot.</mark></div></td>
+
+<td align='center' valign='middle'><a id='item12' href='#r2' onclick="toggle_visibility('tr12');">Parizo estas tre gaja.</a>
+<div id='tr12'><mark>Paris is very gay.</mark></div></td>
+</tr>
+<tr id='r4'>
+
+<td align='center' valign='middle'><a id='item13' href='#r3' onclick="toggle_visibility('tr13');">Matene frue ŝi alveturis [Footnote: See Lesson 27.] al la stacidomo.</a>
+<div id='tr13'><mark>Early in the morning she drove to the station.</mark></div></td>
+
+<td align='center' valign='middle'><a id='item14' href='#r3' onclick="toggle_visibility('tr14');">Pardonu al mi, ke mi restis tiel longe.</a>
+<div id='tr14'><mark>Forgive me that I stayed so long.</mark></div></td>
+
+<td align='center' valign='middle'><a id='item15' href='#r3' onclick="toggle_visibility('tr15');">Lia kolero longe daŭris.</a>
+<div id='tr15'><mark>His anger lasted long.</mark></div></td>
+
+<td align='center' valign='middle'><a id='item16' href='#r3' onclick="toggle_visibility('tr16');">Li estas hodiaŭ en kolera humoro.</a>
+<div id='tr16'><mark>He is to-day in an angry temper.</mark></div></td>
+</tr>
+<tr id='r5'>
+
+<td align='center' valign='middle'><a id='item17' href='#r4' onclick="toggle_visibility('tr17');">La reĝo baldaŭ denove sendis alian bonkoran oficiston.</a>
+<div id='tr17'><mark>The king soon sent again another good-hearted official.</mark></div></td>
+
+<td align='center' valign='middle'><a id='item18' href='#r4' onclick="toggle_visibility('tr18');">Hodiaŭ vespere ni havos balon.</a>
+<div id='tr18'><mark>This evening we shall have a ball.</mark></div></td>
+
+<td align='center' valign='middle'><a id='item19' href='#r4' onclick="toggle_visibility('tr19');">Kie vi estas?</a>
+<div id='tr19'><mark>Where are you?</mark></div></td>
+
+<td align='center' valign='middle'><a id='item20' href='#r4' onclick="toggle_visibility('tr20');">For de tie-ĉi!</a>
+<div id='tr20'><mark>Away from here! (Get away!).</mark></div></td>
+</tr>
+<tr id='r6'>
+
+<td align='center' valign='middle'><a id='item21' href='#r5' onclick="toggle_visibility('tr21');">Kien li forveturis?</a>
+<div id='tr21'><mark>Where did he drive away to?</mark></div></td>
+
+<td align='center' valign='middle'><a id='item22' href='#r5' onclick="toggle_visibility('tr22');">Ŝi kuris hejmen.</a>
+<div id='tr22'><mark>She ran home.</mark></div></td>
+
+<td align='center' valign='middle'><a id='item23' href='#r5' onclick="toggle_visibility('tr23');">Ni iris antaŭen, kiel furioj.</a>
+<div id='tr23'><mark>We went forward like furies.</mark></div></td>
+
+<td align='center' valign='middle'><a id='item24' href='#r5' onclick="toggle_visibility('tr24');">Ĉio estis bona, kaj ni veturis pluen.</a>
+<div id='tr24'><mark>Everything was right (good), and we went on further.</mark></div></td>
+</tr>
+<tr id='r7'>
+
+<td align='center' valign='middle'><a id='item25' href='#r6' onclick="toggle_visibility('tr25');">La sinjorino ekrigardis returnen.</a>
+<div id='tr25'><mark>The lady glanced back.</mark></div></td>
+
+<td align='center' valign='middle'><a id='item26' href='#r6' onclick="toggle_visibility('tr26');">La ŝipanoj postulis, ke oni iru returnen.</a>
+<div id='tr26'><mark>The sailors demanded to go back (required that one should go back).</mark></div></td>
+
+<td align='center' valign='middle'><a id='item27' href='#r6' onclick="toggle_visibility('tr27');">Mi ĝin pendigis tien ĉi, ĉar ĝi savis mian vivon.</a>
+<div id='tr27'><mark>I hung it here, for it saved my life.</mark></div></td>
+
+<td align='center' valign='middle'><a id='item28' href='#r6' onclick="toggle_visibility('tr28');">Mi neniam sendis tien ĉi.</a>
+<div id='tr28'><mark>I never sent here.</mark></div></td>
+</tr>
+<tr id='r8'>
+
+</tr>
+</table>
+<br/>
+<p>
+<a href=addExercises.html>Return to tabular index of Additional Exerices</a>
+</p>
+
