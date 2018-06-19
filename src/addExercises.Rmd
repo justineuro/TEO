@@ -37,5 +37,6 @@ The exercise sets available via the links below are either Vocabulary builders o
   [Lesson 7 Vocabulary](./l7-voc-tab.html) | [Lesson 7 Phrase](./l7-phr-tab.html) | [Lesson 8 Vocabulary](./l8-voc-tab.html) | [Lesson 8 Phrase](./l8-phr-tab.html) 
   [Lesson 9 Vocabulary](./l9-voc-tab.html) | [Lesson 9 Phrase](./l9-phr-tab.html) | [Lesson 10 Vocabulary](./l10-voc-tab.html) | [Lesson 10 Phrase](./l10-phr-tab.html) 
   [Lesson 11 Vocabulary](./l11-voc-tab.html) | [Lesson 11 Phrase](./l11-phr-tab.html) | [Lesson 12 Vocabulary](./l12-voc-tab.html) | [Lesson 12 Phrase](./l12-phr-tab.html) 
-  [Lesson 13 Vocabulary](./l13-voc-tab.html) | [Lesson 13 Phrase](./l13-phr-tab.html) | [Numbers Vocabulary](./00-Esperanto-Numbers-tab.html) | \  
+  [Lesson 13 Vocabulary](./l13-voc-tab.html) | [Lesson 13 Phrase](./l13-phr-tab.html) | [Lesson 14 Vocabulary](./l14-voc-tab.html) | [Lesson 14 Phrase](./l14-phr-tab.html) 
+  [Lesson 15 Vocabulary](./l15-voc-tab.html) | [Lesson 15 Phrase](./l15-phr-tab.html) | [Numbers Vocabulary](./00-Esperanto-Numbers-tab.html) | \  
 &nbsp; | &nbsp; | &nbsp; | &nbsp;

@@ -1,0 +1,175 @@
+---
+title: "" #"l15-phr-tab"
+author: "" #"JLAUro"
+date: "" #"June 7, 2018"
+output: 
+  html_document:
+    #css: bootstrap/bootstrap-cerulean-grn99.min.css
+    #javascript: js/hideshow.js
+    #theme: cerulean
+    highlight: tango
+    #toc: true
+    #toc_float: 
+    #  collapsed: false
+    #mathjax: "https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML"
+    #mathjax: "file:///sdcard//MathJax/MathJax.js?config=TeX-AMS-MML_HTMLorMML"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+<style>
+a, body { 
+color: #005500; 
+font-size: 12px; 
+}	
+
+a:visited { color: #009900; }
+
+[id^='tr'] {
+display: none;
+}
+
+mark {
+padding: 3px 3px;
+text-align: left;
+font-style: italic;
+font-size: 10px;
+background-color: #007700;
+color: white;
+margin-top: 0px;
+margin-left: 5px;
+}
+
+</style>
+
+<script type='text/javascript'>
+function toggle_visibility(id) {
+var e = document.getElementById(id);
+e.style.display = ((e.style.display!='block') ? 'block' : 'none');
+}
+</script>
+
+<br/><br/>
+
+<p>
+<h4>Lesson 15 Phrase - <a href=http://www.gutenberg.org/files/8177/8177-h/8177-h.htm>The Esperanto Teacher (by Helen Fryer)</a> <br/></h4>
+<a id='r0' href='#' onclick="toggle_visibility('tr0');">
+Click for Instructions.</a>
+<div id='tr0'>
+&nbsp;
+<mark>Click on each link to toggle the English translation.  Reload page to turn off all translations.</mark>
+</div>
+</p>
+
+<table width='100%' border='5px' cellspacing='5px' cellpadding='5px'>
+<tr id='r1'>
+<td align='center' valign='middle'><a id='item1' href='#r0' onclick="toggle_visibility('tr1');">Mi estas amata.</a>
+<div id='tr1'><mark>I am (being) loved.</mark></div></td>
+
+<td align='center' valign='middle'><a id='item2' href='#r0' onclick="toggle_visibility('tr2');">Mi estis amata.</a>
+<div id='tr2'><mark>I was (being) loved.</mark></div></td>
+
+<td align='center' valign='middle'><a id='item3' href='#r0' onclick="toggle_visibility('tr3');">Mi estos amata.</a>
+<div id='tr3'><mark>I shall be (being) loved.</mark></div></td>
+
+<td align='center' valign='middle'><a id='item4' href='#r0' onclick="toggle_visibility('tr4');">Mi estus amata.</a>
+<div id='tr4'><mark>I should be (being) loved,</mark></div></td>
+</tr>
+<tr id='r2'>
+
+<td align='center' valign='middle'><a id='item5' href='#r1' onclick="toggle_visibility('tr5');">Estu amata.</a>
+<div id='tr5'><mark>Be (being) loved.</mark></div></td>
+
+<td align='center' valign='middle'><a id='item6' href='#r1' onclick="toggle_visibility('tr6');">Esti amata.</a>
+<div id='tr6'><mark>To be (being) loved.</mark></div></td>
+
+<td align='center' valign='middle'><a id='item7' href='#r1' onclick="toggle_visibility('tr7');">Vi estas lavita.</a>
+<div id='tr7'><mark>You have been washed.</mark></div></td>
+
+<td align='center' valign='middle'><a id='item8' href='#r1' onclick="toggle_visibility('tr8');">Vi estis lavita.</a>
+<div id='tr8'><mark>You had been washed.</mark></div></td>
+</tr>
+<tr id='r3'>
+
+<td align='center' valign='middle'><a id='item9' href='#r2' onclick="toggle_visibility('tr9');">Vi estos lavita.</a>
+<div id='tr9'><mark>You will have been washed.</mark></div></td>
+
+<td align='center' valign='middle'><a id='item10' href='#r2' onclick="toggle_visibility('tr10');">Vi estus lavita.</a>
+<div id='tr10'><mark>You would have been washed.</mark></div></td>
+
+<td align='center' valign='middle'><a id='item11' href='#r2' onclick="toggle_visibility('tr11');">Estu lavita.</a>
+<div id='tr11'><mark>Be (having been) washed.</mark></div></td>
+
+<td align='center' valign='middle'><a id='item12' href='#r2' onclick="toggle_visibility('tr12');">Esti lavita.</a>
+<div id='tr12'><mark>To have been washed.</mark></div></td>
+</tr>
+<tr id='r4'>
+
+<td align='center' valign='middle'><a id='item13' href='#r3' onclick="toggle_visibility('tr13');">Li estas invitota.</a>
+<div id='tr13'><mark>He is to be invited.</mark></div></td>
+
+<td align='center' valign='middle'><a id='item14' href='#r3' onclick="toggle_visibility('tr14');">Li estis invitota.</a>
+<div id='tr14'><mark>He was (going) to be invited.</mark></div></td>
+
+<td align='center' valign='middle'><a id='item15' href='#r3' onclick="toggle_visibility('tr15');">Li estos invitota.</a>
+<div id='tr15'><mark>He will be (about to be) invited.</mark></div></td>
+
+<td align='center' valign='middle'><a id='item16' href='#r3' onclick="toggle_visibility('tr16');">Li estus invitota.</a>
+<div id='tr16'><mark>He would be (about to be) invited.</mark></div></td>
+</tr>
+<tr id='r5'>
+
+<td align='center' valign='middle'><a id='item17' href='#r4' onclick="toggle_visibility('tr17');">Estu invitota.</a>
+<div id='tr17'><mark>Be about to be invited.</mark></div></td>
+
+<td align='center' valign='middle'><a id='item18' href='#r4' onclick="toggle_visibility('tr18');">Esti invitota.</a>
+<div id='tr18'><mark>To be about to be invited.</mark></div></td>
+
+<td align='center' valign='middle'><a id='item19' href='#r4' onclick="toggle_visibility('tr19');">Tiu ĉi komercaĵo estas ĉiam volonte aĉetata de mi.</a>
+<div id='tr19'><mark>This commodity is always willingly bought by me.</mark></div></td>
+
+<td align='center' valign='middle'><a id='item20' href='#r4' onclick="toggle_visibility('tr20');">La surtuto estas aĉetita de mi; sekve ĝi apartenas al mi.</a>
+<div id='tr20'><mark>The overcoat was (has been) bought by me; consequently it belongs to me.</mark></div></td>
+</tr>
+<tr id='r6'>
+
+<td align='center' valign='middle'><a id='item21' href='#r5' onclick="toggle_visibility('tr21');">Kiam via domo estis konstruata, mia domo estis jam longe konstruita.</a>
+<div id='tr21'><mark>When your house was being built, my house had already been built a long time.</mark></div></td>
+
+<td align='center' valign='middle'><a id='item22' href='#r5' onclick="toggle_visibility('tr22');">Mi sciigas, ke de nun la ŝuldoj de mia filo ne estos pagataj de mi.</a>
+<div id='tr22'><mark>I give notice that from now my son’s debts will not be paid by me.</mark></div></td>
+
+<td align='center' valign='middle'><a id='item23' href='#r5' onclick="toggle_visibility('tr23');">Estu trankvila, mia tuta ŝuldo estos pagita al vi baldaŭ.</a>
+<div id='tr23'><mark>Be easy; my whole debt will soon have been paid to you.</mark></div></td>
+
+<td align='center' valign='middle'><a id='item24' href='#r5' onclick="toggle_visibility('tr24');">Mia ora ringo ne estus tiel longe serĉata, se ĝi ne estus tiel lerte kaŝita de vi.</a>
+<div id='tr24'><mark>My gold ring would not be so long (being) sought for if it had not been so cleverly hidden by you.</mark></div></td>
+</tr>
+<tr id='r7'>
+
+<td align='center' valign='middle'><a id='item25' href='#r6' onclick="toggle_visibility('tr25');">Laŭ la projekto de la inĝenieroj tiu ĉi fervojo estas konstruota en la daŭro de du jaroj; sed mi pensas, ke ĝi estos konstruata pli ol tri jarojn.</a>
+<div id='tr25'><mark>According to the plan of the engineers this railway is going to be constructed in the space of two years; but I think that it will be being constructed (in construction) more than three years.</mark></div></td>
+
+<td align='center' valign='middle'><a id='item26' href='#r6' onclick="toggle_visibility('tr26');">Kiam la preĝo estis finita, li sin levis.</a>
+<div id='tr26'><mark>When the prayer was (had been) finished he rose.</mark></div></td>
+
+<td align='center' valign='middle'><a id='item27' href='#r6' onclick="toggle_visibility('tr27');">Aŭgusto estas mia plej amata filo.</a>
+<div id='tr27'><mark>Augustus is my best loved son.</mark></div></td>
+
+<td align='center' valign='middle'><a id='item28' href='#r6' onclick="toggle_visibility('tr28');">Mono havata estas pli grava ol havita.</a>
+<div id='tr28'><mark>Money in hand is more important than (money) had.</mark></div></td>
+</tr>
+<tr id='r8'>
+
+<td align='center' valign='middle'><a id='item29' href='#r7' onclick="toggle_visibility('tr29');">Pasero kaptita estas pli bona, ol aglo kaptota.</a>
+<div id='tr29'><mark>A sparrow (which has been) caught is better than an eagle (which is) going to be caught.</mark></div></td>
+
+</tr>
+</table>
+<br/>
+<p>
+<a href=addExercises.html>Return to tabular index of Additional Exerices</a>
+</p>
+

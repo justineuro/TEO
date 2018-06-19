@@ -52,7 +52,6 @@ h6 {
 }
 </style>
 
-<link rel="stylesheet" href="css/hideshow.css" type="text/css" />
 <link rel="stylesheet" href="bootstrap/bootstrap-cerulean-grn99.min.css" type="text/css" />
 
 </head>
@@ -437,81 +436,236 @@ $(document).ready(function () {
 </div>
 
 
+<style>
+a, body { 
+color: #005500; 
+font-size: 12px; 
+}   
+
+a:visited { color: #009900; }
+
+[id^='tr'] {
+display: none;
+}
+
+mark {
+padding: 3px 3px;
+text-align: left;
+font-style: italic;
+font-size: 10px;
+background-color: #007700;
+color: white;
+margin-top: 0px;
+margin-left: 5px;
+}
+
+</style>
+<script type='text/javascript'>
+function toggle_visibility(id) {
+var e = document.getElementById(id);
+e.style.display = ((e.style.display!='block') ? 'block' : 'none');
+}
+</script>
 <p><br/><br/></p>
-<!-- =============================???.png============================ -->
-<center>
-<b>ADDITIONAL EXERCISES</b>
-</center>
-<p><br/></p>
 <p>
-The exercise sets available via the links below are either Vocabulary builders or Phrase/Sentences translations based on the lessons of this book. Please click on a link below to access the corresponding exercise set.
+<h4>
+Lesson 14 Vocabulary - <a href=http://www.gutenberg.org/files/8177/8177-h/8177-h.htm>The Esperanto Teacher (by Helen Fryer)</a> <br/>
+</h4>
+<a id='r0' href='#' onclick="toggle_visibility('tr0');"> Click for Instructions.</a>
+<div id="tr0">
+<p>  <mark>Click on each link to toggle the English translation. Reload page to turn off all translations.</mark></p>
+</div>
 </p>
-<table>
-<thead>
-<tr class="header">
-<th> </th>
-<th> </th>
-<th> </th>
-<th> </th>
+<table width="100%" border="5px" cellspacing="5px" cellpadding="5px">
+<tr id="r1">
+<td align="center" valign="middle">
+<a id='item1' href='#r0' onclick="toggle_visibility('tr1');">rivero</a>
+<div id="tr1">
+<mark>river</mark>
+</div>
+</td>
+<td align="center" valign="middle">
+<a id='item2' href='#r0' onclick="toggle_visibility('tr2');">lando</a>
+<div id="tr2">
+<mark>land</mark>
+</div>
+</td>
+<td align="center" valign="middle">
+<a id='item3' href='#r0' onclick="toggle_visibility('tr3');">seĝo</a>
+<div id="tr3">
+<mark>seat</mark>
+</div>
+</td>
+<td align="center" valign="middle">
+<a id='item4' href='#r0' onclick="toggle_visibility('tr4');">daŭro</a>
+<div id="tr4">
+<mark>duration</mark>
+</div>
+</td>
 </tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><a href="./l1-voc-tab.html">Lesson 1 Vocabulary</a></td>
-<td><a href="./l1-phr-tab.html">Lesson 1 Phrase</a></td>
-<td><a href="./l2-voc-tab.html">Lesson 2 Vocabulary</a></td>
-<td><a href="./l2-phr-tab.html">Lesson 2 Phrase</a></td>
+<tr id="r2">
+<td align="center" valign="middle">
+<a id='item5' href='#r1' onclick="toggle_visibility('tr5');">okupo</a>
+<div id="tr5">
+<mark>occupation</mark>
+</div>
+</td>
+<td align="center" valign="middle">
+<a id='item6' href='#r1' onclick="toggle_visibility('tr6');">pluvo</a>
+<div id="tr6">
+<mark>rain</mark>
+</div>
+</td>
+<td align="center" valign="middle">
+<a id='item7' href='#r1' onclick="toggle_visibility('tr7');">vagonaro</a>
+<div id="tr7">
+<mark>train</mark>
+</div>
+</td>
+<td align="center" valign="middle">
+<a id='item8' href='#r1' onclick="toggle_visibility('tr8');">surprizo</a>
+<div id="tr8">
+<mark>surprise</mark>
+</div>
+</td>
 </tr>
-<tr class="even">
-<td><a href="./l3-voc-tab.html">Lesson 3 Vocabulary</a></td>
-<td><a href="./l3-phr-tab.html">Lesson 3 Phrase</a></td>
-<td><a href="./l4-voc-tab.html">Lesson 4 Vocabulary</a></td>
-<td><a href="./l4-phr-tab.html">Lesson 4 Phrase</a></td>
+<tr id="r3">
+<td align="center" valign="middle">
+<a id='item9' href='#r2' onclick="toggle_visibility('tr9');">diamanto</a>
+<div id="tr9">
+<mark>diamond</mark>
+</div>
+</td>
+<td align="center" valign="middle">
+<a id='item10' href='#r2' onclick="toggle_visibility('tr10');">fulmo</a>
+<div id="tr10">
+<mark>lightning</mark>
+</div>
+</td>
+<td align="center" valign="middle">
+<a id='item11' href='#r2' onclick="toggle_visibility('tr11');">lumo</a>
+<div id="tr11">
+<mark>a light</mark>
+</div>
+</td>
+<td align="center" valign="middle">
+<a id='item12' href='#r2' onclick="toggle_visibility('tr12');">paf-</a>
+<div id="tr12">
+<mark>shoot</mark>
+</div>
+</td>
 </tr>
-<tr class="odd">
-<td><a href="./l5-voc-tab.html">Lesson 5 Vocabulary</a></td>
-<td><a href="./l5-phr-tab.html">Lesson 5 Phrase</a></td>
-<td><a href="./l6-voc-tab.html">Lesson 6 Vocabulary</a></td>
-<td><a href="./l6-phr-tab.html">Lesson 6 Phrase</a></td>
+<tr id="r4">
+<td align="center" valign="middle">
+<a id='item13' href='#r3' onclick="toggle_visibility('tr13');">ĵet-</a>
+<div id="tr13">
+<mark>throw</mark>
+</div>
+</td>
+<td align="center" valign="middle">
+<a id='item14' href='#r3' onclick="toggle_visibility('tr14');">aŭd-</a>
+<div id="tr14">
+<mark>hear</mark>
+</div>
+</td>
+<td align="center" valign="middle">
+<a id='item15' href='#r3' onclick="toggle_visibility('tr15');">fal-</a>
+<div id="tr15">
+<mark>fall</mark>
+</div>
+</td>
+<td align="center" valign="middle">
+<a id='item16' href='#r3' onclick="toggle_visibility('tr16');">atend-</a>
+<div id="tr16">
+<mark>wait for, expect</mark>
+</div>
+</td>
 </tr>
-<tr class="even">
-<td><a href="./l7-voc-tab.html">Lesson 7 Vocabulary</a></td>
-<td><a href="./l7-phr-tab.html">Lesson 7 Phrase</a></td>
-<td><a href="./l8-voc-tab.html">Lesson 8 Vocabulary</a></td>
-<td><a href="./l8-phr-tab.html">Lesson 8 Phrase</a></td>
+<tr id="r5">
+<td align="center" valign="middle">
+<a id='item17' href='#r4' onclick="toggle_visibility('tr17');">lacig-</a>
+<div id="tr17">
+<mark>make tired</mark>
+</div>
+</td>
+<td align="center" valign="middle">
+<a id='item18' href='#r4' onclick="toggle_visibility('tr18');">frot-</a>
+<div id="tr18">
+<mark>rub</mark>
+</div>
+</td>
+<td align="center" valign="middle">
+<a id='item19' href='#r4' onclick="toggle_visibility('tr19');">rigard-</a>
+<div id="tr19">
+<mark>look</mark>
+</div>
+</td>
+<td align="center" valign="middle">
+<a id='item20' href='#r4' onclick="toggle_visibility('tr20');">elrigard-</a>
+<div id="tr20">
+<mark>look out of</mark>
+</div>
+</td>
 </tr>
-<tr class="odd">
-<td><a href="./l9-voc-tab.html">Lesson 9 Vocabulary</a></td>
-<td><a href="./l9-phr-tab.html">Lesson 9 Phrase</a></td>
-<td><a href="./l10-voc-tab.html">Lesson 10 Vocabulary</a></td>
-<td><a href="./l10-phr-tab.html">Lesson 10 Phrase</a></td>
+<tr id="r6">
+<td align="center" valign="middle">
+<a id='item21' href='#r5' onclick="toggle_visibility('tr21');">salt-</a>
+<div id="tr21">
+<mark>jump</mark>
+</div>
+</td>
+<td align="center" valign="middle">
+<a id='item22' href='#r5' onclick="toggle_visibility('tr22');">rapida</a>
+<div id="tr22">
+<mark>quick</mark>
+</div>
+</td>
+<td align="center" valign="middle">
+<a id='item23' href='#r5' onclick="toggle_visibility('tr23');">klara</a>
+<div id="tr23">
+<mark>clear</mark>
+</div>
+</td>
+<td align="center" valign="middle">
+<a id='item24' href='#r5' onclick="toggle_visibility('tr24');">lerte</a>
+<div id="tr24">
+<mark>cleverly</mark>
+</div>
+</td>
 </tr>
-<tr class="even">
-<td><a href="./l11-voc-tab.html">Lesson 11 Vocabulary</a></td>
-<td><a href="./l11-phr-tab.html">Lesson 11 Phrase</a></td>
-<td><a href="./l12-voc-tab.html">Lesson 12 Vocabulary</a></td>
-<td><a href="./l12-phr-tab.html">Lesson 12 Phrase</a></td>
+<tr id="r7">
+<td align="center" valign="middle">
+<a id='item25' href='#r6' onclick="toggle_visibility('tr25');">energie</a>
+<div id="tr25">
+<mark>energetically</mark>
+</div>
+</td>
+<td align="center" valign="middle">
+<a id='item26' href='#r6' onclick="toggle_visibility('tr26');">kelke</a>
+<div id="tr26">
+<mark>some</mark>
+</div>
+</td>
+<td align="center" valign="middle">
+<a id='item27' href='#r6' onclick="toggle_visibility('tr27');">ĉiuminute</a>
+<div id="tr27">
+<mark>every minute [See page 84.]</mark>
+</div>
+</td>
+<td align="center" valign="middle">
+<a id='item28' href='#r6' onclick="toggle_visibility('tr28');">tra</a>
+<div id="tr28">
+<mark>through</mark>
+</div>
+</td>
 </tr>
-<tr class="odd">
-<td><a href="./l13-voc-tab.html">Lesson 13 Vocabulary</a></td>
-<td><a href="./l13-phr-tab.html">Lesson 13 Phrase</a></td>
-<td><a href="./l14-voc-tab.html">Lesson 14 Vocabulary</a></td>
-<td><a href="./l14-phr-tab.html">Lesson 14 Phrase</a></td>
+<tr id="r8">
 </tr>
-<tr class="even">
-<td><a href="./l15-voc-tab.html">Lesson 15 Vocabulary</a></td>
-<td><a href="./l15-phr-tab.html">Lesson 15 Phrase</a></td>
-<td><a href="./00-Esperanto-Numbers-tab.html">Numbers Vocabulary</a></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-</tr>
-</tbody>
 </table>
+<br/>
+<p>
+<a href=addExercises.html>Return to tabular index of Additional Exerices</a>
+</p>
 
 
 

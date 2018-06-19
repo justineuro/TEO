@@ -1,0 +1,144 @@
+---
+title: "" #"l14-phr-tab"
+author: "" #"JLAUro"
+date: "" #"June 7, 2018"
+output: 
+  html_document:
+    #css: bootstrap/bootstrap-cerulean-grn99.min.css
+    #javascript: js/hideshow.js
+    #theme: cerulean
+    highlight: tango
+    #toc: true
+    #toc_float: 
+    #  collapsed: false
+    #mathjax: "https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML"
+    #mathjax: "file:///sdcard//MathJax/MathJax.js?config=TeX-AMS-MML_HTMLorMML"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+<style>
+a, body { 
+color: #005500; 
+font-size: 12px; 
+}	
+
+a:visited { color: #009900; }
+
+[id^='tr'] {
+display: none;
+}
+
+mark {
+padding: 3px 3px;
+text-align: left;
+font-style: italic;
+font-size: 10px;
+background-color: #007700;
+color: white;
+margin-top: 0px;
+margin-left: 5px;
+}
+
+</style>
+
+<script type='text/javascript'>
+function toggle_visibility(id) {
+var e = document.getElementById(id);
+e.style.display = ((e.style.display!='block') ? 'block' : 'none');
+}
+</script>
+
+<br/><br/>
+
+<p>
+<h4>Lesson 14 Phrase - <a href=http://www.gutenberg.org/files/8177/8177-h/8177-h.htm>The Esperanto Teacher (by Helen Fryer)</a> <br/></h4>
+<a id='r0' href='#' onclick="toggle_visibility('tr0');">
+Click for Instructions.</a>
+<div id='tr0'>
+&nbsp;
+<mark>Click on each link to toggle the English translation.  Reload page to turn off all translations.</mark>
+</div>
+</p>
+
+<table width='100%' border='5px' cellspacing='5px' cellpadding='5px'>
+<tr id='r1'>
+<td align='center' valign='middle'><a id='item1' href='#r0' onclick="toggle_visibility('tr1');">Li donis al mi monon, sed mi ĝin tuj redonis al li.</a>
+<div id='tr1'><mark>He gave me money, but I immediately returned it to him.</mark></div></td>
+
+<td align='center' valign='middle'><a id='item2' href='#r0' onclick="toggle_visibility('tr2');">Mi foriras, sed atendu min, ĉar mi baldaŭ revenos.</a>
+<div id='tr2'><mark>I am going away, but wait for me, for I shall soon return.</mark></div></td>
+
+<td align='center' valign='middle'><a id='item3' href='#r0' onclick="toggle_visibility('tr3');">La suno rebrilas en la klara akvo de la rivero.</a>
+<div id='tr3'><mark>The sun is reflected in the clear water of the river.</mark></div></td>
+
+<td align='center' valign='middle'><a id='item4' href='#r0' onclick="toggle_visibility('tr4');">Li reiris al sia lando.</a>
+<div id='tr4'><mark>He returned to his country.</mark></div></td>
+</tr>
+<tr id='r2'>
+
+<td align='center' valign='middle'><a id='item5' href='#r1' onclick="toggle_visibility('tr5');">Ŝi reĵetis sin sur la seĝon.</a>
+<div id='tr5'><mark>She threw herself again upon the seat.</mark></div></td>
+
+<td align='center' valign='middle'><a id='item6' href='#r1' onclick="toggle_visibility('tr6');">En la daŭro de kelke da minutoj mi aŭdis du pafojn.</a>
+<div id='tr6'><mark>In the course of a few minutes I heard two shots.</mark></div></td>
+
+<td align='center' valign='middle'><a id='item7' href='#r1' onclick="toggle_visibility('tr7');">La pafado daŭris tre longe.</a>
+<div id='tr7'><mark>The firing continued for a very long time.</mark></div></td>
+
+<td align='center' valign='middle'><a id='item8' href='#r1' onclick="toggle_visibility('tr8');">Lia hieraŭa parolo estis tre bela, sed la tro multa parolado lacigas lin.</a>
+<div id='tr8'><mark>His speech of yesterday was very fine, but too much speaking tires him.</mark></div></td>
+</tr>
+<tr id='r3'>
+
+<td align='center' valign='middle'><a id='item9' href='#r2' onclick="toggle_visibility('tr9');">Li kantas tre belan kanton.</a>
+<div id='tr9'><mark>He is singing a very beautiful song.</mark></div></td>
+
+<td align='center' valign='middle'><a id='item10' href='#r2' onclick="toggle_visibility('tr10');">La kantado estas agrabla okupo.</a>
+<div id='tr10'><mark>Singing is an agreeable occupation.</mark></div></td>
+
+<td align='center' valign='middle'><a id='item11' href='#r2' onclick="toggle_visibility('tr11');">Per mia mano mi energie lin frotadis.</a>
+<div id='tr11'><mark>With my hand I kept on briskly rubbing him.</mark></div></td>
+
+<td align='center' valign='middle'><a id='item12' href='#r2' onclick="toggle_visibility('tr12');">La pluvo faladis per riveroj.</a>
+<div id='tr12'><mark>The rain kept on falling in rivers.</mark></div></td>
+</tr>
+<tr id='r4'>
+
+<td align='center' valign='middle'><a id='item13' href='#r3' onclick="toggle_visibility('tr13');">Ĉiuminute ŝi elrigardadis tra la fenestro, kaj malbenadis la malrapidan iradon de la vagonaro.</a>
+<div id='tr13'><mark>Every minute she kept looking out through the window and cursing the slow motion of the train.</mark></div></td>
+
+<td align='center' valign='middle'><a id='item14' href='#r3' onclick="toggle_visibility('tr14');">Mi saltas tre lerte.</a>
+<div id='tr14'><mark>I leap very cleverly.</mark></div></td>
+
+<td align='center' valign='middle'><a id='item15' href='#r3' onclick="toggle_visibility('tr15');">Mi eksaltis de surprizo.</a>
+<div id='tr15'><mark>I started with surprise.</mark></div></td>
+
+<td align='center' valign='middle'><a id='item16' href='#r3' onclick="toggle_visibility('tr16');">Mi saltadis la tutan tagon [Footnote: See Lesson 26 (iii.)] de loko al loko.</a>
+<div id='tr16'><mark>I used to jump all day long from place to place.</mark></div></td>
+</tr>
+<tr id='r5'>
+
+<td align='center' valign='middle'><a id='item17' href='#r4' onclick="toggle_visibility('tr17');">Kiam vi ekparolis, mi atendis aŭdi ion novan.</a>
+<div id='tr17'><mark>When you began to speak I expected to hear something new.</mark></div></td>
+
+<td align='center' valign='middle'><a id='item18' href='#r4' onclick="toggle_visibility('tr18');">La diamanto havas belan brilon.</a>
+<div id='tr18'><mark>The diamond has a beautiful sparkle.</mark></div></td>
+
+<td align='center' valign='middle'><a id='item19' href='#r4' onclick="toggle_visibility('tr19');">Ŝi lasis la diamanton ekbrili.</a>
+<div id='tr19'><mark>She let the diamond flash.</mark></div></td>
+
+<td align='center' valign='middle'><a id='item20' href='#r4' onclick="toggle_visibility('tr20');">Du ekbriloj do fulmo trakuris tra la malluma ĉielo.</a>
+<div id='tr20'><mark>Two flashes of lightning passed across the dark sky.</mark></div></td>
+</tr>
+<tr id='r6'>
+
+</tr>
+</table>
+<br/>
+<p>
+<a href=addExercises.html>Return to tabular index of Additional Exerices</a>
+</p>
+
