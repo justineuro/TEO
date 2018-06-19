@@ -52,7 +52,6 @@ h6 {
 }
 </style>
 
-<link rel="stylesheet" href="css/hideshow.css" type="text/css" />
 <link rel="stylesheet" href="bootstrap/bootstrap-cerulean-grn99.min.css" type="text/css" />
 
 </head>
@@ -437,99 +436,106 @@ $(document).ready(function () {
 </div>
 
 
+<style>
+a, body { 
+color: #005500; 
+font-size: 12px; 
+}   
+
+a:visited { color: #009900; }
+
+[id^='tr'] {
+display: none;
+}
+
+mark {
+padding: 3px 3px;
+text-align: left;
+font-style: italic;
+font-size: 10px;
+background-color: #007700;
+color: white;
+margin-top: 0px;
+margin-left: 5px;
+}
+
+</style>
+<script type='text/javascript'>
+function toggle_visibility(id) {
+var e = document.getElementById(id);
+e.style.display = ((e.style.display!='block') ? 'block' : 'none');
+}
+</script>
 <p><br/><br/></p>
-<!-- =============================???.png============================ -->
-<center>
-<b>ADDITIONAL EXERCISES</b>
-</center>
-<p><br/></p>
 <p>
-The exercise sets available via the links below are either Vocabulary builders or Phrase/Sentences translations based on the lessons of this book. Please click on a link below to access the corresponding exercise set.
+<h4>
+Lesson 18 Phrase - <a href=http://www.gutenberg.org/files/8177/8177-h/8177-h.htm>The Esperanto Teacher (by Helen Fryer)</a> <br/>
+</h4>
+<a id='r0' href='#' onclick="toggle_visibility('tr0');"> Click for Instructions.</a>
+<div id="tr0">
+<p>  <mark>Click on each link to toggle the English translation. Reload page to turn off all translations.</mark></p>
+</div>
 </p>
-<table>
-<thead>
-<tr class="header">
-<th> </th>
-<th> </th>
-<th> </th>
-<th> </th>
+<table width="100%" border="5px" cellspacing="5px" cellpadding="5px">
+<tr id="r1">
+<td align="center" valign="middle">
+<a id='item1' href='#r0' onclick="toggle_visibility('tr1');">La botisto faras botojn kaj ŝuojn.</a>
+<div id="tr1">
+<mark>The bootmaker makes boots and shoes.</mark>
+</div>
+</td>
+<td align="center" valign="middle">
+<a id='item2' href='#r0' onclick="toggle_visibility('tr2');">Ŝtelistojn neniu lasas en sian domon.</a>
+<div id="tr2">
+<mark>Nobody lets thieves into his house.</mark>
+</div>
+</td>
+<td align="center" valign="middle">
+<a id='item3' href='#r0' onclick="toggle_visibility('tr3');">La kuraĝa maristo dronis en la maro.</a>
+<div id="tr3">
+<mark>The brave sailor was drowned in the sea.</mark>
+</div>
+</td>
+<td align="center" valign="middle">
+<a id='item4' href='#r0' onclick="toggle_visibility('tr4');">Verkisto verkas librojn, kaj skribisto simple transskribas paperojn.</a>
+<div id="tr4">
+<mark>An author writes books, and a writer simply copies papers.</mark>
+</div>
+</td>
 </tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><a href="./l1-voc-tab.html">Lesson 1 Vocabulary</a></td>
-<td><a href="./l1-phr-tab.html">Lesson 1 Phrase</a></td>
-<td><a href="./l2-voc-tab.html">Lesson 2 Vocabulary</a></td>
-<td><a href="./l2-phr-tab.html">Lesson 2 Phrase</a></td>
+<tr id="r2">
+<td align="center" valign="middle">
+<a id='item5' href='#r1' onclick="toggle_visibility('tr5');">Ni havas diversajn servantojn—kuiriston, ĉambristinon, infanistinon, kaj veturigiston.</a>
+<div id="tr5">
+<mark>We have various servants - a cook, a housemaid, a nurse, and a coachman.</mark>
+</div>
+</td>
+<td align="center" valign="middle">
+<a id='item6' href='#r1' onclick="toggle_visibility('tr6');">Kiu okupas sin je meĥaniko estas meĥankisto, kaj kiu okupas sin je ĥemio estas ĥemiisto.</a>
+<div id="tr6">
+<mark>(He) who occupies himself with mechanics is a mechanic, and (he) who occupies himself with chemistry is a chemist.</mark>
+</div>
+</td>
+<td align="center" valign="middle">
+<a id='item7' href='#r1' onclick="toggle_visibility('tr7');">Diplomatiiston oni povas ankaŭ nomi diplomato, [Footnote: See Lesson 45.] sed fizikiston oni ne povas nomi fiziko, [Footnote: See Lesson 45.] ĉar fiziko estas la nomo de la scienco mem.</a>
+<div id="tr7">
+<mark>A diplomatist we can also call a diplomat, but a physicist we cannot call a “physic,” for “physics” is the name of the science itself.</mark>
+</div>
+</td>
+<td align="center" valign="middle">
+<a id='item8' href='#r1' onclick="toggle_visibility('tr8');">Unu tagon [Footnote: See Lesson 26.] (en unu tago) venis du trompantoj, kiuj diris, ke ili estas teksistoj.</a>
+<div id="tr8">
+<mark>One day there came two cheats, who said that they were (are) weavers.</mark>
+</div>
+</td>
 </tr>
-<tr class="even">
-<td><a href="./l3-voc-tab.html">Lesson 3 Vocabulary</a></td>
-<td><a href="./l3-phr-tab.html">Lesson 3 Phrase</a></td>
-<td><a href="./l4-voc-tab.html">Lesson 4 Vocabulary</a></td>
-<td><a href="./l4-phr-tab.html">Lesson 4 Phrase</a></td>
+<tr id="r3">
 </tr>
-<tr class="odd">
-<td><a href="./l5-voc-tab.html">Lesson 5 Vocabulary</a></td>
-<td><a href="./l5-phr-tab.html">Lesson 5 Phrase</a></td>
-<td><a href="./l6-voc-tab.html">Lesson 6 Vocabulary</a></td>
-<td><a href="./l6-phr-tab.html">Lesson 6 Phrase</a></td>
-</tr>
-<tr class="even">
-<td><a href="./l7-voc-tab.html">Lesson 7 Vocabulary</a></td>
-<td><a href="./l7-phr-tab.html">Lesson 7 Phrase</a></td>
-<td><a href="./l8-voc-tab.html">Lesson 8 Vocabulary</a></td>
-<td><a href="./l8-phr-tab.html">Lesson 8 Phrase</a></td>
-</tr>
-<tr class="odd">
-<td><a href="./l9-voc-tab.html">Lesson 9 Vocabulary</a></td>
-<td><a href="./l9-phr-tab.html">Lesson 9 Phrase</a></td>
-<td><a href="./l10-voc-tab.html">Lesson 10 Vocabulary</a></td>
-<td><a href="./l10-phr-tab.html">Lesson 10 Phrase</a></td>
-</tr>
-<tr class="even">
-<td><a href="./l11-voc-tab.html">Lesson 11 Vocabulary</a></td>
-<td><a href="./l11-phr-tab.html">Lesson 11 Phrase</a></td>
-<td><a href="./l12-voc-tab.html">Lesson 12 Vocabulary</a></td>
-<td><a href="./l12-phr-tab.html">Lesson 12 Phrase</a></td>
-</tr>
-<tr class="odd">
-<td><a href="./l13-voc-tab.html">Lesson 13 Vocabulary</a></td>
-<td><a href="./l13-phr-tab.html">Lesson 13 Phrase</a></td>
-<td><a href="./l14-voc-tab.html">Lesson 14 Vocabulary</a></td>
-<td><a href="./l14-phr-tab.html">Lesson 14 Phrase</a></td>
-</tr>
-<tr class="even">
-<td><a href="./l15-voc-tab.html">Lesson 15 Vocabulary</a></td>
-<td><a href="./l15-phr-tab.html">Lesson 15 Phrase</a></td>
-<td><a href="./l16-voc-tab.html">Lesson 16 Vocabulary</a></td>
-<td><a href="./l16-phr-tab.html">Lesson 16 Phrase</a></td>
-</tr>
-<tr class="odd">
-<td><a href="./l17-voc-tab.html">Lesson 17 Vocabulary</a></td>
-<td><a href="./l17-phr-tab.html">Lesson 17 Phrase</a></td>
-<td><a href="./l18-voc-tab.html">Lesson 18 Vocabulary</a></td>
-<td><a href="./l18-phr-tab.html">Lesson 18 Phrase</a></td>
-</tr>
-<tr class="even">
-<td><a href="./l19-voc-tab.html">Lesson 19 Vocabulary</a></td>
-<td><a href="./l19-phr-tab.html">Lesson 19 Phrase</a></td>
-<td><a href="./l20-voc-tab.html">Lesson 20 Vocabulary</a></td>
-<td><a href="./l20-phr-tab.html">Lesson 20 Phrase</a></td>
-</tr>
-<tr class="odd">
-<td><a href="./l21-voc-tab.html">Lesson 21 Vocabulary</a></td>
-<td><a href="./l21-phr-tab.html">Lesson 21 Phrase</a></td>
-<td><a href="./00-Esperanto-Numbers-tab.html">Numbers Vocabulary</a></td>
-<td></td>
-</tr>
-<tr class="even">
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-</tr>
-</tbody>
 </table>
+<br/>
+<p>
+<a href=addExercises.html>Return to tabular index of Additional Exerices</a>
+</p>
 
 
 

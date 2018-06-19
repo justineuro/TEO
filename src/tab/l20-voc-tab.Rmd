@@ -1,0 +1,279 @@
+---
+title: "" #"l20-voc-tab"
+author: "" #"JLAUro"
+date: "" #"June 7, 2018"
+output: 
+  html_document:
+    #css: bootstrap/bootstrap-cerulean-grn99.min.css
+    #javascript: js/hideshow.js
+    #theme: cerulean
+    highlight: tango
+    #toc: true
+    #toc_float: 
+    #  collapsed: false
+    #mathjax: "https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML"
+    #mathjax: "file:///sdcard//MathJax/MathJax.js?config=TeX-AMS-MML_HTMLorMML"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+<style>
+a, body { 
+color: #005500; 
+font-size: 12px; 
+}	
+
+a:visited { color: #009900; }
+
+[id^='tr'] {
+display: none;
+}
+
+mark {
+padding: 3px 3px;
+text-align: left;
+font-style: italic;
+font-size: 10px;
+background-color: #007700;
+color: white;
+margin-top: 0px;
+margin-left: 5px;
+}
+
+</style>
+
+<script type='text/javascript'>
+function toggle_visibility(id) {
+var e = document.getElementById(id);
+e.style.display = ((e.style.display!='block') ? 'block' : 'none');
+}
+</script>
+
+<br/><br/>
+
+<p>
+<h4>Lesson 20 Vocabulary - <a href=http://www.gutenberg.org/files/8177/8177-h/8177-h.htm>The Esperanto Teacher (by Helen Fryer)</a> <br/></h4>
+<a id='r0' href='#' onclick="toggle_visibility('tr0');">
+Click for Instructions.</a>
+<div id='tr0'>
+&nbsp;
+<mark>Click on each link to toggle the English translation.  Reload page to turn off all translations.</mark>
+</div>
+</p>
+
+<table width='100%' border='5px' cellspacing='5px' cellpadding='5px'>
+<tr id='r1'>
+<td align='center' valign='middle'><a id='item1' href='#r0' onclick="toggle_visibility('tr1');">ankro</a>
+<div id='tr1'><mark>anchor</mark></div></td>
+
+<td align='center' valign='middle'><a id='item2' href='#r0' onclick="toggle_visibility('tr2');">maniero</a>
+<div id='tr2'><mark>manner, way</mark></div></td>
+
+<td align='center' valign='middle'><a id='item3' href='#r0' onclick="toggle_visibility('tr3');">riproĉo</a>
+<div id='tr3'><mark>reproach</mark></div></td>
+
+<td align='center' valign='middle'><a id='item4' href='#r0' onclick="toggle_visibility('tr4');">konscienco</a>
+<div id='tr4'><mark>conscience</mark></div></td>
+</tr>
+<tr id='r2'>
+
+<td align='center' valign='middle'><a id='item5' href='#r1' onclick="toggle_visibility('tr5');">propono</a>
+<div id='tr5'><mark>proposal, offer</mark></div></td>
+
+<td align='center' valign='middle'><a id='item6' href='#r1' onclick="toggle_visibility('tr6');">rando</a>
+<div id='tr6'><mark>edge</mark></div></td>
+
+<td align='center' valign='middle'><a id='item7' href='#r1' onclick="toggle_visibility('tr7');">ŝipo</a>
+<div id='tr7'><mark>ship</mark></div></td>
+
+<td align='center' valign='middle'><a id='item8' href='#r1' onclick="toggle_visibility('tr8');">dubo</a>
+<div id='tr8'><mark>doubt</mark></div></td>
+</tr>
+<tr id='r3'>
+
+<td align='center' valign='middle'><a id='item9' href='#r2' onclick="toggle_visibility('tr9');">demando</a>
+<div id='tr9'><mark>question</mark></div></td>
+
+<td align='center' valign='middle'><a id='item10' href='#r2' onclick="toggle_visibility('tr10');">admir-</a>
+<div id='tr10'><mark>admire</mark></div></td>
+
+<td align='center' valign='middle'><a id='item11' href='#r2' onclick="toggle_visibility('tr11');">plaĉ-</a>
+<div id='tr11'><mark>be pleasing</mark></div></td>
+
+<td align='center' valign='middle'><a id='item12' href='#r2' onclick="toggle_visibility('tr12');">supoz-</a>
+<div id='tr12'><mark>suppose</mark></div></td>
+</tr>
+<tr id='r4'>
+
+<td align='center' valign='middle'><a id='item13' href='#r3' onclick="toggle_visibility('tr13');">prov-</a>
+<div id='tr13'><mark>attempt, try</mark></div></td>
+
+<td align='center' valign='middle'><a id='item14' href='#r3' onclick="toggle_visibility('tr14');">sukces-</a>
+<div id='tr14'><mark>succeed</mark></div></td>
+
+<td align='center' valign='middle'><a id='item15' href='#r3' onclick="toggle_visibility('tr15');">perd-</a>
+<div id='tr15'><mark>lose</mark></div></td>
+
+<td align='center' valign='middle'><a id='item16' href='#r3' onclick="toggle_visibility('tr16');">merit-</a>
+<div id='tr16'><mark>deserve</mark></div></td>
+</tr>
+<tr id='r5'>
+
+<td align='center' valign='middle'><a id='item17' href='#r4' onclick="toggle_visibility('tr17');">kompren-</a>
+<div id='tr17'><mark>understand</mark></div></td>
+
+<td align='center' valign='middle'><a id='item18' href='#r4' onclick="toggle_visibility('tr18');">libera</a>
+<div id='tr18'><mark>free</mark></div></td>
+
+<td align='center' valign='middle'><a id='item19' href='#r4' onclick="toggle_visibility('tr19');">certa</a>
+<div id='tr19'><mark>certain, sure</mark></div></td>
+
+<td align='center' valign='middle'><a id='item20' href='#r4' onclick="toggle_visibility('tr20');">utila</a>
+<div id='tr20'><mark>useful</mark></div></td>
+</tr>
+<tr id='r6'>
+
+<td align='center' valign='middle'><a id='item21' href='#r5' onclick="toggle_visibility('tr21');">fremda</a>
+<div id='tr21'><mark>strange</mark></div></td>
+
+<td align='center' valign='middle'><a id='item22' href='#r5' onclick="toggle_visibility('tr22');">necesa</a>
+<div id='tr22'><mark>necessary</mark></div></td>
+
+<td align='center' valign='middle'><a id='item23' href='#r5' onclick="toggle_visibility('tr23');">ekster</a>
+<div id='tr23'><mark>beyond, outside</mark></div></td>
+
+<td align='center' valign='middle'><a id='item24' href='#r5' onclick="toggle_visibility('tr24');">mono</a>
+<div id='tr24'><mark>money</mark></div></td>
+</tr>
+<tr id='r7'>
+
+<td align='center' valign='middle'><a id='item25' href='#r6' onclick="toggle_visibility('tr25');">monujo</a>
+<div id='tr25'><mark>purse</mark></div></td>
+
+<td align='center' valign='middle'><a id='item26' href='#r6' onclick="toggle_visibility('tr26');">juneco</a>
+<div id='tr26'><mark>youth</mark></div></td>
+
+<td align='center' valign='middle'><a id='item27' href='#r6' onclick="toggle_visibility('tr27');">reto</a>
+<div id='tr27'><mark>net</mark></div></td>
+
+<td align='center' valign='middle'><a id='item28' href='#r6' onclick="toggle_visibility('tr28');">ideo</a>
+<div id='tr28'><mark>idea</mark></div></td>
+</tr>
+<tr id='r8'>
+
+<td align='center' valign='middle'><a id='item29' href='#r7' onclick="toggle_visibility('tr29');">gajno</a>
+<div id='tr29'><mark>gain</mark></div></td>
+
+<td align='center' valign='middle'><a id='item30' href='#r7' onclick="toggle_visibility('tr30');">taŭg-</a>
+<div id='tr30'><mark>be fit, suitable</mark></div></td>
+
+<td align='center' valign='middle'><a id='item31' href='#r7' onclick="toggle_visibility('tr31');">fart-</a>
+<div id='tr31'><mark>be, fare (as to health)</mark></div></td>
+
+<td align='center' valign='middle'><a id='item32' href='#r7' onclick="toggle_visibility('tr32');">monto</a>
+<div id='tr32'><mark>mountain</mark></div></td>
+</tr>
+<tr id='r9'>
+
+<td align='center' valign='middle'><a id='item33' href='#r8' onclick="toggle_visibility('tr33');">ganto</a>
+<div id='tr33'><mark>glove</mark></div></td>
+
+<td align='center' valign='middle'><a id='item34' href='#r8' onclick="toggle_visibility('tr34');">opinio</a>
+<div id='tr34'><mark>opinion</mark></div></td>
+
+<td align='center' valign='middle'><a id='item35' href='#r8' onclick="toggle_visibility('tr35');">voĉo</a>
+<div id='tr35'><mark>voice</mark></div></td>
+
+<td align='center' valign='middle'><a id='item36' href='#r8' onclick="toggle_visibility('tr36');">prezid-</a>
+<div id='tr36'><mark>preside</mark></div></td>
+</tr>
+<tr id='r10'>
+
+<td align='center' valign='middle'><a id='item37' href='#r9' onclick="toggle_visibility('tr37');">alpren-</a>
+<div id='tr37'><mark>adopt</mark></div></td>
+
+<td align='center' valign='middle'><a id='item38' href='#r9' onclick="toggle_visibility('tr38');">stranga</a>
+<div id='tr38'><mark>strange, curious</mark></div></td>
+
+<td align='center' valign='middle'><a id='item39' href='#r9' onclick="toggle_visibility('tr39');">komprenebla</a>
+<div id='tr39'><mark>understandable</mark></div></td>
+
+<td align='center' valign='middle'><a id='item40' href='#r9' onclick="toggle_visibility('tr40');">subita</a>
+<div id='tr40'><mark>sudden</mark></div></td>
+</tr>
+<tr id='r11'>
+
+<td align='center' valign='middle'><a id='item41' href='#r10' onclick="toggle_visibility('tr41');">ornamo</a>
+<div id='tr41'><mark>ornament</mark></div></td>
+
+<td align='center' valign='middle'><a id='item42' href='#r10' onclick="toggle_visibility('tr42');">pupilo</a>
+<div id='tr42'><mark>pupil (of eye)</mark></div></td>
+
+<td align='center' valign='middle'><a id='item43' href='#r10' onclick="toggle_visibility('tr43');">centimo</a>
+<div id='tr43'><mark>centime</mark></div></td>
+
+<td align='center' valign='middle'><a id='item44' href='#r10' onclick="toggle_visibility('tr44');">forto</a>
+<div id='tr44'><mark>strength, power</mark></div></td>
+</tr>
+<tr id='r12'>
+
+<td align='center' valign='middle'><a id='item45' href='#r11' onclick="toggle_visibility('tr45');">nesto</a>
+<div id='tr45'><mark>nest</mark></div></td>
+
+<td align='center' valign='middle'><a id='item46' href='#r11' onclick="toggle_visibility('tr46');">Fortuno</a>
+<div id='tr46'><mark>fortune</mark></div></td>
+
+<td align='center' valign='middle'><a id='item47' href='#r11' onclick="toggle_visibility('tr47');">funto</a>
+<div id='tr47'><mark>pound (weight or money)</mark></div></td>
+
+<td align='center' valign='middle'><a id='item48' href='#r11' onclick="toggle_visibility('tr48');">lango</a>
+<div id='tr48'><mark>tongue</mark></div></td>
+</tr>
+<tr id='r13'>
+
+<td align='center' valign='middle'><a id='item49' href='#r12' onclick="toggle_visibility('tr49');">gusto</a>
+<div id='tr49'><mark>taste</mark></div></td>
+
+<td align='center' valign='middle'><a id='item50' href='#r12' onclick="toggle_visibility('tr50');">okulo</a>
+<div id='tr50'><mark>eye</mark></div></td>
+
+<td align='center' valign='middle'><a id='item51' href='#r12' onclick="toggle_visibility('tr51');">ĥino</a>
+<div id='tr51'><mark>Chinese</mark></div></td>
+
+<td align='center' valign='middle'><a id='item52' href='#r12' onclick="toggle_visibility('tr52');">decido</a>
+<div id='tr52'><mark>decision</mark></div></td>
+</tr>
+<tr id='r14'>
+
+<td align='center' valign='middle'><a id='item53' href='#r13' onclick="toggle_visibility('tr53');">ced-</a>
+<div id='tr53'><mark>give up, yield, cede</mark></div></td>
+
+<td align='center' valign='middle'><a id='item54' href='#r13' onclick="toggle_visibility('tr54');">forlas-</a>
+<div id='tr54'><mark>forsake, leave</mark></div></td>
+
+<td align='center' valign='middle'><a id='item55' href='#r13' onclick="toggle_visibility('tr55');">prudenta</a>
+<div id='tr55'><mark>reasonable, prudent</mark></div></td>
+
+<td align='center' valign='middle'><a id='item56' href='#r13' onclick="toggle_visibility('tr56');">firma</a>
+<div id='tr56'><mark>firm, stable</mark></div></td>
+</tr>
+<tr id='r15'>
+
+<td align='center' valign='middle'><a id='item57' href='#r14' onclick="toggle_visibility('tr57');">sterlinga</a>
+<div id='tr57'><mark>sterling</mark></div></td>
+
+<td align='center' valign='middle'><a id='item58' href='#r14' onclick="toggle_visibility('tr58');">kontraŭ</a>
+<div id='tr58'><mark>against, opposite</mark></div></td>
+
+<td align='center' valign='middle'><a id='item59' href='#r14' onclick="toggle_visibility('tr59');">pro</a>
+<div id='tr59'><mark>for, owing to</mark></div></td>
+
+</tr>
+</table>
+<br/>
+<p>
+<a href=addExercises.html>Return to tabular index of Additional Exerices</a>
+</p>
+

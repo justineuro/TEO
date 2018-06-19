@@ -52,7 +52,6 @@ h6 {
 }
 </style>
 
-<link rel="stylesheet" href="css/hideshow.css" type="text/css" />
 <link rel="stylesheet" href="bootstrap/bootstrap-cerulean-grn99.min.css" type="text/css" />
 
 </head>
@@ -437,99 +436,202 @@ $(document).ready(function () {
 </div>
 
 
+<style>
+a, body { 
+color: #005500; 
+font-size: 12px; 
+}   
+
+a:visited { color: #009900; }
+
+[id^='tr'] {
+display: none;
+}
+
+mark {
+padding: 3px 3px;
+text-align: left;
+font-style: italic;
+font-size: 10px;
+background-color: #007700;
+color: white;
+margin-top: 0px;
+margin-left: 5px;
+}
+
+</style>
+<script type='text/javascript'>
+function toggle_visibility(id) {
+var e = document.getElementById(id);
+e.style.display = ((e.style.display!='block') ? 'block' : 'none');
+}
+</script>
 <p><br/><br/></p>
-<!-- =============================???.png============================ -->
-<center>
-<b>ADDITIONAL EXERCISES</b>
-</center>
-<p><br/></p>
 <p>
-The exercise sets available via the links below are either Vocabulary builders or Phrase/Sentences translations based on the lessons of this book. Please click on a link below to access the corresponding exercise set.
+<h4>
+Lesson 16 Phrase - <a href=http://www.gutenberg.org/files/8177/8177-h/8177-h.htm>The Esperanto Teacher (by Helen Fryer)</a> <br/>
+</h4>
+<a id='r0' href='#' onclick="toggle_visibility('tr0');"> Click for Instructions.</a>
+<div id="tr0">
+<p>  <mark>Click on each link to toggle the English translation. Reload page to turn off all translations.</mark></p>
+</div>
 </p>
-<table>
-<thead>
-<tr class="header">
-<th> </th>
-<th> </th>
-<th> </th>
-<th> </th>
+<table width="100%" border="5px" cellspacing="5px" cellpadding="5px">
+<tr id="r1">
+<td align="center" valign="middle">
+<a id='item1' href='#r0' onclick="toggle_visibility('tr1');">Fluanta akvo estas pli pura, ol akvo staranta senmove.</a>
+<div id="tr1">
+<mark>Flowing water is purer than water standing still.</mark>
+</div>
+</td>
+<td align="center" valign="middle">
+<a id='item2' href='#r0' onclick="toggle_visibility('tr2');">La falinta homo ne povas sin levi.</a>
+<div id="tr2">
+<mark>The fallen man cannot raise himself.</mark>
+</div>
+</td>
+<td align="center" valign="middle">
+<a id='item3' href='#r0' onclick="toggle_visibility('tr3');">La tempo pasinta jam neniam revenos; la tempon venontan neniu ankoraŭ konas.</a>
+<div id="tr3">
+<mark>(The) time past will never more return; (the) time to come no one yet knows.</mark>
+</div>
+</td>
+<td align="center" valign="middle">
+<a id='item4' href='#r0' onclick="toggle_visibility('tr4');">Venu, ni atendas vin, Savonto de la mondo.</a>
+<div id="tr4">
+<mark>Come, we await you, Saviour of the world.</mark>
+</div>
+</td>
 </tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><a href="./l1-voc-tab.html">Lesson 1 Vocabulary</a></td>
-<td><a href="./l1-phr-tab.html">Lesson 1 Phrase</a></td>
-<td><a href="./l2-voc-tab.html">Lesson 2 Vocabulary</a></td>
-<td><a href="./l2-phr-tab.html">Lesson 2 Phrase</a></td>
+<tr id="r2">
+<td align="center" valign="middle">
+<a id='item5' href='#r1' onclick="toggle_visibility('tr5');">En la lingvo Esperanto ni vidas la estontan lingvon de la tuta mondo.</a>
+<div id="tr5">
+<mark>In the language Esperanto we see the future language of the whole world.</mark>
+</div>
+</td>
+<td align="center" valign="middle">
+<a id='item6' href='#r1' onclick="toggle_visibility('tr6');">La nombro de la dancantoj estis granda.</a>
+<div id="tr6">
+<mark>The number of the dancers was great.</mark>
+</div>
+</td>
+<td align="center" valign="middle">
+<a id='item7' href='#r1' onclick="toggle_visibility('tr7');">Ĝi estas la legendo, kiun la veraj kredantoj ĉiam ripetas.</a>
+<div id="tr7">
+<mark>It is the legend which true believers always repeat.</mark>
+</div>
+</td>
+<td align="center" valign="middle">
+<a id='item8' href='#r1' onclick="toggle_visibility('tr8');">Li kondukis la vojaĝanton al la loko, kie la ŝtelintoj ripozis.</a>
+<div id="tr8">
+<mark>He led the traveller to the place where the thieves were resting.</mark>
+</div>
+</td>
 </tr>
-<tr class="even">
-<td><a href="./l3-voc-tab.html">Lesson 3 Vocabulary</a></td>
-<td><a href="./l3-phr-tab.html">Lesson 3 Phrase</a></td>
-<td><a href="./l4-voc-tab.html">Lesson 4 Vocabulary</a></td>
-<td><a href="./l4-phr-tab.html">Lesson 4 Phrase</a></td>
+<tr id="r3">
+<td align="center" valign="middle">
+<a id='item9' href='#r2' onclick="toggle_visibility('tr9');">Al homo, pekinta senintence, Dio facile pardonas.</a>
+<div id="tr9">
+<mark>(To) a man who has sinned unintentionally God easily pardons.</mark>
+</div>
+</td>
+<td align="center" valign="middle">
+<a id='item10' href='#r2' onclick="toggle_visibility('tr10');">La soldatoj kondukis la arestitojn tra la stratoj.</a>
+<div id="tr10">
+<mark>The soldiers led the prisoners (arrested) through the streets.</mark>
+</div>
+</td>
+<td align="center" valign="middle">
+<a id='item11' href='#r2' onclick="toggle_visibility('tr11');">Homo, kiun oni devas juĝi, estas juĝoto.</a>
+<div id="tr11">
+<mark>A man whom one has to judge is one to be judged (prisoner at the bar).</mark>
+</div>
+</td>
+<td align="center" valign="middle">
+<a id='item12' href='#r2' onclick="toggle_visibility('tr12');">Nun li diras al mi la veron.</a>
+<div id="tr12">
+<mark>Now he teils me the truth.</mark>
+</div>
+</td>
 </tr>
-<tr class="odd">
-<td><a href="./l5-voc-tab.html">Lesson 5 Vocabulary</a></td>
-<td><a href="./l5-phr-tab.html">Lesson 5 Phrase</a></td>
-<td><a href="./l6-voc-tab.html">Lesson 6 Vocabulary</a></td>
-<td><a href="./l6-phr-tab.html">Lesson 6 Phrase</a></td>
+<tr id="r4">
+<td align="center" valign="middle">
+<a id='item13' href='#r3' onclick="toggle_visibility('tr13');">Hieraŭ li diris al mi la veron.</a>
+<div id="tr13">
+<mark>Yesterday he told me the truth.</mark>
+</div>
+</td>
+<td align="center" valign="middle">
+<a id='item14' href='#r3' onclick="toggle_visibility('tr14');">Li ĉiam diradis al mi la veron.</a>
+<div id="tr14">
+<mark>He always told me the truth.</mark>
+</div>
+</td>
+<td align="center" valign="middle">
+<a id='item15' href='#r3' onclick="toggle_visibility('tr15');">Kiam vi vidis nin en la salono, li jam antaŭe diris al mi la veron (aŭ, li estis dirinta al mi la veron).</a>
+<div id="tr15">
+<mark>When you saw us in the drawing-room he had already (previously) told me the truth.</mark>
+</div>
+</td>
+<td align="center" valign="middle">
+<a id='item16' href='#r3' onclick="toggle_visibility('tr16');">Li diros al mi la veron.</a>
+<div id="tr16">
+<mark>He will tell me the truth.</mark>
+</div>
+</td>
 </tr>
-<tr class="even">
-<td><a href="./l7-voc-tab.html">Lesson 7 Vocabulary</a></td>
-<td><a href="./l7-phr-tab.html">Lesson 7 Phrase</a></td>
-<td><a href="./l8-voc-tab.html">Lesson 8 Vocabulary</a></td>
-<td><a href="./l8-phr-tab.html">Lesson 8 Phrase</a></td>
+<tr id="r5">
+<td align="center" valign="middle">
+<a id='item17' href='#r4' onclick="toggle_visibility('tr17');">Kiam vi venos al mi, li jam antaŭe diros al mi la veron (aŭ, li estos dirinta al mi la veron; aŭ, antaŭ ol vi venos al mi, li diros al mi la veron).</a>
+<div id="tr17">
+<mark>When you (shall) come to me, he will previously tell me the truth (or, he will have told me the truth; or, before you (will) come to me, he will tell me the truth).</mark>
+</div>
+</td>
+<td align="center" valign="middle">
+<a id='item18' href='#r4' onclick="toggle_visibility('tr18');">Se mi petus lin, li dirus al mi la veron.</a>
+<div id="tr18">
+<mark>If I were to ask him, he would tell me the truth.</mark>
+</div>
+</td>
+<td align="center" valign="middle">
+<a id='item19' href='#r4' onclick="toggle_visibility('tr19');">Mi ne farus la eraron, se li antaŭe dirus al mi la veron (aŭ, se li estus dirinta al mi la veron).</a>
+<div id="tr19">
+<mark>I should not have made the mistake if he had previously told me the truth.</mark>
+</div>
+</td>
+<td align="center" valign="middle">
+<a id='item20' href='#r4' onclick="toggle_visibility('tr20');">Kiam mi venos, diru al mi la veron.</a>
+<div id="tr20">
+<mark>When I (shall) come, tell me the truth.</mark>
+</div>
+</td>
 </tr>
-<tr class="odd">
-<td><a href="./l9-voc-tab.html">Lesson 9 Vocabulary</a></td>
-<td><a href="./l9-phr-tab.html">Lesson 9 Phrase</a></td>
-<td><a href="./l10-voc-tab.html">Lesson 10 Vocabulary</a></td>
-<td><a href="./l10-phr-tab.html">Lesson 10 Phrase</a></td>
+<tr id="r6">
+<td align="center" valign="middle">
+<a id='item21' href='#r5' onclick="toggle_visibility('tr21');">Kiam mia patro venos, diru al mi antaŭe la veron (aŭ, estu dirinta al mi la veron).</a>
+<div id="tr21">
+<mark>When my father (shall) come, tell me beforehand the truth. I wish to tell you the truth. I wish that that which I said should be true (or, I wish to have told the truth).</mark>
+</div>
+</td>
+<td align="center" valign="middle">
+<a id='item22' href='#r5' onclick="toggle_visibility('tr22');">Mi volas diri al vi la veron.</a>
+<div id="tr22">
+<mark>I wish to tell you the truth.</mark>
+</div>
+</td>
+<td align="center" valign="middle">
+<a id='item23' href='#r5' onclick="toggle_visibility('tr23');">Mi volas, ke tio, kion mi diris, estu vera (aŭ, mi volas esti dirinta la veron).</a>
+<div id="tr23">
+<mark>I wish that that which I said should be true (or, I wish to have told the truth).</mark>
+</div>
+</td>
 </tr>
-<tr class="even">
-<td><a href="./l11-voc-tab.html">Lesson 11 Vocabulary</a></td>
-<td><a href="./l11-phr-tab.html">Lesson 11 Phrase</a></td>
-<td><a href="./l12-voc-tab.html">Lesson 12 Vocabulary</a></td>
-<td><a href="./l12-phr-tab.html">Lesson 12 Phrase</a></td>
-</tr>
-<tr class="odd">
-<td><a href="./l13-voc-tab.html">Lesson 13 Vocabulary</a></td>
-<td><a href="./l13-phr-tab.html">Lesson 13 Phrase</a></td>
-<td><a href="./l14-voc-tab.html">Lesson 14 Vocabulary</a></td>
-<td><a href="./l14-phr-tab.html">Lesson 14 Phrase</a></td>
-</tr>
-<tr class="even">
-<td><a href="./l15-voc-tab.html">Lesson 15 Vocabulary</a></td>
-<td><a href="./l15-phr-tab.html">Lesson 15 Phrase</a></td>
-<td><a href="./l16-voc-tab.html">Lesson 16 Vocabulary</a></td>
-<td><a href="./l16-phr-tab.html">Lesson 16 Phrase</a></td>
-</tr>
-<tr class="odd">
-<td><a href="./l17-voc-tab.html">Lesson 17 Vocabulary</a></td>
-<td><a href="./l17-phr-tab.html">Lesson 17 Phrase</a></td>
-<td><a href="./l18-voc-tab.html">Lesson 18 Vocabulary</a></td>
-<td><a href="./l18-phr-tab.html">Lesson 18 Phrase</a></td>
-</tr>
-<tr class="even">
-<td><a href="./l19-voc-tab.html">Lesson 19 Vocabulary</a></td>
-<td><a href="./l19-phr-tab.html">Lesson 19 Phrase</a></td>
-<td><a href="./l20-voc-tab.html">Lesson 20 Vocabulary</a></td>
-<td><a href="./l20-phr-tab.html">Lesson 20 Phrase</a></td>
-</tr>
-<tr class="odd">
-<td><a href="./l21-voc-tab.html">Lesson 21 Vocabulary</a></td>
-<td><a href="./l21-phr-tab.html">Lesson 21 Phrase</a></td>
-<td><a href="./00-Esperanto-Numbers-tab.html">Numbers Vocabulary</a></td>
-<td></td>
-</tr>
-<tr class="even">
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-</tr>
-</tbody>
 </table>
+<br/>
+<p>
+<a href=addExercises.html>Return to tabular index of Additional Exerices</a>
+</p>
 
 
 

@@ -38,5 +38,8 @@ The exercise sets available via the links below are either Vocabulary builders o
   [Lesson 9 Vocabulary](./l9-voc-tab.html) | [Lesson 9 Phrase](./l9-phr-tab.html) | [Lesson 10 Vocabulary](./l10-voc-tab.html) | [Lesson 10 Phrase](./l10-phr-tab.html) 
   [Lesson 11 Vocabulary](./l11-voc-tab.html) | [Lesson 11 Phrase](./l11-phr-tab.html) | [Lesson 12 Vocabulary](./l12-voc-tab.html) | [Lesson 12 Phrase](./l12-phr-tab.html) 
   [Lesson 13 Vocabulary](./l13-voc-tab.html) | [Lesson 13 Phrase](./l13-phr-tab.html) | [Lesson 14 Vocabulary](./l14-voc-tab.html) | [Lesson 14 Phrase](./l14-phr-tab.html) 
-  [Lesson 15 Vocabulary](./l15-voc-tab.html) | [Lesson 15 Phrase](./l15-phr-tab.html) | [Numbers Vocabulary](./00-Esperanto-Numbers-tab.html) | \  
+  [Lesson 15 Vocabulary](./l15-voc-tab.html) | [Lesson 15 Phrase](./l15-phr-tab.html) | [Lesson 16 Vocabulary](./l16-voc-tab.html) | [Lesson 16 Phrase](./l16-phr-tab.html) 
+  [Lesson 17 Vocabulary](./l17-voc-tab.html) | [Lesson 17 Phrase](./l17-phr-tab.html) | [Lesson 18 Vocabulary](./l18-voc-tab.html) | [Lesson 18 Phrase](./l18-phr-tab.html) 
+  [Lesson 19 Vocabulary](./l19-voc-tab.html) | [Lesson 19 Phrase](./l19-phr-tab.html) | [Lesson 20 Vocabulary](./l20-voc-tab.html) | [Lesson 20 Phrase](./l20-phr-tab.html) 
+  [Lesson 21 Vocabulary](./l21-voc-tab.html) | [Lesson 21 Phrase](./l21-phr-tab.html) | [Numbers Vocabulary](./00-Esperanto-Numbers-tab.html) | \  
 &nbsp; | &nbsp; | &nbsp; | &nbsp;

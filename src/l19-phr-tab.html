@@ -52,7 +52,6 @@ h6 {
 }
 </style>
 
-<link rel="stylesheet" href="css/hideshow.css" type="text/css" />
 <link rel="stylesheet" href="bootstrap/bootstrap-cerulean-grn99.min.css" type="text/css" />
 
 </head>
@@ -437,99 +436,170 @@ $(document).ready(function () {
 </div>
 
 
+<style>
+a, body { 
+color: #005500; 
+font-size: 12px; 
+}   
+
+a:visited { color: #009900; }
+
+[id^='tr'] {
+display: none;
+}
+
+mark {
+padding: 3px 3px;
+text-align: left;
+font-style: italic;
+font-size: 10px;
+background-color: #007700;
+color: white;
+margin-top: 0px;
+margin-left: 5px;
+}
+
+</style>
+<script type='text/javascript'>
+function toggle_visibility(id) {
+var e = document.getElementById(id);
+e.style.display = ((e.style.display!='block') ? 'block' : 'none');
+}
+</script>
 <p><br/><br/></p>
-<!-- =============================???.png============================ -->
-<center>
-<b>ADDITIONAL EXERCISES</b>
-</center>
-<p><br/></p>
 <p>
-The exercise sets available via the links below are either Vocabulary builders or Phrase/Sentences translations based on the lessons of this book. Please click on a link below to access the corresponding exercise set.
+<h4>
+Lesson 19 Phrase - <a href=http://www.gutenberg.org/files/8177/8177-h/8177-h.htm>The Esperanto Teacher (by Helen Fryer)</a> <br/>
+</h4>
+<a id='r0' href='#' onclick="toggle_visibility('tr0');"> Click for Instructions.</a>
+<div id="tr0">
+<p>  <mark>Click on each link to toggle the English translation. Reload page to turn off all translations.</mark></p>
+</div>
 </p>
-<table>
-<thead>
-<tr class="header">
-<th> </th>
-<th> </th>
-<th> </th>
-<th> </th>
+<table width="100%" border="5px" cellspacing="5px" cellpadding="5px">
+<tr id="r1">
+<td align="center" valign="middle">
+<a id='item1' href='#r0' onclick="toggle_visibility('tr1');">Oni tiel malhelpis al mi, ke mi malbonigis mian tutan laboron.</a>
+<div id="tr1">
+<mark>They so hindered me that I spoiled the whole of my work.</mark>
+</div>
+</td>
+<td align="center" valign="middle">
+<a id='item2' href='#r0' onclick="toggle_visibility('tr2');">Forigu vian fraton, ĉar li malhelpas al ni.</a>
+<div id="tr2">
+<mark>Send away your brother, for he hinders us.</mark>
+</div>
+</td>
+<td align="center" valign="middle">
+<a id='item3' href='#r0' onclick="toggle_visibility('tr3');">Venigu la kuraciston, ĉar mi estas malsana.</a>
+<div id="tr3">
+<mark>Fetch the doctor, for I am ill.</mark>
+</div>
+</td>
+<td align="center" valign="middle">
+<a id='item4' href='#r0' onclick="toggle_visibility('tr4');">Li venigis al si el Berlino multajn librojn (multe da libroj).</a>
+<div id="tr4">
+<mark>He procured for himself many books from Berlin.</mark>
+</div>
+</td>
 </tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><a href="./l1-voc-tab.html">Lesson 1 Vocabulary</a></td>
-<td><a href="./l1-phr-tab.html">Lesson 1 Phrase</a></td>
-<td><a href="./l2-voc-tab.html">Lesson 2 Vocabulary</a></td>
-<td><a href="./l2-phr-tab.html">Lesson 2 Phrase</a></td>
+<tr id="r2">
+<td align="center" valign="middle">
+<a id='item5' href='#r1' onclick="toggle_visibility('tr5');">Li paliĝis de timo, kaj poste li ruĝiĝis de honto.</a>
+<div id="tr5">
+<mark>He grew pale with fear, and afterwards he blushed from shame.</mark>
+</div>
+</td>
+<td align="center" valign="middle">
+<a id='item6' href='#r1' onclick="toggle_visibility('tr6');">En la printempo la glacio kaj la neĝo fluidiĝas.</a>
+<div id="tr6">
+<mark>In the spring the ice and the snow melt.</mark>
+</div>
+</td>
+<td align="center" valign="middle">
+<a id='item7' href='#r1' onclick="toggle_visibility('tr7');">En la kota vetero mia vesto forte malpuriĝis; tial mi prenis broson kaj purigis la veston.</a>
+<div id="tr7">
+<mark>In the muddy weather my coat became very dirty; therefore I took a brush and cleaned the coat.</mark>
+</div>
+</td>
+<td align="center" valign="middle">
+<a id='item8' href='#r1' onclick="toggle_visibility('tr8');">Mia onklo ne mortis per natura morto, sed li tamen ne mortigis sin mem, kaj ankaŭ estis mortigita de neniu; unu tagon, [Footnote: See Lesson 26, Note iii.] promenante apud la reloj de fervojo, li falis sub la radojn de veturanta vagonaro, kaj mortiĝis.</a>
+<div id="tr8">
+<mark>My uncle did not die (by) a natural death, but nevertheless he did not kill himself, and also was killed by nobody; one day, walking near the railway lines, he fell under the wheels of a moving train, and was killed.</mark>
+</div>
+</td>
 </tr>
-<tr class="even">
-<td><a href="./l3-voc-tab.html">Lesson 3 Vocabulary</a></td>
-<td><a href="./l3-phr-tab.html">Lesson 3 Phrase</a></td>
-<td><a href="./l4-voc-tab.html">Lesson 4 Vocabulary</a></td>
-<td><a href="./l4-phr-tab.html">Lesson 4 Phrase</a></td>
+<tr id="r3">
+<td align="center" valign="middle">
+<a id='item9' href='#r2' onclick="toggle_visibility('tr9');">Mi ne pendigis mian ĉapon sur tiu ĉi arbeto; sed la vento forblovis de mia kapo la ĉapon, kaj ĝi, flugante, pendiĝis sur la branĉoj de la arbeto.</a>
+<div id="tr9">
+<mark>I did not hang my cap on this little tree; but the wind blew away the cap from my head, and it, flying, became hung (got caught) on the branches of the little tree.</mark>
+</div>
+</td>
+<td align="center" valign="middle">
+<a id='item10' href='#r2' onclick="toggle_visibility('tr10');">Sidigu vin (aŭ, sidiĝu), sinjoro!</a>
+<div id="tr10">
+<mark>Seat yourself (or, sit down), sir.</mark>
+</div>
+</td>
+<td align="center" valign="middle">
+<a id='item11' href='#r2' onclick="toggle_visibility('tr11');">Lia malgaja vizaĝo ridigis lian amikon.</a>
+<div id="tr11">
+<mark>His gloomy face made his friend laugh.</mark>
+</div>
+</td>
+<td align="center" valign="middle">
+<a id='item12' href='#r2' onclick="toggle_visibility('tr12');">La tutan nokton ili pasigis maldorme, kaj ekbruligis pli ol dekses kandelojn.</a>
+<div id="tr12">
+<mark>The whole night they passed awake, and lighted more than sixteen candles.</mark>
+</div>
+</td>
 </tr>
-<tr class="odd">
-<td><a href="./l5-voc-tab.html">Lesson 5 Vocabulary</a></td>
-<td><a href="./l5-phr-tab.html">Lesson 5 Phrase</a></td>
-<td><a href="./l6-voc-tab.html">Lesson 6 Vocabulary</a></td>
-<td><a href="./l6-phr-tab.html">Lesson 6 Phrase</a></td>
+<tr id="r4">
+<td align="center" valign="middle">
+<a id='item13' href='#r3' onclick="toggle_visibility('tr13');">Mi senvestigis la infanon de liaj noktaj vestoj, kaj starigis lin en la kuvon; poste mi sekigis lin.</a>
+<div id="tr13">
+<mark>I divested the child of his night clothes, and stood him in the tub; afterwards I dried him.</mark>
+</div>
+</td>
+<td align="center" valign="middle">
+<a id='item14' href='#r3' onclick="toggle_visibility('tr14');">Li amikiĝis kun malbonaj kolegoj.</a>
+<div id="tr14">
+<mark>He made friends with evil companions.</mark>
+</div>
+</td>
+<td align="center" valign="middle">
+<a id='item15' href='#r3' onclick="toggle_visibility('tr15');">Malriĉa hebreo volis kristaniĝi.</a>
+<div id="tr15">
+<mark>A poor Hebrew wished to become a Christian.</mark>
+</div>
+</td>
+<td align="center" valign="middle">
+<a id='item16' href='#r3' onclick="toggle_visibility('tr16');">La botelo falis kaj rompiĝis.</a>
+<div id="tr16">
+<mark>The bottle fell and broke.</mark>
+</div>
+</td>
 </tr>
-<tr class="even">
-<td><a href="./l7-voc-tab.html">Lesson 7 Vocabulary</a></td>
-<td><a href="./l7-phr-tab.html">Lesson 7 Phrase</a></td>
-<td><a href="./l8-voc-tab.html">Lesson 8 Vocabulary</a></td>
-<td><a href="./l8-phr-tab.html">Lesson 8 Phrase</a></td>
+<tr id="r5">
+<td align="center" valign="middle">
+<a id='item17' href='#r4' onclick="toggle_visibility('tr17');">Ŝi fariĝis lia edzino.</a>
+<div id="tr17">
+<mark>She became his wife.</mark>
+</div>
+</td>
+<td align="center" valign="middle">
+<a id='item18' href='#r4' onclick="toggle_visibility('tr18');">Iom post iom, ŝi tute trankviliĝis.</a>
+<div id="tr18">
+<mark>Little by little she became quite calm.</mark>
+</div>
+</td>
 </tr>
-<tr class="odd">
-<td><a href="./l9-voc-tab.html">Lesson 9 Vocabulary</a></td>
-<td><a href="./l9-phr-tab.html">Lesson 9 Phrase</a></td>
-<td><a href="./l10-voc-tab.html">Lesson 10 Vocabulary</a></td>
-<td><a href="./l10-phr-tab.html">Lesson 10 Phrase</a></td>
-</tr>
-<tr class="even">
-<td><a href="./l11-voc-tab.html">Lesson 11 Vocabulary</a></td>
-<td><a href="./l11-phr-tab.html">Lesson 11 Phrase</a></td>
-<td><a href="./l12-voc-tab.html">Lesson 12 Vocabulary</a></td>
-<td><a href="./l12-phr-tab.html">Lesson 12 Phrase</a></td>
-</tr>
-<tr class="odd">
-<td><a href="./l13-voc-tab.html">Lesson 13 Vocabulary</a></td>
-<td><a href="./l13-phr-tab.html">Lesson 13 Phrase</a></td>
-<td><a href="./l14-voc-tab.html">Lesson 14 Vocabulary</a></td>
-<td><a href="./l14-phr-tab.html">Lesson 14 Phrase</a></td>
-</tr>
-<tr class="even">
-<td><a href="./l15-voc-tab.html">Lesson 15 Vocabulary</a></td>
-<td><a href="./l15-phr-tab.html">Lesson 15 Phrase</a></td>
-<td><a href="./l16-voc-tab.html">Lesson 16 Vocabulary</a></td>
-<td><a href="./l16-phr-tab.html">Lesson 16 Phrase</a></td>
-</tr>
-<tr class="odd">
-<td><a href="./l17-voc-tab.html">Lesson 17 Vocabulary</a></td>
-<td><a href="./l17-phr-tab.html">Lesson 17 Phrase</a></td>
-<td><a href="./l18-voc-tab.html">Lesson 18 Vocabulary</a></td>
-<td><a href="./l18-phr-tab.html">Lesson 18 Phrase</a></td>
-</tr>
-<tr class="even">
-<td><a href="./l19-voc-tab.html">Lesson 19 Vocabulary</a></td>
-<td><a href="./l19-phr-tab.html">Lesson 19 Phrase</a></td>
-<td><a href="./l20-voc-tab.html">Lesson 20 Vocabulary</a></td>
-<td><a href="./l20-phr-tab.html">Lesson 20 Phrase</a></td>
-</tr>
-<tr class="odd">
-<td><a href="./l21-voc-tab.html">Lesson 21 Vocabulary</a></td>
-<td><a href="./l21-phr-tab.html">Lesson 21 Phrase</a></td>
-<td><a href="./00-Esperanto-Numbers-tab.html">Numbers Vocabulary</a></td>
-<td></td>
-</tr>
-<tr class="even">
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-</tr>
-</tbody>
 </table>
+<br/>
+<p>
+<a href=addExercises.html>Return to tabular index of Additional Exerices</a>
+</p>
 
 
 
