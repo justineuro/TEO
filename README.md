@@ -1,4 +1,4 @@
-# Lernu!
+# ![eoFlag](./src/42px-Fla.png) Lernu!
 Jes, lernu Esperanton pri Amo, Paco, kay Unueco! (_Yes, learn Esperanto for Love, Peace, and Unity!_)
 
 ## TEO (The Esperanto Teacher)
