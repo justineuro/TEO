@@ -1,5 +1,5 @@
 # ![eoFlag](./src/42px-Fla.png) Lernu!
-Jes, lernu Esperanton pri Amo, Paco, kaj Unueco! (_Yes, learn Esperanto for Love, Peace, and Unity!_)
+Jes, lernu Esperanton por Amo, Paco, kaj Unueco! (_Yes, learn Esperanto for Love, Peace, and Unity!_)
 
 ## TEO (The Esperanto Teacher)
 
